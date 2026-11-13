@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-13-mythos-keto-blutfette",
+  "date": "2026-11-13",
+  "published": "2026-08-27",
+  "category": "mythen",
+  "countries": ["US"],
+  "institution": "Washington University School of Medicine, St. Louis",
+  "maturity": "clinical",
+  "evidence": "rct",
+  "verdict": "open",
+  "source": {"name": "Cell Metabolism via ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/08/260828082327.htm"},
+  "more": [{"name": "Ältere Studie: Keto erhöht LDL bei normalgewichtigen Frauen (2021)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8001988/"}],
+  "de": {
+    "myth": "Die Keto-Diät ruiniert die Blutfette, weil man so viel Fett isst.",
+    "title": "Keto-Diät: Bei Fettleber und Prädiabetes besser als ihr Ruf, aber die Studie ist klein",
+    "summary": "In St. Louis wurden 42 Erwachsene mit Adipositas, Prädiabetes und Fettleber zufällig auf drei Diäten verteilt: ketogen (4 Prozent Kohlenhydrate, 73 Prozent Fett), mediterran oder fettarm-pflanzlich. Alle Mahlzeiten wurden gestellt, die Kalorien so eingestellt, dass jede Gruppe etwa 10 Prozent Gewicht verlor. Das Leberfett sank unter Keto um 67 Prozent, in den anderen Gruppen um 45 Prozent. Bei der Hälfte der Keto-Gruppe verschwand der Prädiabetes, gegenüber 29 und 7 Prozent. Trotz des hohen Fettanteils stiegen Cholesterin und Blutfette nicht stärker als bei den anderen Diäten.",
+    "why": "Die Angst vor Keto beruht vor allem auf Studien an schlanken Gesunden. Diese Studie zeigt, dass die Wirkung stark davon abhängt, wer die Diät macht und ob dabei Gewicht verloren wird.",
+    "caveat": "Nur 42 Personen, alle Mahlzeiten gestellt, Dauer vier bis fünf Monate. Eine ältere Studie mit normalgewichtigen Frauen fand unter Keto deutlich erhöhtes LDL-Cholesterin. Für Gesunde ohne Gewichtsverlust bleibt die Frage offen."
+  },
+  "en": {
+    "myth": "The keto diet wrecks your blood lipids because you eat so much fat.",
+    "title": "Keto diet: better than its reputation for fatty liver and prediabetes, but the trial is small",
+    "summary": "In St. Louis, 42 adults with obesity, prediabetes and fatty liver disease were randomised to one of three diets: ketogenic (4 percent carbohydrate, 73 percent fat), Mediterranean or low-fat plant-forward. All meals were provided and calories were set so each group lost about 10 percent of body weight. Liver fat fell by 67 percent on keto versus 45 percent in the other groups. Prediabetes resolved in half of the keto group, compared with 29 and 7 percent. Despite the high fat intake, cholesterol and blood lipids did not rise more than on the other diets.",
+    "why": "Fear of keto rests largely on studies of lean, healthy people. This trial shows the effect depends heavily on who follows the diet and whether weight is lost.",
+    "caveat": "Only 42 people, all food supplied, four to five months. An earlier trial in normal-weight women found markedly higher LDL cholesterol on keto. For healthy people not losing weight, the question remains open."
+  },
+  "ru": {
+    "myth": "Кето-диета портит липиды крови, потому что в ней так много жира.",
+    "title": "Кето-диета: при жировой болезни печени и преддиабете лучше своей репутации, но исследование маленькое",
+    "summary": "В Сент-Луисе 42 взрослых с ожирением, преддиабетом и жировой болезнью печени случайным образом распределили на три диеты: кетогенную (4 процента углеводов, 73 процента жира), средиземноморскую или маложирную растительную. Всю еду выдавали исследователи, а калорийность подобрали так, чтобы каждая группа сбросила около 10 процентов веса. Жир в печени на кето снизился на 67 процентов, в других группах — на 45. У половины кето-группы преддиабет исчез, против 29 и 7 процентов. Несмотря на высокую долю жира, холестерин и липиды крови выросли не больше, чем на других диетах.",
+    "why": "Страх перед кето основан в основном на исследованиях худых здоровых людей. Эта работа показывает, что эффект сильно зависит от того, кто сидит на диете и теряет ли вес.",
+    "caveat": "Всего 42 человека, вся еда выдавалась, срок четыре-пять месяцев. Более раннее исследование на женщинах с нормальным весом выявило на кето заметный рост ЛПНП-холестерина. Для здоровых людей без потери веса вопрос остаётся открытым."
+  }
+}

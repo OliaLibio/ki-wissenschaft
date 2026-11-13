@@ -1,0 +1,305 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KI in der Wissenschaft</title>
+<meta name="description" content="Montag, Mittwoch, Freitag: Was KI heute in der Forschung erreicht. Gesundheit, Tiere, Mythen-Check, Klima, Archäologie, Grenzen. Deutsch, Englisch, Russisch.">
+<link rel="alternate" type="application/rss+xml" title="KI in der Wissenschaft" href="feed.xml">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔬</text></svg>">
+<style>
+:root{
+  --bg:#f7f5f0;--surface:#ffffff;--surface-2:#f0ece4;--text:#1c1b18;--muted:#6b6760;--line:#e2ddd3;
+  --accent:#1f5f8b;--accent-soft:#e3eef7;
+  --c-gesundheit:#b8322f;--c-tiere:#2e7d4f;--c-mythen:#8a5a00;--c-klima:#1f6f8b;--c-archaeologie:#7a4b2a;--c-grenzen:#5b4b8a;
+  --radius:14px;--shadow:0 1px 2px rgba(0,0,0,.05),0 6px 20px rgba(0,0,0,.05);
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+  --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#15140f;--surface:#1f1e18;--surface-2:#282720;--text:#ebe7dd;--muted:#a39e92;--line:#363429;
+    --accent:#7fb3dc;--accent-soft:#1d2d3b;
+    --c-gesundheit:#e5736f;--c-tiere:#6fc590;--c-mythen:#e0a94a;--c-klima:#6db6d6;--c-archaeologie:#c9956e;--c-grenzen:#a99ad8;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 6px 20px rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#15140f;--surface:#1f1e18;--surface-2:#282720;--text:#ebe7dd;--muted:#a39e92;--line:#363429;
+  --accent:#7fb3dc;--accent-soft:#1d2d3b;
+  --c-gesundheit:#e5736f;--c-tiere:#6fc590;--c-mythen:#e0a94a;--c-klima:#6db6d6;--c-archaeologie:#c9956e;--c-grenzen:#a99ad8;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 6px 20px rgba(0,0,0,.3);
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.55;font-size:16px}
+a{color:var(--accent)}
+.wrap{max-width:1040px;margin:0 auto;padding:0 16px}
+header.top{border-bottom:1px solid var(--line);background:var(--surface);position:sticky;top:0;z-index:10}
+.topbar{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 0}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--text)}
+.brand .logo{width:34px;height:34px;border-radius:9px;background:var(--accent);color:#fff;display:grid;place-items:center;font-weight:700;font-family:var(--serif);font-size:17px}
+.brand b{font-family:var(--serif);font-size:19px;font-weight:600;letter-spacing:.01em}
+.langs{display:flex;gap:4px;background:var(--surface-2);padding:3px;border-radius:999px}
+.langs button{border:0;background:transparent;color:var(--muted);font:inherit;font-weight:600;padding:5px 11px;border-radius:999px;cursor:pointer;font-size:13px}
+.langs button[aria-pressed="true"]{background:var(--surface);color:var(--text);box-shadow:0 1px 2px rgba(0,0,0,.12)}
+.hero{padding:34px 0 14px}
+.hero h1{font-family:var(--serif);font-weight:600;font-size:clamp(28px,4.5vw,42px);line-height:1.12;margin:0 0 10px;letter-spacing:-.01em}
+.hero p{margin:0;color:var(--muted);max-width:66ch;font-size:17px}
+.schedule{margin-top:14px;display:inline-flex;align-items:center;gap:8px;font-size:13.5px;color:var(--muted);background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:6px 12px}
+.schedule .dot{width:8px;height:8px;border-radius:50%;background:#2e9d5f}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:14px 0 6px;position:sticky;top:59px;background:var(--bg);z-index:5}
+.chips{display:flex;flex-wrap:wrap;gap:6px;flex:1}
+.chip{border:1px solid var(--line);background:var(--surface);color:var(--text);font:inherit;font-size:13.5px;padding:6px 12px;border-radius:999px;cursor:pointer;display:inline-flex;align-items:center;gap:7px}
+.chip .sw{width:9px;height:9px;border-radius:50%;background:var(--chip,var(--muted))}
+.chip[aria-pressed="true"]{background:var(--text);color:var(--bg);border-color:var(--text)}
+.chip[aria-pressed="true"] .sw{outline:2px solid var(--bg)}
+.chip .n{color:inherit;opacity:.6;font-size:12px}
+.search{display:flex;gap:6px;align-items:center}
+.search input{font:inherit;font-size:14px;padding:7px 12px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--text);min-width:200px}
+.search select{font:inherit;font-size:13.5px;padding:7px 10px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--text)}
+main{padding:10px 0 40px}
+.daygroup{margin:26px 0 8px;display:flex;align-items:center;gap:12px}
+.daygroup h2{font-family:var(--serif);font-weight:600;font-size:17px;margin:0;color:var(--muted)}
+.daygroup:after{content:"";flex:1;height:1px;background:var(--line)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+article.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px 18px 14px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:9px;position:relative;cursor:pointer;transition:transform .12s}
+article.card:hover{transform:translateY(-2px)}
+article.card:before{content:"";position:absolute;left:0;top:14px;bottom:14px;width:4px;border-radius:0 4px 4px 0;background:var(--cat)}
+.meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12px;color:var(--muted)}
+.badge{display:inline-flex;align-items:center;gap:5px;padding:2px 9px;border-radius:999px;font-weight:600;font-size:11.5px;letter-spacing:.02em;background:var(--surface-2);color:var(--text)}
+.badge.cat{background:color-mix(in srgb,var(--cat) 14%,transparent);color:var(--cat)}
+.badge.v-busted{background:#fde8e7;color:#a12c28}.badge.v-partly{background:#fff1d6;color:#8a5a00}.badge.v-confirmed{background:#e2f4e8;color:#1f6b3d}.badge.v-open{background:var(--surface-2);color:var(--muted)}
+:root[data-theme="dark"] .badge.v-busted,:root:not([data-theme="light"]) .badge.v-busted{background:#3b1f1e;color:#f0908c}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .badge.v-partly{background:#3a2c10;color:#f0c268}:root:not([data-theme="light"]) .badge.v-confirmed{background:#173224;color:#86d8a4}}
+:root[data-theme="dark"] .badge.v-partly{background:#3a2c10;color:#f0c268}:root[data-theme="dark"] .badge.v-confirmed{background:#173224;color:#86d8a4}
+:root[data-theme="light"] .badge.v-busted{background:#fde8e7;color:#a12c28}
+h3.title{font-family:var(--serif);font-size:19.5px;line-height:1.28;margin:0;font-weight:600;letter-spacing:-.005em}
+.myth{font-size:14px;background:var(--surface-2);border-left:3px solid var(--c-mythen);padding:8px 11px;border-radius:0 8px 8px 0;color:var(--text)}
+.myth b{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-bottom:2px}
+.summary{margin:0;font-size:15px}
+.card .summary{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.card.open .summary{display:block}
+article.card.open{grid-column:1/-1;max-width:760px;padding:22px 26px 16px}
+article.card.open h3.title{font-size:24px}
+.block{display:none;font-size:14.5px}
+.card.open .block{display:block}
+.block b{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-bottom:2px}
+.foot{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:8px;font-size:13px;color:var(--muted);margin-top:auto;padding-top:6px;border-top:1px dashed var(--line)}
+.foot a{font-weight:600;text-decoration:none}
+.foot a:hover{text-decoration:underline}
+.more{display:none;font-size:13px}
+.card.open .more{display:block}
+.toggle{background:none;border:0;color:var(--accent);font:inherit;font-size:13px;cursor:pointer;padding:0;font-weight:600}
+.flags{letter-spacing:.05em}
+.empty{padding:60px 0;text-align:center;color:var(--muted)}
+footer{border-top:1px solid var(--line);padding:26px 0 40px;color:var(--muted);font-size:13.5px}
+footer .cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}
+footer h4{margin:0 0 6px;color:var(--text);font-size:13px;text-transform:uppercase;letter-spacing:.08em}
+footer ul{margin:0;padding-left:18px}
+.legend{display:flex;flex-wrap:wrap;gap:6px}
+@media (max-width:640px){
+  .controls{position:static}
+  .search input{min-width:0;width:100%}
+  .search{width:100%}
+  .hero{padding-top:22px}
+  article.card{padding:16px 14px 12px}
+}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap topbar">
+  <a class="brand" href="#"><span class="logo">KI</span><b data-i18n="brand">KI in der Wissenschaft</b></a>
+  <div class="langs" role="group" aria-label="Sprache">
+    <button data-lang="de" aria-pressed="true">DE</button>
+    <button data-lang="en" aria-pressed="false">EN</button>
+    <button data-lang="ru" aria-pressed="false">RU</button>
+  </div>
+</div></header>
+
+<div class="wrap">
+  <section class="hero">
+    <h1 data-i18n="headline">Was Künstliche Intelligenz heute in der Forschung erreicht</h1>
+    <p data-i18n="tagline">Kurz, belegt und mit Vorbehalt: ausgewählte Ergebnisse aus Fachjournalen und Forschungsinstituten weltweit, zusammengefasst in drei Sprachen.</p>
+    <div class="schedule"><span class="dot"></span><span id="schedule"></span></div>
+  </section>
+
+  <div class="controls">
+    <div class="chips" id="chips"></div>
+    <div class="search">
+      <input id="q" type="search" placeholder="Suchen…" aria-label="Suchen">
+      <select id="month" aria-label="Archiv"></select>
+    </div>
+  </div>
+
+  <main id="main"></main>
+</div>
+
+<footer><div class="wrap">
+  <div class="cols">
+    <div><h4 data-i18n="about_h">Über diese Seite</h4><p data-i18n="about_p"></p></div>
+    <div><h4 data-i18n="legend_h">Reifegrad</h4><div class="legend" id="legend"></div></div>
+    <div><h4 data-i18n="links_h">Links</h4><ul>
+      <li><a href="feed.xml">RSS</a></li>
+      <li><a id="ghlink" href="https://github.com/OliaLibio/ki-wissenschaft">GitHub</a></li>
+    </ul></div>
+  </div>
+</div></footer>
+
+<script>
+const I18N = {
+  de: {
+    brand:"KI in der Wissenschaft",
+    headline:"Was Künstliche Intelligenz heute in der Forschung erreicht",
+    tagline:"Kurz, belegt und mit Vorbehalt: ausgewählte Ergebnisse aus Fachjournalen und Forschungsinstituten weltweit, zusammengefasst in drei Sprachen.",
+    schedule:"Neue Beiträge montags, mittwochs und freitags · nächste Aktualisierung: {d}",
+    all:"Alle", search:"Suchen…", archive:"Alle Monate", empty:"Keine Beiträge gefunden.",
+    why:"Warum das wichtig ist", caveat:"Vorbehalt", myth:"Behauptung", source:"Quelle", more:"Weitere Quellen", published:"veröffentlicht",
+    readmore:"Mehr lesen", readless:"Weniger",
+    about_h:"Über diese Seite",
+    about_p:"Jeden Montag, Mittwoch und Freitag kommen neue Beiträge dazu. Jeder Beitrag nennt die Originalquelle, die beteiligten Institutionen, den Reifegrad des Ergebnisses und einen ehrlichen Vorbehalt. Recherchiert wird weltweit, vor allem in den USA, China, Großbritannien, Deutschland, der Schweiz, Japan, Südkorea und Israel.",
+    legend_h:"Reifegrad", links_h:"Links",
+    cats:{gesundheit:"Gesundheit",tiere:"Tiere",mythen:"Mythen-Check",klima:"Klima & Umwelt",archaeologie:"Archäologie & Geschichte",grenzen:"Grenzen & Fehlschläge"},
+    maturity:{lab:"Labor",study:"Studie",clinical:"Klinische Studie",deployed:"Im Einsatz",preprint:"Vorabdruck",review:"Übersicht"},
+    evidence:{meta:"Metaanalyse / Übersicht",rct:"Randomisierte Studie",cohort:"Beobachtungsstudie",single:"Einzelstudie",animal:"Tierversuch",review:"Übersicht",preprint:"Vorabdruck"},
+    verdict:{busted:"Widerlegt",partly:"Teils wahr",confirmed:"Bestätigt",open:"Offen"},
+    countries:{US:"USA",GB:"Großbritannien",DE:"Deutschland",CH:"Schweiz",SE:"Schweden",CN:"China",HK:"Hongkong",JP:"Japan",KR:"Südkorea",IL:"Israel",FR:"Frankreich",IT:"Italien",ES:"Spanien",CA:"Kanada",AU:"Australien",FI:"Finnland",DM:"Dominica",NL:"Niederlande",AT:"Österreich",DK:"Dänemark",NO:"Norwegen",IN:"Indien",BR:"Brasilien",SG:"Singapur",INT:"international"},
+    months:["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],
+    monthsNom:["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],
+    days:["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"],
+    dateFmt:(d,m,y)=>`${d}. ${m} ${y}`
+  },
+  en: {
+    brand:"AI in Science",
+    headline:"What artificial intelligence is achieving in research today",
+    tagline:"Short, sourced and with caveats: selected results from journals and research institutes worldwide, summarised in three languages.",
+    schedule:"New posts on Mondays, Wednesdays and Fridays · next update: {d}",
+    all:"All", search:"Search…", archive:"All months", empty:"No posts found.",
+    why:"Why it matters", caveat:"Caveat", myth:"The claim", source:"Source", more:"Further sources", published:"published",
+    readmore:"Read more", readless:"Less",
+    about_h:"About this site",
+    about_p:"New posts are added every Monday, Wednesday and Friday. Each post names the original source, the institutions involved, how mature the result is, and an honest caveat. Research is sourced worldwide, chiefly from the US, China, the UK, Germany, Switzerland, Japan, South Korea and Israel.",
+    legend_h:"Maturity", links_h:"Links",
+    cats:{gesundheit:"Health",tiere:"Animals",mythen:"Myth Check",klima:"Climate & Environment",archaeologie:"Archaeology & History",grenzen:"Limits & Failures"},
+    maturity:{lab:"Lab",study:"Study",clinical:"Clinical trial",deployed:"In use",preprint:"Preprint",review:"Review"},
+    evidence:{meta:"Meta-analysis / review",rct:"Randomised trial",cohort:"Observational study",single:"Single study",animal:"Animal study",review:"Review",preprint:"Preprint"},
+    verdict:{busted:"Busted",partly:"Partly true",confirmed:"Confirmed",open:"Unclear"},
+    countries:{US:"USA",GB:"United Kingdom",DE:"Germany",CH:"Switzerland",SE:"Sweden",CN:"China",HK:"Hong Kong",JP:"Japan",KR:"South Korea",IL:"Israel",FR:"France",IT:"Italy",ES:"Spain",CA:"Canada",AU:"Australia",FI:"Finland",DM:"Dominica",NL:"Netherlands",AT:"Austria",DK:"Denmark",NO:"Norway",IN:"India",BR:"Brazil",SG:"Singapore",INT:"international"},
+    months:["January","February","March","April","May","June","July","August","September","October","November","December"],
+    monthsNom:["January","February","March","April","May","June","July","August","September","October","November","December"],
+    days:["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],
+    dateFmt:(d,m,y)=>`${d} ${m} ${y}`
+  },
+  ru: {
+    brand:"ИИ в науке",
+    headline:"Чего искусственный интеллект достигает в науке сегодня",
+    tagline:"Коротко, с источниками и оговорками: избранные результаты из научных журналов и институтов всего мира на трёх языках.",
+    schedule:"Новые материалы по понедельникам, средам и пятницам · следующее обновление: {d}",
+    all:"Все", search:"Поиск…", archive:"Все месяцы", empty:"Ничего не найдено.",
+    why:"Почему это важно", caveat:"Оговорка", myth:"Утверждение", source:"Источник", more:"Другие источники", published:"опубликовано",
+    readmore:"Читать дальше", readless:"Свернуть",
+    about_h:"О сайте",
+    about_p:"Новые материалы появляются каждый понедельник, среду и пятницу. Каждый материал указывает первоисточник, участвующие институты, степень зрелости результата и честную оговорку. Поиск ведётся по всему миру, прежде всего в США, Китае, Великобритании, Германии, Швейцарии, Японии, Южной Корее и Израиле.",
+    legend_h:"Степень зрелости", links_h:"Ссылки",
+    cats:{gesundheit:"Здоровье",tiere:"Животные",mythen:"Проверка мифов",klima:"Климат и экология",archaeologie:"Археология и история",grenzen:"Границы и неудачи"},
+    maturity:{lab:"Лаборатория",study:"Исследование",clinical:"Клинические испытания",deployed:"В применении",preprint:"Препринт",review:"Обзор"},
+    evidence:{meta:"Метаанализ / обзор",rct:"Рандомизированное исследование",cohort:"Наблюдательное исследование",single:"Отдельное исследование",animal:"Опыты на животных",review:"Обзор",preprint:"Препринт"},
+    verdict:{busted:"Опровергнуто",partly:"Отчасти верно",confirmed:"Подтверждено",open:"Неясно"},
+    countries:{US:"США",GB:"Великобритания",DE:"Германия",CH:"Швейцария",SE:"Швеция",CN:"Китай",HK:"Гонконг",JP:"Япония",KR:"Южная Корея",IL:"Израиль",FR:"Франция",IT:"Италия",ES:"Испания",CA:"Канада",AU:"Австралия",FI:"Финляндия",DM:"Доминика",NL:"Нидерланды",AT:"Австрия",DK:"Дания",NO:"Норвегия",IN:"Индия",BR:"Бразилия",SG:"Сингапур",INT:"международное"},
+    months:["января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря"],
+    monthsNom:["Январь","Февраль","Март","Апрель","Май","Июнь","Июль","Август","Сентябрь","Октябрь","Ноябрь","Декабрь"],
+    days:["воскресенье","понедельник","вторник","среда","четверг","пятница","суббота"],
+    dateFmt:(d,m,y)=>`${d} ${m} ${y}`
+  }
+};
+const CATS = ["gesundheit","tiere","mythen","klima","archaeologie","grenzen"];
+const state = { lang:"de", cat:"all", q:"", month:"all", open:new Set(), posts:[] };
+
+function flag(cc){ if(cc==="INT") return "🌍"; return String.fromCodePoint(...[...cc.toUpperCase()].map(c=>0x1F1E6+c.charCodeAt(0)-65)); }
+function t(){ return I18N[state.lang]; }
+function fmtDate(iso){ const [y,m,d]=iso.split("-").map(Number); const T=t(); return T.dateFmt(d, T.months[m-1], y); }
+function monthLabel(ym){ const [y,m]=ym.split("-").map(Number); return `${t().monthsNom[m-1]} ${y}`; }
+function nextUpdate(){ const d=new Date(); d.setHours(0,0,0,0); for(let i=1;i<=7;i++){ const n=new Date(d); n.setDate(d.getDate()+i); if([1,3,5].includes(n.getDay())){ const T=t(); return `${T.days[n.getDay()]}, ${T.dateFmt(n.getDate(),T.months[n.getMonth()],n.getFullYear())}`; } } }
+function esc(s){ return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+
+function applyLang(){
+  const T=t();
+  document.documentElement.lang=state.lang;
+  document.title=T.brand;
+  document.querySelectorAll("[data-i18n]").forEach(el=>{ const v=T[el.dataset.i18n]; if(v) el.textContent=v; });
+  document.querySelectorAll(".langs button").forEach(b=>b.setAttribute("aria-pressed", b.dataset.lang===state.lang?"true":"false"));
+  document.getElementById("schedule").textContent=T.schedule.replace("{d}", nextUpdate());
+  document.getElementById("q").placeholder=T.search;
+  document.getElementById("legend").innerHTML=Object.entries(T.maturity).map(([k,v])=>`<span class="badge">${v}</span>`).join("");
+  renderChips(); renderMonths(); render();
+}
+function renderChips(){
+  const T=t(); const counts={all:state.posts.length}; CATS.forEach(c=>counts[c]=state.posts.filter(p=>p.category===c).length);
+  const el=document.getElementById("chips");
+  el.innerHTML=[["all",T.all],...CATS.map(c=>[c,T.cats[c]])].map(([k,v])=>`<button class="chip" data-cat="${k}" aria-pressed="${state.cat===k}" style="--chip:var(--c-${k})"><span class="sw"></span>${v} <span class="n">${counts[k]||0}</span></button>`).join("");
+  el.querySelectorAll(".chip").forEach(b=>b.onclick=()=>{ state.cat=b.dataset.cat; location.hash=state.cat==="all"?"":"#kat/"+state.cat; renderChips(); render(); });
+}
+function renderMonths(){
+  const T=t(); const months=[...new Set(state.posts.map(p=>p.date.slice(0,7)))].sort().reverse();
+  const sel=document.getElementById("month");
+  sel.innerHTML=`<option value="all">${T.archive}</option>`+months.map(m=>`<option value="${m}" ${state.month===m?"selected":""}>${monthLabel(m)}</option>`).join("");
+}
+function matches(p){
+  if(state.cat!=="all" && p.category!==state.cat) return false;
+  if(state.month!=="all" && !p.date.startsWith(state.month)) return false;
+  if(state.q){ const L=p[state.lang]; const hay=[L.title,L.summary,L.why,L.caveat,L.myth||"",p.institution,p.source.name].join(" ").toLowerCase(); if(!hay.includes(state.q.toLowerCase())) return false; }
+  return true;
+}
+function card(p){
+  const T=t(), L=p[state.lang], open=state.open.has(p.id);
+  const mat=T.maturity[p.maturity]||p.maturity;
+  const countries=p.countries.map(c=>`<span title="${esc(T.countries[c]||c)}">${flag(c)}</span>`).join(" ");
+  const cname=p.countries.map(c=>T.countries[c]||c).join(", ");
+  let badges=`<span class="badge cat">${T.cats[p.category]}</span><span class="badge">${mat}</span>`;
+  if(p.category==="mythen"){ badges+=`<span class="badge v-${p.verdict}">${T.verdict[p.verdict]}</span><span class="badge">${T.evidence[p.evidence]||p.evidence}</span>`; }
+  const myth=p.category==="mythen"&&L.myth?`<div class="myth"><b>${T.myth}</b>„${esc(L.myth)}“</div>`:"";
+  const more=(p.more&&p.more.length)?`<div class="more"><b>${T.more}:</b> ${p.more.map(m=>`<a href="${m.url}" target="_blank" rel="noopener">${esc(m.name)}</a>`).join(" · ")}</div>`:"";
+  return `<article class="card ${open?"open":""}" data-id="${p.id}" style="--cat:var(--c-${p.category})">
+    <div class="meta">${badges}</div>
+    <h3 class="title">${esc(L.title)}</h3>
+    ${myth}
+    <p class="summary">${esc(L.summary)}</p>
+    <div class="block"><b>${T.why}</b>${esc(L.why)}</div>
+    <div class="block"><b>${T.caveat}</b>${esc(L.caveat)}</div>
+    ${more}
+    <div class="meta"><span class="flags" title="${esc(cname)}">${countries}</span><span>${esc(p.institution)}</span></div>
+    <div class="foot">
+      <span>${T.source}: <a href="${p.source.url}" target="_blank" rel="noopener">${esc(p.source.name)}</a> · ${T.published} ${fmtDate(p.published)}</span>
+      <button class="toggle" data-toggle="${p.id}">${open?T.readless:T.readmore} ${open?"▴":"▾"}</button>
+    </div>
+  </article>`;
+}
+function render(){
+  const T=t(); const list=state.posts.filter(matches);
+  const main=document.getElementById("main");
+  if(!list.length){ main.innerHTML=`<div class="empty">${T.empty}</div>`; return; }
+  const groups=new Map(); list.forEach(p=>{ if(!groups.has(p.date)) groups.set(p.date,[]); groups.get(p.date).push(p); });
+  main.innerHTML=[...groups.entries()].map(([d,ps])=>`<div class="daygroup"><h2>${fmtDate(d)}</h2></div><div class="grid">${ps.map(card).join("")}</div>`).join("");
+  main.querySelectorAll("article.card").forEach(a=>{
+    a.addEventListener("click",e=>{ if(e.target.closest("a")) return; const id=a.dataset.id; state.open.has(id)?state.open.delete(id):state.open.add(id); render(); });
+  });
+}
+function readHash(){
+  const h=location.hash; const mCat=h.match(/^#kat\/(\w+)/); const mPost=h.match(/^#post\/([\w-]+)/);
+  if(mCat && (CATS.includes(mCat[1]))) state.cat=mCat[1];
+  if(mPost){ state.open.add(mPost[1]); state.cat="all"; setTimeout(()=>{ const el=document.querySelector(`[data-id="${mPost[1]}"]`); if(el) el.scrollIntoView({behavior:"smooth",block:"start"}); },50); }
+}
+(function init(){
+  try{ const saved=localStorage.getItem("lang"); if(saved&&I18N[saved]) state.lang=saved; }catch(e){}
+  const qp=new URLSearchParams(location.search).get("lang"); if(qp&&I18N[qp]) state.lang=qp;
+  if(!qp && !(()=>{try{return localStorage.getItem("lang")}catch(e){return null}})()){ const nav=(navigator.language||"de").slice(0,2); if(I18N[nav]) state.lang=nav; }
+  document.querySelectorAll(".langs button").forEach(b=>b.onclick=()=>{ state.lang=b.dataset.lang; try{localStorage.setItem("lang",state.lang)}catch(e){} applyLang(); });
+  document.getElementById("q").addEventListener("input",e=>{ state.q=e.target.value.trim(); render(); });
+  document.getElementById("month").addEventListener("change",e=>{ state.month=e.target.value; render(); });
+  window.addEventListener("hashchange",()=>{ readHash(); renderChips(); render(); });
+  fetch("data/posts.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{ state.posts=d.posts; readHash(); applyLang(); })
+    .catch(()=>{ document.getElementById("main").innerHTML='<div class="empty">Daten konnten nicht geladen werden.</div>'; });
+})();
+</script>
+</body>
+</html>

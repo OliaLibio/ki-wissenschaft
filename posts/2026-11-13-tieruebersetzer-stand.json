@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-13-tieruebersetzer-stand",
+  "date": "2026-11-13",
+  "published": "2026-11-09",
+  "category": "tiere",
+  "countries": ["US", "CA", "INT"],
+  "institution": "Earth Species Project, McGill University, Google DeepMind, Project CETI",
+  "maturity": "review",
+  "source": {"name": "Euronews", "url": "https://www.euronews.com/2026/11/09/could-artificial-intelligence-help-us-talk-with-animals-one-day"},
+  "more": [{"name": "Earth Species Project", "url": "https://earthspecies.org/"}],
+  "de": {
+    "title": "Einordnung: Wie nah ist der Tierübersetzer wirklich?",
+    "summary": "Ein Überblick vom November 2026 fasst den Stand zusammen. NatureLM-audio erkannte in australischen FrogID-Aufnahmen Froschlaute mit 99 Prozent und bestimmte ausgewählte Arten mit 82 Prozent Genauigkeit. An der McGill University erzeugt das System ZF-AIM in Echtzeit künstliche Vogellaute, um zu testen, wie Zebrafinken darauf reagieren. Google DeepMinds DolphinGemma ist mit jahrzehntelangen Aufnahmen wilder Fleckendelfine trainiert und sagt voraus, welcher Laut als nächstes folgt. Project CETI hat über 8.700 Pottwal-Codas nach Rhythmus und Tempo analysiert. Alle Fachleute sind sich einig: Muster erkennen ist nicht dasselbe wie Bedeutung verstehen.",
+    "why": "Die Schlagzeilen versprechen oft Gespräche mit Tieren. Der tatsächliche Stand: KI sortiert und beschreibt Laute sehr gut, aber kein System kann heute sagen, was ein Tier meint.",
+    "caveat": "Fachleute warnen vor Vermenschlichung und vor Missbrauch: Wer Lock- oder Notrufe nachahmen kann, kann Tiere auch stören oder fangen. Künstliche Laute in Wildpopulationen zu senden, birgt ökologische Risiken."
+  },
+  "en": {
+    "title": "Reality check: how close is the animal translator, really?",
+    "summary": "A November 2026 overview sums up the state of play. NatureLM-audio picked out frog calls in Australian FrogID recordings with 99 percent accuracy and identified selected species with 82 percent. At McGill University, the ZF-AIM system generates artificial bird-like sounds in real time to test how zebra finches respond. Google DeepMind's DolphinGemma, trained on decades of wild spotted dolphin recordings, predicts which sound comes next. Project CETI has analysed more than 8,700 sperm whale codas for rhythm and tempo. Every expert quoted agrees: finding patterns is not the same as understanding meaning.",
+    "why": "Headlines often promise conversations with animals. The actual state: AI sorts and describes sounds very well, but no system today can say what an animal means.",
+    "caveat": "Experts warn of anthropomorphism and misuse: anyone who can mimic mating or distress calls can also disturb or capture animals. Broadcasting artificial calls into wild populations carries ecological risks."
+  },
+  "ru": {
+    "title": "Трезвый взгляд: насколько близок переводчик с языка животных?",
+    "summary": "Обзор от ноября 2026 года подводит итог. NatureLM-audio распознала лягушачьи звуки в австралийских записях FrogID с точностью 99 процентов и определила отдельные виды с точностью 82 процента. В Университете Макгилла система ZF-AIM в реальном времени генерирует искусственные птичьи звуки, чтобы проверить реакцию зебровых амадин. DolphinGemma от Google DeepMind, обученная на многолетних записях диких пятнистых дельфинов, предсказывает, какой звук последует дальше. Project CETI проанализировал более 8 700 код кашалотов по ритму и темпу. Все эксперты сходятся: найти закономерность — не то же самое, что понять смысл.",
+    "why": "Заголовки часто обещают разговоры с животными. Реальное положение: ИИ отлично сортирует и описывает звуки, но ни одна система сегодня не может сказать, что животное имеет в виду.",
+    "caveat": "Эксперты предупреждают об антропоморфизме и злоупотреблениях: тот, кто умеет имитировать брачные или тревожные сигналы, может беспокоить или ловить животных. Трансляция искусственных звуков в дикие популяции несёт экологические риски."
+  }
+}

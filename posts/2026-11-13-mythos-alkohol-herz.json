@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-13-mythos-alkohol-herz",
+  "date": "2026-11-13",
+  "published": "2026-07-01",
+  "category": "mythen",
+  "countries": ["ES", "INT"],
+  "institution": "UNATI-Studiengruppe, European Journal of Epidemiology",
+  "maturity": "review",
+  "evidence": "meta",
+  "verdict": "busted",
+  "source": {"name": "European Journal of Epidemiology", "url": "https://link.springer.com/article/10.1007/s10654-025-01330-w"},
+  "more": [{"name": "Übersicht der Mendel-Randomisierungs-Studien", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11578756/"}, {"name": "Nutrients 2026: Die unvollendete Debatte", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12899845/"}],
+  "de": {
+    "myth": "Ein Glas Wein am Tag schützt das Herz.",
+    "title": "Mythos Rotwein: Genetische Daten finden keinen Herzschutz, der entscheidende Versuch fehlt noch",
+    "summary": "Jahrzehntelang zeigten Beobachtungsstudien eine J-Kurve: Moderate Trinker lebten länger als Abstinente. Studien mit Mendel-Randomisierung, die genetische Varianten des Alkoholabbaus als natürlichen Zufallsversuch nutzen, finden diesen Schutz nicht und sehen Risiken schon bei geringen Mengen. Ein Aufsatz vom Juli 2026 stellt deshalb die UNATI-Studie vor: die erste große randomisierte Studie, die Abstinenz direkt mit moderatem Trinken vergleicht und harte Endpunkte wie Herzinfarkt und Tod misst. Die US-Ernährungsrichtlinien 2026 bis 2030 raten inzwischen nur noch, weniger zu trinken, ohne eine sichere Menge zu nennen.",
+    "why": "Die J-Kurve gilt heute weitgehend als Artefakt: Viele Abstinente hatten aus gesundheitlichen Gründen aufgehört zu trinken, was die Vergleichsgruppe kränker machte. Der Mythos lebt trotzdem weiter.",
+    "caveat": "Kritiker wenden ein, dass die genetische Methode kleine Mengen schlecht erfasst. Bis UNATI Ergebnisse liefert, bleibt ein Rest Unsicherheit."
+  },
+  "en": {
+    "myth": "A glass of wine a day protects the heart.",
+    "title": "The red wine myth: genetic data find no heart protection, and the decisive trial is still missing",
+    "summary": "For decades, observational studies showed a J-curve: moderate drinkers lived longer than abstainers. Mendelian randomisation studies, which use genetic variants of alcohol metabolism as a natural randomised experiment, find no such protection and see risk even at low intake. A July 2026 paper therefore introduces the UNATI trial, the first large randomised study to compare abstinence directly with moderate drinking on hard endpoints such as heart attack and death. The 2026 to 2030 US Dietary Guidelines now simply advise drinking less, without naming a safe amount.",
+    "why": "The J-curve is now widely seen as an artefact: many abstainers had stopped drinking for health reasons, which made the comparison group sicker. The myth persists anyway.",
+    "caveat": "Critics argue the genetic method is poor at capturing small amounts. Until UNATI reports, some uncertainty remains."
+  },
+  "ru": {
+    "myth": "Бокал вина в день защищает сердце.",
+    "title": "Миф о красном вине: генетические данные не находят защиты сердца, а решающего испытания ещё нет",
+    "summary": "Десятилетиями наблюдательные исследования показывали J-образную кривую: умеренно пьющие жили дольше трезвенников. Исследования методом менделевской рандомизации, где генетические варианты метаболизма алкоголя служат естественным случайным экспериментом, такой защиты не находят и видят риск даже при малых дозах. Поэтому статья от июля 2026 года представляет исследование UNATI — первое крупное рандомизированное испытание, напрямую сравнивающее трезвость с умеренным употреблением по жёстким исходам, таким как инфаркт и смерть. Диетические рекомендации США на 2026–2030 годы теперь просто советуют пить меньше, не называя безопасной дозы.",
+    "why": "J-кривая сегодня в основном считается артефактом: многие трезвенники бросили пить по состоянию здоровья, что сделало группу сравнения более больной. Миф всё равно живёт.",
+    "caveat": "Критики возражают, что генетический метод плохо улавливает малые дозы. Пока UNATI не даст результатов, остаётся доля неопределённости."
+  }
+}

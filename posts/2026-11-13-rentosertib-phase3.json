@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-13-rentosertib-phase3",
+  "date": "2026-11-13",
+  "published": "2026-07-07",
+  "category": "gesundheit",
+  "countries": ["CN", "US"],
+  "institution": "Insilico Medicine",
+  "maturity": "clinical",
+  "source": {"name": "Clinical Research News", "url": "https://www.clinicalresearchnewsonline.com/news/2026/07/08/insilico-medicine-launches-phase-iii-trial-for-ai-developed-drug"},
+  "more": [{"name": "ClinicalTrials.gov NCT07687459", "url": "https://clinicaltrials.gov/study/NCT07687459"}],
+  "de": {
+    "title": "Erstes vollständig KI-entwickeltes Medikament erreicht die letzte Prüfphase",
+    "summary": "Rentosertib gegen idiopathische Lungenfibrose ist das erste Medikament, bei dem sowohl das Zielmolekül als auch der Wirkstoff von KI vorgeschlagen wurden. Insilico Medicine hat im Juli 2026 eine Phase-III-Studie angekündigt: 320 Patienten an 47 Zentren in China, 52 Wochen, placebokontrolliert. Im Register ist der Start für September 2026 vermerkt. In der vorangegangenen Phase IIa mit 71 Patienten verbesserte sich die Lungenkapazität unter 60 mg täglich um 98 Milliliter in zwölf Wochen, während sie unter Placebo um 20 Milliliter abnahm.",
+    "why": "Bisher ist kein KI-entdecktes Medikament von einer großen Behörde zugelassen. Diese Studie ist der erste echte Test, ob der KI-Weg bis zur Zulassung trägt.",
+    "caveat": "Die Phase IIa war klein, und in der höchsten Dosis brachen mehrere Patienten wegen Leberwerten ab. Ergebnisse der Phase III werden erst gegen 2029 erwartet."
+  },
+  "en": {
+    "title": "First fully AI-designed drug enters final-stage trial",
+    "summary": "Rentosertib, for idiopathic pulmonary fibrosis, is the first drug whose target and molecule were both proposed by AI. In July 2026 Insilico Medicine announced a Phase III trial: 320 patients at 47 sites in China over 52 weeks, placebo-controlled. The registry lists a September 2026 start. In the earlier Phase IIa study of 71 patients, lung capacity improved by 98 millilitres over twelve weeks at 60 mg daily, while the placebo group declined by 20 millilitres.",
+    "why": "No AI-discovered drug has yet been approved by a major regulator. This trial is the first real test of whether the AI route carries through to approval.",
+    "caveat": "Phase IIa was small, and several patients at the top dose stopped because of liver values. Phase III results are not expected before around 2029."
+  },
+  "ru": {
+    "title": "Первое полностью разработанное ИИ лекарство вышло на финальную стадию испытаний",
+    "summary": "Рентосертиб против идиопатического лёгочного фиброза — первый препарат, у которого и мишень, и молекула были предложены ИИ. В июле 2026 года Insilico Medicine объявила о начале III фазы: 320 пациентов в 47 центрах Китая, 52 недели, с плацебо-контролем. В реестре старт указан на сентябрь 2026 года. В предшествующей фазе IIa на 71 пациенте ёмкость лёгких при дозе 60 мг в день выросла на 98 миллилитров за двенадцать недель, тогда как на плацебо снизилась на 20 миллилитров.",
+    "why": "Ни одно открытое ИИ лекарство пока не одобрено крупным регулятором. Это исследование — первая настоящая проверка, доведёт ли путь ИИ до регистрации.",
+    "caveat": "Фаза IIa была небольшой, а при максимальной дозе несколько пациентов прекратили приём из-за печёночных показателей. Результаты III фазы ожидаются не раньше 2029 года."
+  }
+}

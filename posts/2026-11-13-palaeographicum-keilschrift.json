@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-13-palaeographicum-keilschrift",
+  "date": "2026-11-13",
+  "published": "2026-05-18",
+  "category": "archaeologie",
+  "countries": ["DE"],
+  "institution": "Universität Würzburg, Akademie der Wissenschaften Mainz, TU Dortmund",
+  "maturity": "deployed",
+  "source": {"name": "HeritageDaily", "url": "https://www.heritagedaily.com/2026/05/ai-tool-revolutionises-the-study-of-ancient-cuneiform-texts/158121"},
+  "more": [],
+  "de": {
+    "title": "KI erkennt die Handschrift einzelner Schreiber auf 3.000 Jahre alten Keilschrifttafeln",
+    "summary": "Das Werkzeug Palaeographicum vergleicht die Form einzelner Keilschriftzeichen über riesige Sammlungen hinweg. Die aktuelle Version umfasst rund 70.000 Fotografien hethitischer Tontafeln mit über fünf Millionen dokumentierten Einzelzeichen. Ziel ist, die Schreibgewohnheiten einzelner Schreiber zu erkennen und damit Texte zu datieren, die bisher kaum einzuordnen waren. Vergleiche, die Fachleute früher mehrere Tage kosteten, dauern laut Projektleiter Daniel Schwemer jetzt Minuten. Das System wird mit annotiertem Material und Rückmeldungen aus der Hethitologie laufend nachtrainiert.",
+    "why": "Rund 30.000 hethitische Tafelfragmente warten auf Einordnung. Wer sie einem Schreiber und damit einer Zeit zuordnen kann, rekonstruiert Archive und Verwaltung eines Reiches, das vor über 3.000 Jahren unterging.",
+    "caveat": "Noch in Entwicklung, keine begutachtete Veröffentlichung. Die automatische Schreiberidentifikation über ganze Sammlungen hinweg ist ein Fernziel, die bessere Datierung wird erwartet, nicht belegt."
+  },
+  "en": {
+    "title": "AI recognises individual scribes' handwriting on 3,000-year-old cuneiform tablets",
+    "summary": "The Palaeographicum tool compares the shapes of individual cuneiform signs across huge collections. The current version covers about 70,000 photographs of Hittite clay tablets with more than five million documented signs. The aim is to detect individual scribes' writing habits and thereby date texts that were previously hard to place. Comparisons that used to take specialists several days now take minutes, according to project lead Daniel Schwemer. The system is being retrained continuously with annotated material and feedback from the Hittitology community.",
+    "why": "Around 30,000 Hittite tablet fragments await classification. Linking them to a scribe, and hence a period, reconstructs the archives and administration of an empire that fell more than 3,000 years ago.",
+    "caveat": "Still under development, no peer-reviewed publication. Automatic scribe identification across whole collections is a long-term goal, and better dating is expected rather than demonstrated."
+  },
+  "ru": {
+    "title": "ИИ распознаёт почерк отдельных писцов на клинописных табличках возрастом 3 000 лет",
+    "summary": "Инструмент Palaeographicum сравнивает форму отдельных клинописных знаков по огромным коллекциям. Текущая версия охватывает около 70 000 фотографий хеттских глиняных табличек с более чем пятью миллионами задокументированных знаков. Цель — выявлять привычки письма отдельных писцов и так датировать тексты, которые раньше почти не поддавались классификации. Сравнения, занимавшие у специалистов несколько дней, теперь, по словам руководителя проекта Даниэля Швемера, занимают минуты. Систему постоянно дообучают на размеченном материале и отзывах хеттологов.",
+    "why": "Около 30 000 фрагментов хеттских табличек ждут классификации. Привязка их к писцу, а значит и к эпохе, восстанавливает архивы и управление империи, погибшей более 3 000 лет назад.",
+    "caveat": "Всё ещё в разработке, рецензируемой публикации нет. Автоматическое определение писцов по целым коллекциям — долгосрочная цель, а улучшение датировки ожидается, но не доказано."
+  }
+}

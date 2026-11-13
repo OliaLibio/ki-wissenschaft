@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-13-mythos-intervallfasten",
+  "date": "2026-11-13",
+  "published": "2026-10-15",
+  "category": "mythen",
+  "countries": ["DE", "INT"],
+  "institution": "Cochrane, Deutsches Institut für Ernährungsforschung",
+  "maturity": "review",
+  "evidence": "meta",
+  "verdict": "partly",
+  "source": {"name": "Cochrane Review 2026", "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/full"},
+  "more": [{"name": "ChronoFast-Studie via ScienceDaily", "url": "https://www.sciencedaily.com/releases/2025/12/251228020018.htm"}, {"name": "Fettverlust-Studie Oktober 2026", "url": "https://www.mensjournal.com/food/scientists-tested-intermittent-fasting-and-found-a-surprising-fat-loss-advantage"}],
+  "de": {
+    "myth": "Intervallfasten kurbelt den Stoffwechsel an und wirkt besser als einfach weniger essen.",
+    "title": "Intervallfasten: Es wirkt, aber vor allem, weil man weniger isst",
+    "summary": "Eine Cochrane-Übersicht von 2026 fasst die randomisierten Studien zu Intervallfasten bei Übergewicht zusammen: Gegenüber normaler Ernährungsberatung macht es für Gewicht und Lebensqualität wenig bis keinen Unterschied. Die deutsche ChronoFast-Studie hielt die Kalorien konstant und fand bei einem Acht-Stunden-Essfenster keine Verbesserung von Insulinempfindlichkeit, Blutzucker oder Blutfetten. Eine randomisierte Studie vom Oktober 2026 sah etwas mehr Fettverlust, aber keinen größeren Gewichtsverlust insgesamt. Eine Zwölfmonatsstudie zeigte, dass Fastende ihr Gewicht gut halten konnten.",
+    "why": "Intervallfasten ist für viele Menschen ein praktikabler Weg, weniger zu essen. Der versprochene besondere Stoffwechseleffekt lässt sich in kontrollierten Studien aber nicht nachweisen.",
+    "caveat": "Einzelne Studien zu speziellen Gruppen, etwa bei Morbus Crohn, zeigen positive Effekte, sind aber klein. Langzeitdaten über mehrere Jahre fehlen."
+  },
+  "en": {
+    "myth": "Intermittent fasting boosts your metabolism and works better than simply eating less.",
+    "title": "Intermittent fasting: it works, but mainly because you eat less",
+    "summary": "A 2026 Cochrane review pools the randomised trials of intermittent fasting for overweight and obesity: compared with regular dietary advice it makes little to no difference to weight or quality of life. Germany's ChronoFast study kept calories constant and found an eight-hour eating window did not improve insulin sensitivity, blood sugar or blood lipids. A randomised trial from October 2026 saw slightly more fat loss but no greater overall weight loss. A twelve-month study showed fasters maintained their weight loss well.",
+    "why": "Intermittent fasting is a practical way for many people to eat less. The promised special metabolic effect, however, does not show up in controlled trials.",
+    "caveat": "Some trials in specific groups, such as Crohn's disease, show positive effects but are small. Multi-year long-term data are lacking."
+  },
+  "ru": {
+    "myth": "Интервальное голодание разгоняет обмен веществ и работает лучше, чем просто есть меньше.",
+    "title": "Интервальное голодание: работает, но главным образом потому, что вы меньше едите",
+    "summary": "Кокрейновский обзор 2026 года объединяет рандомизированные исследования интервального голодания при избыточном весе: по сравнению с обычными диетическими рекомендациями оно почти не влияет на вес и качество жизни. Немецкое исследование ChronoFast при постоянной калорийности не выявило улучшения чувствительности к инсулину, сахара или липидов крови при восьмичасовом окне питания. Рандомизированное исследование от октября 2026 года показало чуть большую потерю жира, но не большую потерю веса в целом. Двенадцатимесячное исследование показало, что голодающие хорошо удерживали сброшенный вес.",
+    "why": "Интервальное голодание — для многих удобный способ есть меньше. Но обещанный особый метаболический эффект в контролируемых исследованиях не проявляется.",
+    "caveat": "Отдельные исследования в особых группах, например при болезни Крона, показывают положительный эффект, но они малы. Многолетних данных нет."
+  }
+}

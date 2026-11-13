@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-13-herculaneum-scroll-1667",
+  "date": "2026-11-13",
+  "published": "2026-06-25",
+  "category": "archaeologie",
+  "countries": ["US", "FR", "IT"],
+  "institution": "Vesuvius Challenge, EduceLab (University of Kentucky), ESRF Grenoble, Biblioteca Nazionale di Napoli",
+  "maturity": "preprint",
+  "source": {"name": "Vesuvius Challenge", "url": "https://scrollprize.org/firstscroll"},
+  "more": [{"name": "University of Kentucky", "url": "https://www.newswise.com/articles/historic-breakthrough-ancient-works-recovered-from-carbonized-herculaneum-scrolls"}],
+  "de": {
+    "title": "Erste verkohlte Schriftrolle aus Herculaneum vollständig gelesen, ohne sie zu öffnen",
+    "summary": "Die Rolle PHerc. 1667 war seit dem Vesuvausbruch im Jahr 79 versiegelt. Am Europäischen Synchrotron in Grenoble wurde sie mit Phasenkontrast-Röntgentomografie gescannt, Software rekonstruierte die Windungen und breitete das Papyrus digital aus, und Lernmodelle erkannten die Tinte, die sich vom verkohlten Papyrus kaum unterscheidet. Erhalten ist der innere Kern, rund acht von ursprünglich 19 bis 24 Zentimetern Höhe, mit den unteren Teilen von etwa 22 Textspalten auf 1,4 Metern. Der griechische Text ist eine Abhandlung über Ethik, vermutlich stoisch, über menschliche Natur, Antrieb und moralischen Fortschritt. Die letzte Spalte nennt Aristokreon, Neffe und Schüler des Chrysipp. Eine zweite Rolle, PHerc. 139, erwies sich als achtes Buch von Philodems Schrift über die Götter.",
+    "why": "Hunderte Rollen aus der einzigen erhaltenen antiken Bibliothek sind noch versiegelt. Zum ersten Mal ist eine davon von Anfang bis Ende lesbar, mit frei verfügbaren Daten und Code.",
+    "caveat": "Frühere Öffnungsversuche zerstörten die äußeren Lagen, der Text hat Lücken. Die Ergebnisse liegen als Vorabdruck vor und sind noch nicht begutachtet."
+  },
+  "en": {
+    "title": "First carbonised Herculaneum scroll read in full without being opened",
+    "summary": "Scroll PHerc. 1667 had been sealed since the eruption of Vesuvius in AD 79. It was scanned with phase-contrast X-ray microtomography at the European Synchrotron in Grenoble, software reconstructed the windings and digitally flattened the papyrus, and machine-learning models detected ink that is nearly indistinguishable from the charred papyrus. What survives is the inner core, about eight of an original 19 to 24 centimetres in height, with the lower parts of roughly 22 columns across 1.4 metres. The Greek text is a treatise on ethics, probably Stoic, discussing human nature, impulse and moral progress. The last column names Aristocreon, nephew and pupil of Chrysippus. A second scroll, PHerc. 139, turned out to be Book 8 of Philodemus's On the Gods.",
+    "why": "Hundreds of scrolls from the only surviving ancient library remain sealed. For the first time, one can be read from start to finish, with data and code openly available.",
+    "caveat": "Earlier opening attempts destroyed the outer layers, so the text has gaps. The results are in a preprint and not yet peer-reviewed."
+  },
+  "ru": {
+    "title": "Первый обугленный свиток из Геркуланума прочитан полностью, не раскрывая его",
+    "summary": "Свиток PHerc. 1667 оставался запечатанным с извержения Везувия в 79 году. Его отсканировали методом фазово-контрастной рентгеновской микротомографии на Европейском синхротроне в Гренобле, программа восстановила витки и виртуально развернула папирус, а модели машинного обучения распознали чернила, почти неотличимые от обугленного папируса. Сохранилось внутреннее ядро — около восьми из первоначальных 19–24 сантиметров высоты, с нижними частями примерно 22 столбцов на 1,4 метра. Греческий текст — трактат по этике, вероятно стоический, о человеческой природе, побуждении и нравственном совершенствовании. В последнем столбце упомянут Аристокреон, племянник и ученик Хрисиппа. Второй свиток, PHerc. 139, оказался восьмой книгой сочинения Филодема «О богах».",
+    "why": "Сотни свитков из единственной сохранившейся античной библиотеки всё ещё запечатаны. Впервые один из них можно прочесть от начала до конца, причём данные и код открыты.",
+    "caveat": "Ранние попытки развернуть свиток уничтожили внешние слои, в тексте есть пропуски. Результаты опубликованы как препринт и ещё не прошли рецензирование."
+  }
+}

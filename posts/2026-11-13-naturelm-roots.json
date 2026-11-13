@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-13-naturelm-roots",
+  "date": "2026-11-13",
+  "published": "2026-10-21",
+  "category": "tiere",
+  "countries": ["US"],
+  "institution": "Earth Species Project",
+  "maturity": "preprint",
+  "source": {"name": "Earth Species Project", "url": "https://earthspecies.org/2026/10/21/broadening-audio-language-capabilities-for-bioacoustics-introducing-beans-next-and-roots/"},
+  "more": [{"name": "NatureLM-audio auf Hugging Face", "url": "https://huggingface.co/EarthSpeciesProject/NatureLM-audio"}],
+  "de": {
+    "title": "44 Millionen Tierlaute mit Text: ein Sprachmodell lernt, Tierverhalten zu beschreiben",
+    "summary": "Das Earth Species Project hat ROOTS veröffentlicht, einen Trainingsdatensatz aus 44 Millionen Paaren von Tieraufnahmen und Beschreibungstexten, gewonnen aus 6,5 Millionen Audioclips, Feldnotizen und Archiven. Damit wurde das Bioakustik-Modell NatureLM-audio nachtrainiert und am neuen Prüfstand BEANS-Next gemessen. Die Fähigkeit, Lautäußerungen anhand von Feldnotizen korrekt zu beschreiben, stieg von 28,7 auf 97,9 Prozent, die Vorhersage von Verhalten aus Lauten von 33,7 auf 87,1 Prozent. Unbekannte Arten anhand weniger Beispielaufnahmen zuzuordnen, gelang statt in 27 nun in 65 Prozent der Fälle.",
+    "why": "Forschende brauchen bisher Monate, um Tonaufnahmen aus dem Feld auszuwerten. Ein Modell, das man in normaler Sprache fragen kann, welche Art ruft und was sie gerade tut, würde Artenschutz und Verhaltensforschung stark beschleunigen.",
+    "caveat": "Eigener Prüfstand, eigene Zahlen, noch nicht unabhängig begutachtet. Frei formulierte Beschreibungen und das Zählen einzelner Rufe bleiben schwierig."
+  },
+  "en": {
+    "title": "44 million animal sounds paired with text: a language model learns to describe animal behaviour",
+    "summary": "The Earth Species Project has released ROOTS, a training set of 44 million pairs of animal recordings and descriptive text, drawn from 6.5 million audio clips, field notes and archives. The bioacoustics model NatureLM-audio was fine-tuned on it and measured on the new BEANS-Next benchmark. Its ability to describe vocalisations correctly from field notes rose from 28.7 to 97.9 percent, and behaviour prediction from sound rose from 33.7 to 87.1 percent. Matching unseen species from a few example recordings improved from 27 to 65 percent.",
+    "why": "Researchers currently need months to analyse field recordings. A model that can be asked in plain language which species is calling and what it is doing would greatly speed up conservation and behavioural research.",
+    "caveat": "The project's own benchmark and numbers, not yet independently peer-reviewed. Open-ended descriptions and counting individual calls remain difficult."
+  },
+  "ru": {
+    "title": "44 миллиона звуков животных с текстом: языковая модель учится описывать поведение",
+    "summary": "Earth Species Project выпустил ROOTS — обучающий набор из 44 миллионов пар «запись животного — описание», собранный из 6,5 миллиона аудиоклипов, полевых заметок и архивов. На нём дообучили биоакустическую модель NatureLM-audio и измерили её на новом тесте BEANS-Next. Точность описания вокализаций по полевым заметкам выросла с 28,7 до 97,9 процента, предсказание поведения по звуку — с 33,7 до 87,1 процента. Определение незнакомых видов по нескольким примерам улучшилось с 27 до 65 процентов.",
+    "why": "Сейчас анализ полевых записей занимает у исследователей месяцы. Модель, которую можно спросить обычным языком, какой вид кричит и что он делает, резко ускорила бы охрану природы и изучение поведения.",
+    "caveat": "Собственный тест и собственные цифры проекта, независимой рецензии пока нет. Свободные описания и подсчёт отдельных криков остаются трудными."
+  }
+}

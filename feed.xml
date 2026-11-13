@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+ <channel>
+  <title>KI in der Wissenschaft</title>
+  <link>https://olialibio.github.io/ki-wissenschaft/</link>
+  <description>Montag, Mittwoch, Freitag: Was KI heute in der Forschung erreicht. Gesundheit, Tiere, Mythen-Check, Klima, Archäologie, Grenzen.</description>
+  <language>de</language>
+  <item>
+   <title>Einordnung: Wie nah ist der Tierübersetzer wirklich?</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-tieruebersetzer-stand</link>
+   <guid isPermaLink="false">2026-11-13-tieruebersetzer-stand</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Ein Überblick vom November 2026 fasst den Stand zusammen. NatureLM-audio erkannte in australischen FrogID-Aufnahmen Froschlaute mit 99 Prozent und bestimmte ausgewählte Arten mit 82 Prozent Genauigkeit. An der McGill University erzeugt das System ZF-AIM in Echtzeit künstliche Vogellaute, um zu testen, wie Zebrafinken darauf reagieren. Google DeepMinds DolphinGemma ist mit jahrzehntelangen Aufnahmen wilder Fleckendelfine trainiert und sagt voraus, welcher Laut als nächstes folgt. Project CETI hat über 8.700 Pottwal-Codas nach Rhythmus und Tempo analysiert. Alle Fachleute sind sich einig: Muster erkennen ist nicht dasselbe wie Bedeutung verstehen.
+
+Warum das wichtig ist: Die Schlagzeilen versprechen oft Gespräche mit Tieren. Der tatsächliche Stand: KI sortiert und beschreibt Laute sehr gut, aber kein System kann heute sagen, was ein Tier meint.
+
+Vorbehalt: Fachleute warnen vor Vermenschlichung und vor Missbrauch: Wer Lock- oder Notrufe nachahmen kann, kann Tiere auch stören oder fangen. Künstliche Laute in Wildpopulationen zu senden, birgt ökologische Risiken.
+
+Quelle: Euronews – https://www.euronews.com/2026/11/09/could-artificial-intelligence-help-us-talk-with-animals-one-day</description>
+  </item>
+  <item>
+   <title>Erstes vollständig KI-entwickeltes Medikament erreicht die letzte Prüfphase</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-rentosertib-phase3</link>
+   <guid isPermaLink="false">2026-11-13-rentosertib-phase3</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Rentosertib gegen idiopathische Lungenfibrose ist das erste Medikament, bei dem sowohl das Zielmolekül als auch der Wirkstoff von KI vorgeschlagen wurden. Insilico Medicine hat im Juli 2026 eine Phase-III-Studie angekündigt: 320 Patienten an 47 Zentren in China, 52 Wochen, placebokontrolliert. Im Register ist der Start für September 2026 vermerkt. In der vorangegangenen Phase IIa mit 71 Patienten verbesserte sich die Lungenkapazität unter 60 mg täglich um 98 Milliliter in zwölf Wochen, während sie unter Placebo um 20 Milliliter abnahm.
+
+Warum das wichtig ist: Bisher ist kein KI-entdecktes Medikament von einer großen Behörde zugelassen. Diese Studie ist der erste echte Test, ob der KI-Weg bis zur Zulassung trägt.
+
+Vorbehalt: Die Phase IIa war klein, und in der höchsten Dosis brachen mehrere Patienten wegen Leberwerten ab. Ergebnisse der Phase III werden erst gegen 2029 erwartet.
+
+Quelle: Clinical Research News – https://www.clinicalresearchnewsonline.com/news/2026/07/08/insilico-medicine-launches-phase-iii-trial-for-ai-developed-drug</description>
+  </item>
+  <item>
+   <title>KI erkennt Bauchspeicheldrüsenkrebs im CT, bevor Radiologen ihn sehen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-redmod-pankreas</link>
+   <guid isPermaLink="false">2026-11-13-redmod-pankreas</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Das Modell REDMOD der Mayo Clinic analysiert feinste Gewebemuster in Bauch-CTs. Geprüft wurde es an 219 Patienten, deren frühere Scans als unauffällig galten, obwohl später Pankreaskrebs diagnostiziert wurde, plus 1.243 gesunde Vergleichspersonen. Die KI fand 73 Prozent dieser Tumoren im Rückblick, Radiologen nur 39 Prozent. Der mittlere Vorsprung lag bei 475 Tagen vor der klinischen Diagnose. Bei Scans, die mehr als zwei Jahre vor der Diagnose entstanden, lag die Trefferquote bei 68 gegenüber 23 Prozent.
+
+Warum das wichtig ist: Pankreaskrebs wird meist so spät entdeckt, dass eine Operation nicht mehr möglich ist. Ein Frühwarnsystem, das vorhandene CT-Bilder nachträglich auswertet, könnte das ändern.
+
+Vorbehalt: Rückblickende Studie, die Patientengruppe war ethnisch wenig vielfältig. Eine prospektive Prüfung an Risikogruppen steht noch aus, ein klinischer Einsatz ist noch nicht freigegeben.
+
+Quelle: Gut (BMJ) via ScienceDaily – https://www.sciencedaily.com/releases/2026/10/261024222031.htm</description>
+  </item>
+  <item>
+   <title>Computersehen belegt: Pottwale leisten Geburtshilfe wie sonst nur Menschen und wenige Primaten</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-pottwal-geburt</link>
+   <guid isPermaLink="false">2026-11-13-pottwal-geburt</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Am 8. Juli 2023 filmten Forschende vor Dominica eine Pottwalgeburt mit Drohnen und nahmen über sechs Stunden Unterwasserton auf. Mit Computersehen und Netzwerkanalyse werteten sie aus, wer wann half: Weibchen aus zwei Familienlinien, verwandte und nicht verwandte, unterstützten die Mutter und hoben das Neugeborene abwechselnd an die Oberfläche. Es ist der erste quantitative Nachweis von Geburtsbeistand außerhalb von Menschen und wenigen Primatenarten. Die Tonanalyse zeigte, dass sich die Klickmuster in Schlüsselmomenten veränderten, inklusive vokalähnlicher Strukturen.
+
+Warum das wichtig ist: Kooperation bei der Geburt gilt als Grundlage komplexer Gesellschaften. Dass sie bei Walen vorkommt und laut Stammbaumanalyse über 36 Millionen Jahre alt sein könnte, verändert das Bild von der sozialen Evolution im Meer.
+
+Vorbehalt: Ein einziges Geburtsereignis in einer besonders gut erforschten Gruppe. Ob andere Pottwalgruppen so handeln, ist offen.
+
+Quelle: Science und Scientific Reports via EurekAlert – https://www.eurekalert.org/news-releases/1120823</description>
+  </item>
+  <item>
+   <title>KI erkennt die Handschrift einzelner Schreiber auf 3.000 Jahre alten Keilschrifttafeln</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-palaeographicum-keilschrift</link>
+   <guid isPermaLink="false">2026-11-13-palaeographicum-keilschrift</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Das Werkzeug Palaeographicum vergleicht die Form einzelner Keilschriftzeichen über riesige Sammlungen hinweg. Die aktuelle Version umfasst rund 70.000 Fotografien hethitischer Tontafeln mit über fünf Millionen dokumentierten Einzelzeichen. Ziel ist, die Schreibgewohnheiten einzelner Schreiber zu erkennen und damit Texte zu datieren, die bisher kaum einzuordnen waren. Vergleiche, die Fachleute früher mehrere Tage kosteten, dauern laut Projektleiter Daniel Schwemer jetzt Minuten. Das System wird mit annotiertem Material und Rückmeldungen aus der Hethitologie laufend nachtrainiert.
+
+Warum das wichtig ist: Rund 30.000 hethitische Tafelfragmente warten auf Einordnung. Wer sie einem Schreiber und damit einer Zeit zuordnen kann, rekonstruiert Archive und Verwaltung eines Reiches, das vor über 3.000 Jahren unterging.
+
+Vorbehalt: Noch in Entwicklung, keine begutachtete Veröffentlichung. Die automatische Schreiberidentifikation über ganze Sammlungen hinweg ist ein Fernziel, die bessere Datierung wird erwartet, nicht belegt.
+
+Quelle: HeritageDaily – https://www.heritagedaily.com/2026/05/ai-tool-revolutionises-the-study-of-ancient-cuneiform-texts/158121</description>
+  </item>
+  <item>
+   <title>Selbst die KI-Elite ist betroffen: 100 erfundene Quellen in angenommenen Artikeln der Top-Konferenz NeurIPS</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-neurips-zitate</link>
+   <guid isPermaLink="false">2026-11-13-neurips-zitate</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Eine Analyse von 100 KI-halluzinierten Literaturverweisen in Artikeln, die auf der KI-Konferenz NeurIPS 2025 angenommen wurden, ordnet die Fehler in fünf Typen ein. 66 Prozent waren komplette Erfindungen, 27 Prozent hatten verfälschte Angaben wie falsche Autoren oder Jahre, 4 Prozent nutzten die Kennung einer fremden Arbeit. Jede einzelne Halluzination kombinierte mehrere Täuschungsmuster, was sie plausibel und scheinbar überprüfbar machte. Betroffen waren 53 Artikel, rund ein Prozent aller angenommenen Beiträge, und jeder davon hatte drei bis fünf Fachgutachter passiert. 92 Prozent der Artikel enthielten ein oder zwei falsche Quellen, 8 Prozent vier bis dreizehn.
+
+Warum das wichtig ist: Wenn selbst die Begutachtung der wichtigsten KI-Konferenz erfundene Quellen durchlässt, prüft Peer Review Zitate offenbar nicht. Der Autor fordert eine automatische Zitatprüfung bei jeder Einreichung.
+
+Vorbehalt: Einzelautor, Vorabdruck ohne Begutachtung. Wie die 100 Zitate gesammelt und verifiziert wurden, ist auf der Übersichtsseite nicht beschrieben, und die Prozentwerte beruhen auf einer kleinen Stichprobe.
+
+Quelle: arXiv 2602.05930 – https://arxiv.org/abs/2602.05930</description>
+  </item>
+  <item>
+   <title>44 Millionen Tierlaute mit Text: ein Sprachmodell lernt, Tierverhalten zu beschreiben</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-naturelm-roots</link>
+   <guid isPermaLink="false">2026-11-13-naturelm-roots</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Das Earth Species Project hat ROOTS veröffentlicht, einen Trainingsdatensatz aus 44 Millionen Paaren von Tieraufnahmen und Beschreibungstexten, gewonnen aus 6,5 Millionen Audioclips, Feldnotizen und Archiven. Damit wurde das Bioakustik-Modell NatureLM-audio nachtrainiert und am neuen Prüfstand BEANS-Next gemessen. Die Fähigkeit, Lautäußerungen anhand von Feldnotizen korrekt zu beschreiben, stieg von 28,7 auf 97,9 Prozent, die Vorhersage von Verhalten aus Lauten von 33,7 auf 87,1 Prozent. Unbekannte Arten anhand weniger Beispielaufnahmen zuzuordnen, gelang statt in 27 nun in 65 Prozent der Fälle.
+
+Warum das wichtig ist: Forschende brauchen bisher Monate, um Tonaufnahmen aus dem Feld auszuwerten. Ein Modell, das man in normaler Sprache fragen kann, welche Art ruft und was sie gerade tut, würde Artenschutz und Verhaltensforschung stark beschleunigen.
+
+Vorbehalt: Eigener Prüfstand, eigene Zahlen, noch nicht unabhängig begutachtet. Frei formulierte Beschreibungen und das Zählen einzelner Rufe bleiben schwierig.
+
+Quelle: Earth Species Project – https://earthspecies.org/2026/10/21/broadening-audio-language-capabilities-for-bioacoustics-introducing-beans-next-and-roots/</description>
+  </item>
+  <item>
+   <title>Keto-Diät: Bei Fettleber und Prädiabetes besser als ihr Ruf, aber die Studie ist klein</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-mythos-keto-blutfette</link>
+   <guid isPermaLink="false">2026-11-13-mythos-keto-blutfette</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>mythen</category>
+   <description>In St. Louis wurden 42 Erwachsene mit Adipositas, Prädiabetes und Fettleber zufällig auf drei Diäten verteilt: ketogen (4 Prozent Kohlenhydrate, 73 Prozent Fett), mediterran oder fettarm-pflanzlich. Alle Mahlzeiten wurden gestellt, die Kalorien so eingestellt, dass jede Gruppe etwa 10 Prozent Gewicht verlor. Das Leberfett sank unter Keto um 67 Prozent, in den anderen Gruppen um 45 Prozent. Bei der Hälfte der Keto-Gruppe verschwand der Prädiabetes, gegenüber 29 und 7 Prozent. Trotz des hohen Fettanteils stiegen Cholesterin und Blutfette nicht stärker als bei den anderen Diäten.
+
+Warum das wichtig ist: Die Angst vor Keto beruht vor allem auf Studien an schlanken Gesunden. Diese Studie zeigt, dass die Wirkung stark davon abhängt, wer die Diät macht und ob dabei Gewicht verloren wird.
+
+Vorbehalt: Nur 42 Personen, alle Mahlzeiten gestellt, Dauer vier bis fünf Monate. Eine ältere Studie mit normalgewichtigen Frauen fand unter Keto deutlich erhöhtes LDL-Cholesterin. Für Gesunde ohne Gewichtsverlust bleibt die Frage offen.
+
+Quelle: Cell Metabolism via ScienceDaily – https://www.sciencedaily.com/releases/2026/08/260828082327.htm</description>
+  </item>
+  <item>
+   <title>Intervallfasten: Es wirkt, aber vor allem, weil man weniger isst</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-mythos-intervallfasten</link>
+   <guid isPermaLink="false">2026-11-13-mythos-intervallfasten</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>mythen</category>
+   <description>Eine Cochrane-Übersicht von 2026 fasst die randomisierten Studien zu Intervallfasten bei Übergewicht zusammen: Gegenüber normaler Ernährungsberatung macht es für Gewicht und Lebensqualität wenig bis keinen Unterschied. Die deutsche ChronoFast-Studie hielt die Kalorien konstant und fand bei einem Acht-Stunden-Essfenster keine Verbesserung von Insulinempfindlichkeit, Blutzucker oder Blutfetten. Eine randomisierte Studie vom Oktober 2026 sah etwas mehr Fettverlust, aber keinen größeren Gewichtsverlust insgesamt. Eine Zwölfmonatsstudie zeigte, dass Fastende ihr Gewicht gut halten konnten.
+
+Warum das wichtig ist: Intervallfasten ist für viele Menschen ein praktikabler Weg, weniger zu essen. Der versprochene besondere Stoffwechseleffekt lässt sich in kontrollierten Studien aber nicht nachweisen.
+
+Vorbehalt: Einzelne Studien zu speziellen Gruppen, etwa bei Morbus Crohn, zeigen positive Effekte, sind aber klein. Langzeitdaten über mehrere Jahre fehlen.
+
+Quelle: Cochrane Review 2026 – https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/full</description>
+  </item>
+  <item>
+   <title>Eisbaden: Fünf Minuten heben die Stimmung messbar, für Immunsystem und Depression fehlen Belege</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-mythos-eisbaden</link>
+   <guid isPermaLink="false">2026-11-13-mythos-eisbaden</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>mythen</category>
+   <description>Forschende aus Chichester teilten Freiwillige zufällig auf vier Gruppen auf: keine Kälte oder 5, 10 beziehungsweise 20 Minuten im 13,6 Grad kalten Meer. Alle Kältegruppen berichteten danach deutlich weniger Stimmungsstörung, und fünf Minuten brachten fast denselben Effekt wie zwanzig. Eine Meta-Analyse aus dem Februar 2026 mit 30 Studien fand für die Muskelerholung nach Sport nur kleine Effekte auf Muskelkater und Muskelschäden. Für die beliebten Versprechen zum Immunsystem und zur Behandlung von Depressionen gibt es bislang keine große randomisierte Studie.
+
+Warum das wichtig ist: Die kurzfristige Stimmungsaufhellung ist real und gut belegt, dafür reichen wenige Minuten. Alles darüber hinaus ist bisher Erfahrungsbericht, keine Evidenz.
+
+Vorbehalt: Kleine Studien mit Fragebögen zur Tagesstimmung, nicht zu klinischer Depression. Kaltwasser birgt Risiken für Herz und Kreislauf, besonders für Ungeübte.
+
+Quelle: Lifestyle Medicine (Wiley) – https://eprints.chi.ac.uk/id/eprint/8538/</description>
+  </item>
+  <item>
+   <title>Mythos Rotwein: Genetische Daten finden keinen Herzschutz, der entscheidende Versuch fehlt noch</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-mythos-alkohol-herz</link>
+   <guid isPermaLink="false">2026-11-13-mythos-alkohol-herz</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>mythen</category>
+   <description>Jahrzehntelang zeigten Beobachtungsstudien eine J-Kurve: Moderate Trinker lebten länger als Abstinente. Studien mit Mendel-Randomisierung, die genetische Varianten des Alkoholabbaus als natürlichen Zufallsversuch nutzen, finden diesen Schutz nicht und sehen Risiken schon bei geringen Mengen. Ein Aufsatz vom Juli 2026 stellt deshalb die UNATI-Studie vor: die erste große randomisierte Studie, die Abstinenz direkt mit moderatem Trinken vergleicht und harte Endpunkte wie Herzinfarkt und Tod misst. Die US-Ernährungsrichtlinien 2026 bis 2030 raten inzwischen nur noch, weniger zu trinken, ohne eine sichere Menge zu nennen.
+
+Warum das wichtig ist: Die J-Kurve gilt heute weitgehend als Artefakt: Viele Abstinente hatten aus gesundheitlichen Gründen aufgehört zu trinken, was die Vergleichsgruppe kränker machte. Der Mythos lebt trotzdem weiter.
+
+Vorbehalt: Kritiker wenden ein, dass die genetische Methode kleine Mengen schlecht erfasst. Bis UNATI Ergebnisse liefert, bleibt ein Rest Unsicherheit.
+
+Quelle: European Journal of Epidemiology – https://link.springer.com/article/10.1007/s10654-025-01330-w</description>
+  </item>
+  <item>
+   <title>Mythos 10.000 Schritte: Das Tempo zählt mehr als die magische Zahl</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-mythos-10000-schritte</link>
+   <guid isPermaLink="false">2026-11-13-mythos-10000-schritte</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>mythen</category>
+   <description>Forschende der University of Sydney haben Schrittdaten von rund 104.000 Teilnehmern der britischen UK Biobank ausgewertet, gemessen mit Armband-Sensoren und mit Sterbedaten verknüpft. Ohne Berücksichtigung des Tempos lag das geringste Sterberisiko bei 7.500 bis 10.000 Schritten. Entscheidender war aber die Intensität: Wer in seinen 30 aktivsten Minuten des Tages rund 90 bis 100 Schritte pro Minute schaffte, hatte in jeder Schrittgruppe ein niedrigeres Risiko. Selbst bei unter 5.000 Schritten brachte zügiges Gehen einen Nutzen, vergleichbar mit 5.000 bis 7.500 langsamen Schritten.
+
+Warum das wichtig ist: Die Zahl 10.000 stammt aus einer japanischen Werbekampagne der 1960er Jahre, nicht aus der Forschung. Die Daten zeigen, dass der Nutzen schon weit darunter beginnt und das Tempo einen eigenen Beitrag leistet.
+
+Vorbehalt: Beobachtungsstudie, also Zusammenhang statt Beweis. Armbandsensoren zählen manche Bewegungen falsch, und die Schritte wurden nur in einem Teilzeitraum gemessen.
+
+Quelle: British Journal of Sports Medicine via News-Medical – https://www.news-medical.net/news/20260910/You-may-not-need-10000-steps-if-some-of-them-are-taken-at-a-faster-pace.aspx</description>
+  </item>
+  <item>
+   <title>KI-Korrekturschicht verdoppelt die Trefferquote von Wettervorhersagen für zwei bis sechs Wochen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-mit-wetter-wochen</link>
+   <guid isPermaLink="false">2026-11-13-mit-wetter-wochen</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Vorhersagen zwischen zwei und sechs Wochen galten bisher als Wüste der Vorhersagbarkeit: zu weit für Wettermodelle, zu nah für Klimamodelle. Ein Team um Judah Cohen am MIT hat eine Lernschicht gebaut, die aus historischen Daten die systematischen Fehler eines bestehenden Modells lernt und dessen Wahrscheinlichkeitsvorhersagen korrigiert. Aufgesetzt auf das Modell des Europäischen Wetterzentrums ECMWF verdoppelte sie die Vorhersagegüte in diesem Zeitfenster, gewann einen ECMWF-Wettbewerb und schlug als erste Methode den langjährigen Klimadurchschnitt. Auch Extremwetter wurde messbar besser vorhergesagt.
+
+Warum das wichtig ist: Energieversorger, Landwirte und Katastrophenschutz brauchen genau diesen Zeithorizont. Der Texas-Stromausfall 2021 mit über 240 Toten war der Anlass für die Arbeit. Die Methode lässt sich auf jedes Modell aufsetzen.
+
+Vorbehalt: Die Verdopplung wurde im Wettbewerbsrahmen gemessen, der reale Nutzen im Betrieb ist noch nicht belegt. Das Problem gilt weiterhin als schwierig.
+
+Quelle: Nature via Phys.org / MIT News – https://phys.org/news/2026-10-ai-weather-power-weeks.html</description>
+  </item>
+  <item>
+   <title>Größte Studie zu KI im Brustkrebs-Screening: weniger übersehene Tumoren</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-masai-mammographie</link>
+   <guid isPermaLink="false">2026-11-13-masai-mammographie</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Die schwedische MASAI-Studie hat über 105.000 Frauen zufällig auf zwei Gruppen verteilt: Screening mit KI-Unterstützung oder klassische Doppelbefundung durch zwei Radiologen. Nach zwei Jahren traten in der KI-Gruppe 1,55 Intervallkarzinome pro 1.000 Frauen auf, in der Kontrollgruppe 1,76. Das sind 12 Prozent weniger Krebsfälle, die zwischen zwei Screenings übersehen wurden. Bei aggressiven Tumoren war der Unterschied größer: 27 Prozent weniger bei den gefährlichen Nicht-Luminal-A-Typen. Die KI sortierte Aufnahmen nach Risiko und entlastete die Radiologen deutlich.
+
+Warum das wichtig ist: Zum ersten Mal zeigt eine große randomisierte Studie, dass KI im Screening nicht nur schneller ist, sondern auch harte Ergebnisse verbessert. Das ist die Beweislage, die Gesundheitssysteme für eine Einführung brauchen.
+
+Vorbehalt: Nur ein Land, ein Gerätetyp und ein KI-System (Transpara). Ob die Ergebnisse auf andere Länder und Geräte übertragbar sind, ist offen.
+
+Quelle: The Lancet via Lund University – https://www.lunduniversity.lu.se/article/ai-support-breast-cancer-screening-fewer-missed-cancer-cases</description>
+  </item>
+  <item>
+   <title>KI-Prüfung von 2,5 Millionen Fachartikeln: Erfundene Quellen haben sich seit 2023 verzwölffacht</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-lancet-falsche-zitate</link>
+   <guid isPermaLink="false">2026-11-13-lancet-falsche-zitate</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Ein Team um Maxim Topaz von der Columbia University hat ein automatisches Prüfsystem gebaut und damit 97,1 Millionen Literaturverweise in 2,5 Millionen frei zugänglichen biomedizinischen Artikeln aus PubMed Central kontrolliert, erschienen zwischen Januar 2023 und Februar 2026. Ergebnis: 4.046 erfundene Zitate in 2.810 Artikeln. Die Rate lag 2023 stabil bei etwa 4 pro 10.000 Artikel und stieg ab Mitte 2024 steil an, auf rund 57 pro 10.000 Anfang 2026. In einem Artikel waren 18 von 30 Quellen frei erfunden. Zum Zeitpunkt der Prüfung hatten 98,4 Prozent der betroffenen Artikel keinerlei Reaktion des Verlags erhalten. Manche der falschen Quellen wurden inzwischen weiterzitiert und tauchen in Übersichtsarbeiten auf, die klinische Leitlinien beeinflussen.
+
+Warum das wichtig ist: Der Anstieg fällt zeitlich mit der Verbreitung von KI-Schreibwerkzeugen zusammen. Die Studie zeigt beides: KI erzeugt das Problem, und KI ist bisher das einzige Werkzeug, das es in dieser Größenordnung aufdecken kann.
+
+Vorbehalt: Nur frei zugängliche Artikel geprüft, der letzte Datenpunkt umfasst nur sieben Wochen. Die Fehlerrate des Prüfsystems selbst wird nicht berichtet, und die Ursache ist zeitlicher Zusammenhang, kein Beweis.
+
+Quelle: The Lancet via Columbia School of Nursing – https://www.nursing.columbia.edu/news/nearly-3-000-peer-reviewed-medical-papers-have-fake-citations-columbia-nursing-ai-assisted-audit-finds</description>
+  </item>
+  <item>
+   <title>Warnschuss: Bei Rekordhitze schlagen Physikmodelle die KI-Wettermodelle</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-kit-extremwetter</link>
+   <guid isPermaLink="false">2026-11-13-kit-extremwetter</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Ein Team um Zhongwei Zhang am KIT hat drei KI-Wettermodelle, GraphCast von Google DeepMind, Pangu-Weather von Huawei und FuXi aus Shanghai, gegen das physikalische Hochauflösungsmodell des ECMWF getestet. Grundlage waren alle Hitze-, Kälte- und Windrekorde der Jahre 2018 und 2020, allein 2020 rund 160.000 Hitze-, 33.000 Kälte- und 53.000 Windrekorde. Beim Alltagswetter waren zwei KI-Modelle besser als das Physikmodell. Bei Hitzerekorden lag das Physikmodell vor allen dreien. Die KI unterschätzte Hitzerekorde systematisch, und je deutlicher ein Rekord gebrochen wurde, desto schlechter traf sie die Intensität.
+
+Warum das wichtig ist: KI-Modelle lernen aus der Vergangenheit, und beispiellose Ereignisse kommen dort nicht vor. Gerade bei den gefährlichsten Wetterlagen ist das ein Problem. Die Autoren raten zu Hybridmodellen statt zum schnellen Ersatz der Physik.
+
+Vorbehalt: Nur zwei Jahre untersucht, und die getesteten KI-Modelle sind eine ältere, deterministische Generation. Neuere probabilistische Modelle wurden nicht geprüft, Extremregen auch nicht.
+
+Quelle: Science Advances via Carbon Brief – https://www.carbonbrief.org/traditional-models-still-outperform-ai-for-extreme-weather-forecasts</description>
+  </item>
+  <item>
+   <title>Erste verkohlte Schriftrolle aus Herculaneum vollständig gelesen, ohne sie zu öffnen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-herculaneum-scroll-1667</link>
+   <guid isPermaLink="false">2026-11-13-herculaneum-scroll-1667</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Die Rolle PHerc. 1667 war seit dem Vesuvausbruch im Jahr 79 versiegelt. Am Europäischen Synchrotron in Grenoble wurde sie mit Phasenkontrast-Röntgentomografie gescannt, Software rekonstruierte die Windungen und breitete das Papyrus digital aus, und Lernmodelle erkannten die Tinte, die sich vom verkohlten Papyrus kaum unterscheidet. Erhalten ist der innere Kern, rund acht von ursprünglich 19 bis 24 Zentimetern Höhe, mit den unteren Teilen von etwa 22 Textspalten auf 1,4 Metern. Der griechische Text ist eine Abhandlung über Ethik, vermutlich stoisch, über menschliche Natur, Antrieb und moralischen Fortschritt. Die letzte Spalte nennt Aristokreon, Neffe und Schüler des Chrysipp. Eine zweite Rolle, PHerc. 139, erwies sich als achtes Buch von Philodems Schrift über die Götter.
+
+Warum das wichtig ist: Hunderte Rollen aus der einzigen erhaltenen antiken Bibliothek sind noch versiegelt. Zum ersten Mal ist eine davon von Anfang bis Ende lesbar, mit frei verfügbaren Daten und Code.
+
+Vorbehalt: Frühere Öffnungsversuche zerstörten die äußeren Lagen, der Text hat Lücken. Die Ergebnisse liegen als Vorabdruck vor und sind noch nicht begutachtet.
+
+Quelle: Vesuvius Challenge – https://scrollprize.org/firstscroll</description>
+  </item>
+  <item>
+   <title>Warum KI-Forscher die Fehler der Wissenschaft verstärken könnten: das Problem der fehlenden Nullresultate</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-dead-science-walking</link>
+   <guid isPermaLink="false">2026-11-13-dead-science-walking</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Sogenannte KI-Wissenschaftler, also Systeme, die selbstständig Literatur lesen, Hypothesen bilden und Experimente auswerten, lernen aus der veröffentlichten Forschung. Die aber ist verzerrt: Positive Ergebnisse werden publiziert, gescheiterte Versuche verschwinden in der Schublade. Der Vorabdruck schätzt diese Lücke auf rund 60 Prozent in der Medikamentenforschung, 56 Prozent in der Psychologie und 35 Prozent in der Krebsbiologie. Eine dreistufige KI-Pipeline aus Suche, Generierung und Bewertung würde die Verzerrung laut Modellrechnung um den Faktor 2,18 verstärken. Besonders heikel ist das Replikations-Waschen: Eine KI-erzeugte Behauptung wird von einem anderen KI-System zitiert und erscheint dann als unabhängige Bestätigung.
+
+Warum das wichtig ist: Die Warnung ist einfach: Wer Wissenschaft automatisiert, automatisiert auch ihre blinden Flecken. Vorgeschlagen werden Datenbanken für Nullresultate, Bewertungsmaße, die Rückzüge berücksichtigen, und Offenlegung der Trainingsdaten.
+
+Vorbehalt: Einzelautor ohne genannte Institution, Vorabdruck, Zahlen sind grobe Schätzungen und nicht gemessen. Ein Denkanstoß, keine empirische Studie.
+
+Quelle: arXiv 2606.04220 – https://arxiv.org/abs/2606.04220</description>
+  </item>
+  <item>
+   <title>KI sagt aus acht bis zehn Klicksequenzen voraus, wann Pottwale abtauchen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-ceti-tauchgaenge</link>
+   <guid isPermaLink="false">2026-11-13-ceti-tauchgaenge</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Pottwale kommunizieren mit rhythmischen Klickfolgen, sogenannten Codas. Das Team um Giovanni Petri hat Aufnahmen aus Dominica in Lernmodelle eingespeist und festgestellt: Rund acht bis zehn aufeinanderfolgende Codas reichen, um vorherzusagen, ob die Gruppe gleich zu einem tiefen Jagdtauchgang aufbricht. Solche Tauchgänge dauern 45 bis 60 Minuten und führen bis etwa 700 Meter tief. Die Annotation der Aufnahmen läuft weitgehend automatisch, aber Menschen prüfen die Ergebnisse, weil überlappende Rufe und Störgeräusche die Modelle noch verwirren.
+
+Warum das wichtig ist: Zum ersten Mal lässt sich aus der Struktur der Klicks ein konkretes Verhalten vorhersagen. Das ist ein Schritt vom bloßen Zählen der Laute hin zu einem Verständnis dessen, was sie auslösen.
+
+Vorbehalt: Die Bedeutung einzelner Codas bleibt unbekannt. Das Team selbst sagt, man sei weit davon entfernt, die Walsprache zu knacken, und testet noch, ob bestimmte Codas die Tauchgänge wirklich auslösen.
+
+Quelle: Northeastern Global News – https://news.northeastern.edu/2026/10/22/how-to-speak-whale/</description>
+  </item>
+  <item>
+   <title>KI merkt, wenn ihre eigene Physik nicht mehr stimmt, und warnt vor Kipppunkten</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-caltech-kipppunkte</link>
+   <guid isPermaLink="false">2026-11-13-caltech-kipppunkte</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Ein Team um Anima Anandkumar am Caltech hat einen rekurrenten neuronalen Operator gebaut, ein Netz mit eingebautem Gedächtnis, das verfolgt, wie sich die Physik eines Systems über die Zeit verändert. Wenn seine Vorhersagen den gelernten Gesetzen nicht mehr folgen, deutet das auf einen bevorstehenden Kipppunkt hin. In einem vereinfachten Klimamodell sagte das System den Verlust niedriger Ozeanwolken bei steigendem CO2 mehr als zwei Jahre im Voraus vorher, mit einem Zeitfehler von etwa elf Tagen. Auch den Strömungsabriss an einem kippenden Flügel erkannte es rechtzeitig.
+
+Warum das wichtig ist: Normale Lernverfahren setzen voraus, dass sich die Spielregeln nicht ändern. Kipppunkte sind genau das Gegenteil. Ein Frühwarnsystem dafür wäre für Klima, Ökologie und Epidemiologie wertvoll.
+
+Vorbehalt: Alle Tests liefen mit simulierten Daten und vereinfachten Modellen. Das Wolkenszenario wurde in der Realität nie beobachtet. Eine Bestätigung an echten Systemen steht aus.
+
+Quelle: PNAS via Phys.org – https://phys.org/news/2026-10-ai-climate-simulation.html</description>
+  </item>
+  <item>
+   <title>Forscher verbrannten eigene Schriftrollen und fanden einen Trick, um antike Tinte sichtbar zu machen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-bleitinte-herculaneum</link>
+   <guid isPermaLink="false">2026-11-13-bleitinte-herculaneum</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Ein Team um Douglas Seiler von der UC Berkeley stellte Nachbildungen antiker Rollen aus ägyptischem Papyrus her, beschrieb sie mit Rußtinte, der abgemessene Mengen Blei beigemischt waren, und verkohlte sie in einem sauerstoffarmen Stahlbehälter im Ofen. In 3D-Computertomografien am NIST leuchtete die bleihaltige Tinte bis zu 25-mal heller als das verkohlte Papyrus, nachweisbar ab 25 Mikrogramm Blei pro Quadratzentimeter. Ein Algorithmus zum digitalen Entrollen, ursprünglich für Scans von Lithium-Ionen-Batterien entwickelt, breitete die Rolle virtuell aus. Ein günstiges Handgerät zur Röntgenfluoreszenz könnte Rollen vorab auf Blei prüfen, bevor man teure Synchrotronzeit einsetzt.
+
+Warum das wichtig ist: Die KI-Tintenerkennung der Vesuvius Challenge kämpft mit kohlenstoffbasierter Tinte, die sich kaum vom Papyrus abhebt. Rollen mit Bleitinte könnten weit einfacher und billiger lesbar werden.
+
+Vorbehalt: Nur Nachbildungen, keine echten Herculaneum-Rollen. Blei kommt in manchen antiken Tinten vor, in anderen nicht, und eine systematische Prüfung der Sammlung steht aus.
+
+Quelle: PLOS ONE via ScienceDaily – https://www.sciencedaily.com/releases/2026/09/260925005414.htm</description>
+  </item>
+  <item>
+   <title>KI entwirft molekulare Scheren, die krankmachende Proteine zerschneiden</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-baker-proteasen</link>
+   <guid isPermaLink="false">2026-11-13-baker-proteasen</guid>
+   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Das Labor von David Baker hat mit RFdiffusion2, ProteinMPNN und AlphaFold 3 Enzyme am Computer entworfen, die ein frei gewähltes Zielprotein erkennen und an einer bestimmten Stelle durchtrennen. Von 69 entworfenen Cystein-Proteasen funktionierten 13 im Labor, von 135 Zink-Proteasen 36 Prozent. Nach Feinabstimmung schnitt das beste Enzym 30-mal schneller. Ein Design zerlegte das Protein TDP-43, das sich bei ALS und manchen Demenzformen ablagert, andere schnitten Fragmente von Amyloid-beta, das mit Alzheimer in Verbindung steht.
+
+Warum das wichtig ist: Bisher mussten Enzyme aus der Natur mühsam angepasst werden. Jetzt lassen sie sich für ein Zielprotein nach Wunsch entwerfen. Das öffnet einen neuen Weg für Medikamente, die schädliche Proteine gezielt abbauen.
+
+Vorbehalt: Reine Laborergebnisse in Bakterien. Es gibt keine Tests an Tieren oder Menschen, und nur ein Teil der Entwürfe war aktiv.
+
+Quelle: Nature via Phys.org – https://phys.org/news/2026-10-ai-molecular-scissors-protein.html</description>
+  </item>
+ </channel>
+</rss>

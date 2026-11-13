@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-13-mythos-10000-schritte",
+  "date": "2026-11-13",
+  "published": "2026-09-08",
+  "category": "mythen",
+  "countries": ["AU", "GB"],
+  "institution": "University of Sydney, UK Biobank",
+  "maturity": "study",
+  "evidence": "cohort",
+  "verdict": "partly",
+  "source": {"name": "British Journal of Sports Medicine via News-Medical", "url": "https://www.news-medical.net/news/20260910/You-may-not-need-10000-steps-if-some-of-them-are-taken-at-a-faster-pace.aspx"},
+  "more": [{"name": "ScienceDaily zur Schrittstudie April 2026", "url": "https://www.sciencedaily.com/releases/2026/04/260417085409.htm"}],
+  "de": {
+    "myth": "Man muss 10.000 Schritte am Tag gehen, um gesund zu bleiben.",
+    "title": "Mythos 10.000 Schritte: Das Tempo zählt mehr als die magische Zahl",
+    "summary": "Forschende der University of Sydney haben Schrittdaten von rund 104.000 Teilnehmern der britischen UK Biobank ausgewertet, gemessen mit Armband-Sensoren und mit Sterbedaten verknüpft. Ohne Berücksichtigung des Tempos lag das geringste Sterberisiko bei 7.500 bis 10.000 Schritten. Entscheidender war aber die Intensität: Wer in seinen 30 aktivsten Minuten des Tages rund 90 bis 100 Schritte pro Minute schaffte, hatte in jeder Schrittgruppe ein niedrigeres Risiko. Selbst bei unter 5.000 Schritten brachte zügiges Gehen einen Nutzen, vergleichbar mit 5.000 bis 7.500 langsamen Schritten.",
+    "why": "Die Zahl 10.000 stammt aus einer japanischen Werbekampagne der 1960er Jahre, nicht aus der Forschung. Die Daten zeigen, dass der Nutzen schon weit darunter beginnt und das Tempo einen eigenen Beitrag leistet.",
+    "caveat": "Beobachtungsstudie, also Zusammenhang statt Beweis. Armbandsensoren zählen manche Bewegungen falsch, und die Schritte wurden nur in einem Teilzeitraum gemessen."
+  },
+  "en": {
+    "myth": "You need to walk 10,000 steps a day to stay healthy.",
+    "title": "The 10,000-step myth: pace matters more than the magic number",
+    "summary": "University of Sydney researchers analysed step data from around 104,000 UK Biobank participants, measured with wrist sensors and linked to mortality records. Ignoring pace, the lowest risk of death was at 7,500 to 10,000 steps. Intensity mattered more: people who reached roughly 90 to 100 steps per minute during their 30 most active minutes had lower risk in every step-count group. Even below 5,000 steps, brisk walking brought a benefit comparable to 5,000 to 7,500 slow steps.",
+    "why": "The 10,000 figure comes from a 1960s Japanese marketing campaign, not from research. The data show benefits start well below it and that pace makes its own contribution.",
+    "caveat": "Observational study, so association rather than proof. Wrist sensors miscount some movements, and steps were measured for only part of the follow-up period."
+  },
+  "ru": {
+    "myth": "Чтобы оставаться здоровым, нужно проходить 10 000 шагов в день.",
+    "title": "Миф о 10 000 шагов: темп важнее магического числа",
+    "summary": "Исследователи Сиднейского университета проанализировали данные о шагах около 104 000 участников британского биобанка UK Biobank, измеренные браслетами и сопоставленные с данными о смертности. Без учёта темпа наименьший риск смерти приходился на 7 500–10 000 шагов. Но важнее оказалась интенсивность: те, кто в свои 30 самых активных минут дня делал примерно 90–100 шагов в минуту, имели меньший риск в каждой группе по числу шагов. Даже при менее чем 5 000 шагов быстрая ходьба давала пользу, сопоставимую с 5 000–7 500 медленных шагов.",
+    "why": "Число 10 000 пришло из японской рекламной кампании 1960-х годов, а не из науки. Данные показывают, что польза начинается намного раньше, а темп вносит собственный вклад.",
+    "caveat": "Наблюдательное исследование, то есть связь, а не доказательство. Браслеты неверно считают часть движений, а шаги измерялись лишь в части периода наблюдения."
+  }
+}
