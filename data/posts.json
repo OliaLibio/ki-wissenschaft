@@ -1,7 +1,260 @@
 {
- "generated": "2026-11-13T08:36:01Z",
- "count": 22,
+ "generated": "2026-11-16T08:10:55Z",
+ "count": 28,
  "posts": [
+  {
+   "id": "2026-11-16-mythos-vollfett-milch",
+   "date": "2026-11-16",
+   "published": "2026-11-06",
+   "category": "mythen",
+   "countries": [
+    "CA"
+   ],
+   "institution": "University of Toronto",
+   "maturity": "clinical",
+   "evidence": "rct",
+   "verdict": "partly",
+   "source": {
+    "name": "Journal of Nutrition via ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261105081000.htm"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1016/j.tjnut.2026.101373",
+     "url": "https://doi.org/10.1016/j.tjnut.2026.101373"
+    }
+   ],
+   "de": {
+    "myth": "Vollfett-Milchprodukte machen dick und treiben das Cholesterin hoch.",
+    "title": "Vollfett-Milch: Drei Portionen am Tag verschlechterten in zwölf Wochen weder Gewicht noch Cholesterin",
+    "summary": "Jahrzehntelang hieß die Empfehlung: fettarme Milchprodukte. Ein Team um Gerald Harvey Anderson in Toronto hat 74 Erwachsene mit Übergewicht oder Adipositas zufällig auf drei Gruppen verteilt: kalorienreduzierte Kost mit wenig Milchprodukten, drei Portionen Vollfett-Milchprodukte täglich bei ausgeglichener Energiebilanz, oder drei Portionen ohne Kalorienvorgabe. Nach zwölf Wochen unterschieden sich die Milchgruppen bei Gewicht, Körperzusammensetzung und Cholesterin nicht von der Kontrollgruppe, und es gab keine Hinweise auf Insulinresistenz. Der Blutdruck verbesserte sich in den Milchgruppen leicht, die Zufuhr von Kalzium, Eiweiß und Vitamin D stieg. Die Autoren erklären das mit der Matrix-Hypothese: Fett in der Struktur von Käse, Joghurt und Milch wirkt anders als isoliertes gesättigtes Fett.",
+    "why": "Die Warnung vor Milchfett beruhte auf dem Fettgehalt allein, nicht auf Studien mit den Lebensmitteln selbst. Diese Studie ist ein weiterer Hinweis, dass der Rat zu fettarmen Varianten weniger gut belegt ist als lange angenommen.",
+    "caveat": "Nur 74 Personen und drei Monate. Die Studie sagt nichts über Herzinfarkte oder Diabetes auf lange Sicht, und die Mitteilung nennt keine Effektgrößen. Finanziert wurde sie unter anderem vom kanadischen Milchforschungs-Cluster, einem Programm mit Beteiligung der Milchwirtschaft."
+   },
+   "en": {
+    "myth": "Full-fat dairy makes you fat and drives up cholesterol.",
+    "title": "Full-fat dairy: three servings a day did not worsen weight or cholesterol over twelve weeks",
+    "summary": "For decades the advice was low-fat dairy. A team led by Gerald Harvey Anderson in Toronto randomised 74 adults with overweight or obesity into three groups: a calorie-restricted diet with little dairy, three daily servings of full-fat dairy within an energy-balanced diet, or three servings with no calorie target. After twelve weeks the dairy groups did not differ from the control group in weight, body composition or cholesterol, and there was no sign of insulin resistance. Blood pressure improved slightly in the dairy groups and intake of calcium, protein and vitamin D rose. The authors point to the dairy matrix hypothesis: fat embedded in the structure of cheese, yoghurt and milk behaves differently from isolated saturated fat.",
+    "why": "The warning against dairy fat rested on fat content alone, not on trials of the foods themselves. This study adds to the evidence that the low-fat advice is less well founded than long assumed.",
+    "caveat": "Only 74 people and three months. The trial says nothing about heart attacks or diabetes in the long run, and the release gives no effect sizes. Funding came partly from Canada's Dairy Research Cluster, a programme involving the dairy industry."
+   },
+   "ru": {
+    "myth": "Жирные молочные продукты ведут к полноте и повышают холестерин.",
+    "title": "Жирное молоко: три порции в день за двенадцать недель не ухудшили ни вес, ни холестерин",
+    "summary": "Десятилетиями рекомендовали обезжиренные молочные продукты. Команда Джеральда Харви Андерсона в Торонто случайным образом разделила 74 взрослых с избыточным весом или ожирением на три группы: низкокалорийная диета с минимумом молочного, три порции жирных молочных продуктов в день при сбалансированной энергии или три порции без ограничения калорий. Через двенадцать недель молочные группы не отличались от контрольной по весу, составу тела и холестерину, признаков инсулинорезистентности не было. Давление в молочных группах немного улучшилось, потребление кальция, белка и витамина D выросло. Авторы объясняют это гипотезой «молочной матрицы»: жир в структуре сыра, йогурта и молока действует иначе, чем изолированный насыщенный жир.",
+    "why": "Предостережение против молочного жира опиралось только на содержание жира, а не на испытания самих продуктов. Это исследование — ещё одно свидетельство, что совет выбирать обезжиренное обоснован слабее, чем долго считалось.",
+    "caveat": "Всего 74 человека и три месяца. Исследование ничего не говорит об инфарктах или диабете в долгосрочной перспективе, а в сообщении нет размеров эффекта. Финансирование частично поступило от канадского кластера молочных исследований — программы с участием молочной отрасли."
+   }
+  },
+  {
+   "id": "2026-11-16-mit-klima-emulator",
+   "date": "2026-11-16",
+   "published": "2026-11-12",
+   "category": "klima",
+   "countries": [
+    "US",
+    "GB",
+    "CH"
+   ],
+   "institution": "MIT, Imperial College London, ETH Zürich",
+   "maturity": "study",
+   "source": {
+    "name": "PNAS via MIT News",
+    "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112"
+   },
+   "more": [
+    {
+     "name": "PNAS DOI 10.1073/pnas.2620731123",
+     "url": "https://doi.org/10.1073/pnas.2620731123"
+    }
+   ],
+   "de": {
+    "title": "Absichtlich unrealistische Trainingsdaten machen KI-Klimamodelle verlässlicher",
+    "summary": "Vollständige Erdsystemmodelle brauchen für ein einziges Zukunftsszenario Monate auf einem Supercomputer. KI-Emulatoren ahmen sie in Sekunden nach, müssen aber zuvor mit sechs bis acht teuren Modellläufen trainiert werden, und sie versagen oft bei Szenarien, die sie nie gesehen haben. Ein Team um Christopher Womack und Noelle Selin am MIT hat einen Algorithmus entwickelt, der die Trainingsszenarien gezielt entwirft: Er beginnt mit einem beliebigen Szenario aus einem einfachen Klimamodell, misst den Fehler des Emulators und verändert die Daten so lange, bis der Fehler unter eine Schwelle fällt. Die entstehenden Szenarien enthalten sprunghafte Emissionsverläufe, die mit keiner realistischen Zukunft übereinstimmen. Genau deshalb lernt der Emulator allgemeiner. Ein so trainiertes Modell sagte ungesehene Szenarien korrekt voraus, etwa die Wirkung lokaler Schadstoffauflagen, bei denen ein Schadstoff sinkt, während andere steigen. Klassisch trainierte Emulatoren scheiterten an diesem Test. Das Erdsystemmodell muss dafür nur noch einmal laufen statt sechs- bis achtmal.",
+    "why": "Politik braucht schnelle Antworten auf Was-wäre-wenn-Fragen zu Emissionen. Emulatoren, die auch bei neuartigen Szenarien stimmen, machen solche Abschätzungen erstmals belastbar.",
+    "caveat": "Die Mitteilung nennt keine konkreten Genauigkeitszahlen und keinen Umfang der Datenersparnis. Getestet wurde mit einem Modell mittlerer Komplexität, die Übertragung auf große Erdsystemmodelle steht aus."
+   },
+   "en": {
+    "title": "Deliberately unrealistic training data make AI climate models more trustworthy",
+    "summary": "Full earth system models take months on a supercomputer for a single future scenario. AI emulators mimic them in seconds but must first be trained on six to eight expensive model runs, and they often fail on scenarios they have never seen. A team led by Christopher Womack and Noelle Selin at MIT built an algorithm that designs the training scenarios on purpose: it starts with an arbitrary scenario from a simple climate model, measures the emulator's error and keeps altering the data until the error drops below a threshold. The resulting scenarios contain jumpy emissions paths that match no realistic future. That is exactly why the emulator learns more generally. A model trained this way correctly predicted unseen scenarios, such as the effect of local pollution controls where one pollutant falls while others rise. Conventionally trained emulators failed that test. The earth system model now needs to run only once instead of six to eight times.",
+    "why": "Policymakers need fast answers to what-if questions about emissions. Emulators that stay accurate on novel scenarios make such estimates reliable for the first time.",
+    "caveat": "The release gives no concrete accuracy figures and no size for the data savings. Testing used a model of intermediate complexity; transfer to full earth system models is still to come."
+   },
+   "ru": {
+    "title": "Намеренно нереалистичные обучающие данные делают ИИ-модели климата надёжнее",
+    "summary": "Полные модели земной системы тратят месяцы на суперкомпьютере ради одного сценария будущего. ИИ-эмуляторы воспроизводят их за секунды, но сначала их нужно обучить на шести–восьми дорогих прогонах модели, и они часто ошибаются на сценариях, которых никогда не видели. Команда Кристофера Уомака и Ноэль Селин из MIT создала алгоритм, который целенаправленно проектирует обучающие сценарии: он начинает с произвольного сценария простой климатической модели, измеряет ошибку эмулятора и меняет данные, пока ошибка не опустится ниже порога. Получающиеся сценарии содержат скачкообразные траектории выбросов, не похожие ни на одно реалистичное будущее. Именно поэтому эмулятор обучается более общо. Обученная так модель верно предсказала невиданные сценарии, например эффект локальных ограничений на выбросы, когда один загрязнитель падает, а другие растут. Эмуляторы, обученные классически, этот тест провалили. Модель земной системы теперь нужно запускать лишь один раз вместо шести–восьми.",
+    "why": "Политикам нужны быстрые ответы на вопросы «что, если» о выбросах. Эмуляторы, сохраняющие точность на новых сценариях, впервые делают такие оценки надёжными.",
+    "caveat": "В сообщении нет конкретных цифр точности и объёма экономии данных. Тестирование проводилось на модели средней сложности, перенос на полные модели земной системы ещё впереди."
+   }
+  },
+  {
+   "id": "2026-11-16-maya-ki-agenten",
+   "date": "2026-11-16",
+   "published": "2026-11-10",
+   "category": "archaeologie",
+   "countries": [
+    "MX",
+    "US"
+   ],
+   "institution": "Privatprojekt eines Google-Forschers, INAH Mexiko",
+   "maturity": "preprint",
+   "source": {
+    "name": "TechRadar",
+    "url": "https://techradar.com/ai-platforms-assistants/google-researcher-discovers-unmapped-maya-site-in-mexico-using-48-ai-agents-project-takes-less-than-72-hours-after-agents-scour-nasa-lidar-data"
+   },
+   "more": [
+    {
+     "name": "Analyse: Was die Agenten übersahen",
+     "url": "https://www.winzheng.com/en/article/ai-agents-maya-lidar-discovery-72-hours"
+    },
+    {
+     "name": "Future of AI: Keine Neuentdeckung",
+     "url": "https://news.futureofai.org/2026/11/no-ai-agents-did-not-discover.html"
+    }
+   ],
+   "de": {
+    "title": "48 KI-Agenten finden in 72 Stunden eine Maya-Stätte, die Archäologen schon kannten",
+    "summary": "Der Google-Forscher Pietro Miotti, nach eigener Aussage kein Archäologe, ließ in einem Privatprojekt 48 KI-Agenten öffentliche NASA-Laserscans von rund 1.200 Quadratkilometern Maya-Dschungel durchsehen. Die Agenten bekamen eine schriftliche Anleitung, wonach sie suchen sollten: Pyramiden, Plattformen, Plätze, keine natürlichen Hügel, Dolinen oder Straßen. Nach weniger als drei Tagen meldeten sie eine Hügelkuppe mit planiertem Platz, ovaler Pyramide von geschätzt acht bis zwölf Metern Höhe, erhöhtem Hof und einem möglichen Wasserspeicher. Mexikos Denkmalbehörde INAH bestätigte, dass dort keine registrierte Stätte verzeichnet ist. Dann kam die Wendung: Eine Fachpublikation von Estrada-Belli und Kollegen hatte die Stätte bereits 2025 dokumentiert. Die Agenten hatten die Literatur nicht geprüft. Miotti räumte das ein und stufte den Fund zur Wiederentdeckung herab.",
+    "why": "Die Episode zeigt beides. Handelsübliche KI-Agenten können riesige Fernerkundungsdaten in Tagen vorsortieren, wofür Menschen Monate brauchen. Beim Abgleich mit dem Forschungsstand versagen sie aber, und genau das macht ihre Fehler schwer zu erkennen.",
+    "caveat": "Kein Archäologe hat die Stätte vor Ort geprüft, dafür wäre eine INAH-Genehmigung nötig. Alle Merkmalsbeschreibungen sind Schlussfolgerungen aus den Agenten-Dialogen. Fachleute warnen zudem, dass öffentliche Fundmeldungen Plünderer anlocken können."
+   },
+   "en": {
+    "title": "48 AI agents find a Maya site in 72 hours that archaeologists already knew",
+    "summary": "Google researcher Pietro Miotti, who says he is not an archaeologist, had 48 AI agents comb through public NASA lidar scans of roughly 1,200 square kilometres of Maya jungle in a personal project. The agents were given a written guide on what to look for: pyramids, platforms and plazas, while excluding natural hills, sinkholes and roads. In under three days they flagged a hilltop with a levelled plaza, an oval pyramid estimated at eight to twelve metres, a raised courtyard and a possible reservoir. Mexico's heritage institute INAH confirmed that no registered site exists at that location. Then came the twist: a paper by Estrada-Belli and colleagues had already documented the site in 2025. The agents had not checked the literature. Miotti acknowledged this and downgraded the find to a rediscovery.",
+    "why": "The episode shows both sides. Off-the-shelf AI agents can triage huge remote-sensing datasets in days, work that takes humans months. But they fail at cross-checking the state of research, and that is exactly what makes their errors hard to spot.",
+    "caveat": "No archaeologist has verified the site in the field, which would require INAH approval. All feature descriptions are inferences from the agent dialogues. Experts also warn that publicising finds can attract looters."
+   },
+   "ru": {
+    "title": "48 ИИ-агентов за 72 часа нашли городище майя, о котором археологи уже знали",
+    "summary": "Исследователь Google Пьетро Миотти, по его словам не археолог, в личном проекте поручил 48 ИИ-агентам просмотреть открытые лидарные сканы NASA примерно 1 200 квадратных километров джунглей майя. Агенты получили письменную инструкцию, что искать: пирамиды, платформы, площади, исключая природные холмы, карстовые воронки и дороги. Менее чем за три дня они отметили вершину холма с выровненной площадью, овальной пирамидой высотой примерно восемь–двенадцать метров, приподнятым двором и возможным водохранилищем. Мексиканский институт INAH подтвердил, что зарегистрированного памятника там нет. Затем последовал поворот: статья Эстрады-Белли и коллег уже задокументировала это место в 2025 году. Агенты не проверили литературу. Миотти признал это и понизил находку до повторного открытия.",
+    "why": "Эпизод показывает обе стороны. Обычные ИИ-агенты могут за дни отсортировать огромные массивы данных дистанционного зондирования, на что у людей уходят месяцы. Но они не справляются со сверкой с состоянием науки, и именно это делает их ошибки трудно заметными.",
+    "caveat": "Ни один археолог не проверял памятник на месте, для этого нужно разрешение INAH. Все описания объектов — выводы из диалогов с агентами. Специалисты также предупреждают, что публичные сообщения о находках могут привлечь грабителей."
+   }
+  },
+  {
+   "id": "2026-11-16-ki-effizienz-luecke",
+   "date": "2026-11-16",
+   "published": "2026-10-29",
+   "category": "grenzen",
+   "countries": [
+    "CN",
+    "JP"
+   ],
+   "institution": "Chengdu University of Technology, Nanchang University, Tohoku University",
+   "maturity": "study",
+   "source": {
+    "name": "Environmental Science and Ecotechnology via Newswise",
+    "url": "https://www.newswise.com/articles/ai-boosts-operational-efficiency-but-not-systemic-climate-action-global-study-finds2"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1016/j.ese.2026.100784",
+     "url": "https://doi.org/10.1016/j.ese.2026.100784"
+    }
+   ],
+   "de": {
+    "title": "69 Länder, 24 Jahre: KI macht Wirtschaften effizienter, aber nicht klimafreundlicher",
+    "summary": "Ein chinesisch-japanisches Team hat für 69 Länder von 2000 bis 2023 einen KI-Index aus Patenten, Industrierobotern, Publikationen, digitaler Infrastruktur und Forschungspersonal gebildet und ihn mit sieben UN-Nachhaltigkeitszielen verknüpft, ausgewertet mit Double Machine Learning. Stabile positive Zusammenhänge fanden sich bei Bildung, sauberer Energie und industrieller Innovation. Bei verantwortungsvollem Konsum und Klimaschutz gab es dagegen keinen belastbaren Effekt. Die Autoren nennen das die Effizienz-Transformations-Lücke: KI wirkt dort, wo Daten reichlich und leicht zu kodieren sind, ändert aber von sich aus weder Konsummuster noch Regulierungsehrgeiz noch das Tempo der Dekarbonisierung. Kurzfristig bremste KI-Einsatz sogar grüne Innovation. Länder mit niedrigem Entwicklungsstand profitierten am stärksten. Szenarien bis 2100 zeigen die besten Ergebnisse nur, wenn hohe KI-Entwicklung mit einem nachhaltigkeitsorientierten Pfad zusammenkommt.",
+    "why": "Das Versprechen, KI werde den Klimaschutz quasi automatisch voranbringen, findet in den Länderdaten keine Stütze. KI ist laut Studie ein bedingter Beschleuniger, dessen Nutzen von Politik, Strommix und Governance abhängt.",
+    "caveat": "Zusammenhänge auf Länderebene, keine Kausalbeweise. Die Mitteilung nennt weder Effektgrößen noch Konfidenzintervalle. Der KI-Index misst Ausstattung, nicht tatsächliche Nutzung."
+   },
+   "en": {
+    "title": "69 countries, 24 years: AI makes economies more efficient, but not more climate-friendly",
+    "summary": "A Chinese-Japanese team built an AI index for 69 countries from 2000 to 2023 out of patents, industrial robots, publications, digital infrastructure and research staff, and linked it to seven UN Sustainable Development Goals using double machine learning. Stable positive links appeared for education, clean energy and industrial innovation. For responsible consumption and climate action, however, there was no robust effect. The authors call this the efficiency-transformation gap: AI works where data are rich and easy to codify, but by itself changes neither consumption patterns nor regulatory ambition nor the pace of decarbonisation. In the short term, AI deployment even dragged on green innovation. Low-development countries benefited most. Projections to 2100 show the best outcomes only when high AI development is paired with a sustainability-oriented pathway.",
+    "why": "The promise that AI will advance climate protection almost automatically finds no support in the country data. The study calls AI a conditional accelerator whose value depends on policy, the electricity mix and governance.",
+    "caveat": "Country-level associations, not causal proof. The release reports neither effect sizes nor confidence intervals. The AI index measures capacity, not actual use."
+   },
+   "ru": {
+    "title": "69 стран, 24 года: ИИ делает экономику эффективнее, но не более дружественной к климату",
+    "summary": "Китайско-японская команда построила индекс ИИ для 69 стран за 2000–2023 годы из патентов, промышленных роботов, публикаций, цифровой инфраструктуры и научного персонала и связала его с семью целями устойчивого развития ООН методом двойного машинного обучения. Устойчивые положительные связи нашлись для образования, чистой энергии и промышленных инноваций. Для ответственного потребления и борьбы с изменением климата надёжного эффекта не оказалось. Авторы называют это разрывом между эффективностью и трансформацией: ИИ работает там, где данных много и их легко кодифицировать, но сам по себе не меняет ни модели потребления, ни регуляторные амбиции, ни темп декарбонизации. В краткосрочной перспективе внедрение ИИ даже тормозило зелёные инновации. Больше всего выиграли страны с низким уровнем развития. Прогнозы до 2100 года показывают лучшие результаты лишь при сочетании высокого развития ИИ с курсом на устойчивость.",
+    "why": "Обещание, что ИИ почти автоматически продвинет защиту климата, не находит опоры в данных по странам. Исследование называет ИИ условным ускорителем, польза которого зависит от политики, структуры энергетики и управления.",
+    "caveat": "Связи на уровне стран, а не доказательства причинности. В сообщении нет ни размеров эффекта, ни доверительных интервалов. Индекс ИИ измеряет оснащённость, а не фактическое использование."
+   }
+  },
+  {
+   "id": "2026-11-16-glioblastom-scdori",
+   "date": "2026-11-16",
+   "published": "2026-11-04",
+   "category": "gesundheit",
+   "countries": [
+    "DE",
+    "GB"
+   ],
+   "institution": "EMBL Heidelberg, DKFZ, Wellcome Sanger Institute",
+   "maturity": "lab",
+   "source": {
+    "name": "Nature via EMBL",
+    "url": "https://www.embl.org/news/?p=85927"
+   },
+   "more": [
+    {
+     "name": "Cancer Research UK",
+     "url": "https://news.cancerresearchuk.org/2026/11/04/scientists-uncover-the-rules-of-glioblastoma/"
+    },
+    {
+     "name": "Nature DOI 10.1038/s41586-026-11177-0",
+     "url": "https://doi.org/10.1038/s41586-026-11177-0"
+    }
+   ],
+   "de": {
+    "title": "Deep Learning entschlüsselt die Spielregeln des tödlichsten Hirntumors",
+    "summary": "Glioblastom-Zellen wechseln ständig ihren molekularen Zustand und entziehen sich so der Therapie. Bisher galt dieses Wechseln als weitgehend zufällig. Zwei Nature-Studien von EMBL, DKFZ und Sanger Institute zeigen das Gegenteil: Die Zellen folgen wiederkehrenden Pfaden, und jeder Zustand sitzt an einem festen Ort im Tumor. Grundlage ist der bisher größte molekulare Atlas der Krankheit aus Tumoren von zwölf Patienten. Das Deep-Learning-Verfahren scDORI des Teams um Oliver Stegle rekonstruierte aus über einer Million Einzelzellen die Regulationsnetzwerke und fand Schutzregulatoren, die Zellen in einem wenig wandelbaren Zustand festhalten. Als die Forschenden einen davon, MYT1L, in Patientenzellen verstärkten, wurden die Tumoren weniger aggressiv, und Mäuse mit solchen Tumoren überlebten länger.",
+    "why": "Glioblastom tötet jährlich über 100.000 Menschen und ist fast immer unheilbar. Wer die Wechselregeln der Zellen kennt, kann versuchen, den Tumor in einem harmlosen Zustand einzusperren, statt ihn nur anzugreifen.",
+    "caveat": "Alles präklinisch: Patientenzellen, Organoide und Mäuse. Die Zahl der Mäuse und Überlebensdaten nennt die Mitteilung nicht. Die Autoren selbst sagen, dass klinische Anwendungen noch entfernt sind."
+   },
+   "en": {
+    "title": "Deep learning decodes the rulebook of the deadliest brain tumour",
+    "summary": "Glioblastoma cells constantly switch molecular states, which is how they evade treatment. That switching was thought to be largely random. Two Nature papers from EMBL, DKFZ and the Sanger Institute show otherwise: cells follow recurring paths, and each state occupies a fixed niche in the tumour. The basis is the largest molecular atlas of the disease to date, built from tumours of twelve patients. The deep-learning method scDORI from Oliver Stegle's team reconstructed regulatory networks from more than a million single cells and identified safeguard regulators that hold cells in a low-plasticity state. When the researchers boosted one of them, MYT1L, in patient-derived cells, the tumours became less aggressive and mice carrying them survived longer.",
+    "why": "Glioblastoma kills more than 100,000 people a year and is almost always incurable. Knowing the switching rules opens a new strategy: locking the tumour into a harmless state instead of only attacking it.",
+    "caveat": "Everything is preclinical: patient cells, organoids and mice. The release gives no mouse numbers or survival figures. The authors themselves say clinical applications are still some way off."
+   },
+   "ru": {
+    "title": "Глубокое обучение расшифровало правила игры самой смертоносной опухоли мозга",
+    "summary": "Клетки глиобластомы постоянно меняют молекулярное состояние и так ускользают от терапии. Считалось, что эти переходы в основном случайны. Две статьи в Nature от EMBL, DKFZ и Института Сенгера показывают обратное: клетки движутся по повторяющимся путям, и каждое состояние занимает в опухоли свою фиксированную нишу. Основой стал крупнейший на сегодня молекулярный атлас болезни, построенный по опухолям двенадцати пациентов. Метод глубокого обучения scDORI команды Оливера Штегле восстановил регуляторные сети по более чем миллиону отдельных клеток и нашёл регуляторы-«предохранители», удерживающие клетки в малоизменчивом состоянии. Когда исследователи усилили один из них, MYT1L, в клетках пациентов, опухоли стали менее агрессивными, а мыши с такими опухолями жили дольше.",
+    "why": "Глиобластома убивает более 100 000 человек в год и почти всегда неизлечима. Зная правила переходов, можно попытаться запереть опухоль в безобидном состоянии, а не только атаковать её.",
+    "caveat": "Всё доклинически: клетки пациентов, органоиды и мыши. Число мышей и данные о выживаемости в сообщении не приводятся. Сами авторы говорят, что до клинического применения ещё далеко."
+   }
+  },
+  {
+   "id": "2026-11-16-elefanten-kenia-zaehlung",
+   "date": "2026-11-16",
+   "published": "2026-11-07",
+   "category": "tiere",
+   "countries": [
+    "KE",
+    "TZ"
+   ],
+   "institution": "Save the Elephants, Jane Goodall Institute",
+   "maturity": "deployed",
+   "source": {
+    "name": "Reuters via US News",
+    "url": "https://www.usnews.com/news/top-news/articles/2026-11-07/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts"
+   },
+   "more": [
+    {
+     "name": "TechTimes",
+     "url": "https://www.techtimes.co.uk/environmental-groups-ai-wildlife-environmental-costs-1809789"
+    }
+   ],
+   "de": {
+    "title": "Tierzählung aus der Luft: Menschen übersahen ein Drittel der Elefanten, die KI zählt in Stunden",
+    "summary": "Eine Luftbildzählung in Kenias größtem Schutzgebiet lieferte 2025 rund 200.000 Fotos. Neun Fachleute brauchten neun Monate, um sie von Hand auszuwerten. Trainierte Bildmodelle erledigen dieselbe Analyse laut Save the Elephants inzwischen in Stunden. Der Vergleich mit den KI-Auswertungen zeigte, wie lückenhaft die klassischen Zählungen waren: Etwa ein Drittel der Elefanten, rund die Hälfte der Zebras und Giraffen und drei Viertel der Oryx-Antilopen waren übersehen worden. Geschäftsführer Frank Pope sagt, KI mache Natur messbar und damit finanzierbar. Das Jane-Goodall-Institut digitalisiert parallel jahrzehntelange handschriftliche Schimpansen-Beobachtungen aus dem Gombe-Nationalpark in Tansania. Statt 13 bis 15 Jahren soll die Aufarbeitung mit einem Werkzeug von Amazon Web Services rund zwei Jahre dauern.",
+    "why": "Falsche Tierzahlen führen zu falschen Schutzentscheidungen und fehlgeleitetem Geld. Wenn Bestände systematisch unterschätzt wurden, müssen viele Artenschutz-Bilanzen neu gerechnet werden.",
+    "caveat": "Die Zahlen stammen aus einer Reuters-Recherche und Aussagen der Organisation, nicht aus einer begutachteten Studie. Dieselbe Recherche hält fest, dass alle 15 befragten Umweltorganisationen den Strom- und Wasserbedarf der Rechenzentren hinter dieser KI als Problem sehen."
+   },
+   "en": {
+    "title": "Aerial wildlife counts: humans missed a third of the elephants, AI counts in hours",
+    "summary": "An aerial survey of Kenya's largest protected area in 2025 produced about 200,000 photos. Nine specialists needed nine months to review them by hand. Trained image models now complete the same analysis in hours, according to Save the Elephants. Comparison with the AI results showed how patchy the traditional counts were: about a third of the elephants, roughly half of the zebras and giraffes and three quarters of the oryx had been missed. Chief executive Frank Pope says AI makes nature measurable and therefore investable. In parallel, the Jane Goodall Institute is digitising decades of handwritten chimpanzee observations from Gombe National Park in Tanzania. With a tool built with Amazon Web Services, the job is expected to take about two years instead of 13 to 15.",
+    "why": "Wrong animal numbers lead to wrong conservation decisions and misdirected money. If populations were systematically undercounted, many conservation balance sheets need recalculating.",
+    "caveat": "The figures come from a Reuters investigation and the organisation's own statements, not from a peer-reviewed study. The same investigation notes that all 15 environmental groups surveyed see the electricity and water demand of the data centres behind this AI as a problem."
+   },
+   "ru": {
+    "title": "Подсчёт животных с воздуха: люди пропускали треть слонов, ИИ считает за часы",
+    "summary": "Аэрофотосъёмка крупнейшей охраняемой территории Кении в 2025 году дала около 200 000 снимков. Девяти специалистам понадобилось девять месяцев, чтобы просмотреть их вручную. Обученные модели распознавания изображений, по данным Save the Elephants, теперь выполняют тот же анализ за часы. Сравнение с результатами ИИ показало, насколько неполными были традиционные подсчёты: пропущены были примерно треть слонов, около половины зебр и жирафов и три четверти антилоп орикс. Глава организации Фрэнк Поуп говорит, что ИИ делает природу измеримой, а значит, пригодной для инвестиций. Параллельно Институт Джейн Гудолл оцифровывает десятилетия рукописных наблюдений за шимпанзе из национального парка Гомбе в Танзании. С инструментом, созданным вместе с Amazon Web Services, работа должна занять около двух лет вместо 13–15.",
+    "why": "Неверные численности животных ведут к неверным природоохранным решениям и неправильно направленным деньгам. Если популяции систематически недооценивались, многие балансы охраны видов придётся пересчитать.",
+    "caveat": "Цифры взяты из расследования Reuters и заявлений самой организации, а не из рецензируемого исследования. То же расследование отмечает, что все 15 опрошенных экологических организаций считают проблемой потребление электроэнергии и воды дата-центрами, стоящими за этим ИИ."
+   }
+  },
   {
    "id": "2026-11-13-tieruebersetzer-stand",
    "date": "2026-11-13",

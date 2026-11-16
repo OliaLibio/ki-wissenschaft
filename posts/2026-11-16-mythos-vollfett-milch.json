@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-16-mythos-vollfett-milch",
+  "date": "2026-11-16",
+  "published": "2026-11-06",
+  "category": "mythen",
+  "countries": ["CA"],
+  "institution": "University of Toronto",
+  "maturity": "clinical",
+  "evidence": "rct",
+  "verdict": "partly",
+  "source": {"name": "Journal of Nutrition via ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/11/261105081000.htm"},
+  "more": [{"name": "DOI 10.1016/j.tjnut.2026.101373", "url": "https://doi.org/10.1016/j.tjnut.2026.101373"}],
+  "de": {
+    "myth": "Vollfett-Milchprodukte machen dick und treiben das Cholesterin hoch.",
+    "title": "Vollfett-Milch: Drei Portionen am Tag verschlechterten in zwölf Wochen weder Gewicht noch Cholesterin",
+    "summary": "Jahrzehntelang hieß die Empfehlung: fettarme Milchprodukte. Ein Team um Gerald Harvey Anderson in Toronto hat 74 Erwachsene mit Übergewicht oder Adipositas zufällig auf drei Gruppen verteilt: kalorienreduzierte Kost mit wenig Milchprodukten, drei Portionen Vollfett-Milchprodukte täglich bei ausgeglichener Energiebilanz, oder drei Portionen ohne Kalorienvorgabe. Nach zwölf Wochen unterschieden sich die Milchgruppen bei Gewicht, Körperzusammensetzung und Cholesterin nicht von der Kontrollgruppe, und es gab keine Hinweise auf Insulinresistenz. Der Blutdruck verbesserte sich in den Milchgruppen leicht, die Zufuhr von Kalzium, Eiweiß und Vitamin D stieg. Die Autoren erklären das mit der Matrix-Hypothese: Fett in der Struktur von Käse, Joghurt und Milch wirkt anders als isoliertes gesättigtes Fett.",
+    "why": "Die Warnung vor Milchfett beruhte auf dem Fettgehalt allein, nicht auf Studien mit den Lebensmitteln selbst. Diese Studie ist ein weiterer Hinweis, dass der Rat zu fettarmen Varianten weniger gut belegt ist als lange angenommen.",
+    "caveat": "Nur 74 Personen und drei Monate. Die Studie sagt nichts über Herzinfarkte oder Diabetes auf lange Sicht, und die Mitteilung nennt keine Effektgrößen. Finanziert wurde sie unter anderem vom kanadischen Milchforschungs-Cluster, einem Programm mit Beteiligung der Milchwirtschaft."
+  },
+  "en": {
+    "myth": "Full-fat dairy makes you fat and drives up cholesterol.",
+    "title": "Full-fat dairy: three servings a day did not worsen weight or cholesterol over twelve weeks",
+    "summary": "For decades the advice was low-fat dairy. A team led by Gerald Harvey Anderson in Toronto randomised 74 adults with overweight or obesity into three groups: a calorie-restricted diet with little dairy, three daily servings of full-fat dairy within an energy-balanced diet, or three servings with no calorie target. After twelve weeks the dairy groups did not differ from the control group in weight, body composition or cholesterol, and there was no sign of insulin resistance. Blood pressure improved slightly in the dairy groups and intake of calcium, protein and vitamin D rose. The authors point to the dairy matrix hypothesis: fat embedded in the structure of cheese, yoghurt and milk behaves differently from isolated saturated fat.",
+    "why": "The warning against dairy fat rested on fat content alone, not on trials of the foods themselves. This study adds to the evidence that the low-fat advice is less well founded than long assumed.",
+    "caveat": "Only 74 people and three months. The trial says nothing about heart attacks or diabetes in the long run, and the release gives no effect sizes. Funding came partly from Canada's Dairy Research Cluster, a programme involving the dairy industry."
+  },
+  "ru": {
+    "myth": "Жирные молочные продукты ведут к полноте и повышают холестерин.",
+    "title": "Жирное молоко: три порции в день за двенадцать недель не ухудшили ни вес, ни холестерин",
+    "summary": "Десятилетиями рекомендовали обезжиренные молочные продукты. Команда Джеральда Харви Андерсона в Торонто случайным образом разделила 74 взрослых с избыточным весом или ожирением на три группы: низкокалорийная диета с минимумом молочного, три порции жирных молочных продуктов в день при сбалансированной энергии или три порции без ограничения калорий. Через двенадцать недель молочные группы не отличались от контрольной по весу, составу тела и холестерину, признаков инсулинорезистентности не было. Давление в молочных группах немного улучшилось, потребление кальция, белка и витамина D выросло. Авторы объясняют это гипотезой «молочной матрицы»: жир в структуре сыра, йогурта и молока действует иначе, чем изолированный насыщенный жир.",
+    "why": "Предостережение против молочного жира опиралось только на содержание жира, а не на испытания самих продуктов. Это исследование — ещё одно свидетельство, что совет выбирать обезжиренное обоснован слабее, чем долго считалось.",
+    "caveat": "Всего 74 человека и три месяца. Исследование ничего не говорит об инфарктах или диабете в долгосрочной перспективе, а в сообщении нет размеров эффекта. Финансирование частично поступило от канадского кластера молочных исследований — программы с участием молочной отрасли."
+  }
+}

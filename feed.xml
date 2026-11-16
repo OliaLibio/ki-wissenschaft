@@ -6,6 +6,90 @@
   <description>Montag, Mittwoch, Freitag: Was KI heute in der Forschung erreicht. Gesundheit, Tiere, Mythen-Check, Klima, Archäologie, Grenzen.</description>
   <language>de</language>
   <item>
+   <title>Vollfett-Milch: Drei Portionen am Tag verschlechterten in zwölf Wochen weder Gewicht noch Cholesterin</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-16-mythos-vollfett-milch</link>
+   <guid isPermaLink="false">2026-11-16-mythos-vollfett-milch</guid>
+   <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+   <category>mythen</category>
+   <description>Jahrzehntelang hieß die Empfehlung: fettarme Milchprodukte. Ein Team um Gerald Harvey Anderson in Toronto hat 74 Erwachsene mit Übergewicht oder Adipositas zufällig auf drei Gruppen verteilt: kalorienreduzierte Kost mit wenig Milchprodukten, drei Portionen Vollfett-Milchprodukte täglich bei ausgeglichener Energiebilanz, oder drei Portionen ohne Kalorienvorgabe. Nach zwölf Wochen unterschieden sich die Milchgruppen bei Gewicht, Körperzusammensetzung und Cholesterin nicht von der Kontrollgruppe, und es gab keine Hinweise auf Insulinresistenz. Der Blutdruck verbesserte sich in den Milchgruppen leicht, die Zufuhr von Kalzium, Eiweiß und Vitamin D stieg. Die Autoren erklären das mit der Matrix-Hypothese: Fett in der Struktur von Käse, Joghurt und Milch wirkt anders als isoliertes gesättigtes Fett.
+
+Warum das wichtig ist: Die Warnung vor Milchfett beruhte auf dem Fettgehalt allein, nicht auf Studien mit den Lebensmitteln selbst. Diese Studie ist ein weiterer Hinweis, dass der Rat zu fettarmen Varianten weniger gut belegt ist als lange angenommen.
+
+Vorbehalt: Nur 74 Personen und drei Monate. Die Studie sagt nichts über Herzinfarkte oder Diabetes auf lange Sicht, und die Mitteilung nennt keine Effektgrößen. Finanziert wurde sie unter anderem vom kanadischen Milchforschungs-Cluster, einem Programm mit Beteiligung der Milchwirtschaft.
+
+Quelle: Journal of Nutrition via ScienceDaily – https://www.sciencedaily.com/releases/2026/11/261105081000.htm</description>
+  </item>
+  <item>
+   <title>Absichtlich unrealistische Trainingsdaten machen KI-Klimamodelle verlässlicher</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-16-mit-klima-emulator</link>
+   <guid isPermaLink="false">2026-11-16-mit-klima-emulator</guid>
+   <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Vollständige Erdsystemmodelle brauchen für ein einziges Zukunftsszenario Monate auf einem Supercomputer. KI-Emulatoren ahmen sie in Sekunden nach, müssen aber zuvor mit sechs bis acht teuren Modellläufen trainiert werden, und sie versagen oft bei Szenarien, die sie nie gesehen haben. Ein Team um Christopher Womack und Noelle Selin am MIT hat einen Algorithmus entwickelt, der die Trainingsszenarien gezielt entwirft: Er beginnt mit einem beliebigen Szenario aus einem einfachen Klimamodell, misst den Fehler des Emulators und verändert die Daten so lange, bis der Fehler unter eine Schwelle fällt. Die entstehenden Szenarien enthalten sprunghafte Emissionsverläufe, die mit keiner realistischen Zukunft übereinstimmen. Genau deshalb lernt der Emulator allgemeiner. Ein so trainiertes Modell sagte ungesehene Szenarien korrekt voraus, etwa die Wirkung lokaler Schadstoffauflagen, bei denen ein Schadstoff sinkt, während andere steigen. Klassisch trainierte Emulatoren scheiterten an diesem Test. Das Erdsystemmodell muss dafür nur noch einmal laufen statt sechs- bis achtmal.
+
+Warum das wichtig ist: Politik braucht schnelle Antworten auf Was-wäre-wenn-Fragen zu Emissionen. Emulatoren, die auch bei neuartigen Szenarien stimmen, machen solche Abschätzungen erstmals belastbar.
+
+Vorbehalt: Die Mitteilung nennt keine konkreten Genauigkeitszahlen und keinen Umfang der Datenersparnis. Getestet wurde mit einem Modell mittlerer Komplexität, die Übertragung auf große Erdsystemmodelle steht aus.
+
+Quelle: PNAS via MIT News – https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112</description>
+  </item>
+  <item>
+   <title>48 KI-Agenten finden in 72 Stunden eine Maya-Stätte, die Archäologen schon kannten</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-16-maya-ki-agenten</link>
+   <guid isPermaLink="false">2026-11-16-maya-ki-agenten</guid>
+   <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Der Google-Forscher Pietro Miotti, nach eigener Aussage kein Archäologe, ließ in einem Privatprojekt 48 KI-Agenten öffentliche NASA-Laserscans von rund 1.200 Quadratkilometern Maya-Dschungel durchsehen. Die Agenten bekamen eine schriftliche Anleitung, wonach sie suchen sollten: Pyramiden, Plattformen, Plätze, keine natürlichen Hügel, Dolinen oder Straßen. Nach weniger als drei Tagen meldeten sie eine Hügelkuppe mit planiertem Platz, ovaler Pyramide von geschätzt acht bis zwölf Metern Höhe, erhöhtem Hof und einem möglichen Wasserspeicher. Mexikos Denkmalbehörde INAH bestätigte, dass dort keine registrierte Stätte verzeichnet ist. Dann kam die Wendung: Eine Fachpublikation von Estrada-Belli und Kollegen hatte die Stätte bereits 2025 dokumentiert. Die Agenten hatten die Literatur nicht geprüft. Miotti räumte das ein und stufte den Fund zur Wiederentdeckung herab.
+
+Warum das wichtig ist: Die Episode zeigt beides. Handelsübliche KI-Agenten können riesige Fernerkundungsdaten in Tagen vorsortieren, wofür Menschen Monate brauchen. Beim Abgleich mit dem Forschungsstand versagen sie aber, und genau das macht ihre Fehler schwer zu erkennen.
+
+Vorbehalt: Kein Archäologe hat die Stätte vor Ort geprüft, dafür wäre eine INAH-Genehmigung nötig. Alle Merkmalsbeschreibungen sind Schlussfolgerungen aus den Agenten-Dialogen. Fachleute warnen zudem, dass öffentliche Fundmeldungen Plünderer anlocken können.
+
+Quelle: TechRadar – https://techradar.com/ai-platforms-assistants/google-researcher-discovers-unmapped-maya-site-in-mexico-using-48-ai-agents-project-takes-less-than-72-hours-after-agents-scour-nasa-lidar-data</description>
+  </item>
+  <item>
+   <title>69 Länder, 24 Jahre: KI macht Wirtschaften effizienter, aber nicht klimafreundlicher</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-16-ki-effizienz-luecke</link>
+   <guid isPermaLink="false">2026-11-16-ki-effizienz-luecke</guid>
+   <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Ein chinesisch-japanisches Team hat für 69 Länder von 2000 bis 2023 einen KI-Index aus Patenten, Industrierobotern, Publikationen, digitaler Infrastruktur und Forschungspersonal gebildet und ihn mit sieben UN-Nachhaltigkeitszielen verknüpft, ausgewertet mit Double Machine Learning. Stabile positive Zusammenhänge fanden sich bei Bildung, sauberer Energie und industrieller Innovation. Bei verantwortungsvollem Konsum und Klimaschutz gab es dagegen keinen belastbaren Effekt. Die Autoren nennen das die Effizienz-Transformations-Lücke: KI wirkt dort, wo Daten reichlich und leicht zu kodieren sind, ändert aber von sich aus weder Konsummuster noch Regulierungsehrgeiz noch das Tempo der Dekarbonisierung. Kurzfristig bremste KI-Einsatz sogar grüne Innovation. Länder mit niedrigem Entwicklungsstand profitierten am stärksten. Szenarien bis 2100 zeigen die besten Ergebnisse nur, wenn hohe KI-Entwicklung mit einem nachhaltigkeitsorientierten Pfad zusammenkommt.
+
+Warum das wichtig ist: Das Versprechen, KI werde den Klimaschutz quasi automatisch voranbringen, findet in den Länderdaten keine Stütze. KI ist laut Studie ein bedingter Beschleuniger, dessen Nutzen von Politik, Strommix und Governance abhängt.
+
+Vorbehalt: Zusammenhänge auf Länderebene, keine Kausalbeweise. Die Mitteilung nennt weder Effektgrößen noch Konfidenzintervalle. Der KI-Index misst Ausstattung, nicht tatsächliche Nutzung.
+
+Quelle: Environmental Science and Ecotechnology via Newswise – https://www.newswise.com/articles/ai-boosts-operational-efficiency-but-not-systemic-climate-action-global-study-finds2</description>
+  </item>
+  <item>
+   <title>Deep Learning entschlüsselt die Spielregeln des tödlichsten Hirntumors</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-16-glioblastom-scdori</link>
+   <guid isPermaLink="false">2026-11-16-glioblastom-scdori</guid>
+   <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Glioblastom-Zellen wechseln ständig ihren molekularen Zustand und entziehen sich so der Therapie. Bisher galt dieses Wechseln als weitgehend zufällig. Zwei Nature-Studien von EMBL, DKFZ und Sanger Institute zeigen das Gegenteil: Die Zellen folgen wiederkehrenden Pfaden, und jeder Zustand sitzt an einem festen Ort im Tumor. Grundlage ist der bisher größte molekulare Atlas der Krankheit aus Tumoren von zwölf Patienten. Das Deep-Learning-Verfahren scDORI des Teams um Oliver Stegle rekonstruierte aus über einer Million Einzelzellen die Regulationsnetzwerke und fand Schutzregulatoren, die Zellen in einem wenig wandelbaren Zustand festhalten. Als die Forschenden einen davon, MYT1L, in Patientenzellen verstärkten, wurden die Tumoren weniger aggressiv, und Mäuse mit solchen Tumoren überlebten länger.
+
+Warum das wichtig ist: Glioblastom tötet jährlich über 100.000 Menschen und ist fast immer unheilbar. Wer die Wechselregeln der Zellen kennt, kann versuchen, den Tumor in einem harmlosen Zustand einzusperren, statt ihn nur anzugreifen.
+
+Vorbehalt: Alles präklinisch: Patientenzellen, Organoide und Mäuse. Die Zahl der Mäuse und Überlebensdaten nennt die Mitteilung nicht. Die Autoren selbst sagen, dass klinische Anwendungen noch entfernt sind.
+
+Quelle: Nature via EMBL – https://www.embl.org/news/?p=85927</description>
+  </item>
+  <item>
+   <title>Tierzählung aus der Luft: Menschen übersahen ein Drittel der Elefanten, die KI zählt in Stunden</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-16-elefanten-kenia-zaehlung</link>
+   <guid isPermaLink="false">2026-11-16-elefanten-kenia-zaehlung</guid>
+   <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Eine Luftbildzählung in Kenias größtem Schutzgebiet lieferte 2025 rund 200.000 Fotos. Neun Fachleute brauchten neun Monate, um sie von Hand auszuwerten. Trainierte Bildmodelle erledigen dieselbe Analyse laut Save the Elephants inzwischen in Stunden. Der Vergleich mit den KI-Auswertungen zeigte, wie lückenhaft die klassischen Zählungen waren: Etwa ein Drittel der Elefanten, rund die Hälfte der Zebras und Giraffen und drei Viertel der Oryx-Antilopen waren übersehen worden. Geschäftsführer Frank Pope sagt, KI mache Natur messbar und damit finanzierbar. Das Jane-Goodall-Institut digitalisiert parallel jahrzehntelange handschriftliche Schimpansen-Beobachtungen aus dem Gombe-Nationalpark in Tansania. Statt 13 bis 15 Jahren soll die Aufarbeitung mit einem Werkzeug von Amazon Web Services rund zwei Jahre dauern.
+
+Warum das wichtig ist: Falsche Tierzahlen führen zu falschen Schutzentscheidungen und fehlgeleitetem Geld. Wenn Bestände systematisch unterschätzt wurden, müssen viele Artenschutz-Bilanzen neu gerechnet werden.
+
+Vorbehalt: Die Zahlen stammen aus einer Reuters-Recherche und Aussagen der Organisation, nicht aus einer begutachteten Studie. Dieselbe Recherche hält fest, dass alle 15 befragten Umweltorganisationen den Strom- und Wasserbedarf der Rechenzentren hinter dieser KI als Problem sehen.
+
+Quelle: Reuters via US News – https://www.usnews.com/news/top-news/articles/2026-11-07/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts</description>
+  </item>
+  <item>
    <title>Einordnung: Wie nah ist der Tierübersetzer wirklich?</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-tieruebersetzer-stand</link>
    <guid isPermaLink="false">2026-11-13-tieruebersetzer-stand</guid>
