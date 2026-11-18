@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-18-wolfsmilch-satellit",
+  "date": "2026-11-18",
+  "published": "2026-11-16",
+  "category": "klima",
+  "countries": ["US"],
+  "institution": "University of Minnesota",
+  "maturity": "study",
+  "source": {"name": "Ecological Applications via Phys.org", "url": "https://phys.org/news/2026-11-miles-earth-ai-tracks-invasive.html"},
+  "more": [{"name": "DOI 10.1002/eap.70331", "url": "https://doi.org/10.1002/eap.70331"}],
+  "de": {
+    "title": "Aus 700 Kilometern Höhe: KI verfolgt die Ausbreitung einer invasiven Pflanze über 20 Jahre",
+    "summary": "Die Esels-Wolfsmilch, englisch leafy spurge, ist eine invasive Pflanze, die Weiden und Prärien in Nordamerika überwuchert. Ein Team der University of Minnesota um Thomas Lake hat frei verfügbare Landsat-Satellitenbilder von 2000 bis 2021 mit Beobachtungen aus der Bürgerwissenschafts-App iNaturalist und eigenen Feldaufnahmen kombiniert und daraus ein Deep-Learning-Modell trainiert. Ergebnis: Der Bestand in Minnesota hat in diesen zwei Jahrzehnten um 570 Prozent zugenommen, vor allem rund um Fargo-Moorhead und Minneapolis-Saint Paul. Die Pflanze taucht auffallend oft an Straßenrändern auf. Wer neu befallene Flächen früh im Satellitenbild erkennt, kann zudem die künftige Ausbreitung besser vorhersagen.",
+    "why": "Invasive Arten kosten Landwirtschaft und Naturschutz viel Geld, und Kartierungen zu Fuß übersehen große Flächen. Satelliten und KI liefern ein flächendeckendes Bild, und der Hinweis auf Straßenränder zeigt, wo Gegenmaßnahmen am meisten bringen.",
+    "caveat": "Bisher nur für Minnesota. In starken Dürrejahren blüht die Pflanze weniger und wird seltener erkannt. Eine Modellgenauigkeit nennt die Mitteilung nicht."
+  },
+  "en": {
+    "title": "From orbit: AI tracks the spread of an invasive plant over 20 years",
+    "summary": "Leafy spurge is an invasive plant that takes over pastures and prairies across North America. A University of Minnesota team led by Thomas Lake combined freely available Landsat satellite images from 2000 to 2021 with observations from the citizen-science app iNaturalist and their own field surveys to train a deep-learning model. The result: abundance in Minnesota rose by 570 percent over those two decades, mainly around Fargo-Moorhead and Minneapolis-Saint Paul. The plant turns up strikingly often along roadsides. Spotting newly invaded areas early in satellite images also improved forecasts of where it will spread next.",
+    "why": "Invasive species cost farming and conservation dearly, and surveys on foot miss large areas. Satellites and AI give a complete picture, and the roadside pattern shows where control measures pay off most.",
+    "caveat": "Minnesota only so far. In severe drought years the plant flowers less and is detected less often. The release gives no figure for model accuracy."
+  },
+  "ru": {
+    "title": "С орбиты: ИИ отслеживает распространение инвазивного растения за 20 лет",
+    "summary": "Молочай лозный — инвазивное растение, захватывающее пастбища и прерии Северной Америки. Команда Университета Миннесоты под руководством Томаса Лейка объединила открытые спутниковые снимки Landsat за 2000–2021 годы с наблюдениями из приложения гражданской науки iNaturalist и собственными полевыми данными и обучила на этом модель глубокого обучения. Итог: численность растения в Миннесоте за два десятилетия выросла на 570 процентов, прежде всего вокруг Фарго-Мурхеда и Миннеаполиса-Сент-Пола. Растение особенно часто встречается вдоль дорог. Раннее обнаружение новых очагов на снимках также улучшило прогноз дальнейшего распространения.",
+    "why": "Инвазивные виды обходятся сельскому хозяйству и охране природы очень дорого, а пешие обследования пропускают большие площади. Спутники и ИИ дают сплошную картину, а связь с дорогами показывает, где меры борьбы наиболее эффективны.",
+    "caveat": "Пока только для Миннесоты. В сильную засуху растение цветёт меньше и распознаётся реже. Точность модели в сообщении не указана."
+  }
+}

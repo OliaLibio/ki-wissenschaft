@@ -1,7 +1,124 @@
 {
- "generated": "2026-11-16T08:10:55Z",
- "count": 28,
+ "generated": "2026-11-18T17:51:29Z",
+ "count": 31,
  "posts": [
+  {
+   "id": "2026-11-18-wolfsmilch-satellit",
+   "date": "2026-11-18",
+   "published": "2026-11-16",
+   "category": "klima",
+   "countries": [
+    "US"
+   ],
+   "institution": "University of Minnesota",
+   "maturity": "study",
+   "source": {
+    "name": "Ecological Applications via Phys.org",
+    "url": "https://phys.org/news/2026-11-miles-earth-ai-tracks-invasive.html"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1002/eap.70331",
+     "url": "https://doi.org/10.1002/eap.70331"
+    }
+   ],
+   "de": {
+    "title": "Aus 700 Kilometern Höhe: KI verfolgt die Ausbreitung einer invasiven Pflanze über 20 Jahre",
+    "summary": "Die Esels-Wolfsmilch, englisch leafy spurge, ist eine invasive Pflanze, die Weiden und Prärien in Nordamerika überwuchert. Ein Team der University of Minnesota um Thomas Lake hat frei verfügbare Landsat-Satellitenbilder von 2000 bis 2021 mit Beobachtungen aus der Bürgerwissenschafts-App iNaturalist und eigenen Feldaufnahmen kombiniert und daraus ein Deep-Learning-Modell trainiert. Ergebnis: Der Bestand in Minnesota hat in diesen zwei Jahrzehnten um 570 Prozent zugenommen, vor allem rund um Fargo-Moorhead und Minneapolis-Saint Paul. Die Pflanze taucht auffallend oft an Straßenrändern auf. Wer neu befallene Flächen früh im Satellitenbild erkennt, kann zudem die künftige Ausbreitung besser vorhersagen.",
+    "why": "Invasive Arten kosten Landwirtschaft und Naturschutz viel Geld, und Kartierungen zu Fuß übersehen große Flächen. Satelliten und KI liefern ein flächendeckendes Bild, und der Hinweis auf Straßenränder zeigt, wo Gegenmaßnahmen am meisten bringen.",
+    "caveat": "Bisher nur für Minnesota. In starken Dürrejahren blüht die Pflanze weniger und wird seltener erkannt. Eine Modellgenauigkeit nennt die Mitteilung nicht."
+   },
+   "en": {
+    "title": "From orbit: AI tracks the spread of an invasive plant over 20 years",
+    "summary": "Leafy spurge is an invasive plant that takes over pastures and prairies across North America. A University of Minnesota team led by Thomas Lake combined freely available Landsat satellite images from 2000 to 2021 with observations from the citizen-science app iNaturalist and their own field surveys to train a deep-learning model. The result: abundance in Minnesota rose by 570 percent over those two decades, mainly around Fargo-Moorhead and Minneapolis-Saint Paul. The plant turns up strikingly often along roadsides. Spotting newly invaded areas early in satellite images also improved forecasts of where it will spread next.",
+    "why": "Invasive species cost farming and conservation dearly, and surveys on foot miss large areas. Satellites and AI give a complete picture, and the roadside pattern shows where control measures pay off most.",
+    "caveat": "Minnesota only so far. In severe drought years the plant flowers less and is detected less often. The release gives no figure for model accuracy."
+   },
+   "ru": {
+    "title": "С орбиты: ИИ отслеживает распространение инвазивного растения за 20 лет",
+    "summary": "Молочай лозный — инвазивное растение, захватывающее пастбища и прерии Северной Америки. Команда Университета Миннесоты под руководством Томаса Лейка объединила открытые спутниковые снимки Landsat за 2000–2021 годы с наблюдениями из приложения гражданской науки iNaturalist и собственными полевыми данными и обучила на этом модель глубокого обучения. Итог: численность растения в Миннесоте за два десятилетия выросла на 570 процентов, прежде всего вокруг Фарго-Мурхеда и Миннеаполиса-Сент-Пола. Растение особенно часто встречается вдоль дорог. Раннее обнаружение новых очагов на снимках также улучшило прогноз дальнейшего распространения.",
+    "why": "Инвазивные виды обходятся сельскому хозяйству и охране природы очень дорого, а пешие обследования пропускают большие площади. Спутники и ИИ дают сплошную картину, а связь с дорогами показывает, где меры борьбы наиболее эффективны.",
+    "caveat": "Пока только для Миннесоты. В сильную засуху растение цветёт меньше и распознаётся реже. Точность модели в сообщении не указана."
+   }
+  },
+  {
+   "id": "2026-11-18-sydney-riddled-basins",
+   "date": "2026-11-18",
+   "published": "2026-11-05",
+   "category": "grenzen",
+   "countries": [
+    "AU"
+   ],
+   "institution": "University of Sydney",
+   "maturity": "study",
+   "source": {
+    "name": "Nature Machine Intelligence via EurekAlert",
+    "url": "https://www.eurekalert.org/news-releases/1150055"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1038/s42256-026-01336-3",
+     "url": "https://doi.org/10.1038/s42256-026-01336-3"
+    }
+   ],
+   "de": {
+    "title": "Gleiche Daten, anderes Ergebnis: Warum sich KI-Training kaum exakt wiederholen lässt",
+    "summary": "Physiker Pulin Gong und Doktorand Andrew Ly von der University of Sydney haben rund 500.000 neuronale Netze für Bild- und Texterkennung trainiert und dabei jeweils die Startwerte minimal verändert. Schon eine Änderung um ein einziges Bit führte in etwa 48 Prozent der Fälle zu einem anders aufgebauten Netz. In einem großen Bilderkennungsnetz brachte es nichts, die Startwerte zehn Milliarden Mal genauer festzulegen. Der Effekt trat auch in vollständig deterministischen Umgebungen auf, liegt also nicht an Hardware-Rauschen. Die Forscher beschreiben eine fraktale Struktur, sogenannte durchlöcherte Anziehungsbecken: Ergebnisse, die zu verschiedenen Verhaltensweisen führen, liegen auf jeder Zoomstufe ineinander verschachtelt. Besonders heikel: Die Einstellungen, mit denen ein Netz am besten lernt, machen seine Ergebnisse am schlechtesten reproduzierbar.",
+    "why": "Wissenschaft lebt davon, dass Ergebnisse wiederholbar sind. Wenn zwei gleich trainierte KI-Modelle sich verschieden verhalten, wird es schwer, ihnen etwa in der Medizin zu vertrauen. Die Studie zeigt, dass dies möglicherweise eine Grundeigenschaft ist und kein behebbarer Fehler.",
+    "caveat": "Die Ergebnisse sind laut Mitteilung mit der fraktalen Struktur vereinbar, aber kein mathematischer Beweis. Lösungen werden vorgeschlagen, aber nicht getestet."
+   },
+   "en": {
+    "title": "Same data, different result: why AI training can hardly be repeated exactly",
+    "summary": "Physicist Pulin Gong and PhD student Andrew Ly at the University of Sydney trained about 500,000 neural networks for image and text tasks, each time changing the starting values minimally. Changing a single bit produced a differently configured network in about 48 percent of cases. In one large image-recognition network, setting the starting values ten billion times more precisely made no measurable difference. The effect appeared even in fully deterministic environments, so hardware noise is not the explanation. The researchers describe a fractal structure called riddled basins: starting points leading to different behaviours are interwoven at every level of zoom. Most troubling, the settings that help a network learn best also make its outcomes least reproducible.",
+    "why": "Science depends on results being repeatable. If two identically trained AI models behave differently, it is hard to trust them, for example in medicine. The study suggests this may be a fundamental property rather than a fixable bug.",
+    "caveat": "According to the release, the evidence is consistent with the fractal structure but is not a mathematical proof. Remedies are proposed but not tested."
+   },
+   "ru": {
+    "title": "Те же данные, другой результат: почему обучение ИИ почти невозможно повторить в точности",
+    "summary": "Физик Пулин Гун и аспирант Эндрю Ли из Сиднейского университета обучили около 500 000 нейросетей для распознавания изображений и текста, каждый раз минимально меняя начальные значения. Изменение всего одного бита примерно в 48 процентах случаев давало сеть с иной внутренней структурой. В одной крупной сети распознавания изображений задание начальных значений в десять миллиардов раз точнее ничего не изменило. Эффект проявлялся даже в полностью детерминированной среде, то есть дело не в аппаратном шуме. Исследователи описывают фрактальную структуру, так называемые «дырявые бассейны притяжения»: начальные точки, ведущие к разному поведению, переплетены на любом уровне масштаба. Хуже всего то, что настройки, при которых сеть учится лучше всего, делают её результаты наименее воспроизводимыми.",
+    "why": "Наука держится на повторяемости результатов. Если две одинаково обученные модели ИИ ведут себя по-разному, им трудно доверять, например в медицине. Исследование показывает, что это может быть фундаментальным свойством, а не исправимой ошибкой.",
+    "caveat": "По словам авторов, данные согласуются с фрактальной структурой, но это не математическое доказательство. Решения предложены, но не проверены."
+   }
+  },
+  {
+   "id": "2026-11-18-previa-ptsd",
+   "date": "2026-11-18",
+   "published": "2026-11-09",
+   "category": "gesundheit",
+   "countries": [
+    "US"
+   ],
+   "institution": "NYU Langone Health",
+   "maturity": "study",
+   "source": {
+    "name": "Nature Communications via NYU Langone",
+    "url": "https://nyulangone.org/news/ai-predicts-ptsd-risk-based-stories-about-what-brought-patients-emergency-room"
+   },
+   "more": [
+    {
+     "name": "Nature Communications",
+     "url": "https://www.nature.com/articles/s41467-026-78768-3"
+    }
+   ],
+   "de": {
+    "title": "Ein Satz in der Notaufnahme genügt: KI erkennt das Risiko für Traumafolgestörungen",
+    "summary": "In der Notaufnahme fragt das Personal routinemäßig: Was ist passiert? Ein Team um Katharina Schultebraucks an der NYU Langone hat diese spontanen Antworten von 145 Verletzten aufgezeichnet und mit dem System PREVIA ausgewertet. PREVIA kombiniert frei verfügbare Sprachmodelle wie Llama und Mistral ohne jedes Nachtraining: Es erkennt Symptome während des Traumas wie Kontrollverlust oder Erinnerungslücken, gewichtet Risiko- und Schutzfaktoren und erstellt daraus einen Risikowert mit verständlicher Begründung. Von den 30 Patienten, die später eine posttraumatische Belastungsstörung entwickelten, erkannte PREVIA alle, eine darauf spezialisierte Ärztin oder ein Arzt 89 Prozent. Geprüft wurde gegen das klinische Standardinterview CAPS-5.",
+    "why": "Mehr als jeder Vierte, der verletzt in der Notaufnahme landet, entwickelt laut früheren Studien eine Traumafolgestörung, aber nur etwa 28 Prozent der US-Notaufnahmen prüfen das überhaupt. PREVIA braucht keine zusätzliche Zeit, weil es die Frage nutzt, die ohnehin gestellt wird.",
+    "caveat": "Nur 145 Patienten an einem Standort, nur 30 Erkrankte im Vergleich. Die Mitteilung nennt keine Angaben zu Fehlalarmen, und eine Prüfung an anderen Kliniken steht aus."
+   },
+   "en": {
+    "title": "One sentence in the emergency room is enough: AI flags the risk of post-traumatic stress",
+    "summary": "Emergency staff routinely ask: what brought you here? A team led by Katharina Schultebraucks at NYU Langone recorded these spontaneous answers from 145 injured patients and analysed them with a system called PREVIA. PREVIA chains openly available language models such as Llama and Mistral without any fine-tuning: it detects symptoms during the trauma such as loss of control or memory gaps, weighs risk and protective factors, and produces a risk score with a plain-language explanation. Of the 30 patients who later developed post-traumatic stress disorder, PREVIA flagged all of them, while a specialist clinician identified 89 percent. Diagnoses were checked against the gold-standard CAPS-5 clinical interview.",
+    "why": "According to earlier studies, more than one in four people treated for injuries in emergency departments develops PTSD, yet only about 28 percent of US emergency departments screen for it at all. PREVIA adds no time because it uses a question that is asked anyway.",
+    "caveat": "Only 145 patients at one site and only 30 cases in the comparison. The release gives no false-alarm figures, and validation at other hospitals is still to come."
+   },
+   "ru": {
+    "title": "Одной фразы в приёмном отделении достаточно: ИИ распознаёт риск посттравматического расстройства",
+    "summary": "В приёмном отделении персонал обычно спрашивает: что случилось? Команда Катарины Шультебраукс из NYU Langone записала спонтанные ответы 145 пострадавших и проанализировала их системой PREVIA. PREVIA объединяет открытые языковые модели, такие как Llama и Mistral, без какого-либо дообучения: она выявляет симптомы во время травмы, например потерю контроля или провалы в памяти, взвешивает факторы риска и защиты и выдаёт оценку риска с понятным объяснением. Из 30 пациентов, у которых позже развилось посттравматическое стрессовое расстройство, PREVIA выявила всех, а профильный врач — 89 процентов. Диагнозы проверялись по стандартному клиническому интервью CAPS-5.",
+    "why": "По данным прежних исследований, более чем у каждого четвёртого пострадавшего, попавшего в приёмное отделение, развивается ПТСР, но лишь около 28 процентов приёмных отделений в США вообще проводят такой скрининг. PREVIA не требует дополнительного времени, потому что использует вопрос, который и так задают.",
+    "caveat": "Всего 145 пациентов в одной клинике и лишь 30 заболевших в сравнении. В сообщении нет данных о ложных срабатываниях, проверка в других больницах ещё впереди."
+   }
+  },
   {
    "id": "2026-11-16-mythos-vollfett-milch",
    "date": "2026-11-16",

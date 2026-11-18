@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-18-sydney-riddled-basins",
+  "date": "2026-11-18",
+  "published": "2026-11-05",
+  "category": "grenzen",
+  "countries": ["AU"],
+  "institution": "University of Sydney",
+  "maturity": "study",
+  "source": {"name": "Nature Machine Intelligence via EurekAlert", "url": "https://www.eurekalert.org/news-releases/1150055"},
+  "more": [{"name": "DOI 10.1038/s42256-026-01336-3", "url": "https://doi.org/10.1038/s42256-026-01336-3"}],
+  "de": {
+    "title": "Gleiche Daten, anderes Ergebnis: Warum sich KI-Training kaum exakt wiederholen lässt",
+    "summary": "Physiker Pulin Gong und Doktorand Andrew Ly von der University of Sydney haben rund 500.000 neuronale Netze für Bild- und Texterkennung trainiert und dabei jeweils die Startwerte minimal verändert. Schon eine Änderung um ein einziges Bit führte in etwa 48 Prozent der Fälle zu einem anders aufgebauten Netz. In einem großen Bilderkennungsnetz brachte es nichts, die Startwerte zehn Milliarden Mal genauer festzulegen. Der Effekt trat auch in vollständig deterministischen Umgebungen auf, liegt also nicht an Hardware-Rauschen. Die Forscher beschreiben eine fraktale Struktur, sogenannte durchlöcherte Anziehungsbecken: Ergebnisse, die zu verschiedenen Verhaltensweisen führen, liegen auf jeder Zoomstufe ineinander verschachtelt. Besonders heikel: Die Einstellungen, mit denen ein Netz am besten lernt, machen seine Ergebnisse am schlechtesten reproduzierbar.",
+    "why": "Wissenschaft lebt davon, dass Ergebnisse wiederholbar sind. Wenn zwei gleich trainierte KI-Modelle sich verschieden verhalten, wird es schwer, ihnen etwa in der Medizin zu vertrauen. Die Studie zeigt, dass dies möglicherweise eine Grundeigenschaft ist und kein behebbarer Fehler.",
+    "caveat": "Die Ergebnisse sind laut Mitteilung mit der fraktalen Struktur vereinbar, aber kein mathematischer Beweis. Lösungen werden vorgeschlagen, aber nicht getestet."
+  },
+  "en": {
+    "title": "Same data, different result: why AI training can hardly be repeated exactly",
+    "summary": "Physicist Pulin Gong and PhD student Andrew Ly at the University of Sydney trained about 500,000 neural networks for image and text tasks, each time changing the starting values minimally. Changing a single bit produced a differently configured network in about 48 percent of cases. In one large image-recognition network, setting the starting values ten billion times more precisely made no measurable difference. The effect appeared even in fully deterministic environments, so hardware noise is not the explanation. The researchers describe a fractal structure called riddled basins: starting points leading to different behaviours are interwoven at every level of zoom. Most troubling, the settings that help a network learn best also make its outcomes least reproducible.",
+    "why": "Science depends on results being repeatable. If two identically trained AI models behave differently, it is hard to trust them, for example in medicine. The study suggests this may be a fundamental property rather than a fixable bug.",
+    "caveat": "According to the release, the evidence is consistent with the fractal structure but is not a mathematical proof. Remedies are proposed but not tested."
+  },
+  "ru": {
+    "title": "Те же данные, другой результат: почему обучение ИИ почти невозможно повторить в точности",
+    "summary": "Физик Пулин Гун и аспирант Эндрю Ли из Сиднейского университета обучили около 500 000 нейросетей для распознавания изображений и текста, каждый раз минимально меняя начальные значения. Изменение всего одного бита примерно в 48 процентах случаев давало сеть с иной внутренней структурой. В одной крупной сети распознавания изображений задание начальных значений в десять миллиардов раз точнее ничего не изменило. Эффект проявлялся даже в полностью детерминированной среде, то есть дело не в аппаратном шуме. Исследователи описывают фрактальную структуру, так называемые «дырявые бассейны притяжения»: начальные точки, ведущие к разному поведению, переплетены на любом уровне масштаба. Хуже всего то, что настройки, при которых сеть учится лучше всего, делают её результаты наименее воспроизводимыми.",
+    "why": "Наука держится на повторяемости результатов. Если две одинаково обученные модели ИИ ведут себя по-разному, им трудно доверять, например в медицине. Исследование показывает, что это может быть фундаментальным свойством, а не исправимой ошибкой.",
+    "caveat": "По словам авторов, данные согласуются с фрактальной структурой, но это не математическое доказательство. Решения предложены, но не проверены."
+  }
+}

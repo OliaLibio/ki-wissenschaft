@@ -6,6 +6,48 @@
   <description>Montag, Mittwoch, Freitag: Was KI heute in der Forschung erreicht. Gesundheit, Tiere, Mythen-Check, Klima, Archäologie, Grenzen.</description>
   <language>de</language>
   <item>
+   <title>Aus 700 Kilometern Höhe: KI verfolgt die Ausbreitung einer invasiven Pflanze über 20 Jahre</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-18-wolfsmilch-satellit</link>
+   <guid isPermaLink="false">2026-11-18-wolfsmilch-satellit</guid>
+   <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Die Esels-Wolfsmilch, englisch leafy spurge, ist eine invasive Pflanze, die Weiden und Prärien in Nordamerika überwuchert. Ein Team der University of Minnesota um Thomas Lake hat frei verfügbare Landsat-Satellitenbilder von 2000 bis 2021 mit Beobachtungen aus der Bürgerwissenschafts-App iNaturalist und eigenen Feldaufnahmen kombiniert und daraus ein Deep-Learning-Modell trainiert. Ergebnis: Der Bestand in Minnesota hat in diesen zwei Jahrzehnten um 570 Prozent zugenommen, vor allem rund um Fargo-Moorhead und Minneapolis-Saint Paul. Die Pflanze taucht auffallend oft an Straßenrändern auf. Wer neu befallene Flächen früh im Satellitenbild erkennt, kann zudem die künftige Ausbreitung besser vorhersagen.
+
+Warum das wichtig ist: Invasive Arten kosten Landwirtschaft und Naturschutz viel Geld, und Kartierungen zu Fuß übersehen große Flächen. Satelliten und KI liefern ein flächendeckendes Bild, und der Hinweis auf Straßenränder zeigt, wo Gegenmaßnahmen am meisten bringen.
+
+Vorbehalt: Bisher nur für Minnesota. In starken Dürrejahren blüht die Pflanze weniger und wird seltener erkannt. Eine Modellgenauigkeit nennt die Mitteilung nicht.
+
+Quelle: Ecological Applications via Phys.org – https://phys.org/news/2026-11-miles-earth-ai-tracks-invasive.html</description>
+  </item>
+  <item>
+   <title>Gleiche Daten, anderes Ergebnis: Warum sich KI-Training kaum exakt wiederholen lässt</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-18-sydney-riddled-basins</link>
+   <guid isPermaLink="false">2026-11-18-sydney-riddled-basins</guid>
+   <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Physiker Pulin Gong und Doktorand Andrew Ly von der University of Sydney haben rund 500.000 neuronale Netze für Bild- und Texterkennung trainiert und dabei jeweils die Startwerte minimal verändert. Schon eine Änderung um ein einziges Bit führte in etwa 48 Prozent der Fälle zu einem anders aufgebauten Netz. In einem großen Bilderkennungsnetz brachte es nichts, die Startwerte zehn Milliarden Mal genauer festzulegen. Der Effekt trat auch in vollständig deterministischen Umgebungen auf, liegt also nicht an Hardware-Rauschen. Die Forscher beschreiben eine fraktale Struktur, sogenannte durchlöcherte Anziehungsbecken: Ergebnisse, die zu verschiedenen Verhaltensweisen führen, liegen auf jeder Zoomstufe ineinander verschachtelt. Besonders heikel: Die Einstellungen, mit denen ein Netz am besten lernt, machen seine Ergebnisse am schlechtesten reproduzierbar.
+
+Warum das wichtig ist: Wissenschaft lebt davon, dass Ergebnisse wiederholbar sind. Wenn zwei gleich trainierte KI-Modelle sich verschieden verhalten, wird es schwer, ihnen etwa in der Medizin zu vertrauen. Die Studie zeigt, dass dies möglicherweise eine Grundeigenschaft ist und kein behebbarer Fehler.
+
+Vorbehalt: Die Ergebnisse sind laut Mitteilung mit der fraktalen Struktur vereinbar, aber kein mathematischer Beweis. Lösungen werden vorgeschlagen, aber nicht getestet.
+
+Quelle: Nature Machine Intelligence via EurekAlert – https://www.eurekalert.org/news-releases/1150055</description>
+  </item>
+  <item>
+   <title>Ein Satz in der Notaufnahme genügt: KI erkennt das Risiko für Traumafolgestörungen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-18-previa-ptsd</link>
+   <guid isPermaLink="false">2026-11-18-previa-ptsd</guid>
+   <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>In der Notaufnahme fragt das Personal routinemäßig: Was ist passiert? Ein Team um Katharina Schultebraucks an der NYU Langone hat diese spontanen Antworten von 145 Verletzten aufgezeichnet und mit dem System PREVIA ausgewertet. PREVIA kombiniert frei verfügbare Sprachmodelle wie Llama und Mistral ohne jedes Nachtraining: Es erkennt Symptome während des Traumas wie Kontrollverlust oder Erinnerungslücken, gewichtet Risiko- und Schutzfaktoren und erstellt daraus einen Risikowert mit verständlicher Begründung. Von den 30 Patienten, die später eine posttraumatische Belastungsstörung entwickelten, erkannte PREVIA alle, eine darauf spezialisierte Ärztin oder ein Arzt 89 Prozent. Geprüft wurde gegen das klinische Standardinterview CAPS-5.
+
+Warum das wichtig ist: Mehr als jeder Vierte, der verletzt in der Notaufnahme landet, entwickelt laut früheren Studien eine Traumafolgestörung, aber nur etwa 28 Prozent der US-Notaufnahmen prüfen das überhaupt. PREVIA braucht keine zusätzliche Zeit, weil es die Frage nutzt, die ohnehin gestellt wird.
+
+Vorbehalt: Nur 145 Patienten an einem Standort, nur 30 Erkrankte im Vergleich. Die Mitteilung nennt keine Angaben zu Fehlalarmen, und eine Prüfung an anderen Kliniken steht aus.
+
+Quelle: Nature Communications via NYU Langone – https://nyulangone.org/news/ai-predicts-ptsd-risk-based-stories-about-what-brought-patients-emergency-room</description>
+  </item>
+  <item>
    <title>Vollfett-Milch: Drei Portionen am Tag verschlechterten in zwölf Wochen weder Gewicht noch Cholesterin</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-16-mythos-vollfett-milch</link>
    <guid isPermaLink="false">2026-11-16-mythos-vollfett-milch</guid>
