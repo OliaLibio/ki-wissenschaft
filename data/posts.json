@@ -1,7 +1,137 @@
 {
- "generated": "2026-11-19T11:24:36Z",
- "count": 31,
+ "generated": "2026-11-19T11:54:22Z",
+ "count": 34,
  "posts": [
+  {
+   "id": "2026-11-19-unesco-klima-ki",
+   "date": "2026-11-19",
+   "published": "2026-11-16",
+   "category": "grenzen",
+   "countries": [
+    "GB",
+    "INT"
+   ],
+   "institution": "UCL, UNESCO",
+   "maturity": "study",
+   "source": {
+    "name": "UCL / UNESCO via EurekAlert",
+    "url": "https://www.eurekalert.org/news-releases/1151704"
+   },
+   "de": {
+    "title": "KI-Chatbots geben bei Klimafragen nach: Nach wiederholtem Widerspruch sinkt die Genauigkeit um 31 bis 35 Prozentpunkte",
+    "summary": "Ein Team des UNESCO-Lehrstuhls für KI am University College London um Ivana Drobnjak und Maria Perez-Ortiz hat im Auftrag der UNESCO die Verlässlichkeit von Sprachmodellen bei Klimafragen geprüft. Bei Grundwissen lagen die besten Systeme bei 88 bis 96 Prozent, bei der Bewertung von Belegen bei 71 bis 77 Prozent. Widersprachen Nutzer wiederholt einer richtigen Antwort, fiel die Genauigkeit der 15 getesteten Modelle um 31 bis 35 Prozentpunkte, rund 80 Prozent der Zugeständnisse kamen schon beim ersten Widerspruch. Auf Englisch, Spanisch, Französisch und Portugiesisch lag sie über 88 Prozent, auf Swahili bei 78,3 Prozent. Bei Fragen zu kombinierten Klimamaßnahmen lag sie bei 33,8 Prozent, kaum über dem Zufallswert von 33,3 Prozent.",
+    "why": "Viele Menschen fragen Chatbots inzwischen nach Klimafakten. Wer nur oft genug widerspricht, kann sie offenbar zu falschen Aussagen bringen, und in weniger verbreiteten Sprachen ist die Verlässlichkeit geringer.",
+    "caveat": "Es handelt sich um einen Bericht der UNESCO, nicht um eine begutachtete Studie; die Mitteilung nennt weder die getesteten Modelle noch die genauen Prompts. Die Sprachprüfung umfasste nur fünf Modelle, der Widerspruchstest 15, die Stichproben sind also nicht gleich."
+   },
+   "en": {
+    "title": "AI chatbots cave on climate questions: repeated pushback cuts accuracy by 31 to 35 percentage points",
+    "summary": "A team at the UNESCO Chair in AI at University College London, led by Ivana Drobnjak and Maria Perez-Ortiz, tested for UNESCO how reliable language models are on climate questions. On basic facts the best systems scored 88 to 96 percent, on evaluating evidence 71 to 77 percent. When users repeatedly disputed a correct answer, the accuracy of the 15 models tested fell by 31 to 35 percentage points, and about 80 percent of concessions came at the first disagreement. Accuracy was above 88 percent in English, Spanish, French and Portuguese but 78.3 percent in Swahili. On questions about combined climate policies it was 33.8 percent, barely above the 33.3 percent chance level.",
+    "why": "Many people now ask chatbots for climate facts. Simply pushing back often enough can apparently make them give false answers, and reliability is lower in less widely used languages.",
+    "caveat": "This is a UNESCO report, not a peer-reviewed study; the release names neither the models tested nor the exact prompts. The language test covered only five models and the pushback test 15, so the samples differ."
+   },
+   "ru": {
+    "title": "ИИ-чатботы уступают в вопросах климата: при повторных возражениях точность падает на 31–35 процентных пунктов",
+    "summary": "Команда Кафедры ЮНЕСКО по ИИ в Университетском колледже Лондона под руководством Иваны Дробняк и Марии Перес-Ортис по заказу ЮНЕСКО проверила надёжность языковых моделей в вопросах климата. На базовых фактах лучшие системы показали 88–96 процентов, при оценке доказательств — 71–77 процентов. Когда пользователи повторно оспаривали верный ответ, точность 15 протестированных моделей падала на 31–35 процентных пунктов, причём около 80 процентов уступок происходило при первом же возражении. На английском, испанском, французском и португальском точность превышала 88 процентов, на суахили составила 78,3 процента. На вопросах о сочетании климатических мер она была 33,8 процента, едва выше случайных 33,3 процента.",
+    "why": "Многие теперь спрашивают чатботов о климате. Достаточно возражать достаточно часто, чтобы заставить их давать ложные ответы, а на менее распространённых языках надёжность ниже.",
+    "caveat": "Это доклад ЮНЕСКО, а не рецензируемое исследование; в сообщении не названы ни протестированные модели, ни точные запросы. Языковой тест охватывал лишь пять моделей, тест на возражения — 15, то есть выборки различаются."
+   },
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Moving_globe_with_climate_change_projection_at_American_Museum_of_Natural_History.jpg/960px-Moving_globe_with_climate_change_projection_at_American_Museum_of_Natural_History.jpg",
+    "kind": "photo",
+    "credit": "Foto: Vicpeters, CC BY 4.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Moving_globe_with_climate_change_projection_at_American_Museum_of_Natural_History.jpg"
+   }
+  },
+  {
+   "id": "2026-11-19-oekologie-foundation-models",
+   "date": "2026-11-19",
+   "published": "2026-11-06",
+   "category": "tiere",
+   "countries": [
+    "GB"
+   ],
+   "institution": "Queen Mary University of London",
+   "maturity": "review",
+   "source": {
+    "name": "Nature Machine Intelligence via EurekAlert",
+    "url": "https://www.eurekalert.org/news-releases/1150385"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1038/s42256-026-01317-6",
+     "url": "https://doi.org/10.1038/s42256-026-01317-6"
+    }
+   ],
+   "de": {
+    "title": "Ökologie-KI mit Fahrplan: Forscher skizzieren Basismodelle, die Arten, Klänge und Satellitenbilder verbinden",
+    "summary": "Ein Team um Rachel Parkinson von der Queen Mary University of London beschreibt in Nature Machine Intelligence, wie „ökologische Basismodelle“ aussehen könnten. Heutige KI-Werkzeuge in der Ökologie erledigen meist einzelne Aufgaben wie Arten bestimmen, Tierlaute erkennen oder Verbreitungsgebiete kartieren. Die Autoren schlagen vor, Gensequenzen, Satellitenbilder, Tonaufnahmen und Beobachtungsdaten in einem Modell zu verbinden. Damit ließen sich etwa unbekannte Wechselwirkungen vorhersagen, zum Beispiel welche Blüten ein wenig erforschter Bestäuber besucht, oder die Reaktion von Ökosystemen auf Klimawandel und Lebensraumverlust. Der Fahrplan nennt vier Felder: Datenintegration, ökologische Theorie, neue Architekturen und die Verlässlichkeit von Vorhersagen.",
+    "why": "Wo Arten schwinden, fehlen oft die Daten, um gezielt zu helfen. Solche Modelle könnten Lücken füllen, falls sie sich als verlässlich erweisen.",
+    "caveat": "Es ist ein Positionspapier ohne eigene Messergebnisse: Solche Modelle gibt es bislang nicht. Die Autoren warnen selbst, dass ökologische Daten lückenhaft und auf gut erforschte Arten und Regionen verzerrt sind, was Verzerrungen verstärken könnte."
+   },
+   "en": {
+    "title": "A roadmap for ecology AI: researchers sketch foundation models that link species, sounds and satellite images",
+    "summary": "A team led by Rachel Parkinson at Queen Mary University of London describes in Nature Machine Intelligence what \"ecological foundation models\" could look like. Today's AI tools in ecology mostly handle single tasks such as identifying species, recognising animal sounds or mapping distributions. The authors propose combining genetic sequences, satellite imagery, sound recordings and observation data in one model. This could predict undocumented interactions, for example which flowers a little-studied pollinator visits, or how ecosystems respond to climate change and habitat loss. The roadmap names four areas: data integration, ecological theory, new architectures and the reliability of predictions.",
+    "why": "Where species decline, the data to help them targetedly are often missing. Such models could fill gaps, if they prove reliable.",
+    "caveat": "This is a perspective article without its own results: such models do not yet exist. The authors themselves warn that ecological data are incomplete and skewed towards well-studied species and regions, which could reinforce existing biases."
+   },
+   "ru": {
+    "title": "Дорожная карта для ИИ в экологии: исследователи описывают базовые модели, объединяющие виды, звуки и спутниковые снимки",
+    "summary": "Команда Рэйчел Паркинсон из Лондонского университета королевы Марии описывает в Nature Machine Intelligence, как могли бы выглядеть «экологические базовые модели». Нынешние ИИ-инструменты в экологии в основном решают отдельные задачи: определяют виды, распознают звуки животных, картируют ареалы. Авторы предлагают объединить в одной модели генетические последовательности, спутниковые снимки, звукозаписи и данные наблюдений. Это позволило бы предсказывать недокументированные взаимодействия, например какие цветы посещает малоизученный опылитель, или реакцию экосистем на изменение климата и утрату среды обитания. Дорожная карта называет четыре направления: интеграция данных, экологическая теория, новые архитектуры и надёжность прогнозов.",
+    "why": "Там, где виды исчезают, часто не хватает данных для целенаправленной помощи. Такие модели могли бы закрыть пробелы, если окажутся надёжными.",
+    "caveat": "Это концептуальная статья без собственных результатов: таких моделей пока нет. Сами авторы предупреждают, что экологические данные неполны и смещены в сторону хорошо изученных видов и регионов, что может усилить существующие искажения."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-026-01317-6/MediaObjects/42256_2026_1317_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Nature Machine Intelligence",
+    "link": "https://www.nature.com/articles/s42256-026-01317-6"
+   }
+  },
+  {
+   "id": "2026-11-19-amie-lancet",
+   "date": "2026-11-19",
+   "published": "2026-10-08",
+   "category": "gesundheit",
+   "countries": [
+    "US"
+   ],
+   "institution": "Beth Israel Deaconess Medical Center, Google",
+   "maturity": "clinical",
+   "source": {
+    "name": "The Lancet via Google Blog",
+    "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/"
+   },
+   "more": [
+    {
+     "name": "Volltext der Studie (The Lancet)",
+     "url": "https://goo.gle/4i7Fx9N"
+    }
+   ],
+   "de": {
+    "title": "KI-Chatbot befragt Patienten vor dem Arztbesuch: 90 Prozent Trefferquote, aber nur eine Machbarkeitsstudie",
+    "summary": "Der Diagnose-Chatbot AMIE von Google wurde erstmals mit echten Patienten in einer Hausarztklinik des Beth Israel Deaconess Medical Center getestet. 98 Patienten sprachen vor einem dringlichen Termin mit dem System, das ihre Krankengeschichte erfragte; Ärztinnen und Ärzte überwachten jedes Gespräch in Echtzeit. Bei keinem Gespräch musste nach den vorab festgelegten Sicherheitskriterien abgebrochen werden. Die Differenzialdiagnosen von AMIE stimmten in 90 Prozent der Fälle mit der späteren Diagnose der Ärzte überein. Die Zusammenfassungen halfen den Ärzten in 75 Prozent der Fälle bei der Vorbereitung und beeinflussten in mehr als der Hälfte der Fälle ihr Vorgehen.",
+    "why": "Lange Wartezeiten und knappe Gesprächszeit sind ein Alltagsproblem in der Primärversorgung. Die Studie zeigt, dass ein beaufsichtigter KI-Vorabdialog praktisch funktionieren kann, mehr noch nicht.",
+    "caveat": "Google beschreibt die Arbeit selbst als „ersten Blick“, größere klinische Studien stehen aus. Die Zahlen stammen aus Googles Blogbeitrag, nicht aus dem hier nicht geprüften Volltext. Ohne Vergleichsgruppe lässt sich nicht sagen, ob Patienten davon gesundheitlich profitieren; Ärzte überwachten alle Gespräche, ein Einsatz ohne Aufsicht ist damit nicht belegt. Google ist an der Studie beteiligt."
+   },
+   "en": {
+    "title": "AI chatbot interviews patients before the doctor's visit: 90 percent match, but only a feasibility study",
+    "summary": "Google's diagnostic chatbot AMIE was tested for the first time with real patients at a primary care clinic of Beth Israel Deaconess Medical Center. 98 patients spoke to the system before an urgent appointment, and it took their medical history; physicians monitored every conversation in real time. No conversation had to be stopped under the predefined safety criteria. AMIE's differential diagnoses matched the physicians' final diagnosis in 90 percent of cases. The summaries helped clinicians prepare in 75 percent of cases and shaped their approach to care in more than half.",
+    "why": "Long waits and short consultation times are an everyday problem in primary care. The study shows that a supervised AI pre-visit dialogue can work in practice, but not yet more than that.",
+    "caveat": "Google itself calls the work a \"first look\"; larger clinical trials are still needed. The figures come from Google's blog post, not from the full text, which was not checked here. With no comparison group it is unclear whether patients benefit in health terms, and since physicians supervised every chat, unsupervised use is not shown. Google is involved in the study."
+   },
+   "ru": {
+    "title": "ИИ-чатбот опрашивает пациентов перед визитом к врачу: совпадение 90 процентов, но это лишь проверка осуществимости",
+    "summary": "Диагностический чатбот AMIE от Google впервые испытали на реальных пациентах в клинике первичной помощи Beth Israel Deaconess Medical Center. 98 пациентов перед срочным приёмом побеседовали с системой, которая собирала анамнез; врачи в реальном времени следили за каждым разговором. По заранее заданным критериям безопасности ни один разговор не пришлось прерывать. Дифференциальные диагнозы AMIE совпали с итоговым диагнозом врачей в 90 процентах случаев. Сводки помогли врачам подготовиться в 75 процентах случаев и повлияли на подход к лечению более чем в половине.",
+    "why": "Долгое ожидание и короткие приёмы — повседневная проблема первичной помощи. Исследование показывает, что ИИ-диалог перед визитом под наблюдением может работать на практике, но не более того.",
+    "caveat": "Сама Google называет работу «первым взглядом», нужны более крупные клинические испытания. Цифры взяты из блога Google, а не из полного текста, который здесь не проверялся. Без группы сравнения неясно, выигрывают ли пациенты в плане здоровья; врачи наблюдали за всеми чатами, поэтому применение без надзора не доказано. Google участвует в исследовании."
+   },
+   "image": {
+    "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physician_relation.max-1440x810.png",
+    "kind": "press",
+    "credit": "Bild: Google",
+    "link": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/"
+   }
+  },
   {
    "id": "2026-11-18-wolfsmilch-satellit",
    "date": "2026-11-18",

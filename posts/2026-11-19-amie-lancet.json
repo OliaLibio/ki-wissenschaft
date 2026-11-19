@@ -1,0 +1,45 @@
+{
+ "id": "2026-11-19-amie-lancet",
+ "date": "2026-11-19",
+ "published": "2026-10-08",
+ "category": "gesundheit",
+ "countries": [
+  "US"
+ ],
+ "institution": "Beth Israel Deaconess Medical Center, Google",
+ "maturity": "clinical",
+ "source": {
+  "name": "The Lancet via Google Blog",
+  "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/"
+ },
+ "more": [
+  {
+   "name": "Volltext der Studie (The Lancet)",
+   "url": "https://goo.gle/4i7Fx9N"
+  }
+ ],
+ "de": {
+  "title": "KI-Chatbot befragt Patienten vor dem Arztbesuch: 90 Prozent Trefferquote, aber nur eine Machbarkeitsstudie",
+  "summary": "Der Diagnose-Chatbot AMIE von Google wurde erstmals mit echten Patienten in einer Hausarztklinik des Beth Israel Deaconess Medical Center getestet. 98 Patienten sprachen vor einem dringlichen Termin mit dem System, das ihre Krankengeschichte erfragte; Ärztinnen und Ärzte überwachten jedes Gespräch in Echtzeit. Bei keinem Gespräch musste nach den vorab festgelegten Sicherheitskriterien abgebrochen werden. Die Differenzialdiagnosen von AMIE stimmten in 90 Prozent der Fälle mit der späteren Diagnose der Ärzte überein. Die Zusammenfassungen halfen den Ärzten in 75 Prozent der Fälle bei der Vorbereitung und beeinflussten in mehr als der Hälfte der Fälle ihr Vorgehen.",
+  "why": "Lange Wartezeiten und knappe Gesprächszeit sind ein Alltagsproblem in der Primärversorgung. Die Studie zeigt, dass ein beaufsichtigter KI-Vorabdialog praktisch funktionieren kann, mehr noch nicht.",
+  "caveat": "Google beschreibt die Arbeit selbst als „ersten Blick“, größere klinische Studien stehen aus. Die Zahlen stammen aus Googles Blogbeitrag, nicht aus dem hier nicht geprüften Volltext. Ohne Vergleichsgruppe lässt sich nicht sagen, ob Patienten davon gesundheitlich profitieren; Ärzte überwachten alle Gespräche, ein Einsatz ohne Aufsicht ist damit nicht belegt. Google ist an der Studie beteiligt."
+ },
+ "en": {
+  "title": "AI chatbot interviews patients before the doctor's visit: 90 percent match, but only a feasibility study",
+  "summary": "Google's diagnostic chatbot AMIE was tested for the first time with real patients at a primary care clinic of Beth Israel Deaconess Medical Center. 98 patients spoke to the system before an urgent appointment, and it took their medical history; physicians monitored every conversation in real time. No conversation had to be stopped under the predefined safety criteria. AMIE's differential diagnoses matched the physicians' final diagnosis in 90 percent of cases. The summaries helped clinicians prepare in 75 percent of cases and shaped their approach to care in more than half.",
+  "why": "Long waits and short consultation times are an everyday problem in primary care. The study shows that a supervised AI pre-visit dialogue can work in practice, but not yet more than that.",
+  "caveat": "Google itself calls the work a \"first look\"; larger clinical trials are still needed. The figures come from Google's blog post, not from the full text, which was not checked here. With no comparison group it is unclear whether patients benefit in health terms, and since physicians supervised every chat, unsupervised use is not shown. Google is involved in the study."
+ },
+ "ru": {
+  "title": "ИИ-чатбот опрашивает пациентов перед визитом к врачу: совпадение 90 процентов, но это лишь проверка осуществимости",
+  "summary": "Диагностический чатбот AMIE от Google впервые испытали на реальных пациентах в клинике первичной помощи Beth Israel Deaconess Medical Center. 98 пациентов перед срочным приёмом побеседовали с системой, которая собирала анамнез; врачи в реальном времени следили за каждым разговором. По заранее заданным критериям безопасности ни один разговор не пришлось прерывать. Дифференциальные диагнозы AMIE совпали с итоговым диагнозом врачей в 90 процентах случаев. Сводки помогли врачам подготовиться в 75 процентах случаев и повлияли на подход к лечению более чем в половине.",
+  "why": "Долгое ожидание и короткие приёмы — повседневная проблема первичной помощи. Исследование показывает, что ИИ-диалог перед визитом под наблюдением может работать на практике, но не более того.",
+  "caveat": "Сама Google называет работу «первым взглядом», нужны более крупные клинические испытания. Цифры взяты из блога Google, а не из полного текста, который здесь не проверялся. Без группы сравнения неясно, выигрывают ли пациенты в плане здоровья; врачи наблюдали за всеми чатами, поэтому применение без надзора не доказано. Google участвует в исследовании."
+ },
+ "image": {
+  "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physician_relation.max-1440x810.png",
+  "kind": "press",
+  "credit": "Bild: Google",
+  "link": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/"
+ }
+}

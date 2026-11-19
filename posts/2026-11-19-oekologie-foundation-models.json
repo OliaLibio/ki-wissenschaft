@@ -1,0 +1,45 @@
+{
+ "id": "2026-11-19-oekologie-foundation-models",
+ "date": "2026-11-19",
+ "published": "2026-11-06",
+ "category": "tiere",
+ "countries": [
+  "GB"
+ ],
+ "institution": "Queen Mary University of London",
+ "maturity": "review",
+ "source": {
+  "name": "Nature Machine Intelligence via EurekAlert",
+  "url": "https://www.eurekalert.org/news-releases/1150385"
+ },
+ "more": [
+  {
+   "name": "DOI 10.1038/s42256-026-01317-6",
+   "url": "https://doi.org/10.1038/s42256-026-01317-6"
+  }
+ ],
+ "de": {
+  "title": "Ökologie-KI mit Fahrplan: Forscher skizzieren Basismodelle, die Arten, Klänge und Satellitenbilder verbinden",
+  "summary": "Ein Team um Rachel Parkinson von der Queen Mary University of London beschreibt in Nature Machine Intelligence, wie „ökologische Basismodelle“ aussehen könnten. Heutige KI-Werkzeuge in der Ökologie erledigen meist einzelne Aufgaben wie Arten bestimmen, Tierlaute erkennen oder Verbreitungsgebiete kartieren. Die Autoren schlagen vor, Gensequenzen, Satellitenbilder, Tonaufnahmen und Beobachtungsdaten in einem Modell zu verbinden. Damit ließen sich etwa unbekannte Wechselwirkungen vorhersagen, zum Beispiel welche Blüten ein wenig erforschter Bestäuber besucht, oder die Reaktion von Ökosystemen auf Klimawandel und Lebensraumverlust. Der Fahrplan nennt vier Felder: Datenintegration, ökologische Theorie, neue Architekturen und die Verlässlichkeit von Vorhersagen.",
+  "why": "Wo Arten schwinden, fehlen oft die Daten, um gezielt zu helfen. Solche Modelle könnten Lücken füllen, falls sie sich als verlässlich erweisen.",
+  "caveat": "Es ist ein Positionspapier ohne eigene Messergebnisse: Solche Modelle gibt es bislang nicht. Die Autoren warnen selbst, dass ökologische Daten lückenhaft und auf gut erforschte Arten und Regionen verzerrt sind, was Verzerrungen verstärken könnte."
+ },
+ "en": {
+  "title": "A roadmap for ecology AI: researchers sketch foundation models that link species, sounds and satellite images",
+  "summary": "A team led by Rachel Parkinson at Queen Mary University of London describes in Nature Machine Intelligence what \"ecological foundation models\" could look like. Today's AI tools in ecology mostly handle single tasks such as identifying species, recognising animal sounds or mapping distributions. The authors propose combining genetic sequences, satellite imagery, sound recordings and observation data in one model. This could predict undocumented interactions, for example which flowers a little-studied pollinator visits, or how ecosystems respond to climate change and habitat loss. The roadmap names four areas: data integration, ecological theory, new architectures and the reliability of predictions.",
+  "why": "Where species decline, the data to help them targetedly are often missing. Such models could fill gaps, if they prove reliable.",
+  "caveat": "This is a perspective article without its own results: such models do not yet exist. The authors themselves warn that ecological data are incomplete and skewed towards well-studied species and regions, which could reinforce existing biases."
+ },
+ "ru": {
+  "title": "Дорожная карта для ИИ в экологии: исследователи описывают базовые модели, объединяющие виды, звуки и спутниковые снимки",
+  "summary": "Команда Рэйчел Паркинсон из Лондонского университета королевы Марии описывает в Nature Machine Intelligence, как могли бы выглядеть «экологические базовые модели». Нынешние ИИ-инструменты в экологии в основном решают отдельные задачи: определяют виды, распознают звуки животных, картируют ареалы. Авторы предлагают объединить в одной модели генетические последовательности, спутниковые снимки, звукозаписи и данные наблюдений. Это позволило бы предсказывать недокументированные взаимодействия, например какие цветы посещает малоизученный опылитель, или реакцию экосистем на изменение климата и утрату среды обитания. Дорожная карта называет четыре направления: интеграция данных, экологическая теория, новые архитектуры и надёжность прогнозов.",
+  "why": "Там, где виды исчезают, часто не хватает данных для целенаправленной помощи. Такие модели могли бы закрыть пробелы, если окажутся надёжными.",
+  "caveat": "Это концептуальная статья без собственных результатов: таких моделей пока нет. Сами авторы предупреждают, что экологические данные неполны и смещены в сторону хорошо изученных видов и регионов, что может усилить существующие искажения."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-026-01317-6/MediaObjects/42256_2026_1317_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Nature Machine Intelligence",
+  "link": "https://www.nature.com/articles/s42256-026-01317-6"
+ }
+}
