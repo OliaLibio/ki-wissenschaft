@@ -1,29 +1,45 @@
 {
-  "id": "2026-11-13-redmod-pankreas",
-  "date": "2026-11-13",
-  "published": "2026-10-26",
-  "category": "gesundheit",
-  "countries": ["US"],
-  "institution": "Mayo Clinic",
-  "maturity": "study",
-  "source": {"name": "Gut (BMJ) via ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm"},
-  "more": [{"name": "Mayo Clinic News Network", "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-detects-pancreatic-cancer-up-to-3-years-before-diagnosis-in-landmark-validation-study/"}],
-  "de": {
-    "title": "KI erkennt Bauchspeicheldrüsenkrebs im CT, bevor Radiologen ihn sehen",
-    "summary": "Das Modell REDMOD der Mayo Clinic analysiert feinste Gewebemuster in Bauch-CTs. Geprüft wurde es an 219 Patienten, deren frühere Scans als unauffällig galten, obwohl später Pankreaskrebs diagnostiziert wurde, plus 1.243 gesunde Vergleichspersonen. Die KI fand 73 Prozent dieser Tumoren im Rückblick, Radiologen nur 39 Prozent. Der mittlere Vorsprung lag bei 475 Tagen vor der klinischen Diagnose. Bei Scans, die mehr als zwei Jahre vor der Diagnose entstanden, lag die Trefferquote bei 68 gegenüber 23 Prozent.",
-    "why": "Pankreaskrebs wird meist so spät entdeckt, dass eine Operation nicht mehr möglich ist. Ein Frühwarnsystem, das vorhandene CT-Bilder nachträglich auswertet, könnte das ändern.",
-    "caveat": "Rückblickende Studie, die Patientengruppe war ethnisch wenig vielfältig. Eine prospektive Prüfung an Risikogruppen steht noch aus, ein klinischer Einsatz ist noch nicht freigegeben."
-  },
-  "en": {
-    "title": "AI spots pancreatic cancer on CT scans before radiologists can",
-    "summary": "Mayo Clinic's REDMOD model analyses subtle tissue-texture patterns in abdominal CT scans. It was tested on 219 patients whose earlier scans had been read as normal before a later pancreatic cancer diagnosis, plus 1,243 matched cancer-free controls. The AI flagged 73 percent of those tumours in hindsight, compared with 39 percent for radiologists. The median lead time was 475 days before clinical diagnosis. For scans taken more than two years before diagnosis, detection was 68 versus 23 percent.",
-    "why": "Pancreatic cancer is usually found too late for surgery. A system that re-reads CT scans already in the archive could shift diagnosis much earlier.",
-    "caveat": "Retrospective study with limited ethnic diversity. Prospective testing in high-risk groups is still needed, and the tool is not yet cleared for routine care."
-  },
-  "ru": {
-    "title": "ИИ находит рак поджелудочной железы на КТ раньше рентгенологов",
-    "summary": "Модель REDMOD клиники Мэйо анализирует тончайшие текстурные особенности тканей на КТ брюшной полости. Её проверили на снимках 219 пациентов, чьи ранние КТ считались нормальными, хотя позже у них диагностировали рак поджелудочной железы, и 1 243 здоровых людей для сравнения. ИИ ретроспективно выявил 73 процента опухолей, рентгенологи — 39 процентов. Медианное опережение составило 475 дней до клинического диагноза. Для снимков, сделанных более чем за два года до диагноза, точность была 68 против 23 процентов.",
-    "why": "Рак поджелудочной железы обычно обнаруживают слишком поздно для операции. Система, которая повторно анализирует уже существующие КТ, могла бы сдвинуть диагностику намного раньше.",
-    "caveat": "Ретроспективное исследование, выборка этнически однородна. Нужна проспективная проверка в группах риска, в клинической практике инструмент пока не разрешён."
+ "id": "2026-11-13-redmod-pankreas",
+ "date": "2026-11-13",
+ "published": "2026-10-26",
+ "category": "gesundheit",
+ "countries": [
+  "US"
+ ],
+ "institution": "Mayo Clinic",
+ "maturity": "study",
+ "source": {
+  "name": "Gut (BMJ) via ScienceDaily",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm"
+ },
+ "more": [
+  {
+   "name": "Mayo Clinic News Network",
+   "url": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-detects-pancreatic-cancer-up-to-3-years-before-diagnosis-in-landmark-validation-study/"
   }
+ ],
+ "de": {
+  "title": "KI erkennt Bauchspeicheldrüsenkrebs im CT, bevor Radiologen ihn sehen",
+  "summary": "Das Modell REDMOD der Mayo Clinic analysiert feinste Gewebemuster in Bauch-CTs. Geprüft wurde es an 219 Patienten, deren frühere Scans als unauffällig galten, obwohl später Pankreaskrebs diagnostiziert wurde, plus 1.243 gesunde Vergleichspersonen. Die KI fand 73 Prozent dieser Tumoren im Rückblick, Radiologen nur 39 Prozent. Der mittlere Vorsprung lag bei 475 Tagen vor der klinischen Diagnose. Bei Scans, die mehr als zwei Jahre vor der Diagnose entstanden, lag die Trefferquote bei 68 gegenüber 23 Prozent.",
+  "why": "Pankreaskrebs wird meist so spät entdeckt, dass eine Operation nicht mehr möglich ist. Ein Frühwarnsystem, das vorhandene CT-Bilder nachträglich auswertet, könnte das ändern.",
+  "caveat": "Rückblickende Studie, die Patientengruppe war ethnisch wenig vielfältig. Eine prospektive Prüfung an Risikogruppen steht noch aus, ein klinischer Einsatz ist noch nicht freigegeben."
+ },
+ "en": {
+  "title": "AI spots pancreatic cancer on CT scans before radiologists can",
+  "summary": "Mayo Clinic's REDMOD model analyses subtle tissue-texture patterns in abdominal CT scans. It was tested on 219 patients whose earlier scans had been read as normal before a later pancreatic cancer diagnosis, plus 1,243 matched cancer-free controls. The AI flagged 73 percent of those tumours in hindsight, compared with 39 percent for radiologists. The median lead time was 475 days before clinical diagnosis. For scans taken more than two years before diagnosis, detection was 68 versus 23 percent.",
+  "why": "Pancreatic cancer is usually found too late for surgery. A system that re-reads CT scans already in the archive could shift diagnosis much earlier.",
+  "caveat": "Retrospective study with limited ethnic diversity. Prospective testing in high-risk groups is still needed, and the tool is not yet cleared for routine care."
+ },
+ "ru": {
+  "title": "ИИ находит рак поджелудочной железы на КТ раньше рентгенологов",
+  "summary": "Модель REDMOD клиники Мэйо анализирует тончайшие текстурные особенности тканей на КТ брюшной полости. Её проверили на снимках 219 пациентов, чьи ранние КТ считались нормальными, хотя позже у них диагностировали рак поджелудочной железы, и 1 243 здоровых людей для сравнения. ИИ ретроспективно выявил 73 процента опухолей, рентгенологи — 39 процентов. Медианное опережение составило 475 дней до клинического диагноза. Для снимков, сделанных более чем за два года до диагноза, точность была 68 против 23 процентов.",
+  "why": "Рак поджелудочной железы обычно обнаруживают слишком поздно для операции. Система, которая повторно анализирует уже существующие КТ, могла бы сдвинуть диагностику намного раньше.",
+  "caveat": "Ретроспективное исследование, выборка этнически однородна. Нужна проспективная проверка в группах риска, в клинической практике инструмент пока не разрешён."
+ },
+ "image": {
+  "src": "https://www.sciencedaily.com/images/1920/pancreatic-cancer-male-anatomy.webp",
+  "kind": "press",
+  "credit": "Bild: ScienceDaily",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm"
+ }
 }

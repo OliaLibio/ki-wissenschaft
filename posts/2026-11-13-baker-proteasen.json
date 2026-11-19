@@ -1,29 +1,40 @@
 {
-  "id": "2026-11-13-baker-proteasen",
-  "date": "2026-11-13",
-  "published": "2026-10-16",
-  "category": "gesundheit",
-  "countries": ["US"],
-  "institution": "University of Washington, Baker Lab",
-  "maturity": "lab",
-  "source": {"name": "Nature via Phys.org", "url": "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html"},
-  "more": [],
-  "de": {
-    "title": "KI entwirft molekulare Scheren, die krankmachende Proteine zerschneiden",
-    "summary": "Das Labor von David Baker hat mit RFdiffusion2, ProteinMPNN und AlphaFold 3 Enzyme am Computer entworfen, die ein frei gewähltes Zielprotein erkennen und an einer bestimmten Stelle durchtrennen. Von 69 entworfenen Cystein-Proteasen funktionierten 13 im Labor, von 135 Zink-Proteasen 36 Prozent. Nach Feinabstimmung schnitt das beste Enzym 30-mal schneller. Ein Design zerlegte das Protein TDP-43, das sich bei ALS und manchen Demenzformen ablagert, andere schnitten Fragmente von Amyloid-beta, das mit Alzheimer in Verbindung steht.",
-    "why": "Bisher mussten Enzyme aus der Natur mühsam angepasst werden. Jetzt lassen sie sich für ein Zielprotein nach Wunsch entwerfen. Das öffnet einen neuen Weg für Medikamente, die schädliche Proteine gezielt abbauen.",
-    "caveat": "Reine Laborergebnisse in Bakterien. Es gibt keine Tests an Tieren oder Menschen, und nur ein Teil der Entwürfe war aktiv."
-  },
-  "en": {
-    "title": "AI designs molecular scissors that cut disease-linked proteins",
-    "summary": "David Baker's lab used RFdiffusion2, ProteinMPNN and AlphaFold 3 to design enzymes from scratch that recognise a chosen target protein and cut it at a specific site. Of 69 designed cysteine proteases, 13 worked in the lab; of 135 zinc proteases, 36 percent did. After refinement, the best enzyme cut 30 times faster. One design cleaved TDP-43, a protein that accumulates in ALS and some dementias, and others cut fragments of amyloid-beta, which is linked to Alzheimer's disease.",
-    "why": "Until now, enzymes had to be laboriously adapted from nature. Now they can be designed for a chosen target on demand, opening a new route to drugs that selectively destroy harmful proteins.",
-    "caveat": "Lab results in bacteria only. No animal or human testing yet, and only a fraction of the designs were active."
-  },
-  "ru": {
-    "title": "ИИ сконструировал молекулярные ножницы, разрезающие белки болезней",
-    "summary": "Лаборатория Дэвида Бейкера с помощью RFdiffusion2, ProteinMPNN и AlphaFold 3 спроектировала с нуля ферменты, которые распознают выбранный белок-мишень и разрезают его в нужном месте. Из 69 спроектированных цистеиновых протеаз в лаборатории сработали 13, из 135 цинковых — 36 процентов. После доработки лучший фермент резал в 30 раз быстрее. Один из вариантов расщепил белок TDP-43, накапливающийся при БАС и некоторых деменциях, другие разрезали фрагменты бета-амилоида, связанного с болезнью Альцгеймера.",
-    "why": "Раньше ферменты приходилось долго приспосабливать из природных. Теперь их можно проектировать под заданную мишень по заказу. Это открывает путь к лекарствам, избирательно разрушающим вредные белки.",
-    "caveat": "Только лабораторные результаты в бактериях. Испытаний на животных и людях нет, и лишь часть конструкций оказалась активной."
-  }
+ "id": "2026-11-13-baker-proteasen",
+ "date": "2026-11-13",
+ "published": "2026-10-16",
+ "category": "gesundheit",
+ "countries": [
+  "US"
+ ],
+ "institution": "University of Washington, Baker Lab",
+ "maturity": "lab",
+ "source": {
+  "name": "Nature via Phys.org",
+  "url": "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html"
+ },
+ "more": [],
+ "de": {
+  "title": "KI entwirft molekulare Scheren, die krankmachende Proteine zerschneiden",
+  "summary": "Das Labor von David Baker hat mit RFdiffusion2, ProteinMPNN und AlphaFold 3 Enzyme am Computer entworfen, die ein frei gewähltes Zielprotein erkennen und an einer bestimmten Stelle durchtrennen. Von 69 entworfenen Cystein-Proteasen funktionierten 13 im Labor, von 135 Zink-Proteasen 36 Prozent. Nach Feinabstimmung schnitt das beste Enzym 30-mal schneller. Ein Design zerlegte das Protein TDP-43, das sich bei ALS und manchen Demenzformen ablagert, andere schnitten Fragmente von Amyloid-beta, das mit Alzheimer in Verbindung steht.",
+  "why": "Bisher mussten Enzyme aus der Natur mühsam angepasst werden. Jetzt lassen sie sich für ein Zielprotein nach Wunsch entwerfen. Das öffnet einen neuen Weg für Medikamente, die schädliche Proteine gezielt abbauen.",
+  "caveat": "Reine Laborergebnisse in Bakterien. Es gibt keine Tests an Tieren oder Menschen, und nur ein Teil der Entwürfe war aktiv."
+ },
+ "en": {
+  "title": "AI designs molecular scissors that cut disease-linked proteins",
+  "summary": "David Baker's lab used RFdiffusion2, ProteinMPNN and AlphaFold 3 to design enzymes from scratch that recognise a chosen target protein and cut it at a specific site. Of 69 designed cysteine proteases, 13 worked in the lab; of 135 zinc proteases, 36 percent did. After refinement, the best enzyme cut 30 times faster. One design cleaved TDP-43, a protein that accumulates in ALS and some dementias, and others cut fragments of amyloid-beta, which is linked to Alzheimer's disease.",
+  "why": "Until now, enzymes had to be laboriously adapted from nature. Now they can be designed for a chosen target on demand, opening a new route to drugs that selectively destroy harmful proteins.",
+  "caveat": "Lab results in bacteria only. No animal or human testing yet, and only a fraction of the designs were active."
+ },
+ "ru": {
+  "title": "ИИ сконструировал молекулярные ножницы, разрезающие белки болезней",
+  "summary": "Лаборатория Дэвида Бейкера с помощью RFdiffusion2, ProteinMPNN и AlphaFold 3 спроектировала с нуля ферменты, которые распознают выбранный белок-мишень и разрезают его в нужном месте. Из 69 спроектированных цистеиновых протеаз в лаборатории сработали 13, из 135 цинковых — 36 процентов. После доработки лучший фермент резал в 30 раз быстрее. Один из вариантов расщепил белок TDP-43, накапливающийся при БАС и некоторых деменциях, другие разрезали фрагменты бета-амилоида, связанного с болезнью Альцгеймера.",
+  "why": "Раньше ферменты приходилось долго приспосабливать из природных. Теперь их можно проектировать под заданную мишень по заказу. Это открывает путь к лекарствам, избирательно разрушающим вредные белки.",
+  "caveat": "Только лабораторные результаты в бактериях. Испытаний на животных и людях нет, и лишь часть конструкций оказалась активной."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11167-2/MediaObjects/41586_2026_11167_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Nature",
+  "link": "https://doi.org/10.1038/s41586-026-11167-2"
+ }
 }

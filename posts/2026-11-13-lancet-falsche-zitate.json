@@ -1,29 +1,47 @@
 {
-  "id": "2026-11-13-lancet-falsche-zitate",
-  "date": "2026-11-13",
-  "published": "2026-05-07",
-  "category": "grenzen",
-  "countries": ["US", "IL", "FI"],
-  "institution": "Columbia University, Tel Aviv Sourasky Medical Center, University of Eastern Finland",
-  "maturity": "study",
-  "source": {"name": "The Lancet via Columbia School of Nursing", "url": "https://www.nursing.columbia.edu/news/nearly-3-000-peer-reviewed-medical-papers-have-fake-citations-columbia-nursing-ai-assisted-audit-finds"},
-  "more": [{"name": "EurekAlert", "url": "https://www.eurekalert.org/news-releases/1127364"}],
-  "de": {
-    "title": "KI-Prüfung von 2,5 Millionen Fachartikeln: Erfundene Quellen haben sich seit 2023 verzwölffacht",
-    "summary": "Ein Team um Maxim Topaz von der Columbia University hat ein automatisches Prüfsystem gebaut und damit 97,1 Millionen Literaturverweise in 2,5 Millionen frei zugänglichen biomedizinischen Artikeln aus PubMed Central kontrolliert, erschienen zwischen Januar 2023 und Februar 2026. Ergebnis: 4.046 erfundene Zitate in 2.810 Artikeln. Die Rate lag 2023 stabil bei etwa 4 pro 10.000 Artikel und stieg ab Mitte 2024 steil an, auf rund 57 pro 10.000 Anfang 2026. In einem Artikel waren 18 von 30 Quellen frei erfunden. Zum Zeitpunkt der Prüfung hatten 98,4 Prozent der betroffenen Artikel keinerlei Reaktion des Verlags erhalten. Manche der falschen Quellen wurden inzwischen weiterzitiert und tauchen in Übersichtsarbeiten auf, die klinische Leitlinien beeinflussen.",
-    "why": "Der Anstieg fällt zeitlich mit der Verbreitung von KI-Schreibwerkzeugen zusammen. Die Studie zeigt beides: KI erzeugt das Problem, und KI ist bisher das einzige Werkzeug, das es in dieser Größenordnung aufdecken kann.",
-    "caveat": "Nur frei zugängliche Artikel geprüft, der letzte Datenpunkt umfasst nur sieben Wochen. Die Fehlerrate des Prüfsystems selbst wird nicht berichtet, und die Ursache ist zeitlicher Zusammenhang, kein Beweis."
-  },
-  "en": {
-    "title": "AI audit of 2.5 million papers: fabricated references have risen twelvefold since 2023",
-    "summary": "A team led by Maxim Topaz at Columbia University built an automated verification system and used it to check 97.1 million references in 2.5 million open-access biomedical papers in PubMed Central, published between January 2023 and February 2026. The result: 4,046 fabricated citations in 2,810 papers. The rate held at about 4 per 10,000 papers through 2023, then climbed steeply from mid-2024 to about 57 per 10,000 in early 2026. One paper had 18 of its 30 references invented. At the time of the audit, 98.4 percent of affected papers had received no publisher action. Some of the fake references have since been cited onward and appear in systematic reviews that inform clinical guidelines.",
-    "why": "The rise coincides with the spread of AI writing tools. The study shows both sides: AI creates the problem, and AI is so far the only tool that can expose it at this scale.",
-    "caveat": "Only open-access papers were checked, and the last data point covers just seven weeks. The verification system's own error rate is not reported, and the cause is a temporal link, not proof."
-  },
-  "ru": {
-    "title": "ИИ-проверка 2,5 миллиона статей: число выдуманных ссылок с 2023 года выросло в двенадцать раз",
-    "summary": "Команда Максима Топаза из Колумбийского университета построила автоматическую систему проверки и проверила ею 97,1 миллиона ссылок в 2,5 миллиона биомедицинских статей открытого доступа из PubMed Central, вышедших с января 2023 по февраль 2026 года. Итог: 4 046 выдуманных ссылок в 2 810 статьях. В 2023 году доля держалась около 4 на 10 000 статей, а с середины 2024 года резко выросла — до примерно 57 на 10 000 в начале 2026 года. В одной статье 18 из 30 источников были вымышлены. На момент проверки 98,4 процента затронутых статей не получили никакой реакции издателя. Часть ложных ссылок уже процитирована дальше и попала в систематические обзоры, влияющие на клинические рекомендации.",
-    "why": "Рост совпадает по времени с распространением ИИ-инструментов для письма. Исследование показывает обе стороны: ИИ порождает проблему, и ИИ пока единственный инструмент, способный выявить её в таком масштабе.",
-    "caveat": "Проверены только статьи открытого доступа, последняя точка данных охватывает лишь семь недель. Собственная ошибка системы проверки не сообщается, а причина — временная связь, а не доказательство."
+ "id": "2026-11-13-lancet-falsche-zitate",
+ "date": "2026-11-13",
+ "published": "2026-05-07",
+ "category": "grenzen",
+ "countries": [
+  "US",
+  "IL",
+  "FI"
+ ],
+ "institution": "Columbia University, Tel Aviv Sourasky Medical Center, University of Eastern Finland",
+ "maturity": "study",
+ "source": {
+  "name": "The Lancet via Columbia School of Nursing",
+  "url": "https://www.nursing.columbia.edu/news/nearly-3-000-peer-reviewed-medical-papers-have-fake-citations-columbia-nursing-ai-assisted-audit-finds"
+ },
+ "more": [
+  {
+   "name": "EurekAlert",
+   "url": "https://www.eurekalert.org/news-releases/1127364"
   }
+ ],
+ "de": {
+  "title": "KI-Prüfung von 2,5 Millionen Fachartikeln: Erfundene Quellen haben sich seit 2023 verzwölffacht",
+  "summary": "Ein Team um Maxim Topaz von der Columbia University hat ein automatisches Prüfsystem gebaut und damit 97,1 Millionen Literaturverweise in 2,5 Millionen frei zugänglichen biomedizinischen Artikeln aus PubMed Central kontrolliert, erschienen zwischen Januar 2023 und Februar 2026. Ergebnis: 4.046 erfundene Zitate in 2.810 Artikeln. Die Rate lag 2023 stabil bei etwa 4 pro 10.000 Artikel und stieg ab Mitte 2024 steil an, auf rund 57 pro 10.000 Anfang 2026. In einem Artikel waren 18 von 30 Quellen frei erfunden. Zum Zeitpunkt der Prüfung hatten 98,4 Prozent der betroffenen Artikel keinerlei Reaktion des Verlags erhalten. Manche der falschen Quellen wurden inzwischen weiterzitiert und tauchen in Übersichtsarbeiten auf, die klinische Leitlinien beeinflussen.",
+  "why": "Der Anstieg fällt zeitlich mit der Verbreitung von KI-Schreibwerkzeugen zusammen. Die Studie zeigt beides: KI erzeugt das Problem, und KI ist bisher das einzige Werkzeug, das es in dieser Größenordnung aufdecken kann.",
+  "caveat": "Nur frei zugängliche Artikel geprüft, der letzte Datenpunkt umfasst nur sieben Wochen. Die Fehlerrate des Prüfsystems selbst wird nicht berichtet, und die Ursache ist zeitlicher Zusammenhang, kein Beweis."
+ },
+ "en": {
+  "title": "AI audit of 2.5 million papers: fabricated references have risen twelvefold since 2023",
+  "summary": "A team led by Maxim Topaz at Columbia University built an automated verification system and used it to check 97.1 million references in 2.5 million open-access biomedical papers in PubMed Central, published between January 2023 and February 2026. The result: 4,046 fabricated citations in 2,810 papers. The rate held at about 4 per 10,000 papers through 2023, then climbed steeply from mid-2024 to about 57 per 10,000 in early 2026. One paper had 18 of its 30 references invented. At the time of the audit, 98.4 percent of affected papers had received no publisher action. Some of the fake references have since been cited onward and appear in systematic reviews that inform clinical guidelines.",
+  "why": "The rise coincides with the spread of AI writing tools. The study shows both sides: AI creates the problem, and AI is so far the only tool that can expose it at this scale.",
+  "caveat": "Only open-access papers were checked, and the last data point covers just seven weeks. The verification system's own error rate is not reported, and the cause is a temporal link, not proof."
+ },
+ "ru": {
+  "title": "ИИ-проверка 2,5 миллиона статей: число выдуманных ссылок с 2023 года выросло в двенадцать раз",
+  "summary": "Команда Максима Топаза из Колумбийского университета построила автоматическую систему проверки и проверила ею 97,1 миллиона ссылок в 2,5 миллиона биомедицинских статей открытого доступа из PubMed Central, вышедших с января 2023 по февраль 2026 года. Итог: 4 046 выдуманных ссылок в 2 810 статьях. В 2023 году доля держалась около 4 на 10 000 статей, а с середины 2024 года резко выросла — до примерно 57 на 10 000 в начале 2026 года. В одной статье 18 из 30 источников были вымышлены. На момент проверки 98,4 процента затронутых статей не получили никакой реакции издателя. Часть ложных ссылок уже процитирована дальше и попала в систематические обзоры, влияющие на клинические рекомендации.",
+  "why": "Рост совпадает по времени с распространением ИИ-инструментов для письма. Исследование показывает обе стороны: ИИ порождает проблему, и ИИ пока единственный инструмент, способный выявить её в таком масштабе.",
+  "caveat": "Проверены только статьи открытого доступа, последняя точка данных охватывает лишь семь недель. Собственная ошибка системы проверки не сообщается, а причина — временная связь, а не доказательство."
+ },
+ "image": {
+  "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/49595b00-7b23-45c3-97bb-2bdca4b81fc4/Rendition/thumbnail/Content/Public",
+  "kind": "press",
+  "credit": "Bild: Columbia School of Nursing",
+  "link": "https://www.eurekalert.org/news-releases/1127364"
+ }
 }

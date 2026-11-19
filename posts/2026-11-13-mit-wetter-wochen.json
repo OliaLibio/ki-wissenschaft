@@ -1,29 +1,47 @@
 {
-  "id": "2026-11-13-mit-wetter-wochen",
-  "date": "2026-11-13",
-  "published": "2026-10-14",
-  "category": "klima",
-  "countries": ["US", "CA", "GB"],
-  "institution": "MIT, Harvard, University of Toronto, ECMWF, Microsoft",
-  "maturity": "study",
-  "source": {"name": "Nature via Phys.org / MIT News", "url": "https://phys.org/news/2026-10-ai-weather-power-weeks.html"},
-  "more": [{"name": "Nature DOI 10.1038/s41586-026-11126-x", "url": "https://doi.org/10.1038/s41586-026-11126-x"}],
-  "de": {
-    "title": "KI-Korrekturschicht verdoppelt die Trefferquote von Wettervorhersagen für zwei bis sechs Wochen",
-    "summary": "Vorhersagen zwischen zwei und sechs Wochen galten bisher als Wüste der Vorhersagbarkeit: zu weit für Wettermodelle, zu nah für Klimamodelle. Ein Team um Judah Cohen am MIT hat eine Lernschicht gebaut, die aus historischen Daten die systematischen Fehler eines bestehenden Modells lernt und dessen Wahrscheinlichkeitsvorhersagen korrigiert. Aufgesetzt auf das Modell des Europäischen Wetterzentrums ECMWF verdoppelte sie die Vorhersagegüte in diesem Zeitfenster, gewann einen ECMWF-Wettbewerb und schlug als erste Methode den langjährigen Klimadurchschnitt. Auch Extremwetter wurde messbar besser vorhergesagt.",
-    "why": "Energieversorger, Landwirte und Katastrophenschutz brauchen genau diesen Zeithorizont. Der Texas-Stromausfall 2021 mit über 240 Toten war der Anlass für die Arbeit. Die Methode lässt sich auf jedes Modell aufsetzen.",
-    "caveat": "Die Verdopplung wurde im Wettbewerbsrahmen gemessen, der reale Nutzen im Betrieb ist noch nicht belegt. Das Problem gilt weiterhin als schwierig."
-  },
-  "en": {
-    "title": "AI correction layer doubles the skill of two-to-six-week weather forecasts",
-    "summary": "Forecasts two to six weeks out have been called a predictability desert: too far for weather models, too close for climate models. A team led by Judah Cohen at MIT built a learning layer that learns an existing model's systematic errors from historical data and corrects its probabilistic forecasts. Applied on top of the European Centre for Medium-Range Weather Forecasts model, it doubled forecast skill in that window, won an ECMWF competition and was the first method to beat the long-term climate average. Extreme weather was also predicted measurably better.",
-    "why": "Utilities, farmers and emergency planners need exactly this horizon. The 2021 Texas power failure, which killed more than 240 people, motivated the work. The method can be bolted onto any model.",
-    "caveat": "The doubling was measured in a competition setting; real-world operational benefit is not yet shown. The problem remains hard."
-  },
-  "ru": {
-    "title": "Корректирующий слой ИИ удваивает точность прогнозов погоды на две–шесть недель",
-    "summary": "Прогнозы на срок от двух до шести недель называли пустыней предсказуемости: слишком далеко для погодных моделей и слишком близко для климатических. Команда Джуды Коэна из MIT создала обучаемый слой, который по историческим данным выучивает систематические ошибки существующей модели и исправляет её вероятностные прогнозы. Поверх модели Европейского центра среднесрочных прогнозов ECMWF он удвоил качество прогноза в этом окне, выиграл конкурс ECMWF и первым превзошёл многолетнюю климатическую норму. Экстремальная погода тоже стала предсказываться заметно лучше.",
-    "why": "Энергетикам, фермерам и службам спасения нужен именно этот горизонт. Поводом для работы стало отключение электричества в Техасе в 2021 году, унёсшее более 240 жизней. Метод можно надстроить над любой моделью.",
-    "caveat": "Удвоение измерено в условиях конкурса, реальная польза в эксплуатации пока не доказана. Задача по-прежнему считается трудной."
+ "id": "2026-11-13-mit-wetter-wochen",
+ "date": "2026-11-13",
+ "published": "2026-10-14",
+ "category": "klima",
+ "countries": [
+  "US",
+  "CA",
+  "GB"
+ ],
+ "institution": "MIT, Harvard, University of Toronto, ECMWF, Microsoft",
+ "maturity": "study",
+ "source": {
+  "name": "Nature via Phys.org / MIT News",
+  "url": "https://phys.org/news/2026-10-ai-weather-power-weeks.html"
+ },
+ "more": [
+  {
+   "name": "Nature DOI 10.1038/s41586-026-11126-x",
+   "url": "https://doi.org/10.1038/s41586-026-11126-x"
   }
+ ],
+ "de": {
+  "title": "KI-Korrekturschicht verdoppelt die Trefferquote von Wettervorhersagen für zwei bis sechs Wochen",
+  "summary": "Vorhersagen zwischen zwei und sechs Wochen galten bisher als Wüste der Vorhersagbarkeit: zu weit für Wettermodelle, zu nah für Klimamodelle. Ein Team um Judah Cohen am MIT hat eine Lernschicht gebaut, die aus historischen Daten die systematischen Fehler eines bestehenden Modells lernt und dessen Wahrscheinlichkeitsvorhersagen korrigiert. Aufgesetzt auf das Modell des Europäischen Wetterzentrums ECMWF verdoppelte sie die Vorhersagegüte in diesem Zeitfenster, gewann einen ECMWF-Wettbewerb und schlug als erste Methode den langjährigen Klimadurchschnitt. Auch Extremwetter wurde messbar besser vorhergesagt.",
+  "why": "Energieversorger, Landwirte und Katastrophenschutz brauchen genau diesen Zeithorizont. Der Texas-Stromausfall 2021 mit über 240 Toten war der Anlass für die Arbeit. Die Methode lässt sich auf jedes Modell aufsetzen.",
+  "caveat": "Die Verdopplung wurde im Wettbewerbsrahmen gemessen, der reale Nutzen im Betrieb ist noch nicht belegt. Das Problem gilt weiterhin als schwierig."
+ },
+ "en": {
+  "title": "AI correction layer doubles the skill of two-to-six-week weather forecasts",
+  "summary": "Forecasts two to six weeks out have been called a predictability desert: too far for weather models, too close for climate models. A team led by Judah Cohen at MIT built a learning layer that learns an existing model's systematic errors from historical data and corrects its probabilistic forecasts. Applied on top of the European Centre for Medium-Range Weather Forecasts model, it doubled forecast skill in that window, won an ECMWF competition and was the first method to beat the long-term climate average. Extreme weather was also predicted measurably better.",
+  "why": "Utilities, farmers and emergency planners need exactly this horizon. The 2021 Texas power failure, which killed more than 240 people, motivated the work. The method can be bolted onto any model.",
+  "caveat": "The doubling was measured in a competition setting; real-world operational benefit is not yet shown. The problem remains hard."
+ },
+ "ru": {
+  "title": "Корректирующий слой ИИ удваивает точность прогнозов погоды на две–шесть недель",
+  "summary": "Прогнозы на срок от двух до шести недель называли пустыней предсказуемости: слишком далеко для погодных моделей и слишком близко для климатических. Команда Джуды Коэна из MIT создала обучаемый слой, который по историческим данным выучивает систематические ошибки существующей модели и исправляет её вероятностные прогнозы. Поверх модели Европейского центра среднесрочных прогнозов ECMWF он удвоил качество прогноза в этом окне, выиграл конкурс ECMWF и первым превзошёл многолетнюю климатическую норму. Экстремальная погода тоже стала предсказываться заметно лучше.",
+  "why": "Энергетикам, фермерам и службам спасения нужен именно этот горизонт. Поводом для работы стало отключение электричества в Техасе в 2021 году, унёсшее более 240 жизней. Метод можно надстроить над любой моделью.",
+  "caveat": "Удвоение измерено в условиях конкурса, реальная польза в эксплуатации пока не доказана. Задача по-прежнему считается трудной."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11126-x/MediaObjects/41586_2026_11126_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Nature",
+  "link": "https://doi.org/10.1038/s41586-026-11126-x"
+ }
 }

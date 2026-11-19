@@ -56,6 +56,11 @@ for path in sorted(glob.glob(os.path.join(POSTS_DIR, "*.json"))):
                 fail(f"{name}: {lang}.{key} fehlt")
         if p["category"] == "mythen" and not t.get("myth"):
             fail(f"{name}: {lang}.myth fehlt")
+    im = p.get("image")
+    if im is not None and not (isinstance(im, dict) and im.get("src","").startswith("http") and im.get("credit") and im.get("link","").startswith("http") and im.get("kind") in ("figure","press","photo")):
+        fail(f"{name}: 'image' braucht src, credit, link (http…) und kind = figure|press|photo")
+    if im is None:
+        print(f"Hinweis: {name} hat kein Bild", file=sys.stderr)
     posts.append(p)
 
 posts.sort(key=lambda p: (p["date"], p["id"]), reverse=True)

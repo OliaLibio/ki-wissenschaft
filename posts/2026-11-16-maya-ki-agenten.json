@@ -1,29 +1,50 @@
 {
-  "id": "2026-11-16-maya-ki-agenten",
-  "date": "2026-11-16",
-  "published": "2026-11-10",
-  "category": "archaeologie",
-  "countries": ["MX", "US"],
-  "institution": "Privatprojekt eines Google-Forschers, INAH Mexiko",
-  "maturity": "preprint",
-  "source": {"name": "TechRadar", "url": "https://techradar.com/ai-platforms-assistants/google-researcher-discovers-unmapped-maya-site-in-mexico-using-48-ai-agents-project-takes-less-than-72-hours-after-agents-scour-nasa-lidar-data"},
-  "more": [{"name": "Analyse: Was die Agenten übersahen", "url": "https://www.winzheng.com/en/article/ai-agents-maya-lidar-discovery-72-hours"}, {"name": "Future of AI: Keine Neuentdeckung", "url": "https://news.futureofai.org/2026/11/no-ai-agents-did-not-discover.html"}],
-  "de": {
-    "title": "48 KI-Agenten finden in 72 Stunden eine Maya-Stätte, die Archäologen schon kannten",
-    "summary": "Der Google-Forscher Pietro Miotti, nach eigener Aussage kein Archäologe, ließ in einem Privatprojekt 48 KI-Agenten öffentliche NASA-Laserscans von rund 1.200 Quadratkilometern Maya-Dschungel durchsehen. Die Agenten bekamen eine schriftliche Anleitung, wonach sie suchen sollten: Pyramiden, Plattformen, Plätze, keine natürlichen Hügel, Dolinen oder Straßen. Nach weniger als drei Tagen meldeten sie eine Hügelkuppe mit planiertem Platz, ovaler Pyramide von geschätzt acht bis zwölf Metern Höhe, erhöhtem Hof und einem möglichen Wasserspeicher. Mexikos Denkmalbehörde INAH bestätigte, dass dort keine registrierte Stätte verzeichnet ist. Dann kam die Wendung: Eine Fachpublikation von Estrada-Belli und Kollegen hatte die Stätte bereits 2025 dokumentiert. Die Agenten hatten die Literatur nicht geprüft. Miotti räumte das ein und stufte den Fund zur Wiederentdeckung herab.",
-    "why": "Die Episode zeigt beides. Handelsübliche KI-Agenten können riesige Fernerkundungsdaten in Tagen vorsortieren, wofür Menschen Monate brauchen. Beim Abgleich mit dem Forschungsstand versagen sie aber, und genau das macht ihre Fehler schwer zu erkennen.",
-    "caveat": "Kein Archäologe hat die Stätte vor Ort geprüft, dafür wäre eine INAH-Genehmigung nötig. Alle Merkmalsbeschreibungen sind Schlussfolgerungen aus den Agenten-Dialogen. Fachleute warnen zudem, dass öffentliche Fundmeldungen Plünderer anlocken können."
+ "id": "2026-11-16-maya-ki-agenten",
+ "date": "2026-11-16",
+ "published": "2026-11-10",
+ "category": "archaeologie",
+ "countries": [
+  "MX",
+  "US"
+ ],
+ "institution": "Privatprojekt eines Google-Forschers, INAH Mexiko",
+ "maturity": "preprint",
+ "source": {
+  "name": "TechRadar",
+  "url": "https://techradar.com/ai-platforms-assistants/google-researcher-discovers-unmapped-maya-site-in-mexico-using-48-ai-agents-project-takes-less-than-72-hours-after-agents-scour-nasa-lidar-data"
+ },
+ "more": [
+  {
+   "name": "Analyse: Was die Agenten übersahen",
+   "url": "https://www.winzheng.com/en/article/ai-agents-maya-lidar-discovery-72-hours"
   },
-  "en": {
-    "title": "48 AI agents find a Maya site in 72 hours that archaeologists already knew",
-    "summary": "Google researcher Pietro Miotti, who says he is not an archaeologist, had 48 AI agents comb through public NASA lidar scans of roughly 1,200 square kilometres of Maya jungle in a personal project. The agents were given a written guide on what to look for: pyramids, platforms and plazas, while excluding natural hills, sinkholes and roads. In under three days they flagged a hilltop with a levelled plaza, an oval pyramid estimated at eight to twelve metres, a raised courtyard and a possible reservoir. Mexico's heritage institute INAH confirmed that no registered site exists at that location. Then came the twist: a paper by Estrada-Belli and colleagues had already documented the site in 2025. The agents had not checked the literature. Miotti acknowledged this and downgraded the find to a rediscovery.",
-    "why": "The episode shows both sides. Off-the-shelf AI agents can triage huge remote-sensing datasets in days, work that takes humans months. But they fail at cross-checking the state of research, and that is exactly what makes their errors hard to spot.",
-    "caveat": "No archaeologist has verified the site in the field, which would require INAH approval. All feature descriptions are inferences from the agent dialogues. Experts also warn that publicising finds can attract looters."
-  },
-  "ru": {
-    "title": "48 ИИ-агентов за 72 часа нашли городище майя, о котором археологи уже знали",
-    "summary": "Исследователь Google Пьетро Миотти, по его словам не археолог, в личном проекте поручил 48 ИИ-агентам просмотреть открытые лидарные сканы NASA примерно 1 200 квадратных километров джунглей майя. Агенты получили письменную инструкцию, что искать: пирамиды, платформы, площади, исключая природные холмы, карстовые воронки и дороги. Менее чем за три дня они отметили вершину холма с выровненной площадью, овальной пирамидой высотой примерно восемь–двенадцать метров, приподнятым двором и возможным водохранилищем. Мексиканский институт INAH подтвердил, что зарегистрированного памятника там нет. Затем последовал поворот: статья Эстрады-Белли и коллег уже задокументировала это место в 2025 году. Агенты не проверили литературу. Миотти признал это и понизил находку до повторного открытия.",
-    "why": "Эпизод показывает обе стороны. Обычные ИИ-агенты могут за дни отсортировать огромные массивы данных дистанционного зондирования, на что у людей уходят месяцы. Но они не справляются со сверкой с состоянием науки, и именно это делает их ошибки трудно заметными.",
-    "caveat": "Ни один археолог не проверял памятник на месте, для этого нужно разрешение INAH. Все описания объектов — выводы из диалогов с агентами. Специалисты также предупреждают, что публичные сообщения о находках могут привлечь грабителей."
+  {
+   "name": "Future of AI: Keine Neuentdeckung",
+   "url": "https://news.futureofai.org/2026/11/no-ai-agents-did-not-discover.html"
   }
+ ],
+ "de": {
+  "title": "48 KI-Agenten finden in 72 Stunden eine Maya-Stätte, die Archäologen schon kannten",
+  "summary": "Der Google-Forscher Pietro Miotti, nach eigener Aussage kein Archäologe, ließ in einem Privatprojekt 48 KI-Agenten öffentliche NASA-Laserscans von rund 1.200 Quadratkilometern Maya-Dschungel durchsehen. Die Agenten bekamen eine schriftliche Anleitung, wonach sie suchen sollten: Pyramiden, Plattformen, Plätze, keine natürlichen Hügel, Dolinen oder Straßen. Nach weniger als drei Tagen meldeten sie eine Hügelkuppe mit planiertem Platz, ovaler Pyramide von geschätzt acht bis zwölf Metern Höhe, erhöhtem Hof und einem möglichen Wasserspeicher. Mexikos Denkmalbehörde INAH bestätigte, dass dort keine registrierte Stätte verzeichnet ist. Dann kam die Wendung: Eine Fachpublikation von Estrada-Belli und Kollegen hatte die Stätte bereits 2025 dokumentiert. Die Agenten hatten die Literatur nicht geprüft. Miotti räumte das ein und stufte den Fund zur Wiederentdeckung herab.",
+  "why": "Die Episode zeigt beides. Handelsübliche KI-Agenten können riesige Fernerkundungsdaten in Tagen vorsortieren, wofür Menschen Monate brauchen. Beim Abgleich mit dem Forschungsstand versagen sie aber, und genau das macht ihre Fehler schwer zu erkennen.",
+  "caveat": "Kein Archäologe hat die Stätte vor Ort geprüft, dafür wäre eine INAH-Genehmigung nötig. Alle Merkmalsbeschreibungen sind Schlussfolgerungen aus den Agenten-Dialogen. Fachleute warnen zudem, dass öffentliche Fundmeldungen Plünderer anlocken können."
+ },
+ "en": {
+  "title": "48 AI agents find a Maya site in 72 hours that archaeologists already knew",
+  "summary": "Google researcher Pietro Miotti, who says he is not an archaeologist, had 48 AI agents comb through public NASA lidar scans of roughly 1,200 square kilometres of Maya jungle in a personal project. The agents were given a written guide on what to look for: pyramids, platforms and plazas, while excluding natural hills, sinkholes and roads. In under three days they flagged a hilltop with a levelled plaza, an oval pyramid estimated at eight to twelve metres, a raised courtyard and a possible reservoir. Mexico's heritage institute INAH confirmed that no registered site exists at that location. Then came the twist: a paper by Estrada-Belli and colleagues had already documented the site in 2025. The agents had not checked the literature. Miotti acknowledged this and downgraded the find to a rediscovery.",
+  "why": "The episode shows both sides. Off-the-shelf AI agents can triage huge remote-sensing datasets in days, work that takes humans months. But they fail at cross-checking the state of research, and that is exactly what makes their errors hard to spot.",
+  "caveat": "No archaeologist has verified the site in the field, which would require INAH approval. All feature descriptions are inferences from the agent dialogues. Experts also warn that publicising finds can attract looters."
+ },
+ "ru": {
+  "title": "48 ИИ-агентов за 72 часа нашли городище майя, о котором археологи уже знали",
+  "summary": "Исследователь Google Пьетро Миотти, по его словам не археолог, в личном проекте поручил 48 ИИ-агентам просмотреть открытые лидарные сканы NASA примерно 1 200 квадратных километров джунглей майя. Агенты получили письменную инструкцию, что искать: пирамиды, платформы, площади, исключая природные холмы, карстовые воронки и дороги. Менее чем за три дня они отметили вершину холма с выровненной площадью, овальной пирамидой высотой примерно восемь–двенадцать метров, приподнятым двором и возможным водохранилищем. Мексиканский институт INAH подтвердил, что зарегистрированного памятника там нет. Затем последовал поворот: статья Эстрады-Белли и коллег уже задокументировала это место в 2025 году. Агенты не проверили литературу. Миотти признал это и понизил находку до повторного открытия.",
+  "why": "Эпизод показывает обе стороны. Обычные ИИ-агенты могут за дни отсортировать огромные массивы данных дистанционного зондирования, на что у людей уходят месяцы. Но они не справляются со сверкой с состоянием науки, и именно это делает их ошибки трудно заметными.",
+  "caveat": "Ни один археолог не проверял памятник на месте, для этого нужно разрешение INAH. Все описания объектов — выводы из диалогов с агентами. Специалисты также предупреждают, что публичные сообщения о находках могут привлечь грабителей."
+ },
+ "image": {
+  "src": "https://cdn.mos.cms.futurecdn.net/ep96KSKciUbJw5tiMQosMk-2000-80.jpg",
+  "kind": "press",
+  "credit": "Bild: TechRadar",
+  "link": "https://techradar.com/ai-platforms-assistants/google-researcher-discovers-unmapped-maya-site-in-mexico-using-48-ai-agents-project-takes-less-than-72-hours-after-agents-scour-nasa-lidar-data"
+ }
 }

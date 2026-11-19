@@ -1,29 +1,46 @@
 {
-  "id": "2026-11-13-bleitinte-herculaneum",
-  "date": "2026-11-13",
-  "published": "2026-09-16",
-  "category": "archaeologie",
-  "countries": ["US", "GB"],
-  "institution": "UC Berkeley, NIST, University College London, Rutherford Appleton Laboratory",
-  "maturity": "lab",
-  "source": {"name": "PLOS ONE via ScienceDaily", "url": "https://www.sciencedaily.com/releases/2026/09/260925005414.htm"},
-  "more": [{"name": "PLOS ONE DOI 10.1371/journal.pone.0353485", "url": "https://doi.org/10.1371/journal.pone.0353485"}],
-  "de": {
-    "title": "Forscher verbrannten eigene Schriftrollen und fanden einen Trick, um antike Tinte sichtbar zu machen",
-    "summary": "Ein Team um Douglas Seiler von der UC Berkeley stellte Nachbildungen antiker Rollen aus ägyptischem Papyrus her, beschrieb sie mit Rußtinte, der abgemessene Mengen Blei beigemischt waren, und verkohlte sie in einem sauerstoffarmen Stahlbehälter im Ofen. In 3D-Computertomografien am NIST leuchtete die bleihaltige Tinte bis zu 25-mal heller als das verkohlte Papyrus, nachweisbar ab 25 Mikrogramm Blei pro Quadratzentimeter. Ein Algorithmus zum digitalen Entrollen, ursprünglich für Scans von Lithium-Ionen-Batterien entwickelt, breitete die Rolle virtuell aus. Ein günstiges Handgerät zur Röntgenfluoreszenz könnte Rollen vorab auf Blei prüfen, bevor man teure Synchrotronzeit einsetzt.",
-    "why": "Die KI-Tintenerkennung der Vesuvius Challenge kämpft mit kohlenstoffbasierter Tinte, die sich kaum vom Papyrus abhebt. Rollen mit Bleitinte könnten weit einfacher und billiger lesbar werden.",
-    "caveat": "Nur Nachbildungen, keine echten Herculaneum-Rollen. Blei kommt in manchen antiken Tinten vor, in anderen nicht, und eine systematische Prüfung der Sammlung steht aus."
-  },
-  "en": {
-    "title": "Researchers burned their own scrolls and found a trick to make ancient ink visible",
-    "summary": "A team led by Douglas Seiler at UC Berkeley made replica scrolls from Egyptian papyrus, wrote on them with lampblack ink mixed with measured amounts of lead, and carbonised them in a low-oxygen steel container in a furnace. In 3D CT scans at NIST, the lead-bearing ink appeared up to 25 times brighter than the charred papyrus, detectable from 25 micrograms of lead per square centimetre. A digital unrolling algorithm, originally built for scans of lithium-ion batteries, virtually flattened the scroll. A cheap handheld X-ray fluorescence device could screen scrolls for lead before expensive synchrotron time is spent.",
-    "why": "The Vesuvius Challenge's AI ink detection struggles with carbon-based ink that barely differs from the papyrus. Scrolls written in lead-bearing ink could become far easier and cheaper to read.",
-    "caveat": "Replicas only, no real Herculaneum scrolls. Lead is present in some ancient inks but not others, and a systematic survey of the collection has not been done."
-  },
-  "ru": {
-    "title": "Учёные сожгли собственные свитки и нашли способ сделать древние чернила видимыми",
-    "summary": "Команда Дугласа Зайлера из Калифорнийского университета в Беркли изготовила копии античных свитков из египетского папируса, написала на них сажевыми чернилами с отмеренными добавками свинца и обуглила их в стальном контейнере с низким содержанием кислорода в печи. На 3D-томограммах в NIST свинцовые чернила светились до 25 раз ярче обугленного папируса и обнаруживались от 25 микрограммов свинца на квадратный сантиметр. Алгоритм виртуального разворачивания, изначально созданный для сканов литий-ионных батарей, развернул свиток. Дешёвый ручной рентгенофлуоресцентный прибор мог бы заранее проверять свитки на свинец, прежде чем тратить дорогое время синхротрона.",
-    "why": "Распознавание чернил нейросетями в Vesuvius Challenge с трудом справляется с углеродными чернилами, почти неотличимыми от папируса. Свитки со свинцовыми чернилами можно было бы читать намного проще и дешевле.",
-    "caveat": "Только копии, а не настоящие свитки из Геркуланума. Свинец есть в одних античных чернилах и отсутствует в других, систематической проверки коллекции ещё не было."
+ "id": "2026-11-13-bleitinte-herculaneum",
+ "date": "2026-11-13",
+ "published": "2026-09-16",
+ "category": "archaeologie",
+ "countries": [
+  "US",
+  "GB"
+ ],
+ "institution": "UC Berkeley, NIST, University College London, Rutherford Appleton Laboratory",
+ "maturity": "lab",
+ "source": {
+  "name": "PLOS ONE via ScienceDaily",
+  "url": "https://www.sciencedaily.com/releases/2026/09/260925005414.htm"
+ },
+ "more": [
+  {
+   "name": "PLOS ONE DOI 10.1371/journal.pone.0353485",
+   "url": "https://doi.org/10.1371/journal.pone.0353485"
   }
+ ],
+ "de": {
+  "title": "Forscher verbrannten eigene Schriftrollen und fanden einen Trick, um antike Tinte sichtbar zu machen",
+  "summary": "Ein Team um Douglas Seiler von der UC Berkeley stellte Nachbildungen antiker Rollen aus ägyptischem Papyrus her, beschrieb sie mit Rußtinte, der abgemessene Mengen Blei beigemischt waren, und verkohlte sie in einem sauerstoffarmen Stahlbehälter im Ofen. In 3D-Computertomografien am NIST leuchtete die bleihaltige Tinte bis zu 25-mal heller als das verkohlte Papyrus, nachweisbar ab 25 Mikrogramm Blei pro Quadratzentimeter. Ein Algorithmus zum digitalen Entrollen, ursprünglich für Scans von Lithium-Ionen-Batterien entwickelt, breitete die Rolle virtuell aus. Ein günstiges Handgerät zur Röntgenfluoreszenz könnte Rollen vorab auf Blei prüfen, bevor man teure Synchrotronzeit einsetzt.",
+  "why": "Die KI-Tintenerkennung der Vesuvius Challenge kämpft mit kohlenstoffbasierter Tinte, die sich kaum vom Papyrus abhebt. Rollen mit Bleitinte könnten weit einfacher und billiger lesbar werden.",
+  "caveat": "Nur Nachbildungen, keine echten Herculaneum-Rollen. Blei kommt in manchen antiken Tinten vor, in anderen nicht, und eine systematische Prüfung der Sammlung steht aus."
+ },
+ "en": {
+  "title": "Researchers burned their own scrolls and found a trick to make ancient ink visible",
+  "summary": "A team led by Douglas Seiler at UC Berkeley made replica scrolls from Egyptian papyrus, wrote on them with lampblack ink mixed with measured amounts of lead, and carbonised them in a low-oxygen steel container in a furnace. In 3D CT scans at NIST, the lead-bearing ink appeared up to 25 times brighter than the charred papyrus, detectable from 25 micrograms of lead per square centimetre. A digital unrolling algorithm, originally built for scans of lithium-ion batteries, virtually flattened the scroll. A cheap handheld X-ray fluorescence device could screen scrolls for lead before expensive synchrotron time is spent.",
+  "why": "The Vesuvius Challenge's AI ink detection struggles with carbon-based ink that barely differs from the papyrus. Scrolls written in lead-bearing ink could become far easier and cheaper to read.",
+  "caveat": "Replicas only, no real Herculaneum scrolls. Lead is present in some ancient inks but not others, and a systematic survey of the collection has not been done."
+ },
+ "ru": {
+  "title": "Учёные сожгли собственные свитки и нашли способ сделать древние чернила видимыми",
+  "summary": "Команда Дугласа Зайлера из Калифорнийского университета в Беркли изготовила копии античных свитков из египетского папируса, написала на них сажевыми чернилами с отмеренными добавками свинца и обуглила их в стальном контейнере с низким содержанием кислорода в печи. На 3D-томограммах в NIST свинцовые чернила светились до 25 раз ярче обугленного папируса и обнаруживались от 25 микрограммов свинца на квадратный сантиметр. Алгоритм виртуального разворачивания, изначально созданный для сканов литий-ионных батарей, развернул свиток. Дешёвый ручной рентгенофлуоресцентный прибор мог бы заранее проверять свитки на свинец, прежде чем тратить дорогое время синхротрона.",
+  "why": "Распознавание чернил нейросетями в Vesuvius Challenge с трудом справляется с углеродными чернилами, почти неотличимыми от папируса. Свитки со свинцовыми чернилами можно было бы читать намного проще и дешевле.",
+  "caveat": "Только копии, а не настоящие свитки из Геркуланума. Свинец есть в одних античных чернилах и отсутствует в других, систематической проверки коллекции ещё не было."
+ },
+ "image": {
+  "src": "https://www.sciencedaily.com/images/1920/carbonized-papyrus-scroll.webp",
+  "kind": "press",
+  "credit": "Bild: ScienceDaily",
+  "link": "https://www.sciencedaily.com/releases/2026/09/260925005414.htm"
+ }
 }

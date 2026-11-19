@@ -1,29 +1,40 @@
 {
-  "id": "2026-11-13-caltech-kipppunkte",
-  "date": "2026-11-13",
-  "published": "2026-10-16",
-  "category": "klima",
-  "countries": ["US"],
-  "institution": "Caltech, University of Colorado Boulder, NVIDIA",
-  "maturity": "lab",
-  "source": {"name": "PNAS via Phys.org", "url": "https://phys.org/news/2026-10-ai-climate-simulation.html"},
-  "more": [],
-  "de": {
-    "title": "KI merkt, wenn ihre eigene Physik nicht mehr stimmt, und warnt vor Kipppunkten",
-    "summary": "Ein Team um Anima Anandkumar am Caltech hat einen rekurrenten neuronalen Operator gebaut, ein Netz mit eingebautem Gedächtnis, das verfolgt, wie sich die Physik eines Systems über die Zeit verändert. Wenn seine Vorhersagen den gelernten Gesetzen nicht mehr folgen, deutet das auf einen bevorstehenden Kipppunkt hin. In einem vereinfachten Klimamodell sagte das System den Verlust niedriger Ozeanwolken bei steigendem CO2 mehr als zwei Jahre im Voraus vorher, mit einem Zeitfehler von etwa elf Tagen. Auch den Strömungsabriss an einem kippenden Flügel erkannte es rechtzeitig.",
-    "why": "Normale Lernverfahren setzen voraus, dass sich die Spielregeln nicht ändern. Kipppunkte sind genau das Gegenteil. Ein Frühwarnsystem dafür wäre für Klima, Ökologie und Epidemiologie wertvoll.",
-    "caveat": "Alle Tests liefen mit simulierten Daten und vereinfachten Modellen. Das Wolkenszenario wurde in der Realität nie beobachtet. Eine Bestätigung an echten Systemen steht aus."
-  },
-  "en": {
-    "title": "AI notices when its own physics stops making sense, and warns of tipping points",
-    "summary": "A team led by Anima Anandkumar at Caltech built a recurrent neural operator, a network with built-in memory that tracks how a system's physics changes over time. When its predictions stop following the laws it has learned, that signals an imminent tipping point. In a simplified climate model, the system forecast the loss of low ocean clouds under rising CO2 more than two years ahead, with a timing error of about eleven days. It also caught the stall-like loss of lift on a tilting wing in time.",
-    "why": "Standard machine learning assumes the rules of the game stay fixed. Tipping points are the opposite. An early-warning system for them would be valuable in climate science, ecology and epidemiology.",
-    "caveat": "All tests used simulated data and simplified models. The cloud scenario has never been observed in reality. Validation on real systems is still outstanding."
-  },
-  "ru": {
-    "title": "ИИ замечает, когда его собственная физика перестаёт сходиться, и предупреждает о точках невозврата",
-    "summary": "Команда Анимы Анандкумар из Калтеха создала рекуррентный нейронный оператор — сеть со встроенной памятью, которая отслеживает, как физика системы меняется во времени. Когда её прогнозы перестают подчиняться выученным законам, это сигнализирует о приближении точки невозврата. В упрощённой климатической модели система предсказала исчезновение низких океанских облаков при росте CO2 более чем за два года, с ошибкой по времени около одиннадцати дней. Она также вовремя распознала срыв потока на наклоняющемся крыле.",
-    "why": "Обычное машинное обучение предполагает, что правила игры неизменны. Точки невозврата — прямая противоположность. Система раннего предупреждения о них была бы ценна для климатологии, экологии и эпидемиологии.",
-    "caveat": "Все испытания проводились на смоделированных данных и упрощённых моделях. Сценарий с облаками в реальности никогда не наблюдался. Проверка на настоящих системах ещё впереди."
-  }
+ "id": "2026-11-13-caltech-kipppunkte",
+ "date": "2026-11-13",
+ "published": "2026-10-16",
+ "category": "klima",
+ "countries": [
+  "US"
+ ],
+ "institution": "Caltech, University of Colorado Boulder, NVIDIA",
+ "maturity": "lab",
+ "source": {
+  "name": "PNAS via Phys.org",
+  "url": "https://phys.org/news/2026-10-ai-climate-simulation.html"
+ },
+ "more": [],
+ "de": {
+  "title": "KI merkt, wenn ihre eigene Physik nicht mehr stimmt, und warnt vor Kipppunkten",
+  "summary": "Ein Team um Anima Anandkumar am Caltech hat einen rekurrenten neuronalen Operator gebaut, ein Netz mit eingebautem Gedächtnis, das verfolgt, wie sich die Physik eines Systems über die Zeit verändert. Wenn seine Vorhersagen den gelernten Gesetzen nicht mehr folgen, deutet das auf einen bevorstehenden Kipppunkt hin. In einem vereinfachten Klimamodell sagte das System den Verlust niedriger Ozeanwolken bei steigendem CO2 mehr als zwei Jahre im Voraus vorher, mit einem Zeitfehler von etwa elf Tagen. Auch den Strömungsabriss an einem kippenden Flügel erkannte es rechtzeitig.",
+  "why": "Normale Lernverfahren setzen voraus, dass sich die Spielregeln nicht ändern. Kipppunkte sind genau das Gegenteil. Ein Frühwarnsystem dafür wäre für Klima, Ökologie und Epidemiologie wertvoll.",
+  "caveat": "Alle Tests liefen mit simulierten Daten und vereinfachten Modellen. Das Wolkenszenario wurde in der Realität nie beobachtet. Eine Bestätigung an echten Systemen steht aus."
+ },
+ "en": {
+  "title": "AI notices when its own physics stops making sense, and warns of tipping points",
+  "summary": "A team led by Anima Anandkumar at Caltech built a recurrent neural operator, a network with built-in memory that tracks how a system's physics changes over time. When its predictions stop following the laws it has learned, that signals an imminent tipping point. In a simplified climate model, the system forecast the loss of low ocean clouds under rising CO2 more than two years ahead, with a timing error of about eleven days. It also caught the stall-like loss of lift on a tilting wing in time.",
+  "why": "Standard machine learning assumes the rules of the game stay fixed. Tipping points are the opposite. An early-warning system for them would be valuable in climate science, ecology and epidemiology.",
+  "caveat": "All tests used simulated data and simplified models. The cloud scenario has never been observed in reality. Validation on real systems is still outstanding."
+ },
+ "ru": {
+  "title": "ИИ замечает, когда его собственная физика перестаёт сходиться, и предупреждает о точках невозврата",
+  "summary": "Команда Анимы Анандкумар из Калтеха создала рекуррентный нейронный оператор — сеть со встроенной памятью, которая отслеживает, как физика системы меняется во времени. Когда её прогнозы перестают подчиняться выученным законам, это сигнализирует о приближении точки невозврата. В упрощённой климатической модели система предсказала исчезновение низких океанских облаков при росте CO2 более чем за два года, с ошибкой по времени около одиннадцати дней. Она также вовремя распознала срыв потока на наклоняющемся крыле.",
+  "why": "Обычное машинное обучение предполагает, что правила игры неизменны. Точки невозврата — прямая противоположность. Система раннего предупреждения о них была бы ценна для климатологии, экологии и эпидемиологии.",
+  "caveat": "Все испытания проводились на смоделированных данных и упрощённых моделях. Сценарий с облаками в реальности никогда не наблюдался. Проверка на настоящих системах ещё впереди."
+ },
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/GOES_East_Spies_Marine_Stratocumulus_Clouds_%28NESDIS_2019-12-04%29.jpg/960px-GOES_East_Spies_Marine_Stratocumulus_Clouds_%28NESDIS_2019-12-04%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "kind": "photo",
+  "credit": "Foto: NOAA, Public domain, Wikimedia Commons",
+  "link": "https://commons.wikimedia.org/wiki/File:GOES_East_Spies_Marine_Stratocumulus_Clouds_(NESDIS_2019-12-04).jpg"
+ }
 }

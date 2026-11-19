@@ -1,29 +1,47 @@
 {
-  "id": "2026-11-13-ceti-tauchgaenge",
-  "date": "2026-11-13",
-  "published": "2026-10-22",
-  "category": "tiere",
-  "countries": ["GB", "US", "DM"],
-  "institution": "Project CETI, Northeastern University London",
-  "maturity": "study",
-  "source": {"name": "Northeastern Global News", "url": "https://news.northeastern.edu/2026/10/22/how-to-speak-whale/"},
-  "more": [{"name": "Phys.org", "url": "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html"}],
-  "de": {
-    "title": "KI sagt aus acht bis zehn Klicksequenzen voraus, wann Pottwale abtauchen",
-    "summary": "Pottwale kommunizieren mit rhythmischen Klickfolgen, sogenannten Codas. Das Team um Giovanni Petri hat Aufnahmen aus Dominica in Lernmodelle eingespeist und festgestellt: Rund acht bis zehn aufeinanderfolgende Codas reichen, um vorherzusagen, ob die Gruppe gleich zu einem tiefen Jagdtauchgang aufbricht. Solche Tauchgänge dauern 45 bis 60 Minuten und führen bis etwa 700 Meter tief. Die Annotation der Aufnahmen läuft weitgehend automatisch, aber Menschen prüfen die Ergebnisse, weil überlappende Rufe und Störgeräusche die Modelle noch verwirren.",
-    "why": "Zum ersten Mal lässt sich aus der Struktur der Klicks ein konkretes Verhalten vorhersagen. Das ist ein Schritt vom bloßen Zählen der Laute hin zu einem Verständnis dessen, was sie auslösen.",
-    "caveat": "Die Bedeutung einzelner Codas bleibt unbekannt. Das Team selbst sagt, man sei weit davon entfernt, die Walsprache zu knacken, und testet noch, ob bestimmte Codas die Tauchgänge wirklich auslösen."
-  },
-  "en": {
-    "title": "AI predicts from eight to ten click sequences when sperm whales will dive",
-    "summary": "Sperm whales communicate with rhythmic click sequences called codas. Giovanni Petri's team fed recordings from Dominica into machine-learning models and found that roughly eight to ten consecutive codas are enough to predict whether the group is about to begin a deep foraging dive. Such dives last 45 to 60 minutes and reach around 700 metres. Annotation of the recordings is largely automated, but humans check the output because overlapping calls and noise still confuse the models.",
-    "why": "For the first time, a concrete behaviour can be predicted from the structure of the clicks. That is a step from counting sounds towards understanding what they trigger.",
-    "caveat": "The meaning of individual codas is still unknown. The team itself says it is far from cracking whale language and is still testing whether specific codas actually trigger the dives."
-  },
-  "ru": {
-    "title": "ИИ по восьми–десяти сериям щелчков предсказывает, когда кашалоты нырнут",
-    "summary": "Кашалоты общаются ритмичными сериями щелчков — кодами. Команда Джованни Петри загрузила записи, сделанные у острова Доминика, в модели машинного обучения и выяснила: примерно восьми–десяти подряд идущих код достаточно, чтобы предсказать, собирается ли группа на глубокое охотничье погружение. Такие погружения длятся 45–60 минут и достигают примерно 700 метров. Разметка записей в основном автоматизирована, но люди проверяют результат, потому что перекрывающиеся сигналы и шум всё ещё сбивают модели.",
-    "why": "Впервые по структуре щелчков удалось предсказать конкретное поведение. Это шаг от простого подсчёта звуков к пониманию того, что они запускают.",
-    "caveat": "Значение отдельных код по-прежнему неизвестно. Сама команда говорит, что до расшифровки языка китов далеко, и ещё проверяет, действительно ли определённые коды запускают погружения."
+ "id": "2026-11-13-ceti-tauchgaenge",
+ "date": "2026-11-13",
+ "published": "2026-10-22",
+ "category": "tiere",
+ "countries": [
+  "GB",
+  "US",
+  "DM"
+ ],
+ "institution": "Project CETI, Northeastern University London",
+ "maturity": "study",
+ "source": {
+  "name": "Northeastern Global News",
+  "url": "https://news.northeastern.edu/2026/10/22/how-to-speak-whale/"
+ },
+ "more": [
+  {
+   "name": "Phys.org",
+   "url": "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html"
   }
+ ],
+ "de": {
+  "title": "KI sagt aus acht bis zehn Klicksequenzen voraus, wann Pottwale abtauchen",
+  "summary": "Pottwale kommunizieren mit rhythmischen Klickfolgen, sogenannten Codas. Das Team um Giovanni Petri hat Aufnahmen aus Dominica in Lernmodelle eingespeist und festgestellt: Rund acht bis zehn aufeinanderfolgende Codas reichen, um vorherzusagen, ob die Gruppe gleich zu einem tiefen Jagdtauchgang aufbricht. Solche Tauchgänge dauern 45 bis 60 Minuten und führen bis etwa 700 Meter tief. Die Annotation der Aufnahmen läuft weitgehend automatisch, aber Menschen prüfen die Ergebnisse, weil überlappende Rufe und Störgeräusche die Modelle noch verwirren.",
+  "why": "Zum ersten Mal lässt sich aus der Struktur der Klicks ein konkretes Verhalten vorhersagen. Das ist ein Schritt vom bloßen Zählen der Laute hin zu einem Verständnis dessen, was sie auslösen.",
+  "caveat": "Die Bedeutung einzelner Codas bleibt unbekannt. Das Team selbst sagt, man sei weit davon entfernt, die Walsprache zu knacken, und testet noch, ob bestimmte Codas die Tauchgänge wirklich auslösen."
+ },
+ "en": {
+  "title": "AI predicts from eight to ten click sequences when sperm whales will dive",
+  "summary": "Sperm whales communicate with rhythmic click sequences called codas. Giovanni Petri's team fed recordings from Dominica into machine-learning models and found that roughly eight to ten consecutive codas are enough to predict whether the group is about to begin a deep foraging dive. Such dives last 45 to 60 minutes and reach around 700 metres. Annotation of the recordings is largely automated, but humans check the output because overlapping calls and noise still confuse the models.",
+  "why": "For the first time, a concrete behaviour can be predicted from the structure of the clicks. That is a step from counting sounds towards understanding what they trigger.",
+  "caveat": "The meaning of individual codas is still unknown. The team itself says it is far from cracking whale language and is still testing whether specific codas actually trigger the dives."
+ },
+ "ru": {
+  "title": "ИИ по восьми–десяти сериям щелчков предсказывает, когда кашалоты нырнут",
+  "summary": "Кашалоты общаются ритмичными сериями щелчков — кодами. Команда Джованни Петри загрузила записи, сделанные у острова Доминика, в модели машинного обучения и выяснила: примерно восьми–десяти подряд идущих код достаточно, чтобы предсказать, собирается ли группа на глубокое охотничье погружение. Такие погружения длятся 45–60 минут и достигают примерно 700 метров. Разметка записей в основном автоматизирована, но люди проверяют результат, потому что перекрывающиеся сигналы и шум всё ещё сбивают модели.",
+  "why": "Впервые по структуре щелчков удалось предсказать конкретное поведение. Это шаг от простого подсчёта звуков к пониманию того, что они запускают.",
+  "caveat": "Значение отдельных код по-прежнему неизвестно. Сама команда говорит, что до расшифровки языка китов далеко, и ещё проверяет, действительно ли определённые коды запускают погружения."
+ },
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Sperm_Whale_about_to_Dive.jpeg/960px-Sperm_Whale_about_to_Dive.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "kind": "photo",
+  "credit": "Foto: Michelle Reback, CC BY-SA 3.0, Wikimedia Commons",
+  "link": "https://commons.wikimedia.org/wiki/File:Sperm_Whale_about_to_Dive.jpeg"
+ }
 }

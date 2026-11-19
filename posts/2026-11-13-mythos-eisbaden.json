@@ -1,34 +1,54 @@
 {
-  "id": "2026-11-13-mythos-eisbaden",
-  "date": "2026-11-13",
-  "published": "2026-06-01",
-  "category": "mythen",
-  "countries": ["GB"],
-  "institution": "University of Chichester",
-  "maturity": "study",
-  "evidence": "rct",
-  "verdict": "partly",
-  "source": {"name": "Lifestyle Medicine (Wiley)", "url": "https://eprints.chi.ac.uk/id/eprint/8538/"},
-  "more": [{"name": "Umbrella-Review zu Kaltwasser und Sport-Erholung 2026", "url": "https://link.springer.com/article/10.1186/s40798-026-01116-8"}, {"name": "Meta-Analyse Muskelerholung Februar 2026", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12916111/"}],
-  "de": {
-    "myth": "Eisbaden stärkt das Immunsystem und wirkt gegen Depressionen.",
-    "title": "Eisbaden: Fünf Minuten heben die Stimmung messbar, für Immunsystem und Depression fehlen Belege",
-    "summary": "Forschende aus Chichester teilten Freiwillige zufällig auf vier Gruppen auf: keine Kälte oder 5, 10 beziehungsweise 20 Minuten im 13,6 Grad kalten Meer. Alle Kältegruppen berichteten danach deutlich weniger Stimmungsstörung, und fünf Minuten brachten fast denselben Effekt wie zwanzig. Eine Meta-Analyse aus dem Februar 2026 mit 30 Studien fand für die Muskelerholung nach Sport nur kleine Effekte auf Muskelkater und Muskelschäden. Für die beliebten Versprechen zum Immunsystem und zur Behandlung von Depressionen gibt es bislang keine große randomisierte Studie.",
-    "why": "Die kurzfristige Stimmungsaufhellung ist real und gut belegt, dafür reichen wenige Minuten. Alles darüber hinaus ist bisher Erfahrungsbericht, keine Evidenz.",
-    "caveat": "Kleine Studien mit Fragebögen zur Tagesstimmung, nicht zu klinischer Depression. Kaltwasser birgt Risiken für Herz und Kreislauf, besonders für Ungeübte."
+ "id": "2026-11-13-mythos-eisbaden",
+ "date": "2026-11-13",
+ "published": "2026-06-01",
+ "category": "mythen",
+ "countries": [
+  "GB"
+ ],
+ "institution": "University of Chichester",
+ "maturity": "study",
+ "evidence": "rct",
+ "verdict": "partly",
+ "source": {
+  "name": "Lifestyle Medicine (Wiley)",
+  "url": "https://eprints.chi.ac.uk/id/eprint/8538/"
+ },
+ "more": [
+  {
+   "name": "Umbrella-Review zu Kaltwasser und Sport-Erholung 2026",
+   "url": "https://link.springer.com/article/10.1186/s40798-026-01116-8"
   },
-  "en": {
-    "myth": "Cold plunges boost the immune system and treat depression.",
-    "title": "Cold-water immersion: five minutes measurably lifts mood, but immune and depression claims lack evidence",
-    "summary": "Researchers in Chichester randomly assigned volunteers to four groups: no cold exposure, or 5, 10 or 20 minutes in 13.6-degree seawater. All cold groups reported markedly less mood disturbance afterwards, and five minutes delivered nearly the same effect as twenty. A February 2026 meta-analysis of 30 studies on post-exercise recovery found only small effects on soreness and muscle damage. For the popular claims about immunity and treating depression there is still no large randomised trial.",
-    "why": "The short-term mood lift is real and well supported, and a few minutes are enough. Everything beyond that is anecdote so far, not evidence.",
-    "caveat": "Small studies using questionnaires on daily mood, not clinical depression. Cold water carries cardiovascular risks, especially for the untrained."
-  },
-  "ru": {
-    "myth": "Моржевание укрепляет иммунитет и лечит депрессию.",
-    "title": "Холодная вода: пять минут заметно поднимают настроение, но для иммунитета и депрессии доказательств нет",
-    "summary": "Исследователи из Чичестера случайным образом разделили добровольцев на четыре группы: без холода либо 5, 10 или 20 минут в морской воде температурой 13,6 градуса. Все «холодные» группы сообщили о заметно меньшем расстройстве настроения, причём пять минут дали почти тот же эффект, что двадцать. Метаанализ 30 исследований от февраля 2026 года о восстановлении после спорта нашёл лишь небольшое влияние на крепатуру и повреждение мышц. Для популярных утверждений об иммунитете и лечении депрессии крупного рандомизированного исследования до сих пор нет.",
-    "why": "Кратковременный подъём настроения реален и хорошо подтверждён, и достаточно нескольких минут. Всё остальное пока лишь личный опыт, а не доказательства.",
-    "caveat": "Небольшие исследования с опросниками о настроении дня, а не о клинической депрессии. Холодная вода опасна для сердца и сосудов, особенно для неподготовленных."
+  {
+   "name": "Meta-Analyse Muskelerholung Februar 2026",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12916111/"
   }
+ ],
+ "de": {
+  "myth": "Eisbaden stärkt das Immunsystem und wirkt gegen Depressionen.",
+  "title": "Eisbaden: Fünf Minuten heben die Stimmung messbar, für Immunsystem und Depression fehlen Belege",
+  "summary": "Forschende aus Chichester teilten Freiwillige zufällig auf vier Gruppen auf: keine Kälte oder 5, 10 beziehungsweise 20 Minuten im 13,6 Grad kalten Meer. Alle Kältegruppen berichteten danach deutlich weniger Stimmungsstörung, und fünf Minuten brachten fast denselben Effekt wie zwanzig. Eine Meta-Analyse aus dem Februar 2026 mit 30 Studien fand für die Muskelerholung nach Sport nur kleine Effekte auf Muskelkater und Muskelschäden. Für die beliebten Versprechen zum Immunsystem und zur Behandlung von Depressionen gibt es bislang keine große randomisierte Studie.",
+  "why": "Die kurzfristige Stimmungsaufhellung ist real und gut belegt, dafür reichen wenige Minuten. Alles darüber hinaus ist bisher Erfahrungsbericht, keine Evidenz.",
+  "caveat": "Kleine Studien mit Fragebögen zur Tagesstimmung, nicht zu klinischer Depression. Kaltwasser birgt Risiken für Herz und Kreislauf, besonders für Ungeübte."
+ },
+ "en": {
+  "myth": "Cold plunges boost the immune system and treat depression.",
+  "title": "Cold-water immersion: five minutes measurably lifts mood, but immune and depression claims lack evidence",
+  "summary": "Researchers in Chichester randomly assigned volunteers to four groups: no cold exposure, or 5, 10 or 20 minutes in 13.6-degree seawater. All cold groups reported markedly less mood disturbance afterwards, and five minutes delivered nearly the same effect as twenty. A February 2026 meta-analysis of 30 studies on post-exercise recovery found only small effects on soreness and muscle damage. For the popular claims about immunity and treating depression there is still no large randomised trial.",
+  "why": "The short-term mood lift is real and well supported, and a few minutes are enough. Everything beyond that is anecdote so far, not evidence.",
+  "caveat": "Small studies using questionnaires on daily mood, not clinical depression. Cold water carries cardiovascular risks, especially for the untrained."
+ },
+ "ru": {
+  "myth": "Моржевание укрепляет иммунитет и лечит депрессию.",
+  "title": "Холодная вода: пять минут заметно поднимают настроение, но для иммунитета и депрессии доказательств нет",
+  "summary": "Исследователи из Чичестера случайным образом разделили добровольцев на четыре группы: без холода либо 5, 10 или 20 минут в морской воде температурой 13,6 градуса. Все «холодные» группы сообщили о заметно меньшем расстройстве настроения, причём пять минут дали почти тот же эффект, что двадцать. Метаанализ 30 исследований от февраля 2026 года о восстановлении после спорта нашёл лишь небольшое влияние на крепатуру и повреждение мышц. Для популярных утверждений об иммунитете и лечении депрессии крупного рандомизированного исследования до сих пор нет.",
+  "why": "Кратковременный подъём настроения реален и хорошо подтверждён, и достаточно нескольких минут. Всё остальное пока лишь личный опыт, а не доказательства.",
+  "caveat": "Небольшие исследования с опросниками о настроении дня, а не о клинической депрессии. Холодная вода опасна для сердца и сосудов, особенно для неподготовленных."
+ },
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Man_swims_in_cold_water_%2834807325734%29.jpg/960px-Man_swims_in_cold_water_%2834807325734%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "kind": "photo",
+  "credit": "Foto: Oleg Dubyna from Poltava, Ukraine, CC BY-SA 2.0, Wikimedia Commons",
+  "link": "https://commons.wikimedia.org/wiki/File:Man_swims_in_cold_water_(34807325734).jpg"
+ }
 }

@@ -1,29 +1,45 @@
 {
-  "id": "2026-11-13-neurips-zitate",
-  "date": "2026-11-13",
-  "published": "2026-02-05",
-  "category": "grenzen",
-  "countries": ["INT"],
-  "institution": "Unabhängige Analyse, arXiv",
-  "maturity": "preprint",
-  "source": {"name": "arXiv 2602.05930", "url": "https://arxiv.org/abs/2602.05930"},
-  "more": [{"name": "Hallucinated citations as research misconduct (Accountability in Research)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13051339/"}],
-  "de": {
-    "title": "Selbst die KI-Elite ist betroffen: 100 erfundene Quellen in angenommenen Artikeln der Top-Konferenz NeurIPS",
-    "summary": "Eine Analyse von 100 KI-halluzinierten Literaturverweisen in Artikeln, die auf der KI-Konferenz NeurIPS 2025 angenommen wurden, ordnet die Fehler in fünf Typen ein. 66 Prozent waren komplette Erfindungen, 27 Prozent hatten verfälschte Angaben wie falsche Autoren oder Jahre, 4 Prozent nutzten die Kennung einer fremden Arbeit. Jede einzelne Halluzination kombinierte mehrere Täuschungsmuster, was sie plausibel und scheinbar überprüfbar machte. Betroffen waren 53 Artikel, rund ein Prozent aller angenommenen Beiträge, und jeder davon hatte drei bis fünf Fachgutachter passiert. 92 Prozent der Artikel enthielten ein oder zwei falsche Quellen, 8 Prozent vier bis dreizehn.",
-    "why": "Wenn selbst die Begutachtung der wichtigsten KI-Konferenz erfundene Quellen durchlässt, prüft Peer Review Zitate offenbar nicht. Der Autor fordert eine automatische Zitatprüfung bei jeder Einreichung.",
-    "caveat": "Einzelautor, Vorabdruck ohne Begutachtung. Wie die 100 Zitate gesammelt und verifiziert wurden, ist auf der Übersichtsseite nicht beschrieben, und die Prozentwerte beruhen auf einer kleinen Stichprobe."
-  },
-  "en": {
-    "title": "Even the AI elite is affected: 100 fabricated references in accepted papers at the top conference NeurIPS",
-    "summary": "An analysis of 100 AI-hallucinated citations in papers accepted at the AI conference NeurIPS 2025 sorts the errors into five types. 66 percent were total fabrications, 27 percent had corrupted details such as wrong authors or years, and 4 percent hijacked the identifier of another paper. Every single hallucination combined several deception patterns, making it look plausible and verifiable. 53 papers were affected, about one percent of all accepted submissions, and each had passed three to five expert reviewers. 92 percent of affected papers had one or two fake references, 8 percent had four to thirteen.",
-    "why": "If even the review process of the most important AI conference lets fabricated references through, peer review evidently does not verify citations. The author calls for automated citation checks at every submission.",
-    "caveat": "Single author, preprint without peer review. How the 100 citations were collected and verified is not described on the abstract page, and the percentages rest on a small sample."
-  },
-  "ru": {
-    "title": "Затронута даже элита ИИ: 100 выдуманных ссылок в принятых статьях главной конференции NeurIPS",
-    "summary": "Анализ 100 сгенерированных ИИ ложных ссылок в статьях, принятых на конференцию по ИИ NeurIPS 2025, делит ошибки на пять типов. 66 процентов — полные выдумки, 27 процентов содержали искажённые данные вроде неверных авторов или года, 4 процента присвоили идентификатор чужой работы. Каждая галлюцинация сочетала несколько приёмов обмана, что делало её правдоподобной и якобы проверяемой. Затронуты 53 статьи — около одного процента всех принятых, и каждая прошла трёх–пятерых экспертов-рецензентов. В 92 процентах статей было одна-две ложные ссылки, в 8 процентах — от четырёх до тринадцати.",
-    "why": "Если даже рецензирование главной конференции по ИИ пропускает выдуманные источники, значит, экспертная оценка ссылки не проверяет. Автор требует автоматической проверки цитирования при каждой подаче.",
-    "caveat": "Один автор, препринт без рецензирования. Как собирались и проверялись 100 ссылок, на странице аннотации не описано, а проценты основаны на малой выборке."
+ "id": "2026-11-13-neurips-zitate",
+ "date": "2026-11-13",
+ "published": "2026-02-05",
+ "category": "grenzen",
+ "countries": [
+  "INT"
+ ],
+ "institution": "Unabhängige Analyse, arXiv",
+ "maturity": "preprint",
+ "source": {
+  "name": "arXiv 2602.05930",
+  "url": "https://arxiv.org/abs/2602.05930"
+ },
+ "more": [
+  {
+   "name": "Hallucinated citations as research misconduct (Accountability in Research)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13051339/"
   }
+ ],
+ "de": {
+  "title": "Selbst die KI-Elite ist betroffen: 100 erfundene Quellen in angenommenen Artikeln der Top-Konferenz NeurIPS",
+  "summary": "Eine Analyse von 100 KI-halluzinierten Literaturverweisen in Artikeln, die auf der KI-Konferenz NeurIPS 2025 angenommen wurden, ordnet die Fehler in fünf Typen ein. 66 Prozent waren komplette Erfindungen, 27 Prozent hatten verfälschte Angaben wie falsche Autoren oder Jahre, 4 Prozent nutzten die Kennung einer fremden Arbeit. Jede einzelne Halluzination kombinierte mehrere Täuschungsmuster, was sie plausibel und scheinbar überprüfbar machte. Betroffen waren 53 Artikel, rund ein Prozent aller angenommenen Beiträge, und jeder davon hatte drei bis fünf Fachgutachter passiert. 92 Prozent der Artikel enthielten ein oder zwei falsche Quellen, 8 Prozent vier bis dreizehn.",
+  "why": "Wenn selbst die Begutachtung der wichtigsten KI-Konferenz erfundene Quellen durchlässt, prüft Peer Review Zitate offenbar nicht. Der Autor fordert eine automatische Zitatprüfung bei jeder Einreichung.",
+  "caveat": "Einzelautor, Vorabdruck ohne Begutachtung. Wie die 100 Zitate gesammelt und verifiziert wurden, ist auf der Übersichtsseite nicht beschrieben, und die Prozentwerte beruhen auf einer kleinen Stichprobe."
+ },
+ "en": {
+  "title": "Even the AI elite is affected: 100 fabricated references in accepted papers at the top conference NeurIPS",
+  "summary": "An analysis of 100 AI-hallucinated citations in papers accepted at the AI conference NeurIPS 2025 sorts the errors into five types. 66 percent were total fabrications, 27 percent had corrupted details such as wrong authors or years, and 4 percent hijacked the identifier of another paper. Every single hallucination combined several deception patterns, making it look plausible and verifiable. 53 papers were affected, about one percent of all accepted submissions, and each had passed three to five expert reviewers. 92 percent of affected papers had one or two fake references, 8 percent had four to thirteen.",
+  "why": "If even the review process of the most important AI conference lets fabricated references through, peer review evidently does not verify citations. The author calls for automated citation checks at every submission.",
+  "caveat": "Single author, preprint without peer review. How the 100 citations were collected and verified is not described on the abstract page, and the percentages rest on a small sample."
+ },
+ "ru": {
+  "title": "Затронута даже элита ИИ: 100 выдуманных ссылок в принятых статьях главной конференции NeurIPS",
+  "summary": "Анализ 100 сгенерированных ИИ ложных ссылок в статьях, принятых на конференцию по ИИ NeurIPS 2025, делит ошибки на пять типов. 66 процентов — полные выдумки, 27 процентов содержали искажённые данные вроде неверных авторов или года, 4 процента присвоили идентификатор чужой работы. Каждая галлюцинация сочетала несколько приёмов обмана, что делало её правдоподобной и якобы проверяемой. Затронуты 53 статьи — около одного процента всех принятых, и каждая прошла трёх–пятерых экспертов-рецензентов. В 92 процентах статей было одна-две ложные ссылки, в 8 процентах — от четырёх до тринадцати.",
+  "why": "Если даже рецензирование главной конференции по ИИ пропускает выдуманные источники, значит, экспертная оценка ссылки не проверяет. Автор требует автоматической проверки цитирования при каждой подаче.",
+  "caveat": "Один автор, препринт без рецензирования. Как собирались и проверялись 100 ссылок, на странице аннотации не описано, а проценты основаны на малой выборке."
+ },
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/GD09_Poster_Session.jpg/960px-GD09_Poster_Session.jpg",
+  "kind": "photo",
+  "credit": "Foto: David Eppstein, CC BY-SA 3.0, Wikimedia Commons",
+  "link": "https://commons.wikimedia.org/wiki/File:GD09_Poster_Session.jpg"
+ }
 }

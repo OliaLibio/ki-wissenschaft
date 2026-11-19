@@ -28,6 +28,8 @@ Eine statische Webseite, die montags, mittwochs und freitags neue Beiträge dar�
 | `countries` | ISO-Ländercodes, z. B. `US`, `DE`, `CN`, oder `INT` für international |
 | `evidence` | nur Mythen: `meta`, `rct`, `cohort`, `single`, `animal`, `review`, `preprint` |
 | `verdict` | nur Mythen: `busted`, `partly`, `confirmed`, `open` |
+| `published` | Datum, an dem die Forschung veröffentlicht wurde (Journal, Vorabdruck oder Pressemitteilung), nicht das Anlagedatum |
+| `image` | `{"src": URL, "kind": "figure"\|"press"\|"photo", "credit": Bildnachweis, "link": Seite des Bildes}` |
 | `de` / `en` / `ru` | je `title`, `summary`, `why`, `caveat`, bei Mythen zusätzlich `myth` |
 
 ## Lokal ansehen

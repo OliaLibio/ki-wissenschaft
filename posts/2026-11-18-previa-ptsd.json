@@ -1,29 +1,45 @@
 {
-  "id": "2026-11-18-previa-ptsd",
-  "date": "2026-11-18",
-  "published": "2026-11-09",
-  "category": "gesundheit",
-  "countries": ["US"],
-  "institution": "NYU Langone Health",
-  "maturity": "study",
-  "source": {"name": "Nature Communications via NYU Langone", "url": "https://nyulangone.org/news/ai-predicts-ptsd-risk-based-stories-about-what-brought-patients-emergency-room"},
-  "more": [{"name": "Nature Communications", "url": "https://www.nature.com/articles/s41467-026-78768-3"}],
-  "de": {
-    "title": "Ein Satz in der Notaufnahme genügt: KI erkennt das Risiko für Traumafolgestörungen",
-    "summary": "In der Notaufnahme fragt das Personal routinemäßig: Was ist passiert? Ein Team um Katharina Schultebraucks an der NYU Langone hat diese spontanen Antworten von 145 Verletzten aufgezeichnet und mit dem System PREVIA ausgewertet. PREVIA kombiniert frei verfügbare Sprachmodelle wie Llama und Mistral ohne jedes Nachtraining: Es erkennt Symptome während des Traumas wie Kontrollverlust oder Erinnerungslücken, gewichtet Risiko- und Schutzfaktoren und erstellt daraus einen Risikowert mit verständlicher Begründung. Von den 30 Patienten, die später eine posttraumatische Belastungsstörung entwickelten, erkannte PREVIA alle, eine darauf spezialisierte Ärztin oder ein Arzt 89 Prozent. Geprüft wurde gegen das klinische Standardinterview CAPS-5.",
-    "why": "Mehr als jeder Vierte, der verletzt in der Notaufnahme landet, entwickelt laut früheren Studien eine Traumafolgestörung, aber nur etwa 28 Prozent der US-Notaufnahmen prüfen das überhaupt. PREVIA braucht keine zusätzliche Zeit, weil es die Frage nutzt, die ohnehin gestellt wird.",
-    "caveat": "Nur 145 Patienten an einem Standort, nur 30 Erkrankte im Vergleich. Die Mitteilung nennt keine Angaben zu Fehlalarmen, und eine Prüfung an anderen Kliniken steht aus."
-  },
-  "en": {
-    "title": "One sentence in the emergency room is enough: AI flags the risk of post-traumatic stress",
-    "summary": "Emergency staff routinely ask: what brought you here? A team led by Katharina Schultebraucks at NYU Langone recorded these spontaneous answers from 145 injured patients and analysed them with a system called PREVIA. PREVIA chains openly available language models such as Llama and Mistral without any fine-tuning: it detects symptoms during the trauma such as loss of control or memory gaps, weighs risk and protective factors, and produces a risk score with a plain-language explanation. Of the 30 patients who later developed post-traumatic stress disorder, PREVIA flagged all of them, while a specialist clinician identified 89 percent. Diagnoses were checked against the gold-standard CAPS-5 clinical interview.",
-    "why": "According to earlier studies, more than one in four people treated for injuries in emergency departments develops PTSD, yet only about 28 percent of US emergency departments screen for it at all. PREVIA adds no time because it uses a question that is asked anyway.",
-    "caveat": "Only 145 patients at one site and only 30 cases in the comparison. The release gives no false-alarm figures, and validation at other hospitals is still to come."
-  },
-  "ru": {
-    "title": "Одной фразы в приёмном отделении достаточно: ИИ распознаёт риск посттравматического расстройства",
-    "summary": "В приёмном отделении персонал обычно спрашивает: что случилось? Команда Катарины Шультебраукс из NYU Langone записала спонтанные ответы 145 пострадавших и проанализировала их системой PREVIA. PREVIA объединяет открытые языковые модели, такие как Llama и Mistral, без какого-либо дообучения: она выявляет симптомы во время травмы, например потерю контроля или провалы в памяти, взвешивает факторы риска и защиты и выдаёт оценку риска с понятным объяснением. Из 30 пациентов, у которых позже развилось посттравматическое стрессовое расстройство, PREVIA выявила всех, а профильный врач — 89 процентов. Диагнозы проверялись по стандартному клиническому интервью CAPS-5.",
-    "why": "По данным прежних исследований, более чем у каждого четвёртого пострадавшего, попавшего в приёмное отделение, развивается ПТСР, но лишь около 28 процентов приёмных отделений в США вообще проводят такой скрининг. PREVIA не требует дополнительного времени, потому что использует вопрос, который и так задают.",
-    "caveat": "Всего 145 пациентов в одной клинике и лишь 30 заболевших в сравнении. В сообщении нет данных о ложных срабатываниях, проверка в других больницах ещё впереди."
+ "id": "2026-11-18-previa-ptsd",
+ "date": "2026-11-18",
+ "published": "2026-11-09",
+ "category": "gesundheit",
+ "countries": [
+  "US"
+ ],
+ "institution": "NYU Langone Health",
+ "maturity": "study",
+ "source": {
+  "name": "Nature Communications via NYU Langone",
+  "url": "https://nyulangone.org/news/ai-predicts-ptsd-risk-based-stories-about-what-brought-patients-emergency-room"
+ },
+ "more": [
+  {
+   "name": "Nature Communications",
+   "url": "https://www.nature.com/articles/s41467-026-78768-3"
   }
+ ],
+ "de": {
+  "title": "Ein Satz in der Notaufnahme genügt: KI erkennt das Risiko für Traumafolgestörungen",
+  "summary": "In der Notaufnahme fragt das Personal routinemäßig: Was ist passiert? Ein Team um Katharina Schultebraucks an der NYU Langone hat diese spontanen Antworten von 145 Verletzten aufgezeichnet und mit dem System PREVIA ausgewertet. PREVIA kombiniert frei verfügbare Sprachmodelle wie Llama und Mistral ohne jedes Nachtraining: Es erkennt Symptome während des Traumas wie Kontrollverlust oder Erinnerungslücken, gewichtet Risiko- und Schutzfaktoren und erstellt daraus einen Risikowert mit verständlicher Begründung. Von den 30 Patienten, die später eine posttraumatische Belastungsstörung entwickelten, erkannte PREVIA alle, eine darauf spezialisierte Ärztin oder ein Arzt 89 Prozent. Geprüft wurde gegen das klinische Standardinterview CAPS-5.",
+  "why": "Mehr als jeder Vierte, der verletzt in der Notaufnahme landet, entwickelt laut früheren Studien eine Traumafolgestörung, aber nur etwa 28 Prozent der US-Notaufnahmen prüfen das überhaupt. PREVIA braucht keine zusätzliche Zeit, weil es die Frage nutzt, die ohnehin gestellt wird.",
+  "caveat": "Nur 145 Patienten an einem Standort, nur 30 Erkrankte im Vergleich. Die Mitteilung nennt keine Angaben zu Fehlalarmen, und eine Prüfung an anderen Kliniken steht aus."
+ },
+ "en": {
+  "title": "One sentence in the emergency room is enough: AI flags the risk of post-traumatic stress",
+  "summary": "Emergency staff routinely ask: what brought you here? A team led by Katharina Schultebraucks at NYU Langone recorded these spontaneous answers from 145 injured patients and analysed them with a system called PREVIA. PREVIA chains openly available language models such as Llama and Mistral without any fine-tuning: it detects symptoms during the trauma such as loss of control or memory gaps, weighs risk and protective factors, and produces a risk score with a plain-language explanation. Of the 30 patients who later developed post-traumatic stress disorder, PREVIA flagged all of them, while a specialist clinician identified 89 percent. Diagnoses were checked against the gold-standard CAPS-5 clinical interview.",
+  "why": "According to earlier studies, more than one in four people treated for injuries in emergency departments develops PTSD, yet only about 28 percent of US emergency departments screen for it at all. PREVIA adds no time because it uses a question that is asked anyway.",
+  "caveat": "Only 145 patients at one site and only 30 cases in the comparison. The release gives no false-alarm figures, and validation at other hospitals is still to come."
+ },
+ "ru": {
+  "title": "Одной фразы в приёмном отделении достаточно: ИИ распознаёт риск посттравматического расстройства",
+  "summary": "В приёмном отделении персонал обычно спрашивает: что случилось? Команда Катарины Шультебраукс из NYU Langone записала спонтанные ответы 145 пострадавших и проанализировала их системой PREVIA. PREVIA объединяет открытые языковые модели, такие как Llama и Mistral, без какого-либо дообучения: она выявляет симптомы во время травмы, например потерю контроля или провалы в памяти, взвешивает факторы риска и защиты и выдаёт оценку риска с понятным объяснением. Из 30 пациентов, у которых позже развилось посттравматическое стрессовое расстройство, PREVIA выявила всех, а профильный врач — 89 процентов. Диагнозы проверялись по стандартному клиническому интервью CAPS-5.",
+  "why": "По данным прежних исследований, более чем у каждого четвёртого пострадавшего, попавшего в приёмное отделение, развивается ПТСР, но лишь около 28 процентов приёмных отделений в США вообще проводят такой скрининг. PREVIA не требует дополнительного времени, потому что использует вопрос, который и так задают.",
+  "caveat": "Всего 145 пациентов в одной клинике и лишь 30 заболевших в сравнении. В сообщении нет данных о ложных срабатываниях, проверка в других больницах ещё впереди."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-78768-3/MediaObjects/41467_2026_78768_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Nature Communications",
+  "link": "https://www.nature.com/articles/s41467-026-78768-3"
+ }
 }

@@ -1,29 +1,45 @@
 {
-  "id": "2026-11-13-masai-mammographie",
-  "date": "2026-11-13",
-  "published": "2026-01-29",
-  "category": "gesundheit",
-  "countries": ["SE"],
-  "institution": "Universität Lund",
-  "maturity": "clinical",
-  "source": {"name": "The Lancet via Lund University", "url": "https://www.lunduniversity.lu.se/article/ai-support-breast-cancer-screening-fewer-missed-cancer-cases"},
-  "more": [{"name": "EurekAlert", "url": "https://www.eurekalert.org/news-releases/1114399"}],
-  "de": {
-    "title": "Größte Studie zu KI im Brustkrebs-Screening: weniger übersehene Tumoren",
-    "summary": "Die schwedische MASAI-Studie hat über 105.000 Frauen zufällig auf zwei Gruppen verteilt: Screening mit KI-Unterstützung oder klassische Doppelbefundung durch zwei Radiologen. Nach zwei Jahren traten in der KI-Gruppe 1,55 Intervallkarzinome pro 1.000 Frauen auf, in der Kontrollgruppe 1,76. Das sind 12 Prozent weniger Krebsfälle, die zwischen zwei Screenings übersehen wurden. Bei aggressiven Tumoren war der Unterschied größer: 27 Prozent weniger bei den gefährlichen Nicht-Luminal-A-Typen. Die KI sortierte Aufnahmen nach Risiko und entlastete die Radiologen deutlich.",
-    "why": "Zum ersten Mal zeigt eine große randomisierte Studie, dass KI im Screening nicht nur schneller ist, sondern auch harte Ergebnisse verbessert. Das ist die Beweislage, die Gesundheitssysteme für eine Einführung brauchen.",
-    "caveat": "Nur ein Land, ein Gerätetyp und ein KI-System (Transpara). Ob die Ergebnisse auf andere Länder und Geräte übertragbar sind, ist offen."
-  },
-  "en": {
-    "title": "Largest trial of AI in breast screening: fewer missed cancers",
-    "summary": "Sweden's MASAI trial randomised more than 105,000 women to AI-supported screening or standard double reading by two radiologists. Over two years, the AI group had 1.55 interval cancers per 1,000 women versus 1.76 in the control group, a 12 percent drop in cancers missed between screenings. The gap was wider for aggressive tumours: 27 percent fewer of the dangerous non-luminal-A types. The AI triaged mammograms by risk and cut radiologists' reading workload substantially.",
-    "why": "For the first time, a large randomised trial shows that AI in screening improves hard outcomes, not just speed. That is the evidence health systems need before adopting it.",
-    "caveat": "One country, one scanner type and one AI system (Transpara). Whether results transfer to other settings is unknown."
-  },
-  "ru": {
-    "title": "Крупнейшее исследование ИИ в маммографии: меньше пропущенных опухолей",
-    "summary": "Шведское исследование MASAI случайным образом распределило более 105 000 женщин на две группы: скрининг с поддержкой ИИ или стандартное двойное чтение двумя рентгенологами. За два года в группе ИИ было 1,55 интервального рака на 1 000 женщин, в контрольной группе — 1,76. Это на 12 процентов меньше опухолей, пропущенных между скринингами. Для агрессивных опухолей разница больше: на 27 процентов меньше опасных типов не-люминальный-A. ИИ сортировал снимки по риску и заметно снизил нагрузку на врачей.",
-    "why": "Впервые крупное рандомизированное исследование показывает, что ИИ в скрининге улучшает не только скорость, но и реальные исходы. Именно такие данные нужны системам здравоохранения для внедрения.",
-    "caveat": "Одна страна, один тип аппарата и одна система ИИ (Transpara). Переносимость результатов на другие условия не доказана."
+ "id": "2026-11-13-masai-mammographie",
+ "date": "2026-11-13",
+ "published": "2026-01-29",
+ "category": "gesundheit",
+ "countries": [
+  "SE"
+ ],
+ "institution": "Universität Lund",
+ "maturity": "clinical",
+ "source": {
+  "name": "The Lancet via Lund University",
+  "url": "https://www.lunduniversity.lu.se/article/ai-support-breast-cancer-screening-fewer-missed-cancer-cases"
+ },
+ "more": [
+  {
+   "name": "EurekAlert",
+   "url": "https://www.eurekalert.org/news-releases/1114399"
   }
+ ],
+ "de": {
+  "title": "Größte Studie zu KI im Brustkrebs-Screening: weniger übersehene Tumoren",
+  "summary": "Die schwedische MASAI-Studie hat über 105.000 Frauen zufällig auf zwei Gruppen verteilt: Screening mit KI-Unterstützung oder klassische Doppelbefundung durch zwei Radiologen. Nach zwei Jahren traten in der KI-Gruppe 1,55 Intervallkarzinome pro 1.000 Frauen auf, in der Kontrollgruppe 1,76. Das sind 12 Prozent weniger Krebsfälle, die zwischen zwei Screenings übersehen wurden. Bei aggressiven Tumoren war der Unterschied größer: 27 Prozent weniger bei den gefährlichen Nicht-Luminal-A-Typen. Die KI sortierte Aufnahmen nach Risiko und entlastete die Radiologen deutlich.",
+  "why": "Zum ersten Mal zeigt eine große randomisierte Studie, dass KI im Screening nicht nur schneller ist, sondern auch harte Ergebnisse verbessert. Das ist die Beweislage, die Gesundheitssysteme für eine Einführung brauchen.",
+  "caveat": "Nur ein Land, ein Gerätetyp und ein KI-System (Transpara). Ob die Ergebnisse auf andere Länder und Geräte übertragbar sind, ist offen."
+ },
+ "en": {
+  "title": "Largest trial of AI in breast screening: fewer missed cancers",
+  "summary": "Sweden's MASAI trial randomised more than 105,000 women to AI-supported screening or standard double reading by two radiologists. Over two years, the AI group had 1.55 interval cancers per 1,000 women versus 1.76 in the control group, a 12 percent drop in cancers missed between screenings. The gap was wider for aggressive tumours: 27 percent fewer of the dangerous non-luminal-A types. The AI triaged mammograms by risk and cut radiologists' reading workload substantially.",
+  "why": "For the first time, a large randomised trial shows that AI in screening improves hard outcomes, not just speed. That is the evidence health systems need before adopting it.",
+  "caveat": "One country, one scanner type and one AI system (Transpara). Whether results transfer to other settings is unknown."
+ },
+ "ru": {
+  "title": "Крупнейшее исследование ИИ в маммографии: меньше пропущенных опухолей",
+  "summary": "Шведское исследование MASAI случайным образом распределило более 105 000 женщин на две группы: скрининг с поддержкой ИИ или стандартное двойное чтение двумя рентгенологами. За два года в группе ИИ было 1,55 интервального рака на 1 000 женщин, в контрольной группе — 1,76. Это на 12 процентов меньше опухолей, пропущенных между скринингами. Для агрессивных опухолей разница больше: на 27 процентов меньше опасных типов не-люминальный-A. ИИ сортировал снимки по риску и заметно снизил нагрузку на врачей.",
+  "why": "Впервые крупное рандомизированное исследование показывает, что ИИ в скрининге улучшает не только скорость, но и реальные исходы. Именно такие данные нужны системам здравоохранения для внедрения.",
+  "caveat": "Одна страна, один тип аппарата и одна система ИИ (Transpara). Переносимость результатов на другие условия не доказана."
+ },
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Interior_of_mammography_trailer_at_Lysekil_hospital.jpg/960px-Interior_of_mammography_trailer_at_Lysekil_hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "kind": "photo",
+  "credit": "Foto: W.carter, CC BY 4.0, Wikimedia Commons",
+  "link": "https://commons.wikimedia.org/wiki/File:Interior_of_mammography_trailer_at_Lysekil_hospital.jpg"
+ }
 }

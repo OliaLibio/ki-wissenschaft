@@ -75,6 +75,17 @@ article.card:before{content:"";position:absolute;left:0;top:14px;bottom:14px;wid
 :root[data-theme="dark"] .badge.v-partly{background:#3a2c10;color:#f0c268}:root[data-theme="dark"] .badge.v-confirmed{background:#173224;color:#86d8a4}
 :root[data-theme="light"] .badge.v-busted{background:#fde8e7;color:#a12c28}
 h3.title{font-family:var(--serif);font-size:19.5px;line-height:1.28;margin:0;font-weight:600;letter-spacing:-.005em}
+.pic{margin:-18px -18px 2px;position:relative;border-radius:var(--radius) var(--radius) 0 0;overflow:hidden;background:var(--surface-2);aspect-ratio:16/9}
+.pic img{width:100%;height:100%;object-fit:cover;display:block}
+.pic.figure{background:#fff}.pic.figure img{object-fit:contain;padding:6px}
+.pic .ph{position:absolute;inset:0;display:none;place-items:center;font-size:44px;background:linear-gradient(135deg,color-mix(in srgb,var(--cat) 30%,var(--surface)),color-mix(in srgb,var(--cat) 8%,var(--surface)))}
+.pic.failed img{display:none}.pic.failed .ph{display:grid}
+.pic figcaption{position:absolute;right:0;bottom:0;max-width:92%;font-size:10.5px;line-height:1.3;padding:3px 8px;background:rgba(0,0,0,.55);color:#fff;border-top-left-radius:8px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pic figcaption a{color:#fff;text-decoration:none}
+.pubdate{display:flex;align-items:center;gap:6px;font-size:13px;font-weight:600;color:var(--text)}
+.pubdate .lbl{font-weight:500;color:var(--muted)}
+article.card.open .pic{margin:-22px -26px 4px;aspect-ratio:21/9}
+@media (max-width:640px){.pic{margin:-16px -14px 2px}article.card.open .pic{margin:-16px -14px 2px;aspect-ratio:16/9}}
 .myth{font-size:14px;background:var(--surface-2);border-left:3px solid var(--c-mythen);padding:8px 11px;border-radius:0 8px 8px 0;color:var(--text)}
 .myth b{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-bottom:2px}
 .summary{margin:0;font-size:15px}
@@ -154,7 +165,7 @@ const I18N = {
     tagline:"Kurz, belegt und mit Vorbehalt: ausgewählte Ergebnisse aus Fachjournalen und Forschungsinstituten weltweit, zusammengefasst in drei Sprachen.",
     schedule:"Neue Beiträge montags, mittwochs und freitags · nächste Aktualisierung: {d}",
     all:"Alle", search:"Suchen…", archive:"Alle Monate", empty:"Keine Beiträge gefunden.",
-    why:"Warum das wichtig ist", caveat:"Vorbehalt", myth:"Behauptung", source:"Quelle", more:"Weitere Quellen", published:"veröffentlicht",
+    why:"Warum das wichtig ist", caveat:"Vorbehalt", myth:"Behauptung", source:"Quelle", more:"Weitere Quellen", published:"veröffentlicht", studyDate:"Forschung veröffentlicht am", added:"Neu auf der Seite seit", imgFallback:"Bild nicht verfügbar",
     readmore:"Mehr lesen", readless:"Weniger",
     about_h:"Über diese Seite",
     about_p:"Jeden Montag, Mittwoch und Freitag kommen neue Beiträge dazu. Jeder Beitrag nennt die Originalquelle, die beteiligten Institutionen, den Reifegrad des Ergebnisses und einen ehrlichen Vorbehalt. Recherchiert wird weltweit, vor allem in den USA, China, Großbritannien, Deutschland, der Schweiz, Japan, Südkorea und Israel.",
@@ -175,7 +186,7 @@ const I18N = {
     tagline:"Short, sourced and with caveats: selected results from journals and research institutes worldwide, summarised in three languages.",
     schedule:"New posts on Mondays, Wednesdays and Fridays · next update: {d}",
     all:"All", search:"Search…", archive:"All months", empty:"No posts found.",
-    why:"Why it matters", caveat:"Caveat", myth:"The claim", source:"Source", more:"Further sources", published:"published",
+    why:"Why it matters", caveat:"Caveat", myth:"The claim", source:"Source", more:"Further sources", published:"published", studyDate:"Research published on", added:"Added to the site on", imgFallback:"Image unavailable",
     readmore:"Read more", readless:"Less",
     about_h:"About this site",
     about_p:"New posts are added every Monday, Wednesday and Friday. Each post names the original source, the institutions involved, how mature the result is, and an honest caveat. Research is sourced worldwide, chiefly from the US, China, the UK, Germany, Switzerland, Japan, South Korea and Israel.",
@@ -196,7 +207,7 @@ const I18N = {
     tagline:"Коротко, с источниками и оговорками: избранные результаты из научных журналов и институтов всего мира на трёх языках.",
     schedule:"Новые материалы по понедельникам, средам и пятницам · следующее обновление: {d}",
     all:"Все", search:"Поиск…", archive:"Все месяцы", empty:"Ничего не найдено.",
-    why:"Почему это важно", caveat:"Оговорка", myth:"Утверждение", source:"Источник", more:"Другие источники", published:"опубликовано",
+    why:"Почему это важно", caveat:"Оговорка", myth:"Утверждение", source:"Источник", more:"Другие источники", published:"опубликовано", studyDate:"Исследование опубликовано", added:"Добавлено на сайт", imgFallback:"Изображение недоступно",
     readmore:"Читать дальше", readless:"Свернуть",
     about_h:"О сайте",
     about_p:"Новые материалы появляются каждый понедельник, среду и пятницу. Каждый материал указывает первоисточник, участвующие институты, степень зрелости результата и честную оговорку. Поиск ведётся по всему миру, прежде всего в США, Китае, Великобритании, Германии, Швейцарии, Японии, Южной Корее и Израиле.",
@@ -259,7 +270,13 @@ function card(p){
   if(p.category==="mythen"){ badges+=`<span class="badge v-${p.verdict}">${T.verdict[p.verdict]}</span><span class="badge">${T.evidence[p.evidence]||p.evidence}</span>`; }
   const myth=p.category==="mythen"&&L.myth?`<div class="myth"><b>${T.myth}</b>„${esc(L.myth)}“</div>`:"";
   const more=(p.more&&p.more.length)?`<div class="more"><b>${T.more}:</b> ${p.more.map(m=>`<a href="${m.url}" target="_blank" rel="noopener">${esc(m.name)}</a>`).join(" · ")}</div>`:"";
+  const ICON={gesundheit:"🩺",tiere:"🐋",mythen:"🔍",klima:"🌍",archaeologie:"🏺",grenzen:"⚠️"};
+  const im=p.image;
+  const pic=im?`<figure class="pic ${im.kind==="figure"?"figure":""}"><img src="${esc(im.src)}" alt="${esc(L.title)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('failed')"><div class="ph" aria-hidden="true">${ICON[p.category]||"🔬"}</div><figcaption><a href="${esc(im.link)}" target="_blank" rel="noopener">${esc(im.credit)}</a></figcaption></figure>`
+    :`<figure class="pic failed"><div class="ph" aria-hidden="true">${ICON[p.category]||"🔬"}</div></figure>`;
   return `<article class="card ${open?"open":""}" data-id="${p.id}" style="--cat:var(--c-${p.category})">
+    ${pic}
+    <div class="pubdate">📅 <span class="lbl">${T.studyDate}</span> ${fmtDate(p.published)}</div>
     <div class="meta">${badges}</div>
     <h3 class="title">${esc(L.title)}</h3>
     ${myth}
@@ -269,7 +286,7 @@ function card(p){
     ${more}
     <div class="meta"><span class="flags" title="${esc(cname)}">${countries}</span><span>${esc(p.institution)}</span></div>
     <div class="foot">
-      <span>${T.source}: <a href="${p.source.url}" target="_blank" rel="noopener">${esc(p.source.name)}</a> · ${T.published} ${fmtDate(p.published)}</span>
+      <span>${T.source}: <a href="${p.source.url}" target="_blank" rel="noopener">${esc(p.source.name)}</a></span>
       <button class="toggle" data-toggle="${p.id}">${open?T.readless:T.readmore} ${open?"▴":"▾"}</button>
     </div>
   </article>`;
@@ -279,7 +296,7 @@ function render(){
   const main=document.getElementById("main");
   if(!list.length){ main.innerHTML=`<div class="empty">${T.empty}</div>`; return; }
   const groups=new Map(); list.forEach(p=>{ if(!groups.has(p.date)) groups.set(p.date,[]); groups.get(p.date).push(p); });
-  main.innerHTML=[...groups.entries()].map(([d,ps])=>`<div class="daygroup"><h2>${fmtDate(d)}</h2></div><div class="grid">${ps.map(card).join("")}</div>`).join("");
+  main.innerHTML=[...groups.entries()].map(([d,ps])=>`<div class="daygroup"><h2>${T.added} ${fmtDate(d)}</h2></div><div class="grid">${ps.slice().sort((a,b)=>b.published.localeCompare(a.published)).map(card).join("")}</div>`).join("");
   main.querySelectorAll("article.card").forEach(a=>{
     a.addEventListener("click",e=>{ if(e.target.closest("a")) return; const id=a.dataset.id; state.open.has(id)?state.open.delete(id):state.open.add(id); render(); });
   });

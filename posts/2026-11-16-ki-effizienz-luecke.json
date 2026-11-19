@@ -1,29 +1,46 @@
 {
-  "id": "2026-11-16-ki-effizienz-luecke",
-  "date": "2026-11-16",
-  "published": "2026-10-29",
-  "category": "grenzen",
-  "countries": ["CN", "JP"],
-  "institution": "Chengdu University of Technology, Nanchang University, Tohoku University",
-  "maturity": "study",
-  "source": {"name": "Environmental Science and Ecotechnology via Newswise", "url": "https://www.newswise.com/articles/ai-boosts-operational-efficiency-but-not-systemic-climate-action-global-study-finds2"},
-  "more": [{"name": "DOI 10.1016/j.ese.2026.100784", "url": "https://doi.org/10.1016/j.ese.2026.100784"}],
-  "de": {
-    "title": "69 Länder, 24 Jahre: KI macht Wirtschaften effizienter, aber nicht klimafreundlicher",
-    "summary": "Ein chinesisch-japanisches Team hat für 69 Länder von 2000 bis 2023 einen KI-Index aus Patenten, Industrierobotern, Publikationen, digitaler Infrastruktur und Forschungspersonal gebildet und ihn mit sieben UN-Nachhaltigkeitszielen verknüpft, ausgewertet mit Double Machine Learning. Stabile positive Zusammenhänge fanden sich bei Bildung, sauberer Energie und industrieller Innovation. Bei verantwortungsvollem Konsum und Klimaschutz gab es dagegen keinen belastbaren Effekt. Die Autoren nennen das die Effizienz-Transformations-Lücke: KI wirkt dort, wo Daten reichlich und leicht zu kodieren sind, ändert aber von sich aus weder Konsummuster noch Regulierungsehrgeiz noch das Tempo der Dekarbonisierung. Kurzfristig bremste KI-Einsatz sogar grüne Innovation. Länder mit niedrigem Entwicklungsstand profitierten am stärksten. Szenarien bis 2100 zeigen die besten Ergebnisse nur, wenn hohe KI-Entwicklung mit einem nachhaltigkeitsorientierten Pfad zusammenkommt.",
-    "why": "Das Versprechen, KI werde den Klimaschutz quasi automatisch voranbringen, findet in den Länderdaten keine Stütze. KI ist laut Studie ein bedingter Beschleuniger, dessen Nutzen von Politik, Strommix und Governance abhängt.",
-    "caveat": "Zusammenhänge auf Länderebene, keine Kausalbeweise. Die Mitteilung nennt weder Effektgrößen noch Konfidenzintervalle. Der KI-Index misst Ausstattung, nicht tatsächliche Nutzung."
-  },
-  "en": {
-    "title": "69 countries, 24 years: AI makes economies more efficient, but not more climate-friendly",
-    "summary": "A Chinese-Japanese team built an AI index for 69 countries from 2000 to 2023 out of patents, industrial robots, publications, digital infrastructure and research staff, and linked it to seven UN Sustainable Development Goals using double machine learning. Stable positive links appeared for education, clean energy and industrial innovation. For responsible consumption and climate action, however, there was no robust effect. The authors call this the efficiency-transformation gap: AI works where data are rich and easy to codify, but by itself changes neither consumption patterns nor regulatory ambition nor the pace of decarbonisation. In the short term, AI deployment even dragged on green innovation. Low-development countries benefited most. Projections to 2100 show the best outcomes only when high AI development is paired with a sustainability-oriented pathway.",
-    "why": "The promise that AI will advance climate protection almost automatically finds no support in the country data. The study calls AI a conditional accelerator whose value depends on policy, the electricity mix and governance.",
-    "caveat": "Country-level associations, not causal proof. The release reports neither effect sizes nor confidence intervals. The AI index measures capacity, not actual use."
-  },
-  "ru": {
-    "title": "69 стран, 24 года: ИИ делает экономику эффективнее, но не более дружественной к климату",
-    "summary": "Китайско-японская команда построила индекс ИИ для 69 стран за 2000–2023 годы из патентов, промышленных роботов, публикаций, цифровой инфраструктуры и научного персонала и связала его с семью целями устойчивого развития ООН методом двойного машинного обучения. Устойчивые положительные связи нашлись для образования, чистой энергии и промышленных инноваций. Для ответственного потребления и борьбы с изменением климата надёжного эффекта не оказалось. Авторы называют это разрывом между эффективностью и трансформацией: ИИ работает там, где данных много и их легко кодифицировать, но сам по себе не меняет ни модели потребления, ни регуляторные амбиции, ни темп декарбонизации. В краткосрочной перспективе внедрение ИИ даже тормозило зелёные инновации. Больше всего выиграли страны с низким уровнем развития. Прогнозы до 2100 года показывают лучшие результаты лишь при сочетании высокого развития ИИ с курсом на устойчивость.",
-    "why": "Обещание, что ИИ почти автоматически продвинет защиту климата, не находит опоры в данных по странам. Исследование называет ИИ условным ускорителем, польза которого зависит от политики, структуры энергетики и управления.",
-    "caveat": "Связи на уровне стран, а не доказательства причинности. В сообщении нет ни размеров эффекта, ни доверительных интервалов. Индекс ИИ измеряет оснащённость, а не фактическое использование."
+ "id": "2026-11-16-ki-effizienz-luecke",
+ "date": "2026-11-16",
+ "published": "2026-10-29",
+ "category": "grenzen",
+ "countries": [
+  "CN",
+  "JP"
+ ],
+ "institution": "Chengdu University of Technology, Nanchang University, Tohoku University",
+ "maturity": "study",
+ "source": {
+  "name": "Environmental Science and Ecotechnology via Newswise",
+  "url": "https://www.newswise.com/articles/ai-boosts-operational-efficiency-but-not-systemic-climate-action-global-study-finds2"
+ },
+ "more": [
+  {
+   "name": "DOI 10.1016/j.ese.2026.100784",
+   "url": "https://doi.org/10.1016/j.ese.2026.100784"
   }
+ ],
+ "de": {
+  "title": "69 Länder, 24 Jahre: KI macht Wirtschaften effizienter, aber nicht klimafreundlicher",
+  "summary": "Ein chinesisch-japanisches Team hat für 69 Länder von 2000 bis 2023 einen KI-Index aus Patenten, Industrierobotern, Publikationen, digitaler Infrastruktur und Forschungspersonal gebildet und ihn mit sieben UN-Nachhaltigkeitszielen verknüpft, ausgewertet mit Double Machine Learning. Stabile positive Zusammenhänge fanden sich bei Bildung, sauberer Energie und industrieller Innovation. Bei verantwortungsvollem Konsum und Klimaschutz gab es dagegen keinen belastbaren Effekt. Die Autoren nennen das die Effizienz-Transformations-Lücke: KI wirkt dort, wo Daten reichlich und leicht zu kodieren sind, ändert aber von sich aus weder Konsummuster noch Regulierungsehrgeiz noch das Tempo der Dekarbonisierung. Kurzfristig bremste KI-Einsatz sogar grüne Innovation. Länder mit niedrigem Entwicklungsstand profitierten am stärksten. Szenarien bis 2100 zeigen die besten Ergebnisse nur, wenn hohe KI-Entwicklung mit einem nachhaltigkeitsorientierten Pfad zusammenkommt.",
+  "why": "Das Versprechen, KI werde den Klimaschutz quasi automatisch voranbringen, findet in den Länderdaten keine Stütze. KI ist laut Studie ein bedingter Beschleuniger, dessen Nutzen von Politik, Strommix und Governance abhängt.",
+  "caveat": "Zusammenhänge auf Länderebene, keine Kausalbeweise. Die Mitteilung nennt weder Effektgrößen noch Konfidenzintervalle. Der KI-Index misst Ausstattung, nicht tatsächliche Nutzung."
+ },
+ "en": {
+  "title": "69 countries, 24 years: AI makes economies more efficient, but not more climate-friendly",
+  "summary": "A Chinese-Japanese team built an AI index for 69 countries from 2000 to 2023 out of patents, industrial robots, publications, digital infrastructure and research staff, and linked it to seven UN Sustainable Development Goals using double machine learning. Stable positive links appeared for education, clean energy and industrial innovation. For responsible consumption and climate action, however, there was no robust effect. The authors call this the efficiency-transformation gap: AI works where data are rich and easy to codify, but by itself changes neither consumption patterns nor regulatory ambition nor the pace of decarbonisation. In the short term, AI deployment even dragged on green innovation. Low-development countries benefited most. Projections to 2100 show the best outcomes only when high AI development is paired with a sustainability-oriented pathway.",
+  "why": "The promise that AI will advance climate protection almost automatically finds no support in the country data. The study calls AI a conditional accelerator whose value depends on policy, the electricity mix and governance.",
+  "caveat": "Country-level associations, not causal proof. The release reports neither effect sizes nor confidence intervals. The AI index measures capacity, not actual use."
+ },
+ "ru": {
+  "title": "69 стран, 24 года: ИИ делает экономику эффективнее, но не более дружественной к климату",
+  "summary": "Китайско-японская команда построила индекс ИИ для 69 стран за 2000–2023 годы из патентов, промышленных роботов, публикаций, цифровой инфраструктуры и научного персонала и связала его с семью целями устойчивого развития ООН методом двойного машинного обучения. Устойчивые положительные связи нашлись для образования, чистой энергии и промышленных инноваций. Для ответственного потребления и борьбы с изменением климата надёжного эффекта не оказалось. Авторы называют это разрывом между эффективностью и трансформацией: ИИ работает там, где данных много и их легко кодифицировать, но сам по себе не меняет ни модели потребления, ни регуляторные амбиции, ни темп декарбонизации. В краткосрочной перспективе внедрение ИИ даже тормозило зелёные инновации. Больше всего выиграли страны с низким уровнем развития. Прогнозы до 2100 года показывают лучшие результаты лишь при сочетании высокого развития ИИ с курсом на устойчивость.",
+  "why": "Обещание, что ИИ почти автоматически продвинет защиту климата, не находит опоры в данных по странам. Исследование называет ИИ условным ускорителем, польза которого зависит от политики, структуры энергетики и управления.",
+  "caveat": "Связи на уровне стран, а не доказательства причинности. В сообщении нет ни размеров эффекта, ни доверительных интервалов. Индекс ИИ измеряет оснащённость, а не фактическое использование."
+ },
+ "image": {
+  "src": "https://media.newswise.com/pio/articles/857926/6aeab7c81643b_21_857926.jpg",
+  "kind": "press",
+  "credit": "Bild: Newswise",
+  "link": "https://www.newswise.com/articles/ai-boosts-operational-efficiency-but-not-systemic-climate-action-global-study-finds2"
+ }
 }

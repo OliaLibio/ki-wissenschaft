@@ -1,29 +1,47 @@
 {
-  "id": "2026-11-16-mit-klima-emulator",
-  "date": "2026-11-16",
-  "published": "2026-11-12",
-  "category": "klima",
-  "countries": ["US", "GB", "CH"],
-  "institution": "MIT, Imperial College London, ETH Zürich",
-  "maturity": "study",
-  "source": {"name": "PNAS via MIT News", "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112"},
-  "more": [{"name": "PNAS DOI 10.1073/pnas.2620731123", "url": "https://doi.org/10.1073/pnas.2620731123"}],
-  "de": {
-    "title": "Absichtlich unrealistische Trainingsdaten machen KI-Klimamodelle verlässlicher",
-    "summary": "Vollständige Erdsystemmodelle brauchen für ein einziges Zukunftsszenario Monate auf einem Supercomputer. KI-Emulatoren ahmen sie in Sekunden nach, müssen aber zuvor mit sechs bis acht teuren Modellläufen trainiert werden, und sie versagen oft bei Szenarien, die sie nie gesehen haben. Ein Team um Christopher Womack und Noelle Selin am MIT hat einen Algorithmus entwickelt, der die Trainingsszenarien gezielt entwirft: Er beginnt mit einem beliebigen Szenario aus einem einfachen Klimamodell, misst den Fehler des Emulators und verändert die Daten so lange, bis der Fehler unter eine Schwelle fällt. Die entstehenden Szenarien enthalten sprunghafte Emissionsverläufe, die mit keiner realistischen Zukunft übereinstimmen. Genau deshalb lernt der Emulator allgemeiner. Ein so trainiertes Modell sagte ungesehene Szenarien korrekt voraus, etwa die Wirkung lokaler Schadstoffauflagen, bei denen ein Schadstoff sinkt, während andere steigen. Klassisch trainierte Emulatoren scheiterten an diesem Test. Das Erdsystemmodell muss dafür nur noch einmal laufen statt sechs- bis achtmal.",
-    "why": "Politik braucht schnelle Antworten auf Was-wäre-wenn-Fragen zu Emissionen. Emulatoren, die auch bei neuartigen Szenarien stimmen, machen solche Abschätzungen erstmals belastbar.",
-    "caveat": "Die Mitteilung nennt keine konkreten Genauigkeitszahlen und keinen Umfang der Datenersparnis. Getestet wurde mit einem Modell mittlerer Komplexität, die Übertragung auf große Erdsystemmodelle steht aus."
-  },
-  "en": {
-    "title": "Deliberately unrealistic training data make AI climate models more trustworthy",
-    "summary": "Full earth system models take months on a supercomputer for a single future scenario. AI emulators mimic them in seconds but must first be trained on six to eight expensive model runs, and they often fail on scenarios they have never seen. A team led by Christopher Womack and Noelle Selin at MIT built an algorithm that designs the training scenarios on purpose: it starts with an arbitrary scenario from a simple climate model, measures the emulator's error and keeps altering the data until the error drops below a threshold. The resulting scenarios contain jumpy emissions paths that match no realistic future. That is exactly why the emulator learns more generally. A model trained this way correctly predicted unseen scenarios, such as the effect of local pollution controls where one pollutant falls while others rise. Conventionally trained emulators failed that test. The earth system model now needs to run only once instead of six to eight times.",
-    "why": "Policymakers need fast answers to what-if questions about emissions. Emulators that stay accurate on novel scenarios make such estimates reliable for the first time.",
-    "caveat": "The release gives no concrete accuracy figures and no size for the data savings. Testing used a model of intermediate complexity; transfer to full earth system models is still to come."
-  },
-  "ru": {
-    "title": "Намеренно нереалистичные обучающие данные делают ИИ-модели климата надёжнее",
-    "summary": "Полные модели земной системы тратят месяцы на суперкомпьютере ради одного сценария будущего. ИИ-эмуляторы воспроизводят их за секунды, но сначала их нужно обучить на шести–восьми дорогих прогонах модели, и они часто ошибаются на сценариях, которых никогда не видели. Команда Кристофера Уомака и Ноэль Селин из MIT создала алгоритм, который целенаправленно проектирует обучающие сценарии: он начинает с произвольного сценария простой климатической модели, измеряет ошибку эмулятора и меняет данные, пока ошибка не опустится ниже порога. Получающиеся сценарии содержат скачкообразные траектории выбросов, не похожие ни на одно реалистичное будущее. Именно поэтому эмулятор обучается более общо. Обученная так модель верно предсказала невиданные сценарии, например эффект локальных ограничений на выбросы, когда один загрязнитель падает, а другие растут. Эмуляторы, обученные классически, этот тест провалили. Модель земной системы теперь нужно запускать лишь один раз вместо шести–восьми.",
-    "why": "Политикам нужны быстрые ответы на вопросы «что, если» о выбросах. Эмуляторы, сохраняющие точность на новых сценариях, впервые делают такие оценки надёжными.",
-    "caveat": "В сообщении нет конкретных цифр точности и объёма экономии данных. Тестирование проводилось на модели средней сложности, перенос на полные модели земной системы ещё впереди."
+ "id": "2026-11-16-mit-klima-emulator",
+ "date": "2026-11-16",
+ "published": "2026-11-12",
+ "category": "klima",
+ "countries": [
+  "US",
+  "GB",
+  "CH"
+ ],
+ "institution": "MIT, Imperial College London, ETH Zürich",
+ "maturity": "study",
+ "source": {
+  "name": "PNAS via MIT News",
+  "url": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112"
+ },
+ "more": [
+  {
+   "name": "PNAS DOI 10.1073/pnas.2620731123",
+   "url": "https://doi.org/10.1073/pnas.2620731123"
   }
+ ],
+ "de": {
+  "title": "Absichtlich unrealistische Trainingsdaten machen KI-Klimamodelle verlässlicher",
+  "summary": "Vollständige Erdsystemmodelle brauchen für ein einziges Zukunftsszenario Monate auf einem Supercomputer. KI-Emulatoren ahmen sie in Sekunden nach, müssen aber zuvor mit sechs bis acht teuren Modellläufen trainiert werden, und sie versagen oft bei Szenarien, die sie nie gesehen haben. Ein Team um Christopher Womack und Noelle Selin am MIT hat einen Algorithmus entwickelt, der die Trainingsszenarien gezielt entwirft: Er beginnt mit einem beliebigen Szenario aus einem einfachen Klimamodell, misst den Fehler des Emulators und verändert die Daten so lange, bis der Fehler unter eine Schwelle fällt. Die entstehenden Szenarien enthalten sprunghafte Emissionsverläufe, die mit keiner realistischen Zukunft übereinstimmen. Genau deshalb lernt der Emulator allgemeiner. Ein so trainiertes Modell sagte ungesehene Szenarien korrekt voraus, etwa die Wirkung lokaler Schadstoffauflagen, bei denen ein Schadstoff sinkt, während andere steigen. Klassisch trainierte Emulatoren scheiterten an diesem Test. Das Erdsystemmodell muss dafür nur noch einmal laufen statt sechs- bis achtmal.",
+  "why": "Politik braucht schnelle Antworten auf Was-wäre-wenn-Fragen zu Emissionen. Emulatoren, die auch bei neuartigen Szenarien stimmen, machen solche Abschätzungen erstmals belastbar.",
+  "caveat": "Die Mitteilung nennt keine konkreten Genauigkeitszahlen und keinen Umfang der Datenersparnis. Getestet wurde mit einem Modell mittlerer Komplexität, die Übertragung auf große Erdsystemmodelle steht aus."
+ },
+ "en": {
+  "title": "Deliberately unrealistic training data make AI climate models more trustworthy",
+  "summary": "Full earth system models take months on a supercomputer for a single future scenario. AI emulators mimic them in seconds but must first be trained on six to eight expensive model runs, and they often fail on scenarios they have never seen. A team led by Christopher Womack and Noelle Selin at MIT built an algorithm that designs the training scenarios on purpose: it starts with an arbitrary scenario from a simple climate model, measures the emulator's error and keeps altering the data until the error drops below a threshold. The resulting scenarios contain jumpy emissions paths that match no realistic future. That is exactly why the emulator learns more generally. A model trained this way correctly predicted unseen scenarios, such as the effect of local pollution controls where one pollutant falls while others rise. Conventionally trained emulators failed that test. The earth system model now needs to run only once instead of six to eight times.",
+  "why": "Policymakers need fast answers to what-if questions about emissions. Emulators that stay accurate on novel scenarios make such estimates reliable for the first time.",
+  "caveat": "The release gives no concrete accuracy figures and no size for the data savings. Testing used a model of intermediate complexity; transfer to full earth system models is still to come."
+ },
+ "ru": {
+  "title": "Намеренно нереалистичные обучающие данные делают ИИ-модели климата надёжнее",
+  "summary": "Полные модели земной системы тратят месяцы на суперкомпьютере ради одного сценария будущего. ИИ-эмуляторы воспроизводят их за секунды, но сначала их нужно обучить на шести–восьми дорогих прогонах модели, и они часто ошибаются на сценариях, которых никогда не видели. Команда Кристофера Уомака и Ноэль Селин из MIT создала алгоритм, который целенаправленно проектирует обучающие сценарии: он начинает с произвольного сценария простой климатической модели, измеряет ошибку эмулятора и меняет данные, пока ошибка не опустится ниже порога. Получающиеся сценарии содержат скачкообразные траектории выбросов, не похожие ни на одно реалистичное будущее. Именно поэтому эмулятор обучается более общо. Обученная так модель верно предсказала невиданные сценарии, например эффект локальных ограничений на выбросы, когда один загрязнитель падает, а другие растут. Эмуляторы, обученные классически, этот тест провалили. Модель земной системы теперь нужно запускать лишь один раз вместо шести–восьми.",
+  "why": "Политикам нужны быстрые ответы на вопросы «что, если» о выбросах. Эмуляторы, сохраняющие точность на новых сценариях, впервые делают такие оценки надёжными.",
+  "caveat": "В сообщении нет конкретных цифр точности и объёма экономии данных. Тестирование проводилось на модели средней сложности, перенос на полные модели земной системы ещё впереди."
+ },
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/EarthSimulator.jpg/960px-EarthSimulator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "kind": "photo",
+  "credit": "Foto: Manatee_tw, CC BY-SA 4.0, Wikimedia Commons",
+  "link": "https://commons.wikimedia.org/wiki/File:EarthSimulator.jpg"
+ }
 }

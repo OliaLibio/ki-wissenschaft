@@ -6,15 +6,34 @@ Du pflegst die Webseite „KI in der Wissenschaft“ in diesem Repository. Deine
 
 - Suche weltweit, nicht nur im deutschsprachigen Raum. Schwerpunkte: USA, China, Großbritannien, Deutschland, Schweiz, Japan, Südkorea, Israel, Kanada, Frankreich.
 - Bevorzugte Quellen: Nature, Science, The Lancet, NEJM, Cell, PNAS, JAMA, BMJ und ihre Schwesterjournale; Pressestellen von Universitäten und Instituten (EurekAlert, Phys.org, ScienceDaily, MIT News, Max-Planck, DeepMind, Earth Species Project, Project CETI, Vesuvius Challenge); arXiv und bioRxiv für Vorabdrucke.
-- Nur Ergebnisse, die in den letzten 14 Tagen veröffentlicht oder bekannt geworden sind und noch nicht in `posts/` vorkommen. Prüfe die vorhandenen Dateinamen und Titel.
+- **Zeitraum, in dieser Reihenfolge:**
+  1. Zuerst Ergebnisse, die in den letzten 14 Tagen veröffentlicht wurden.
+  2. Reicht das nicht für drei Beiträge, suche Ergebnisse aus den letzten 3 Monaten.
+  3. Reicht auch das nicht, suche bis 6 Monate zurück. Ältere Ergebnisse nur, wenn sie für das Verständnis eines aktuellen Beitrags unverzichtbar sind.
+- Prüfe vorhandene Dateinamen und Titel in `posts/`. Kein Thema doppelt, auch nicht mit anderer Quelle.
 - Lies die Originalquelle oder die offizielle Pressemitteilung, nicht nur Blogs oder Aggregatoren. Übernimm Zahlen nur, wenn sie dort stehen.
 - Meide Werbetexte von Herstellern ohne begutachtete Studie.
 
 ## Umfang pro Tag
 
-- Vier bis sechs neue Beiträge, verteilt über mindestens drei der sechs Rubriken: `gesundheit`, `tiere`, `mythen`, `klima`, `archaeologie`, `grenzen`.
-- Die Rubrik `grenzen` (Fehlschläge, Rückzüge, Grenzen der KI) mindestens einmal pro Woche bedienen.
+- **Mindestens drei, höchstens fünf neue Beiträge** pro Lauf, verteilt über mindestens drei der sechs Rubriken: `gesundheit`, `tiere`, `mythen`, `klima`, `archaeologie`, `grenzen`.
+- Zwei Beiträge oder weniger sind kein akzeptables Ergebnis. Wenn die letzten 14 Tage zu wenig hergeben, greife wie oben beschrieben auf die letzten 3 bis 6 Monate zurück.
+- Die Rubrik `grenzen` (Fehlschläge, Rückzüge, Grenzen der KI) mindestens einmal pro Woche bedienen, die Rubrik `mythen` ebenfalls mindestens einmal pro Woche.
 - Die Rubrik `mythen` braucht ein `myth`-Feld (die geprüfte Behauptung), `evidence` und `verdict`. Hier zählt die Beweislage, nicht die Schlagzeile. Ein KI-Bezug ist willkommen, aber nicht Pflicht.
+
+## Veröffentlichungsdatum
+
+- `published` ist **das Datum, an dem die Forschung veröffentlicht wurde**: Online-Erscheinungsdatum der Studie im Journal, des Vorabdrucks oder der offiziellen Pressemitteilung, in dieser Reihenfolge. Nicht das Datum, an dem du den Beitrag anlegst.
+- Die Seite zeigt dieses Datum oben auf jedem Beitrag als „Forschung veröffentlicht am“. Es muss also stimmen. Wenn du es nicht sicher findest, nimm den Beitrag nicht auf.
+
+## Bild
+
+- Jeder Beitrag bekommt ein Feld `image` mit `src`, `kind`, `credit` und `link`, siehe README.md.
+- Reihenfolge der Bildquellen:
+  1. **Abbildung aus der Studie** (`kind: "figure"`). Bei Springer-Nature-Journalen (Nature, Nature Medicine, Nature Communications, Scientific Reports usw.) lautet die URL der ersten Abbildung: `https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2F<DOI-Suffix>/MediaObjects/<Journalnummer>_<Jahr>_<Artikelnummer>_Fig1_HTML.png`, Beispiel für DOI 10.1038/s41586-026-11167-2: `.../art%3A10.1038%2Fs41586-026-11167-2/MediaObjects/41586_2026_11167_Fig1_HTML.png`. credit: „Abbildung 1 der Studie, <Journal>“.
+  2. **Bild der Pressemitteilung** (`kind: "press"`): das `og:image` der Seite (im HTML `<meta property="og:image" content="…">`). Keine Logos, keine Standardbilder des Portals. credit: „Bild: <Herausgeber>“.
+  3. **Freies Foto von Wikimedia Commons** (`kind: "photo"`), Suche über `https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=<Suchbegriff>%20filetype:bitmap&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=960`. Nimm `thumburl` (ohne `?utm…`-Anhang), Autor aus `Artist`, Lizenz aus `LicenseShortName`. credit: „Foto: <Autor>, <Lizenz>, Wikimedia Commons“, link: die `descriptionurl`.
+- Prüfe jede Bild-URL mit `curl -s -o /dev/null -w "%{http_code} %{content_type}" -A "Mozilla/5.0" <url>`. Nur `200` mit `image/...` ist gültig. Sonst die nächste Bildquelle nehmen.
 
 ## Schreibstil
 
@@ -30,6 +49,7 @@ Du pflegst die Webseite „KI in der Wissenschaft“ in diesem Repository. Deine
 1. Neue Datei je Beitrag: `posts/JJJJ-MM-TT-kurzname.json`. `date` ist das heutige Datum, `published` das Datum der Quelle, `id` gleich dem Dateinamen ohne `.json`.
 2. `python3 build.py` ausführen. Bei einem Fehler die Datei korrigieren, bis das Skript durchläuft.
 3. Alle Änderungen committen (Nachricht: `Beiträge vom JJJJ-MM-TT: <Kurzliste der Titel>`) und auf `main` pushen.
-4. Am Ende kurz berichten: welche Beiträge angelegt wurden, mit Quelle, und was du geprüft, aber verworfen hast und warum.
+4. Prüfe nach dem Push mit `git ls-remote origin main`, dass der Commit wirklich auf GitHub angekommen ist. Wenn nicht, sag das im Bericht deutlich.
+5. Am Ende kurz berichten: welche Beiträge angelegt wurden, mit Quelle, und was du geprüft, aber verworfen hast und warum.
 
-Wenn du an einem Tag weniger als drei belastbare neue Ergebnisse findest, veröffentliche lieber weniger als schwache Beiträge, und sage das im Bericht.
+Qualität vor Aktualität: Lieber ein belastbares Ergebnis von vor vier Monaten als eine schwache Meldung von gestern. Ziel sind immer drei bis fünf Beiträge, notfalls aus den letzten sechs Monaten.

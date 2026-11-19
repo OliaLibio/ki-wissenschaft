@@ -1,29 +1,46 @@
 {
-  "id": "2026-11-16-elefanten-kenia-zaehlung",
-  "date": "2026-11-16",
-  "published": "2026-11-07",
-  "category": "tiere",
-  "countries": ["KE", "TZ"],
-  "institution": "Save the Elephants, Jane Goodall Institute",
-  "maturity": "deployed",
-  "source": {"name": "Reuters via US News", "url": "https://www.usnews.com/news/top-news/articles/2026-11-07/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts"},
-  "more": [{"name": "TechTimes", "url": "https://www.techtimes.co.uk/environmental-groups-ai-wildlife-environmental-costs-1809789"}],
-  "de": {
-    "title": "Tierzählung aus der Luft: Menschen übersahen ein Drittel der Elefanten, die KI zählt in Stunden",
-    "summary": "Eine Luftbildzählung in Kenias größtem Schutzgebiet lieferte 2025 rund 200.000 Fotos. Neun Fachleute brauchten neun Monate, um sie von Hand auszuwerten. Trainierte Bildmodelle erledigen dieselbe Analyse laut Save the Elephants inzwischen in Stunden. Der Vergleich mit den KI-Auswertungen zeigte, wie lückenhaft die klassischen Zählungen waren: Etwa ein Drittel der Elefanten, rund die Hälfte der Zebras und Giraffen und drei Viertel der Oryx-Antilopen waren übersehen worden. Geschäftsführer Frank Pope sagt, KI mache Natur messbar und damit finanzierbar. Das Jane-Goodall-Institut digitalisiert parallel jahrzehntelange handschriftliche Schimpansen-Beobachtungen aus dem Gombe-Nationalpark in Tansania. Statt 13 bis 15 Jahren soll die Aufarbeitung mit einem Werkzeug von Amazon Web Services rund zwei Jahre dauern.",
-    "why": "Falsche Tierzahlen führen zu falschen Schutzentscheidungen und fehlgeleitetem Geld. Wenn Bestände systematisch unterschätzt wurden, müssen viele Artenschutz-Bilanzen neu gerechnet werden.",
-    "caveat": "Die Zahlen stammen aus einer Reuters-Recherche und Aussagen der Organisation, nicht aus einer begutachteten Studie. Dieselbe Recherche hält fest, dass alle 15 befragten Umweltorganisationen den Strom- und Wasserbedarf der Rechenzentren hinter dieser KI als Problem sehen."
-  },
-  "en": {
-    "title": "Aerial wildlife counts: humans missed a third of the elephants, AI counts in hours",
-    "summary": "An aerial survey of Kenya's largest protected area in 2025 produced about 200,000 photos. Nine specialists needed nine months to review them by hand. Trained image models now complete the same analysis in hours, according to Save the Elephants. Comparison with the AI results showed how patchy the traditional counts were: about a third of the elephants, roughly half of the zebras and giraffes and three quarters of the oryx had been missed. Chief executive Frank Pope says AI makes nature measurable and therefore investable. In parallel, the Jane Goodall Institute is digitising decades of handwritten chimpanzee observations from Gombe National Park in Tanzania. With a tool built with Amazon Web Services, the job is expected to take about two years instead of 13 to 15.",
-    "why": "Wrong animal numbers lead to wrong conservation decisions and misdirected money. If populations were systematically undercounted, many conservation balance sheets need recalculating.",
-    "caveat": "The figures come from a Reuters investigation and the organisation's own statements, not from a peer-reviewed study. The same investigation notes that all 15 environmental groups surveyed see the electricity and water demand of the data centres behind this AI as a problem."
-  },
-  "ru": {
-    "title": "Подсчёт животных с воздуха: люди пропускали треть слонов, ИИ считает за часы",
-    "summary": "Аэрофотосъёмка крупнейшей охраняемой территории Кении в 2025 году дала около 200 000 снимков. Девяти специалистам понадобилось девять месяцев, чтобы просмотреть их вручную. Обученные модели распознавания изображений, по данным Save the Elephants, теперь выполняют тот же анализ за часы. Сравнение с результатами ИИ показало, насколько неполными были традиционные подсчёты: пропущены были примерно треть слонов, около половины зебр и жирафов и три четверти антилоп орикс. Глава организации Фрэнк Поуп говорит, что ИИ делает природу измеримой, а значит, пригодной для инвестиций. Параллельно Институт Джейн Гудолл оцифровывает десятилетия рукописных наблюдений за шимпанзе из национального парка Гомбе в Танзании. С инструментом, созданным вместе с Amazon Web Services, работа должна занять около двух лет вместо 13–15.",
-    "why": "Неверные численности животных ведут к неверным природоохранным решениям и неправильно направленным деньгам. Если популяции систематически недооценивались, многие балансы охраны видов придётся пересчитать.",
-    "caveat": "Цифры взяты из расследования Reuters и заявлений самой организации, а не из рецензируемого исследования. То же расследование отмечает, что все 15 опрошенных экологических организаций считают проблемой потребление электроэнергии и воды дата-центрами, стоящими за этим ИИ."
+ "id": "2026-11-16-elefanten-kenia-zaehlung",
+ "date": "2026-11-16",
+ "published": "2026-11-07",
+ "category": "tiere",
+ "countries": [
+  "KE",
+  "TZ"
+ ],
+ "institution": "Save the Elephants, Jane Goodall Institute",
+ "maturity": "deployed",
+ "source": {
+  "name": "Reuters via US News",
+  "url": "https://www.usnews.com/news/top-news/articles/2026-11-07/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts"
+ },
+ "more": [
+  {
+   "name": "TechTimes",
+   "url": "https://www.techtimes.co.uk/environmental-groups-ai-wildlife-environmental-costs-1809789"
   }
+ ],
+ "de": {
+  "title": "Tierzählung aus der Luft: Menschen übersahen ein Drittel der Elefanten, die KI zählt in Stunden",
+  "summary": "Eine Luftbildzählung in Kenias größtem Schutzgebiet lieferte 2025 rund 200.000 Fotos. Neun Fachleute brauchten neun Monate, um sie von Hand auszuwerten. Trainierte Bildmodelle erledigen dieselbe Analyse laut Save the Elephants inzwischen in Stunden. Der Vergleich mit den KI-Auswertungen zeigte, wie lückenhaft die klassischen Zählungen waren: Etwa ein Drittel der Elefanten, rund die Hälfte der Zebras und Giraffen und drei Viertel der Oryx-Antilopen waren übersehen worden. Geschäftsführer Frank Pope sagt, KI mache Natur messbar und damit finanzierbar. Das Jane-Goodall-Institut digitalisiert parallel jahrzehntelange handschriftliche Schimpansen-Beobachtungen aus dem Gombe-Nationalpark in Tansania. Statt 13 bis 15 Jahren soll die Aufarbeitung mit einem Werkzeug von Amazon Web Services rund zwei Jahre dauern.",
+  "why": "Falsche Tierzahlen führen zu falschen Schutzentscheidungen und fehlgeleitetem Geld. Wenn Bestände systematisch unterschätzt wurden, müssen viele Artenschutz-Bilanzen neu gerechnet werden.",
+  "caveat": "Die Zahlen stammen aus einer Reuters-Recherche und Aussagen der Organisation, nicht aus einer begutachteten Studie. Dieselbe Recherche hält fest, dass alle 15 befragten Umweltorganisationen den Strom- und Wasserbedarf der Rechenzentren hinter dieser KI als Problem sehen."
+ },
+ "en": {
+  "title": "Aerial wildlife counts: humans missed a third of the elephants, AI counts in hours",
+  "summary": "An aerial survey of Kenya's largest protected area in 2025 produced about 200,000 photos. Nine specialists needed nine months to review them by hand. Trained image models now complete the same analysis in hours, according to Save the Elephants. Comparison with the AI results showed how patchy the traditional counts were: about a third of the elephants, roughly half of the zebras and giraffes and three quarters of the oryx had been missed. Chief executive Frank Pope says AI makes nature measurable and therefore investable. In parallel, the Jane Goodall Institute is digitising decades of handwritten chimpanzee observations from Gombe National Park in Tanzania. With a tool built with Amazon Web Services, the job is expected to take about two years instead of 13 to 15.",
+  "why": "Wrong animal numbers lead to wrong conservation decisions and misdirected money. If populations were systematically undercounted, many conservation balance sheets need recalculating.",
+  "caveat": "The figures come from a Reuters investigation and the organisation's own statements, not from a peer-reviewed study. The same investigation notes that all 15 environmental groups surveyed see the electricity and water demand of the data centres behind this AI as a problem."
+ },
+ "ru": {
+  "title": "Подсчёт животных с воздуха: люди пропускали треть слонов, ИИ считает за часы",
+  "summary": "Аэрофотосъёмка крупнейшей охраняемой территории Кении в 2025 году дала около 200 000 снимков. Девяти специалистам понадобилось девять месяцев, чтобы просмотреть их вручную. Обученные модели распознавания изображений, по данным Save the Elephants, теперь выполняют тот же анализ за часы. Сравнение с результатами ИИ показало, насколько неполными были традиционные подсчёты: пропущены были примерно треть слонов, около половины зебр и жирафов и три четверти антилоп орикс. Глава организации Фрэнк Поуп говорит, что ИИ делает природу измеримой, а значит, пригодной для инвестиций. Параллельно Институт Джейн Гудолл оцифровывает десятилетия рукописных наблюдений за шимпанзе из национального парка Гомбе в Танзании. С инструментом, созданным вместе с Amazon Web Services, работа должна занять около двух лет вместо 13–15.",
+  "why": "Неверные численности животных ведут к неверным природоохранным решениям и неправильно направленным деньгам. Если популяции систематически недооценивались, многие балансы охраны видов придётся пересчитать.",
+  "caveat": "Цифры взяты из расследования Reuters и заявлений самой организации, а не из рецензируемого исследования. То же расследование отмечает, что все 15 опрошенных экологических организаций считают проблемой потребление электроэнергии и воды дата-центрами, стоящими за этим ИИ."
+ },
+ "image": {
+  "src": "https://d.techtimes.co.uk/en/full/1820612/wildlife.png",
+  "kind": "press",
+  "credit": "Bild: TechTimes",
+  "link": "https://www.techtimes.co.uk/environmental-groups-ai-wildlife-environmental-costs-1809789"
+ }
 }

@@ -1,29 +1,47 @@
 {
-  "id": "2026-11-13-pottwal-geburt",
-  "date": "2026-11-13",
-  "published": "2026-03-26",
-  "category": "tiere",
-  "countries": ["US", "CA", "DM"],
-  "institution": "Project CETI, CUNY, Carleton University",
-  "maturity": "study",
-  "source": {"name": "Science und Scientific Reports via EurekAlert", "url": "https://www.eurekalert.org/news-releases/1120823"},
-  "more": [{"name": "Inside Climate News", "url": "https://insideclimatenews.org/news/26032026/sperm-whale-birth-event-study-animal-cooperation/"}],
-  "de": {
-    "title": "Computersehen belegt: Pottwale leisten Geburtshilfe wie sonst nur Menschen und wenige Primaten",
-    "summary": "Am 8. Juli 2023 filmten Forschende vor Dominica eine Pottwalgeburt mit Drohnen und nahmen über sechs Stunden Unterwasserton auf. Mit Computersehen und Netzwerkanalyse werteten sie aus, wer wann half: Weibchen aus zwei Familienlinien, verwandte und nicht verwandte, unterstützten die Mutter und hoben das Neugeborene abwechselnd an die Oberfläche. Es ist der erste quantitative Nachweis von Geburtsbeistand außerhalb von Menschen und wenigen Primatenarten. Die Tonanalyse zeigte, dass sich die Klickmuster in Schlüsselmomenten veränderten, inklusive vokalähnlicher Strukturen.",
-    "why": "Kooperation bei der Geburt gilt als Grundlage komplexer Gesellschaften. Dass sie bei Walen vorkommt und laut Stammbaumanalyse über 36 Millionen Jahre alt sein könnte, verändert das Bild von der sozialen Evolution im Meer.",
-    "caveat": "Ein einziges Geburtsereignis in einer besonders gut erforschten Gruppe. Ob andere Pottwalgruppen so handeln, ist offen."
-  },
-  "en": {
-    "title": "Computer vision shows sperm whales assist births, as otherwise only humans and a few primates do",
-    "summary": "On 8 July 2023 researchers off Dominica filmed a sperm whale birth with drones and recorded more than six hours of underwater audio. Using computer vision and network analysis they tracked who helped when: females from two family lines, related and unrelated, supported the mother and took turns lifting the newborn to the surface. It is the first quantitative evidence of birth assistance outside humans and a few primate species. Audio analysis showed click patterns shifting at key moments, including vowel-like structures.",
-    "why": "Cooperation at birth is thought to underpin complex societies. Finding it in whales, with phylogenetic analysis suggesting it may be over 36 million years old, changes the picture of social evolution in the ocean.",
-    "caveat": "A single birth event in one unusually well-studied group. Whether other sperm whale groups behave this way is unknown."
-  },
-  "ru": {
-    "title": "Компьютерное зрение показало: кашалоты помогают при родах, как люди и немногие приматы",
-    "summary": "8 июля 2023 года исследователи у острова Доминика засняли роды кашалота с дронов и записали более шести часов подводного звука. С помощью компьютерного зрения и сетевого анализа они проследили, кто и когда помогал: самки из двух семейных линий, родственные и нет, поддерживали мать и по очереди поднимали новорождённого к поверхности. Это первое количественное свидетельство помощи при родах за пределами людей и нескольких видов приматов. Анализ звука показал, что в ключевые моменты рисунок щелчков менялся, включая гласноподобные структуры.",
-    "why": "Кооперация при родах считается основой сложных обществ. Её обнаружение у китов, причём, судя по филогенетическому анализу, возрастом более 36 миллионов лет, меняет представление о социальной эволюции в океане.",
-    "caveat": "Единственный случай родов в одной особенно хорошо изученной группе. Ведут ли себя так другие группы кашалотов, неизвестно."
+ "id": "2026-11-13-pottwal-geburt",
+ "date": "2026-11-13",
+ "published": "2026-03-26",
+ "category": "tiere",
+ "countries": [
+  "US",
+  "CA",
+  "DM"
+ ],
+ "institution": "Project CETI, CUNY, Carleton University",
+ "maturity": "study",
+ "source": {
+  "name": "Science und Scientific Reports via EurekAlert",
+  "url": "https://www.eurekalert.org/news-releases/1120823"
+ },
+ "more": [
+  {
+   "name": "Inside Climate News",
+   "url": "https://insideclimatenews.org/news/26032026/sperm-whale-birth-event-study-animal-cooperation/"
   }
+ ],
+ "de": {
+  "title": "Computersehen belegt: Pottwale leisten Geburtshilfe wie sonst nur Menschen und wenige Primaten",
+  "summary": "Am 8. Juli 2023 filmten Forschende vor Dominica eine Pottwalgeburt mit Drohnen und nahmen über sechs Stunden Unterwasserton auf. Mit Computersehen und Netzwerkanalyse werteten sie aus, wer wann half: Weibchen aus zwei Familienlinien, verwandte und nicht verwandte, unterstützten die Mutter und hoben das Neugeborene abwechselnd an die Oberfläche. Es ist der erste quantitative Nachweis von Geburtsbeistand außerhalb von Menschen und wenigen Primatenarten. Die Tonanalyse zeigte, dass sich die Klickmuster in Schlüsselmomenten veränderten, inklusive vokalähnlicher Strukturen.",
+  "why": "Kooperation bei der Geburt gilt als Grundlage komplexer Gesellschaften. Dass sie bei Walen vorkommt und laut Stammbaumanalyse über 36 Millionen Jahre alt sein könnte, verändert das Bild von der sozialen Evolution im Meer.",
+  "caveat": "Ein einziges Geburtsereignis in einer besonders gut erforschten Gruppe. Ob andere Pottwalgruppen so handeln, ist offen."
+ },
+ "en": {
+  "title": "Computer vision shows sperm whales assist births, as otherwise only humans and a few primates do",
+  "summary": "On 8 July 2023 researchers off Dominica filmed a sperm whale birth with drones and recorded more than six hours of underwater audio. Using computer vision and network analysis they tracked who helped when: females from two family lines, related and unrelated, supported the mother and took turns lifting the newborn to the surface. It is the first quantitative evidence of birth assistance outside humans and a few primate species. Audio analysis showed click patterns shifting at key moments, including vowel-like structures.",
+  "why": "Cooperation at birth is thought to underpin complex societies. Finding it in whales, with phylogenetic analysis suggesting it may be over 36 million years old, changes the picture of social evolution in the ocean.",
+  "caveat": "A single birth event in one unusually well-studied group. Whether other sperm whale groups behave this way is unknown."
+ },
+ "ru": {
+  "title": "Компьютерное зрение показало: кашалоты помогают при родах, как люди и немногие приматы",
+  "summary": "8 июля 2023 года исследователи у острова Доминика засняли роды кашалота с дронов и записали более шести часов подводного звука. С помощью компьютерного зрения и сетевого анализа они проследили, кто и когда помогал: самки из двух семейных линий, родственные и нет, поддерживали мать и по очереди поднимали новорождённого к поверхности. Это первое количественное свидетельство помощи при родах за пределами людей и нескольких видов приматов. Анализ звука показал, что в ключевые моменты рисунок щелчков менялся, включая гласноподобные структуры.",
+  "why": "Кооперация при родах считается основой сложных обществ. Её обнаружение у китов, причём, судя по филогенетическому анализу, возрастом более 36 миллионов лет, меняет представление о социальной эволюции в океане.",
+  "caveat": "Единственный случай родов в одной особенно хорошо изученной группе. Ведут ли себя так другие группы кашалотов, неизвестно."
+ },
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Sperm_whale_mother_with_calf.jpg/960px-Sperm_whale_mother_with_calf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "kind": "photo",
+  "credit": "Foto: Gabriel Barathieu / Réunion Underwater Photography, CC BY-SA 2.0, Wikimedia Commons",
+  "link": "https://commons.wikimedia.org/wiki/File:Sperm_whale_mother_with_calf.jpg"
+ }
 }

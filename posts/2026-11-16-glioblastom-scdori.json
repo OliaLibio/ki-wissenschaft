@@ -1,29 +1,50 @@
 {
-  "id": "2026-11-16-glioblastom-scdori",
-  "date": "2026-11-16",
-  "published": "2026-11-04",
-  "category": "gesundheit",
-  "countries": ["DE", "GB"],
-  "institution": "EMBL Heidelberg, DKFZ, Wellcome Sanger Institute",
-  "maturity": "lab",
-  "source": {"name": "Nature via EMBL", "url": "https://www.embl.org/news/?p=85927"},
-  "more": [{"name": "Cancer Research UK", "url": "https://news.cancerresearchuk.org/2026/11/04/scientists-uncover-the-rules-of-glioblastoma/"}, {"name": "Nature DOI 10.1038/s41586-026-11177-0", "url": "https://doi.org/10.1038/s41586-026-11177-0"}],
-  "de": {
-    "title": "Deep Learning entschlüsselt die Spielregeln des tödlichsten Hirntumors",
-    "summary": "Glioblastom-Zellen wechseln ständig ihren molekularen Zustand und entziehen sich so der Therapie. Bisher galt dieses Wechseln als weitgehend zufällig. Zwei Nature-Studien von EMBL, DKFZ und Sanger Institute zeigen das Gegenteil: Die Zellen folgen wiederkehrenden Pfaden, und jeder Zustand sitzt an einem festen Ort im Tumor. Grundlage ist der bisher größte molekulare Atlas der Krankheit aus Tumoren von zwölf Patienten. Das Deep-Learning-Verfahren scDORI des Teams um Oliver Stegle rekonstruierte aus über einer Million Einzelzellen die Regulationsnetzwerke und fand Schutzregulatoren, die Zellen in einem wenig wandelbaren Zustand festhalten. Als die Forschenden einen davon, MYT1L, in Patientenzellen verstärkten, wurden die Tumoren weniger aggressiv, und Mäuse mit solchen Tumoren überlebten länger.",
-    "why": "Glioblastom tötet jährlich über 100.000 Menschen und ist fast immer unheilbar. Wer die Wechselregeln der Zellen kennt, kann versuchen, den Tumor in einem harmlosen Zustand einzusperren, statt ihn nur anzugreifen.",
-    "caveat": "Alles präklinisch: Patientenzellen, Organoide und Mäuse. Die Zahl der Mäuse und Überlebensdaten nennt die Mitteilung nicht. Die Autoren selbst sagen, dass klinische Anwendungen noch entfernt sind."
+ "id": "2026-11-16-glioblastom-scdori",
+ "date": "2026-11-16",
+ "published": "2026-11-04",
+ "category": "gesundheit",
+ "countries": [
+  "DE",
+  "GB"
+ ],
+ "institution": "EMBL Heidelberg, DKFZ, Wellcome Sanger Institute",
+ "maturity": "lab",
+ "source": {
+  "name": "Nature via EMBL",
+  "url": "https://www.embl.org/news/?p=85927"
+ },
+ "more": [
+  {
+   "name": "Cancer Research UK",
+   "url": "https://news.cancerresearchuk.org/2026/11/04/scientists-uncover-the-rules-of-glioblastoma/"
   },
-  "en": {
-    "title": "Deep learning decodes the rulebook of the deadliest brain tumour",
-    "summary": "Glioblastoma cells constantly switch molecular states, which is how they evade treatment. That switching was thought to be largely random. Two Nature papers from EMBL, DKFZ and the Sanger Institute show otherwise: cells follow recurring paths, and each state occupies a fixed niche in the tumour. The basis is the largest molecular atlas of the disease to date, built from tumours of twelve patients. The deep-learning method scDORI from Oliver Stegle's team reconstructed regulatory networks from more than a million single cells and identified safeguard regulators that hold cells in a low-plasticity state. When the researchers boosted one of them, MYT1L, in patient-derived cells, the tumours became less aggressive and mice carrying them survived longer.",
-    "why": "Glioblastoma kills more than 100,000 people a year and is almost always incurable. Knowing the switching rules opens a new strategy: locking the tumour into a harmless state instead of only attacking it.",
-    "caveat": "Everything is preclinical: patient cells, organoids and mice. The release gives no mouse numbers or survival figures. The authors themselves say clinical applications are still some way off."
-  },
-  "ru": {
-    "title": "Глубокое обучение расшифровало правила игры самой смертоносной опухоли мозга",
-    "summary": "Клетки глиобластомы постоянно меняют молекулярное состояние и так ускользают от терапии. Считалось, что эти переходы в основном случайны. Две статьи в Nature от EMBL, DKFZ и Института Сенгера показывают обратное: клетки движутся по повторяющимся путям, и каждое состояние занимает в опухоли свою фиксированную нишу. Основой стал крупнейший на сегодня молекулярный атлас болезни, построенный по опухолям двенадцати пациентов. Метод глубокого обучения scDORI команды Оливера Штегле восстановил регуляторные сети по более чем миллиону отдельных клеток и нашёл регуляторы-«предохранители», удерживающие клетки в малоизменчивом состоянии. Когда исследователи усилили один из них, MYT1L, в клетках пациентов, опухоли стали менее агрессивными, а мыши с такими опухолями жили дольше.",
-    "why": "Глиобластома убивает более 100 000 человек в год и почти всегда неизлечима. Зная правила переходов, можно попытаться запереть опухоль в безобидном состоянии, а не только атаковать её.",
-    "caveat": "Всё доклинически: клетки пациентов, органоиды и мыши. Число мышей и данные о выживаемости в сообщении не приводятся. Сами авторы говорят, что до клинического применения ещё далеко."
+  {
+   "name": "Nature DOI 10.1038/s41586-026-11177-0",
+   "url": "https://doi.org/10.1038/s41586-026-11177-0"
   }
+ ],
+ "de": {
+  "title": "Deep Learning entschlüsselt die Spielregeln des tödlichsten Hirntumors",
+  "summary": "Glioblastom-Zellen wechseln ständig ihren molekularen Zustand und entziehen sich so der Therapie. Bisher galt dieses Wechseln als weitgehend zufällig. Zwei Nature-Studien von EMBL, DKFZ und Sanger Institute zeigen das Gegenteil: Die Zellen folgen wiederkehrenden Pfaden, und jeder Zustand sitzt an einem festen Ort im Tumor. Grundlage ist der bisher größte molekulare Atlas der Krankheit aus Tumoren von zwölf Patienten. Das Deep-Learning-Verfahren scDORI des Teams um Oliver Stegle rekonstruierte aus über einer Million Einzelzellen die Regulationsnetzwerke und fand Schutzregulatoren, die Zellen in einem wenig wandelbaren Zustand festhalten. Als die Forschenden einen davon, MYT1L, in Patientenzellen verstärkten, wurden die Tumoren weniger aggressiv, und Mäuse mit solchen Tumoren überlebten länger.",
+  "why": "Glioblastom tötet jährlich über 100.000 Menschen und ist fast immer unheilbar. Wer die Wechselregeln der Zellen kennt, kann versuchen, den Tumor in einem harmlosen Zustand einzusperren, statt ihn nur anzugreifen.",
+  "caveat": "Alles präklinisch: Patientenzellen, Organoide und Mäuse. Die Zahl der Mäuse und Überlebensdaten nennt die Mitteilung nicht. Die Autoren selbst sagen, dass klinische Anwendungen noch entfernt sind."
+ },
+ "en": {
+  "title": "Deep learning decodes the rulebook of the deadliest brain tumour",
+  "summary": "Glioblastoma cells constantly switch molecular states, which is how they evade treatment. That switching was thought to be largely random. Two Nature papers from EMBL, DKFZ and the Sanger Institute show otherwise: cells follow recurring paths, and each state occupies a fixed niche in the tumour. The basis is the largest molecular atlas of the disease to date, built from tumours of twelve patients. The deep-learning method scDORI from Oliver Stegle's team reconstructed regulatory networks from more than a million single cells and identified safeguard regulators that hold cells in a low-plasticity state. When the researchers boosted one of them, MYT1L, in patient-derived cells, the tumours became less aggressive and mice carrying them survived longer.",
+  "why": "Glioblastoma kills more than 100,000 people a year and is almost always incurable. Knowing the switching rules opens a new strategy: locking the tumour into a harmless state instead of only attacking it.",
+  "caveat": "Everything is preclinical: patient cells, organoids and mice. The release gives no mouse numbers or survival figures. The authors themselves say clinical applications are still some way off."
+ },
+ "ru": {
+  "title": "Глубокое обучение расшифровало правила игры самой смертоносной опухоли мозга",
+  "summary": "Клетки глиобластомы постоянно меняют молекулярное состояние и так ускользают от терапии. Считалось, что эти переходы в основном случайны. Две статьи в Nature от EMBL, DKFZ и Института Сенгера показывают обратное: клетки движутся по повторяющимся путям, и каждое состояние занимает в опухоли свою фиксированную нишу. Основой стал крупнейший на сегодня молекулярный атлас болезни, построенный по опухолям двенадцати пациентов. Метод глубокого обучения scDORI команды Оливера Штегле восстановил регуляторные сети по более чем миллиону отдельных клеток и нашёл регуляторы-«предохранители», удерживающие клетки в малоизменчивом состоянии. Когда исследователи усилили один из них, MYT1L, в клетках пациентов, опухоли стали менее агрессивными, а мыши с такими опухолями жили дольше.",
+  "why": "Глиобластома убивает более 100 000 человек в год и почти всегда неизлечима. Зная правила переходов, можно попытаться запереть опухоль в безобидном состоянии, а не только атаковать её.",
+  "caveat": "Всё доклинически: клетки пациентов, органоиды и мыши. Число мышей и данные о выживаемости в сообщении не приводятся. Сами авторы говорят, что до клинического применения ещё далеко."
+ },
+ "image": {
+  "src": "https://www.embl.org/news/wp-content/uploads/2026/11/FORWEB_Topographic_Brain.jpg",
+  "kind": "press",
+  "credit": "Bild: EMBL",
+  "link": "https://www.embl.org/news/?p=85927"
+ }
 }

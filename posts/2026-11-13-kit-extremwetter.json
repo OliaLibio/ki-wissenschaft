@@ -1,29 +1,46 @@
 {
-  "id": "2026-11-13-kit-extremwetter",
-  "date": "2026-11-13",
-  "published": "2026-04-29",
-  "category": "klima",
-  "countries": ["DE", "CH"],
-  "institution": "Karlsruher Institut für Technologie, Universität Genf, ETH Zürich",
-  "maturity": "study",
-  "source": {"name": "Science Advances via Carbon Brief", "url": "https://www.carbonbrief.org/traditional-models-still-outperform-ai-for-extreme-weather-forecasts"},
-  "more": [{"name": "Science Advances DOI 10.1126/sciadv.aec1433", "url": "https://www.science.org/doi/10.1126/sciadv.aec1433"}],
-  "de": {
-    "title": "Warnschuss: Bei Rekordhitze schlagen Physikmodelle die KI-Wettermodelle",
-    "summary": "Ein Team um Zhongwei Zhang am KIT hat drei KI-Wettermodelle, GraphCast von Google DeepMind, Pangu-Weather von Huawei und FuXi aus Shanghai, gegen das physikalische Hochauflösungsmodell des ECMWF getestet. Grundlage waren alle Hitze-, Kälte- und Windrekorde der Jahre 2018 und 2020, allein 2020 rund 160.000 Hitze-, 33.000 Kälte- und 53.000 Windrekorde. Beim Alltagswetter waren zwei KI-Modelle besser als das Physikmodell. Bei Hitzerekorden lag das Physikmodell vor allen dreien. Die KI unterschätzte Hitzerekorde systematisch, und je deutlicher ein Rekord gebrochen wurde, desto schlechter traf sie die Intensität.",
-    "why": "KI-Modelle lernen aus der Vergangenheit, und beispiellose Ereignisse kommen dort nicht vor. Gerade bei den gefährlichsten Wetterlagen ist das ein Problem. Die Autoren raten zu Hybridmodellen statt zum schnellen Ersatz der Physik.",
-    "caveat": "Nur zwei Jahre untersucht, und die getesteten KI-Modelle sind eine ältere, deterministische Generation. Neuere probabilistische Modelle wurden nicht geprüft, Extremregen auch nicht."
-  },
-  "en": {
-    "title": "Warning shot: physics models beat AI weather models on record-breaking heat",
-    "summary": "A team led by Zhongwei Zhang at the Karlsruhe Institute of Technology tested three AI weather models, GraphCast from Google DeepMind, Pangu-Weather from Huawei and FuXi from Shanghai, against ECMWF's physics-based high-resolution model. The test set was every heat, cold and wind record of 2018 and 2020; in 2020 alone about 160,000 heat, 33,000 cold and 53,000 wind records. For everyday weather, two AI models beat the physics model. For heat records, the physics model beat all three. The AI systematically underpredicted heat records, and the larger the margin by which a record fell, the worse it captured the intensity.",
-    "why": "AI models learn from the past, and unprecedented events are not in it. That is a problem precisely for the most dangerous weather. The authors recommend hybrid models rather than replacing physics quickly.",
-    "caveat": "Only two years studied, and the AI models tested are an older deterministic generation. Newer probabilistic models were not assessed, nor was extreme rainfall."
-  },
-  "ru": {
-    "title": "Предупредительный выстрел: при рекордной жаре физические модели обходят ИИ-модели погоды",
-    "summary": "Команда Чжунвэя Чжана из Технологического института Карлсруэ сравнила три ИИ-модели погоды — GraphCast от Google DeepMind, Pangu-Weather от Huawei и FuXi из Шанхая — с физической моделью высокого разрешения ECMWF. Проверяли на всех рекордах жары, холода и ветра 2018 и 2020 годов: только в 2020 году около 160 000 рекордов жары, 33 000 холода и 53 000 ветра. В обычную погоду две ИИ-модели были лучше физической. При рекордах жары физическая модель опередила все три. ИИ систематически недооценивал рекорды жары, и чем сильнее был побит рекорд, тем хуже он угадывал интенсивность.",
-    "why": "ИИ-модели учатся на прошлом, а беспрецедентных событий в нём нет. Это проблема именно для самой опасной погоды. Авторы советуют гибридные модели, а не быструю замену физики.",
-    "caveat": "Изучены только два года, а проверенные ИИ-модели — старое детерминированное поколение. Новые вероятностные модели не оценивались, экстремальные осадки тоже."
+ "id": "2026-11-13-kit-extremwetter",
+ "date": "2026-11-13",
+ "published": "2026-04-29",
+ "category": "klima",
+ "countries": [
+  "DE",
+  "CH"
+ ],
+ "institution": "Karlsruher Institut für Technologie, Universität Genf, ETH Zürich",
+ "maturity": "study",
+ "source": {
+  "name": "Science Advances via Carbon Brief",
+  "url": "https://www.carbonbrief.org/traditional-models-still-outperform-ai-for-extreme-weather-forecasts"
+ },
+ "more": [
+  {
+   "name": "Science Advances DOI 10.1126/sciadv.aec1433",
+   "url": "https://www.science.org/doi/10.1126/sciadv.aec1433"
   }
+ ],
+ "de": {
+  "title": "Warnschuss: Bei Rekordhitze schlagen Physikmodelle die KI-Wettermodelle",
+  "summary": "Ein Team um Zhongwei Zhang am KIT hat drei KI-Wettermodelle, GraphCast von Google DeepMind, Pangu-Weather von Huawei und FuXi aus Shanghai, gegen das physikalische Hochauflösungsmodell des ECMWF getestet. Grundlage waren alle Hitze-, Kälte- und Windrekorde der Jahre 2018 und 2020, allein 2020 rund 160.000 Hitze-, 33.000 Kälte- und 53.000 Windrekorde. Beim Alltagswetter waren zwei KI-Modelle besser als das Physikmodell. Bei Hitzerekorden lag das Physikmodell vor allen dreien. Die KI unterschätzte Hitzerekorde systematisch, und je deutlicher ein Rekord gebrochen wurde, desto schlechter traf sie die Intensität.",
+  "why": "KI-Modelle lernen aus der Vergangenheit, und beispiellose Ereignisse kommen dort nicht vor. Gerade bei den gefährlichsten Wetterlagen ist das ein Problem. Die Autoren raten zu Hybridmodellen statt zum schnellen Ersatz der Physik.",
+  "caveat": "Nur zwei Jahre untersucht, und die getesteten KI-Modelle sind eine ältere, deterministische Generation. Neuere probabilistische Modelle wurden nicht geprüft, Extremregen auch nicht."
+ },
+ "en": {
+  "title": "Warning shot: physics models beat AI weather models on record-breaking heat",
+  "summary": "A team led by Zhongwei Zhang at the Karlsruhe Institute of Technology tested three AI weather models, GraphCast from Google DeepMind, Pangu-Weather from Huawei and FuXi from Shanghai, against ECMWF's physics-based high-resolution model. The test set was every heat, cold and wind record of 2018 and 2020; in 2020 alone about 160,000 heat, 33,000 cold and 53,000 wind records. For everyday weather, two AI models beat the physics model. For heat records, the physics model beat all three. The AI systematically underpredicted heat records, and the larger the margin by which a record fell, the worse it captured the intensity.",
+  "why": "AI models learn from the past, and unprecedented events are not in it. That is a problem precisely for the most dangerous weather. The authors recommend hybrid models rather than replacing physics quickly.",
+  "caveat": "Only two years studied, and the AI models tested are an older deterministic generation. Newer probabilistic models were not assessed, nor was extreme rainfall."
+ },
+ "ru": {
+  "title": "Предупредительный выстрел: при рекордной жаре физические модели обходят ИИ-модели погоды",
+  "summary": "Команда Чжунвэя Чжана из Технологического института Карлсруэ сравнила три ИИ-модели погоды — GraphCast от Google DeepMind, Pangu-Weather от Huawei и FuXi из Шанхая — с физической моделью высокого разрешения ECMWF. Проверяли на всех рекордах жары, холода и ветра 2018 и 2020 годов: только в 2020 году около 160 000 рекордов жары, 33 000 холода и 53 000 ветра. В обычную погоду две ИИ-модели были лучше физической. При рекордах жары физическая модель опередила все три. ИИ систематически недооценивал рекорды жары, и чем сильнее был побит рекорд, тем хуже он угадывал интенсивность.",
+  "why": "ИИ-модели учатся на прошлом, а беспрецедентных событий в нём нет. Это проблема именно для самой опасной погоды. Авторы советуют гибридные модели, а не быструю замену физики.",
+  "caveat": "Изучены только два года, а проверенные ИИ-модели — старое детерминированное поколение. Новые вероятностные модели не оценивались, экстремальные осадки тоже."
+ },
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/June_2017_heat_wave_temperature_anomalies_in_Europe.png/960px-June_2017_heat_wave_temperature_anomalies_in_Europe.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "kind": "photo",
+  "credit": "Foto: NOAA Climate Prediction Center, Public domain, Wikimedia Commons",
+  "link": "https://commons.wikimedia.org/wiki/File:June_2017_heat_wave_temperature_anomalies_in_Europe.png"
+ }
 }
