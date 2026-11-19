@@ -8,18 +8,25 @@ Du pflegst die Webseite „KI in der Wissenschaft“ in diesem Repository. Deine
 - Bevorzugte Quellen: Nature, Science, The Lancet, NEJM, Cell, PNAS, JAMA, BMJ und ihre Schwesterjournale; Pressestellen von Universitäten und Instituten (EurekAlert, Phys.org, ScienceDaily, MIT News, Max-Planck, DeepMind, Earth Species Project, Project CETI, Vesuvius Challenge); arXiv und bioRxiv für Vorabdrucke.
 - **Zeitraum, in dieser Reihenfolge:**
   1. Zuerst Ergebnisse, die in den letzten 14 Tagen veröffentlicht wurden.
-  2. Reicht das nicht für drei Beiträge, suche Ergebnisse aus den letzten 3 Monaten.
+  2. Reicht das nicht für drei Beiträge in einer Rubrik, suche Ergebnisse aus den letzten 3 Monaten.
   3. Reicht auch das nicht, suche bis 6 Monate zurück. Ältere Ergebnisse nur, wenn sie für das Verständnis eines aktuellen Beitrags unverzichtbar sind.
 - Prüfe vorhandene Dateinamen und Titel in `posts/`. Kein Thema doppelt, auch nicht mit anderer Quelle.
 - Lies die Originalquelle oder die offizielle Pressemitteilung, nicht nur Blogs oder Aggregatoren. Übernimm Zahlen nur, wenn sie dort stehen.
 - Meide Werbetexte von Herstellern ohne begutachtete Studie.
 
-## Umfang pro Tag
+## Umfang pro Lauf
 
-- **Mindestens drei, höchstens fünf neue Beiträge** pro Lauf, verteilt über mindestens drei der sechs Rubriken: `gesundheit`, `tiere`, `mythen`, `klima`, `archaeologie`, `grenzen`.
-- Zwei Beiträge oder weniger sind kein akzeptables Ergebnis. Wenn die letzten 14 Tage zu wenig hergeben, greife wie oben beschrieben auf die letzten 3 bis 6 Monate zurück.
-- Die Rubrik `grenzen` (Fehlschläge, Rückzüge, Grenzen der KI) mindestens einmal pro Woche bedienen, die Rubrik `mythen` ebenfalls mindestens einmal pro Woche.
-- Die Rubrik `mythen` braucht ein `myth`-Feld (die geprüfte Behauptung), `evidence` und `verdict`. Hier zählt die Beweislage, nicht die Schlagzeile. Ein KI-Bezug ist willkommen, aber nicht Pflicht.
+- **Pro Rubrik mindestens drei, höchstens fünf neue Beiträge.** Es gibt sechs Rubriken: `gesundheit`, `tiere`, `mythen`, `klima`, `archaeologie`, `grenzen`. Ein Lauf ergibt also mindestens 18 und höchstens 30 neue Beiträge.
+- Drei pro Rubrik sind der Normalfall. Einen vierten oder fünften Beitrag nur, wenn das Ergebnis wirklich bemerkenswert ist.
+- Weniger als drei in einer Rubrik ist nicht akzeptabel. Wenn die letzten 14 Tage zu wenig hergeben, greife wie oben beschrieben auf die letzten 3 bis 6 Monate zurück.
+- Die Rubrik `mythen` braucht ein `myth`-Feld (die geprüfte Behauptung), `evidence` und `verdict`. Hier zählt die Beweislage, nicht die Schlagzeile. Ein KI-Bezug ist willkommen, aber nicht Pflicht: Gesundheits- und Ernährungsmythen, die eine aktuelle große Studie prüft, passen immer.
+- Bei `archaeologie` zählt jede Forschung, in der KI, maschinelles Lernen oder automatisierte Bild- oder Textauswertung zu einem Ergebnis über Vergangenheit, alte Texte, Fundstätten oder Fossilien beigetragen hat.
+
+## Arbeitsweise bei 18 und mehr Beiträgen
+
+- Arbeite **Rubrik für Rubrik**: recherchieren, drei bis fünf Beiträge schreiben, `python3 build.py`, committen und pushen, dann die nächste Rubrik. So geht bei einem Abbruch nichts verloren.
+- Commit-Nachricht pro Rubrik: `Beiträge vom JJJJ-MM-TT, <Rubrik>: <Kurzliste>`.
+- Halte die Texte so knapp wie im Muster, damit der Lauf nicht zu lang wird.
 
 ## Veröffentlichungsdatum
 
@@ -52,4 +59,4 @@ Du pflegst die Webseite „KI in der Wissenschaft“ in diesem Repository. Deine
 4. Prüfe nach dem Push mit `git ls-remote origin main`, dass der Commit wirklich auf GitHub angekommen ist. Wenn nicht, sag das im Bericht deutlich.
 5. Am Ende kurz berichten: welche Beiträge angelegt wurden, mit Quelle, und was du geprüft, aber verworfen hast und warum.
 
-Qualität vor Aktualität: Lieber ein belastbares Ergebnis von vor vier Monaten als eine schwache Meldung von gestern. Ziel sind immer drei bis fünf Beiträge, notfalls aus den letzten sechs Monaten.
+Qualität vor Aktualität: Lieber ein belastbares Ergebnis von vor vier Monaten als eine schwache Meldung von gestern. Ziel sind immer drei bis fünf Beiträge pro Rubrik, notfalls aus den letzten sechs Monaten.

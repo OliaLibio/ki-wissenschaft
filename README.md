@@ -1,6 +1,6 @@
 # KI in der Wissenschaft
 
-Eine statische Webseite, die montags, mittwochs und freitags neue Beiträge darüber erhält, was Künstliche Intelligenz aktuell in der Forschung erreicht. Dreisprachig: Deutsch, Englisch, Russisch.
+Eine statische Webseite, die montags, mittwochs und freitags je drei bis fünf neue Beiträge pro Rubrik darüber erhält, was Künstliche Intelligenz aktuell in der Forschung erreicht. Dreisprachig: Deutsch, Englisch, Russisch.
 
 **Rubriken:** Gesundheit · Tiere · Mythen-Check · Klima & Umwelt · Archäologie & Geschichte · Grenzen & Fehlschläge
 
