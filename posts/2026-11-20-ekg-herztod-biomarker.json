@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-20-ekg-herztod-biomarker",
+ "date": "2026-11-20",
+ "published": "2026-06-24",
+ "category": "gesundheit",
+ "countries": [
+  "US",
+  "SE",
+  "TW"
+ ],
+ "institution": "University of California, Berkeley",
+ "maturity": "study",
+ "source": {
+  "name": "Nature via ScienceDaily (UC Berkeley)",
+  "url": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm"
+ },
+ "more": [
+  {
+   "name": "Nature",
+   "url": "https://www.nature.com/articles/s41586-026-10674-6"
+  }
+ ],
+ "de": {
+  "title": "KI findet im EKG ein bisher unbekanntes Signal für den plötzlichen Herztod",
+  "summary": "Ein Team um Ziad Obermeyer von der UC Berkeley hat ein Deep-Learning-Modell mit allen EKGs einer schwedischen Region trainiert, die mit Totenscheinen verknüpft waren. Das Modell isoliert eine Hochrisikogruppe von 2,2 Prozent der Stichprobe mit einer jährlichen Rate plötzlicher Herztode von 7,0 Prozent. Die bisher übliche Messgröße, die linksventrikuläre Auswurffraktion, erfasst 1,9 Prozent der Stichprobe mit 4,6 Prozent jährlicher Rate. 86,1 Prozent der KI-Hochrisikopatienten fielen bei der Auswurffraktion nicht auf. Hochrisikopatienten mit implantiertem Defibrillator starben 54,4 Prozent seltener als erwartet. Das Modell wurde an einem US-Gesundheitssystem und einem taiwanischen Krankenhausregister extern bestätigt, und ein Generativmodell machte die gefundene Kurvenform sichtbar.",
+  "why": "Viele Menschen sterben plötzlich am Herzen, ohne dass Ärzte ihr Risiko erkannt haben, und viele Defibrillatoren werden nie ausgelöst. Ein Signal im Routine-EKG könnte helfen, Schutz gezielter einzusetzen.",
+  "caveat": "Die Ergebnisse stammen aus rückblickenden Registerdaten, nicht aus einer prospektiven Studie. Der Defibrillator-Effekt ist ein Vergleich mit Erwartungswerten, kein Beweis, und der biologische Mechanismus ist erst vorläufig getestet. Studienautor Obermeyer ist an Firmen beteiligt, die Daten bereitstellten; Tests in Kliniken laufen erst an. Hinweis: Die Studie erschien in Nature bereits am 24. Juni 2026, ScienceDaily berichtete im November."
+ },
+ "en": {
+  "title": "AI finds a previously unknown ECG signal for sudden cardiac death",
+  "summary": "A team led by Ziad Obermeyer at UC Berkeley trained a deep-learning model on all electrocardiograms of a Swedish region that were linked to death certificates. The model isolates a high-risk group making up 2.2 percent of the sample with a 7.0 percent annual rate of sudden cardiac death. The measure in wide use today, left ventricular ejection fraction, flags 1.9 percent of the sample with a 4.6 percent annual rate. Of the model's high-risk patients, 86.1 percent were not flagged by ejection fraction. High-risk patients with an implanted defibrillator were 54.4 percent less likely to die than expected. The model was externally validated in a US health system and a Taiwanese hospital registry, and a generative model made the discovered waveform shape visible.",
+  "why": "Many people die suddenly of heart problems without their risk having been recognised, and many defibrillators never fire. A signal in a routine ECG could help target protection better.",
+  "caveat": "The results come from retrospective registry data, not a prospective trial. The defibrillator effect is a comparison with expected values, not proof, and the biological mechanism has only been tested preliminarily. Author Obermeyer is involved in companies that supplied data; hospital testing is only beginning. Note: the study appeared in Nature on 24 June 2026; ScienceDaily reported it in November."
+ },
+ "ru": {
+  "title": "ИИ находит в ЭКГ ранее неизвестный признак внезапной сердечной смерти",
+  "summary": "Команда Зиада Обермейера из Калифорнийского университета в Беркли обучила модель глубокого обучения на всех ЭКГ одного шведского региона, связанных со свидетельствами о смерти. Модель выделяет группу высокого риска, составляющую 2,2 процента выборки, с годовой частотой внезапной сердечной смерти 7,0 процента. Применяемый сегодня показатель, фракция выброса левого желудочка, отмечает 1,9 процента выборки с годовой частотой 4,6 процента. 86,1 процента пациентов высокого риска по версии модели не были замечены по фракции выброса. Пациенты высокого риска с имплантированным дефибриллятором умирали на 54,4 процента реже ожидаемого. Модель подтвердили на американской системе здравоохранения и тайваньском больничном регистре, а генеративная модель показала найденную форму кривой.",
+  "why": "Многие внезапно умирают от сердца, хотя их риск не был распознан, а многие дефибрилляторы так ни разу и не срабатывают. Признак в обычной ЭКГ мог бы помочь точнее направлять защиту.",
+  "caveat": "Результаты получены на ретроспективных регистровых данных, а не в проспективном испытании. Эффект дефибриллятора — сравнение с ожидаемыми значениями, а не доказательство, механизм проверен лишь предварительно. Автор Обермейер связан с компаниями, предоставившими данные; клинические проверки только начинаются. Примечание: исследование вышло в Nature 24 июня 2026 года, ScienceDaily написал о нём в ноябре."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10674-6/MediaObjects/41586_2026_10674_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Nature",
+  "link": "https://www.nature.com/articles/s41586-026-10674-6"
+ }
+}

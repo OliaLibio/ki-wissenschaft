@@ -1,0 +1,45 @@
+{
+ "id": "2026-11-20-smartwatch-bluthochdruck",
+ "date": "2026-11-20",
+ "published": "2026-11-05",
+ "category": "gesundheit",
+ "countries": [
+  "US"
+ ],
+ "institution": "Google Research, Beth Israel Deaconess Medical Center, Harvard Medical School",
+ "maturity": "clinical",
+ "source": {
+  "name": "Nature",
+  "url": "https://www.nature.com/articles/s41586-026-11336-3"
+ },
+ "more": [
+  {
+   "name": "Google Research Blog",
+   "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/"
+  }
+ ],
+ "de": {
+  "title": "Smartwatch erkennt Anzeichen von Bluthochdruck ohne Manschette, aber jeden Dritten übersieht sie",
+  "summary": "Mehr als die Hälfte der Menschen mit Bluthochdruck weiß nichts davon. Ein Team von Google Research mit dem Beth Israel Deaconess Medical Center hat eine KI trainiert, die aus den Pulswellen (Photoplethysmographie) und Bewegungsdaten einer handelsüblichen Smartwatch Bluthochdruck erkennt, ganz ohne Kalibrierung mit einer Manschette. In einer prospektiven Studie an fünf US-Standorten mit 196 Teilnehmenden ohne bekannte Herz-Kreislauf-Erkrankung und ohne Blutdruckmittel trug man die Uhr sieben Tage lang. Verglichen mit der 24-Stunden-Blutdruckmessung als Goldstandard erreichte die KI eine Sensitivität von 65,8 Prozent, eine Spezifität von 90,0 Prozent und einen positiven Vorhersagewert von 80,6 Prozent. Die einmalige Blutdruckmessung in der Praxis kam auf 55,3 Prozent Sensitivität bei gleicher Spezifität und 77,8 Prozent positivem Vorhersagewert.",
+  "why": "Bluthochdruck bleibt oft jahrelang unbemerkt und schädigt Herz und Gefäße. Eine Uhr, die Menschen zur Abklärung beim Arzt anstößt, könnte unentdeckte Fälle früher sichtbar machen.",
+  "caveat": "Die Uhr ist ein Hinweisgeber, kein Ersatz für die Messung mit Manschette: Sie übersah gut ein Drittel der Betroffenen. Teilnehmende waren ohne Herzkrankheit und Medikamente, und ob solche Warnungen tatsächlich die Gesundheit verbessern, müssen randomisierte Studien erst zeigen. Beteiligt ist Google Research, die Autoren des Blogs betonen, die Methoden seien nicht als Produkt zu verstehen."
+ },
+ "en": {
+  "title": "Smartwatch detects signs of high blood pressure without a cuff, but misses one in three",
+  "summary": "More than half of people with high blood pressure do not know it. A team at Google Research with Beth Israel Deaconess Medical Center trained an AI that detects hypertension from the pulse waveform (photoplethysmography) and motion data of an off-the-shelf smartwatch, without any cuff calibration. In a prospective study at five US sites with 196 participants who had no known cardiovascular disease and took no blood-pressure drugs, people wore the watch for seven days. Against 24-hour ambulatory blood-pressure monitoring as the gold standard, the AI reached a sensitivity of 65.8 percent, a specificity of 90.0 percent and a positive predictive value of 80.6 percent. A single office blood-pressure check reached 55.3 percent sensitivity at the same specificity and a positive predictive value of 77.8 percent.",
+  "why": "High blood pressure often goes unnoticed for years while it damages heart and vessels. A watch that nudges people to get checked could bring undiscovered cases to light sooner.",
+  "caveat": "The watch is a prompt, not a replacement for cuff measurement: it missed roughly a third of people with hypertension. Participants had no heart disease and took no medication, and randomised trials still have to show that such alerts improve health. Google Research is involved, and the blog authors stress that the methods do not indicate a commercial product."
+ },
+ "ru": {
+  "title": "Смартчасы замечают признаки гипертонии без манжеты, но пропускают каждого третьего",
+  "summary": "Более половины людей с повышенным давлением об этом не знают. Команда Google Research вместе с Beth Israel Deaconess Medical Center обучила ИИ распознавать гипертонию по форме пульсовой волны (фотоплетизмография) и данным о движении обычных смартчасов, без калибровки по манжете. В проспективном исследовании в пяти центрах США участвовали 196 человек без известных сердечно-сосудистых заболеваний и без лекарств от давления; часы носили семь дней. По сравнению с суточным мониторированием давления как золотым стандартом ИИ показал чувствительность 65,8 процента, специфичность 90,0 процента и положительную прогностическую ценность 80,6 процента. Однократное измерение давления на приёме дало чувствительность 55,3 процента при той же специфичности и прогностическую ценность 77,8 процента.",
+  "why": "Повышенное давление годами остаётся незамеченным и разрушает сердце и сосуды. Часы, которые подталкивают к обследованию, могли бы помочь раньше выявлять скрытые случаи.",
+  "caveat": "Часы лишь подсказывают и не заменяют измерение манжетой: они пропустили около трети людей с гипертонией. У участников не было болезней сердца и лекарств, а улучшит ли такое оповещение здоровье, должны показать рандомизированные исследования. К работе причастна Google Research; авторы блога подчёркивают, что методы не указывают на коммерческий продукт."
+ },
+ "image": {
+  "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/Hypertension1_Overview.png",
+  "kind": "press",
+  "credit": "Bild: Google Research",
+  "link": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/"
+ }
+}

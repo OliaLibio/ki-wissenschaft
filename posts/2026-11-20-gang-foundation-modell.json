@@ -1,0 +1,46 @@
+{
+ "id": "2026-11-20-gang-foundation-modell",
+ "date": "2026-11-20",
+ "published": "2026-11-06",
+ "category": "gesundheit",
+ "countries": [
+  "IL",
+  "US"
+ ],
+ "institution": "Newton Tech (Human Phenotype Project)",
+ "maturity": "study",
+ "source": {
+  "name": "Nature Medicine",
+  "url": "https://www.nature.com/articles/s41591-026-04724-9"
+ },
+ "more": [
+  {
+   "name": "Pressemitteilung (EurekAlert)",
+   "url": "https://www.eurekalert.org/news-releases/1150895"
+  }
+ ],
+ "de": {
+  "title": "Wie jemand geht, verrät viel über die Gesundheit: KI liest Gangmuster als Vitalzeichen",
+  "summary": "Ein Team um Adam Gabet hat ein Basismodell für Gang trainiert. Es wertet dreidimensionale Skelettbewegungen aus, die eine einzelne Tiefenkamera bei fünf Bewegungsaufgaben von 3.328 gründlich untersuchten Erwachsenen aufgezeichnet hat. Das Modell übersetzt die Bewegung in gelernte Zahlenmuster und sagte damit Alter (r = 0,69), Body-Mass-Index (r = 0,91) und die Fläche des Bauchfetts (r = 0,83) besser voraus als klassische Gangmerkmale wie Schrittlänge. Insgesamt sagte es 1.887 von 3.210 geprüften Merkmalen signifikant voraus, etwa Griffkraft und Schlafqualität. Gegenüber einem Vergleichsmodell aus Alter, BMI, Bauchfett und Größe verbesserte der Gang die Vorhersage in allen 18 untersuchten Körpersystemen bei Männern und in 17 von 18 bei Frauen, außerdem bei Diagnosen und Medikamenteneinnahme.",
+  "why": "Gehen lässt sich ohne Blutabnahme und ohne Gerät am Körper messen. Das Ergebnis deutet an, dass Bewegung eines Tages als einfacher Hinweis auf Stoffwechsel, Gebrechlichkeit und Schlaf dienen könnte.",
+  "caveat": "Es geht um statistische Zusammenhänge in einer einzigen Kohorte, nicht um Diagnosen im Praxisalltag. Die Pressemitteilung stammt von der beteiligten Firma Newton Tech und nennt Screening ausdrücklich noch „investigational“; prospektive Studien und Prüfungen an vielfältigeren Gruppen stehen aus."
+ },
+ "en": {
+  "title": "How someone walks reveals a lot about health: AI reads gait as a vital sign",
+  "summary": "A team led by Adam Gabet trained a foundation model for gait. It analyses three-dimensional skeletal motion that a single depth camera recorded during five motor tasks in 3,328 deeply phenotyped adults. The model turns movement into learned embeddings and predicted age (r = 0.69), body mass index (r = 0.91) and visceral fat area (r = 0.83) better than classic gait features such as stride length. Overall it significantly predicted 1,887 of 3,210 tested traits, such as grip strength and sleep quality. Against a baseline model using age, BMI, visceral fat and height alone, gait improved prediction in all 18 body systems studied in men and 17 of 18 in women, as well as prediction of diagnoses and medication use.",
+  "why": "Walking can be measured without a blood draw or a device on the body. The result suggests that a few seconds of movement could one day serve as a simple hint about metabolism, frailty and sleep.",
+  "caveat": "These are statistical associations in a single cohort, not diagnoses in everyday care. The press release comes from the involved company Newton Tech and itself calls screening uses investigational; prospective studies and tests in more diverse groups are still needed."
+ },
+ "ru": {
+  "title": "Походка многое говорит о здоровье: ИИ читает её как жизненный показатель",
+  "summary": "Команда Адама Габета обучила базовую модель походки. Она анализирует трёхмерные движения скелета, записанные одной камерой глубины во время пяти двигательных заданий у 3328 подробно обследованных взрослых. Модель переводит движение в выученные числовые представления и предсказала возраст (r = 0,69), индекс массы тела (r = 0,91) и площадь висцерального жира (r = 0,83) лучше классических признаков походки, таких как длина шага. Всего она достоверно предсказала 1887 из 3210 проверенных показателей, например силу хвата и качество сна. По сравнению с базовой моделью только из возраста, ИМТ, висцерального жира и роста походка улучшила прогноз во всех 18 изученных системах организма у мужчин и в 17 из 18 у женщин, а также прогноз диагнозов и приёма лекарств.",
+  "why": "Походку можно измерить без анализа крови и без датчиков на теле. Результат намекает, что несколько секунд движения когда-нибудь станут простой подсказкой об обмене веществ, хрупкости и сне.",
+  "caveat": "Это статистические связи в одной когорте, а не диагнозы в повседневной практике. Пресс-релиз выпустила участвующая компания Newton Tech, и она сама называет скрининговое применение пока исследовательским; нужны проспективные исследования и проверка на более разнообразных группах."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Nature Medicine",
+  "link": "https://www.nature.com/articles/s41591-026-04724-9"
+ }
+}
