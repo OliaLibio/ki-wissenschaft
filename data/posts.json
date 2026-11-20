@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-20T05:10:13Z",
- "count": 49,
+ "generated": "2026-11-20T05:11:19Z",
+ "count": 52,
  "posts": [
   {
    "id": "2026-11-20-text-psychometrie",
@@ -134,6 +134,46 @@
    }
   },
   {
+   "id": "2026-11-20-schweine-laute-valenz",
+   "date": "2026-11-20",
+   "published": "2026-07-09",
+   "category": "tiere",
+   "countries": [
+    "CH"
+   ],
+   "institution": "ETH Zürich",
+   "maturity": "preprint",
+   "source": {
+    "name": "bioRxiv (Vorabdruck, Version 2 vom 30.09.2026)",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.07.06.736900v2"
+   },
+   "more": [],
+   "de": {
+    "title": "Schweinelaute: KI und Menschen finden dieselbe Ordnung, aber ob sie Gefühle abbildet, ist unbelegt",
+    "summary": "Lautäußerungen von Schweinen gelten zunehmend als Anzeiger für Wohlbefinden, und KI-Klassifikatoren erreichen dabei hohe Trefferquoten. Ein Team um Carmen Winters (ETH Zürich) wies darauf hin, dass die Gefühlsunterscheidung dort schon in den Test eingebaut ist, weil die Labels aus dem Aufnahmekontext stammen. In einer freien Sortieraufgabe ordneten 224 Teilnehmende 2192 Schweinelaute selbst gewählten Gruppen zu, eine zweite Gruppe von 159 Personen ordnete sie vorgegebenen Kontexten zu und bewertete die Stimmung. Menschen und neuronale Netze fanden eine übereinstimmende Struktur; nur 26,3 Prozent der selbst vergebenen Bezeichnungen bezogen sich auf Gefühle. Die Valenzurteile stimmten zu 60,1 Prozent in der Richtung mit der angenommenen Valenz überein, was ohne stark aversive Situationen verschwand. Netze erkannten die angenommene Valenz zwar zu 92,0 Prozent, doch zufällig umgedeutete Gruppierungen erreichten im Mittel 79 Prozent.",
+    "why": "Mit Lautanalyse soll künftig das Wohlergehen von Nutztieren überwacht werden. Die Studie mahnt, dass eine hohe Trefferquote nicht beweist, dass die KI Gefühle erkennt, und fordert unabhängige Prüfung.",
+    "caveat": "Vorabdruck, noch nicht begutachtet; die Fassung wurde am 30.09.2026 überarbeitet. Die Studie widerlegt den Nutzen der Lauterkennung nicht, sie bezweifelt nur die Deutung der Etiketten. Gefühle der Tiere wurden nicht unabhängig gemessen."
+   },
+   "en": {
+    "title": "Pig vocalisations: AI and humans find the same structure, but whether it reflects emotion is unproven",
+    "summary": "Pig vocalisations are increasingly used as indicators of welfare, and AI classifiers reach high accuracy on them. A team led by Carmen Winters (ETH Zurich) points out that the emotional distinction is already built into those tests, because labels come from the recording context. In a free-classification task, 224 participants sorted 2,192 pig vocalisations into groups of their own choosing; a second group of 159 classified them into predefined contexts and rated valence. Humans and neural networks recovered a matching organisation, but only 26.3 percent of participant-generated labels referred to feelings or emotions. Valence judgments agreed in direction with presumed valence in 60.1 percent of cases, which disappeared once highly aversive situations were excluded. Networks still classified presumed valence with 92.0 percent accuracy, but randomly reassigned groupings averaged 79 percent.",
+    "why": "Sound analysis is meant to monitor the welfare of farm animals in future. The study warns that high accuracy does not prove the AI detects feelings and calls for independent validation.",
+    "caveat": "Preprint, not yet peer reviewed; the version was revised on 30 September 2026. The study does not refute the usefulness of call recognition, it only questions how the labels are interpreted. The animals' feelings were not measured independently."
+   },
+   "ru": {
+    "title": "Звуки свиней: ИИ и люди находят одну и ту же структуру, но отражает ли она эмоции — не доказано",
+    "summary": "Голоса свиней всё чаще используют как показатель благополучия, а ИИ-классификаторы показывают на них высокую точность. Команда Кармен Винтерс (ETH Цюрих) отмечает, что различие эмоций уже заложено в такие тесты, поскольку метки берутся из контекста записи. В задаче свободной сортировки 224 участника разложили 2192 звука свиней по самостоятельно выбранным группам; вторая группа из 159 человек отнесла их к заданным контекстам и оценила настроение. Люди и нейросети обнаружили согласующуюся организацию, но лишь 26,3 процента придуманных участниками обозначений относились к чувствам или эмоциям. Оценки валентности совпадали по направлению с предполагаемой в 60,1 процента случаев, и это исчезало после исключения сильно неприятных ситуаций. Сети определяли предполагаемую валентность с точностью 92,0 процента, но случайно переназначенные группировки давали в среднем 79 процентов.",
+    "why": "Анализ звуков должен в будущем помогать следить за благополучием сельскохозяйственных животных. Исследование предупреждает, что высокая точность не доказывает, что ИИ распознаёт чувства, и требует независимой проверки.",
+    "caveat": "Препринт, ещё не прошёл рецензирование; версия переработана 30 сентября 2026 года. Исследование не опровергает пользу распознавания звуков, а лишь ставит под сомнение трактовку меток. Чувства животных независимо не измерялись."
+   },
+   "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Sus_scrofa_domesticus%2C_miniature_pig%2C_juvenile.jpg/960px-Sus_scrofa_domesticus%2C_miniature_pig%2C_juvenile.jpg",
+    "kind": "photo",
+    "credit": "Foto: Johan Spaedtke, CC0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Sus_scrofa_domesticus,_miniature_pig,_juvenile.jpg"
+   }
+  },
+  {
    "id": "2026-11-20-reasoning-modelle-bias",
    "date": "2026-11-20",
    "published": "2026-09-01",
@@ -263,6 +303,51 @@
     "kind": "photo",
     "credit": "Foto: bpsusf, CC BY 2.0, Wikimedia Commons",
     "link": "https://commons.wikimedia.org/wiki/File:Job_interview_0001.jpg"
+   }
+  },
+  {
+   "id": "2026-11-20-neotropische-voegel-667",
+   "date": "2026-11-20",
+   "published": "2026-11-11",
+   "category": "tiere",
+   "countries": [
+    "CO"
+   ],
+   "institution": "Escuela Colombiana de Ingeniería Julio Garavito, Bogotá",
+   "maturity": "study",
+   "source": {
+    "name": "Royal Society Open Science",
+    "url": "https://doi.org/10.1098/rsos.260394"
+   },
+   "more": [
+    {
+     "name": "PubMed",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43012073"
+    }
+   ],
+   "de": {
+    "title": "667 Vogelarten am Klang erkannt: Welche Gesänge die KI schlecht unterscheidet, hängt kaum von Körperbau oder Lebensweise ab",
+    "summary": "Passive akustische Überwachung soll Artenvielfalt in den Tropen erfassen, doch Hunderte gleichzeitig singende Arten sind schwer zu trennen. Ein Team aus Bogotá (Cortés-Parra, Hortúa, Ríos-Orjuela) trainierte faltende neuronale Netze mit Aufnahmen von 667 Vogelarten aus dem Norden Südamerikas. Das beste Netz, EfficientNetV2L, erreichte 94,48 Prozent Genauigkeit, einen Makro-F1-Wert von 94,30 Prozent und eine Makro-ROC-AUC von 0,998. Danach prüften die Forschenden mit phylogenetischen Modellen, ob Körperbau, Lebensweise oder Verbreitung erklären, welche Arten schlechter erkannt werden. Das beste Modell erklärte nur rund 2,2 Prozent der Streuung; am ehesten ging ein größeres Verbreitungsgebiet mit schlechterer Erkennung einher, und Verwechslungen betrafen meist näher verwandte Arten.",
+    "why": "Wer Vogelbestände im Regenwald per Mikrofon zählen will, muss wissen, bei welchen Arten die KI häufiger irrt. Die Studie zeigt, dass sich das mit einfachen Artmerkmalen kaum vorhersagen lässt, die Qualität also pro Art geprüft werden sollte.",
+    "caveat": "Die Zusammenfassung nennt keine Prüfung in neuen Gebieten oder bei Regen und Lärm; die Übertragbarkeit ist offen. Die erklärenden Merkmale sind grob, deshalb bleibt unklar, was die Unterschiede zwischen den Arten tatsächlich verursacht."
+   },
+   "en": {
+    "title": "667 bird species identified by sound: which songs the AI confuses barely depends on body form or lifestyle",
+    "summary": "Passive acoustic monitoring promises to track biodiversity in the tropics, but hundreds of species singing at once are hard to tell apart. A team in Bogotá (Cortés-Parra, Hortúa, Ríos-Orjuela) trained convolutional neural networks on recordings of 667 bird species from northern South America. The best network, EfficientNetV2L, reached 94.48 percent accuracy, a macro F1-score of 94.30 percent and a macro ROC-AUC of 0.998. The researchers then used phylogenetic models to test whether morphology, ecology or geography explain which species are recognised worse. The best model explained only about 2.2 percent of the variation; a larger geographic range was the most consistent predictor of poorer recognition, and confusions mostly involved more closely related species.",
+    "why": "Anyone who wants to count rainforest birds with microphones needs to know which species the AI gets wrong more often. The study shows this can hardly be predicted from simple species traits, so quality should be checked species by species.",
+    "caveat": "The abstract reports no test in new areas or in rain and noise, so transferability is open. The explanatory traits are coarse, so what actually causes the differences between species remains unclear."
+   },
+   "ru": {
+    "title": "667 видов птиц распознаны по звуку: какие песни ИИ путает, почти не зависит от строения тела и образа жизни",
+    "summary": "Пассивный акустический мониторинг должен помогать оценивать биоразнообразие в тропиках, но сотни одновременно поющих видов трудно различить. Команда из Боготы (Кортес-Парра, Ортуа, Риос-Орхуэла) обучила свёрточные нейросети на записях 667 видов птиц севера Южной Америки. Лучшая сеть, EfficientNetV2L, достигла точности 94,48 процента, макро-F1 94,30 процента и макро-ROC-AUC 0,998. Затем с помощью филогенетических моделей проверили, объясняют ли строение, экология или география, какие виды распознаются хуже. Лучшая модель объяснила лишь около 2,2 процента разброса; наиболее последовательно хуже распознавание сопутствовало более крупному ареалу, а путаница чаще касалась близкородственных видов.",
+    "why": "Тому, кто хочет считать птиц в тропическом лесу с помощью микрофонов, нужно знать, на каких видах ИИ ошибается чаще. Исследование показывает, что это почти нельзя предсказать по простым признакам вида, поэтому качество стоит проверять для каждого вида отдельно.",
+    "caveat": "В аннотации нет проверки в новых местах, под дождём и при шуме, поэтому переносимость неясна. Объясняющие признаки грубые, поэтому настоящая причина различий между видами остаётся неясной."
+   },
+   "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Blue-grey_tanager_%28Thraupis_episcopus_berlepschi%29.jpg/960px-Blue-grey_tanager_%28Thraupis_episcopus_berlepschi%29.jpg",
+    "kind": "photo",
+    "credit": "Foto: Charles J. Sharp, CC BY-SA 4.0, Wikimedia Commons (Illustration: Blaumantel-Tangare, nicht aus der Studie)",
+    "link": "https://commons.wikimedia.org/wiki/File:Blue-grey_tanager_(Thraupis_episcopus_berlepschi).jpg"
    }
   },
   {
@@ -601,6 +686,52 @@
     "kind": "press",
     "credit": "Bild: ESA",
     "link": "https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/futureeo/space-for-our-climate/predicting-el-nino-s-impact-on-carbon-sinks"
+   }
+  },
+  {
+   "id": "2026-11-20-elefanten-chor-rumbles",
+   "date": "2026-11-20",
+   "published": "2026-10-01",
+   "category": "tiere",
+   "countries": [
+    "US",
+    "KE"
+   ],
+   "institution": "Earth Species Project, ElephantVoices, Amboseli Trust for Elephants, Colorado State University",
+   "maturity": "study",
+   "source": {
+    "name": "Scientific Reports",
+    "url": "https://www.nature.com/articles/s41598-026-68525-3"
+   },
+   "more": [
+    {
+     "name": "Nature Asia, Pressemitteilung",
+     "url": "https://www.natureasia.com/en/info/press-releases/detail/9451"
+    }
+   ],
+   "de": {
+    "title": "Elefantenchöre verraten die Situation: Modelle erkennen den Kontext aus überlappenden Rumbles",
+    "summary": "Etwa 60 Prozent der Rumbles afrikanischer Savannenelefanten werden im Chor von zwei oder mehr Tieren ausgestoßen, doch fast alle Studien untersuchen nur einzelne Rufe. Ein Team um Earth Species Project, ElephantVoices, Amboseli Trust for Elephants und die Colorado State University wertete 902 Aufnahmen einzelner und überlappender Rumbles aus, die zwischen 1986 und 2022 im Amboseli-Nationalpark in Kenia von 84 Elefanten aus 39 Familien gesammelt wurden. Die Modelle sagten aus den akustischen Merkmalen sechs soziale Kontexte voraus, darunter Kontaktruf, Begrüßung und „Let's go“, und zwar sowohl für Einzelrufe als auch für Chöre. Ein nur mit Einzelrufen trainiertes Modell konnte auch den Kontext von Chören vorhersagen. Zudem wurden sich die Rufe in Kontakt-, Begrüßungs- und rhythmischen (Cadenced) Austauschen im Verlauf akustisch ähnlicher.",
+    "why": "Elefanten koordinieren sich über Distanz mit tiefen Rufen; zu verstehen, was Chöre bedeuten, hilft, ihr Sozialleben und ihre Verständigung besser zu schützen. Die Studie zeigt, dass KI-Werkzeuge auch überlappende Tierlaute auswerten können, die bisher meist aussortiert wurden.",
+    "caveat": "Es gab keine Playback-Experimente, ob Elefanten auf angeglichene Rufe tatsächlich reagieren, ist ungeprüft; die Deutung als Abstimmung der Gruppe ist ein Vorschlag der Autoren. Die Daten stammen aus einer einzigen Population, und die Pressemitteilung nennt keine Trefferquoten im Vergleich zum Zufall."
+   },
+   "en": {
+    "title": "Elephant choruses carry context: models predict the situation from overlapping rumbles",
+    "summary": "About 60 percent of the rumbles of African savannah elephants are produced in choruses of two or more animals, yet most studies look only at single calls. A team from Earth Species Project, ElephantVoices, the Amboseli Trust for Elephants and Colorado State University analysed 902 recordings of single and overlapping rumbles collected between 1986 and 2022 from 84 elephants in 39 families in Amboseli National Park, Kenya. From acoustic features, the models predicted six social contexts, including contact, greeting and \"let's go\", for both single calls and choruses. A model trained only on single rumbles could also predict the context of choruses. In contact, greeting and cadenced exchanges, the rumbles also became acoustically more similar as the exchange went on.",
+    "why": "Elephants coordinate over distance with low rumbles, so understanding what choruses mean helps protect their social life and communication. The study shows that AI tools can also handle overlapping animal sounds, which are usually discarded.",
+    "caveat": "There were no playback experiments, so whether elephants actually respond to converging calls is untested; reading it as group coordination is the authors' suggestion. The data come from a single population, and the release gives no accuracy figures compared with chance."
+   },
+   "ru": {
+    "title": "Хоры слонов выдают ситуацию: модели определяют контекст по накладывающимся рокотам",
+    "summary": "Около 60 процентов рокотов африканских саванных слонов звучат хором из двух и более животных, но большинство исследований изучает только одиночные сигналы. Команда из Earth Species Project, ElephantVoices, Amboseli Trust for Elephants и Университета штата Колорадо проанализировала 902 записи одиночных и накладывающихся рокотов, собранных в 1986–2022 годах у 84 слонов из 39 семей в национальном парке Амбосели в Кении. По акустическим признакам модели предсказывали шесть социальных контекстов, среди них контакт, приветствие и «пошли», как для одиночных сигналов, так и для хоров. Модель, обученная только на одиночных рокотах, предсказывала и контекст хоров. Кроме того, в обменах-контактах, приветствиях и ритмичных (cadenced) обменах рокоты по ходу обмена становились акустически более похожими.",
+    "why": "Слоны координируются на расстоянии низкими рокотами, поэтому понимание хоров помогает лучше защищать их социальную жизнь и общение. Исследование показывает, что инструменты ИИ справляются и с накладывающимися звуками животных, которые обычно отбрасывают.",
+    "caveat": "Экспериментов с воспроизведением записей не было, поэтому реакция слонов на сближающиеся сигналы не проверена; трактовка как согласования действий группы — предположение авторов. Данные взяты из одной популяции, а в сообщении нет значений точности в сравнении со случайным уровнем."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-68525-3/MediaObjects/41598_2026_68525_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Scientific Reports",
+    "link": "https://www.nature.com/articles/s41598-026-68525-3"
    }
   },
   {

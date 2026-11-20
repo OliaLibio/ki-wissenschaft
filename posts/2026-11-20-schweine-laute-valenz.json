@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-20-schweine-laute-valenz",
+ "date": "2026-11-20",
+ "published": "2026-07-09",
+ "category": "tiere",
+ "countries": [
+  "CH"
+ ],
+ "institution": "ETH Zürich",
+ "maturity": "preprint",
+ "source": {
+  "name": "bioRxiv (Vorabdruck, Version 2 vom 30.09.2026)",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.07.06.736900v2"
+ },
+ "more": [],
+ "de": {
+  "title": "Schweinelaute: KI und Menschen finden dieselbe Ordnung, aber ob sie Gefühle abbildet, ist unbelegt",
+  "summary": "Lautäußerungen von Schweinen gelten zunehmend als Anzeiger für Wohlbefinden, und KI-Klassifikatoren erreichen dabei hohe Trefferquoten. Ein Team um Carmen Winters (ETH Zürich) wies darauf hin, dass die Gefühlsunterscheidung dort schon in den Test eingebaut ist, weil die Labels aus dem Aufnahmekontext stammen. In einer freien Sortieraufgabe ordneten 224 Teilnehmende 2192 Schweinelaute selbst gewählten Gruppen zu, eine zweite Gruppe von 159 Personen ordnete sie vorgegebenen Kontexten zu und bewertete die Stimmung. Menschen und neuronale Netze fanden eine übereinstimmende Struktur; nur 26,3 Prozent der selbst vergebenen Bezeichnungen bezogen sich auf Gefühle. Die Valenzurteile stimmten zu 60,1 Prozent in der Richtung mit der angenommenen Valenz überein, was ohne stark aversive Situationen verschwand. Netze erkannten die angenommene Valenz zwar zu 92,0 Prozent, doch zufällig umgedeutete Gruppierungen erreichten im Mittel 79 Prozent.",
+  "why": "Mit Lautanalyse soll künftig das Wohlergehen von Nutztieren überwacht werden. Die Studie mahnt, dass eine hohe Trefferquote nicht beweist, dass die KI Gefühle erkennt, und fordert unabhängige Prüfung.",
+  "caveat": "Vorabdruck, noch nicht begutachtet; die Fassung wurde am 30.09.2026 überarbeitet. Die Studie widerlegt den Nutzen der Lauterkennung nicht, sie bezweifelt nur die Deutung der Etiketten. Gefühle der Tiere wurden nicht unabhängig gemessen."
+ },
+ "en": {
+  "title": "Pig vocalisations: AI and humans find the same structure, but whether it reflects emotion is unproven",
+  "summary": "Pig vocalisations are increasingly used as indicators of welfare, and AI classifiers reach high accuracy on them. A team led by Carmen Winters (ETH Zurich) points out that the emotional distinction is already built into those tests, because labels come from the recording context. In a free-classification task, 224 participants sorted 2,192 pig vocalisations into groups of their own choosing; a second group of 159 classified them into predefined contexts and rated valence. Humans and neural networks recovered a matching organisation, but only 26.3 percent of participant-generated labels referred to feelings or emotions. Valence judgments agreed in direction with presumed valence in 60.1 percent of cases, which disappeared once highly aversive situations were excluded. Networks still classified presumed valence with 92.0 percent accuracy, but randomly reassigned groupings averaged 79 percent.",
+  "why": "Sound analysis is meant to monitor the welfare of farm animals in future. The study warns that high accuracy does not prove the AI detects feelings and calls for independent validation.",
+  "caveat": "Preprint, not yet peer reviewed; the version was revised on 30 September 2026. The study does not refute the usefulness of call recognition, it only questions how the labels are interpreted. The animals' feelings were not measured independently."
+ },
+ "ru": {
+  "title": "Звуки свиней: ИИ и люди находят одну и ту же структуру, но отражает ли она эмоции — не доказано",
+  "summary": "Голоса свиней всё чаще используют как показатель благополучия, а ИИ-классификаторы показывают на них высокую точность. Команда Кармен Винтерс (ETH Цюрих) отмечает, что различие эмоций уже заложено в такие тесты, поскольку метки берутся из контекста записи. В задаче свободной сортировки 224 участника разложили 2192 звука свиней по самостоятельно выбранным группам; вторая группа из 159 человек отнесла их к заданным контекстам и оценила настроение. Люди и нейросети обнаружили согласующуюся организацию, но лишь 26,3 процента придуманных участниками обозначений относились к чувствам или эмоциям. Оценки валентности совпадали по направлению с предполагаемой в 60,1 процента случаев, и это исчезало после исключения сильно неприятных ситуаций. Сети определяли предполагаемую валентность с точностью 92,0 процента, но случайно переназначенные группировки давали в среднем 79 процентов.",
+  "why": "Анализ звуков должен в будущем помогать следить за благополучием сельскохозяйственных животных. Исследование предупреждает, что высокая точность не доказывает, что ИИ распознаёт чувства, и требует независимой проверки.",
+  "caveat": "Препринт, ещё не прошёл рецензирование; версия переработана 30 сентября 2026 года. Исследование не опровергает пользу распознавания звуков, а лишь ставит под сомнение трактовку меток. Чувства животных независимо не измерялись."
+ },
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Sus_scrofa_domesticus%2C_miniature_pig%2C_juvenile.jpg/960px-Sus_scrofa_domesticus%2C_miniature_pig%2C_juvenile.jpg",
+  "kind": "photo",
+  "credit": "Foto: Johan Spaedtke, CC0, Wikimedia Commons",
+  "link": "https://commons.wikimedia.org/wiki/File:Sus_scrofa_domesticus,_miniature_pig,_juvenile.jpg"
+ }
+}

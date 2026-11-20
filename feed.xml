@@ -48,6 +48,20 @@ Vorbehalt: Die Uhr ist ein Hinweisgeber, kein Ersatz für die Messung mit Mansch
 Quelle: Nature – https://www.nature.com/articles/s41586-026-11336-3</description>
   </item>
   <item>
+   <title>Schweinelaute: KI und Menschen finden dieselbe Ordnung, aber ob sie Gefühle abbildet, ist unbelegt</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-schweine-laute-valenz</link>
+   <guid isPermaLink="false">2026-11-20-schweine-laute-valenz</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Lautäußerungen von Schweinen gelten zunehmend als Anzeiger für Wohlbefinden, und KI-Klassifikatoren erreichen dabei hohe Trefferquoten. Ein Team um Carmen Winters (ETH Zürich) wies darauf hin, dass die Gefühlsunterscheidung dort schon in den Test eingebaut ist, weil die Labels aus dem Aufnahmekontext stammen. In einer freien Sortieraufgabe ordneten 224 Teilnehmende 2192 Schweinelaute selbst gewählten Gruppen zu, eine zweite Gruppe von 159 Personen ordnete sie vorgegebenen Kontexten zu und bewertete die Stimmung. Menschen und neuronale Netze fanden eine übereinstimmende Struktur; nur 26,3 Prozent der selbst vergebenen Bezeichnungen bezogen sich auf Gefühle. Die Valenzurteile stimmten zu 60,1 Prozent in der Richtung mit der angenommenen Valenz überein, was ohne stark aversive Situationen verschwand. Netze erkannten die angenommene Valenz zwar zu 92,0 Prozent, doch zufällig umgedeutete Gruppierungen erreichten im Mittel 79 Prozent.
+
+Warum das wichtig ist: Mit Lautanalyse soll künftig das Wohlergehen von Nutztieren überwacht werden. Die Studie mahnt, dass eine hohe Trefferquote nicht beweist, dass die KI Gefühle erkennt, und fordert unabhängige Prüfung.
+
+Vorbehalt: Vorabdruck, noch nicht begutachtet; die Fassung wurde am 30.09.2026 überarbeitet. Die Studie widerlegt den Nutzen der Lauterkennung nicht, sie bezweifelt nur die Deutung der Etiketten. Gefühle der Tiere wurden nicht unabhängig gemessen.
+
+Quelle: bioRxiv (Vorabdruck, Version 2 vom 30.09.2026) – https://www.biorxiv.org/content/10.64898/2026.07.06.736900v2</description>
+  </item>
+  <item>
    <title>Auch KI hat „implizite Vorurteile“: Reasoning-Modelle denken länger, wenn sie gegen Stereotype entscheiden sollen</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-reasoning-modelle-bias</link>
    <guid isPermaLink="false">2026-11-20-reasoning-modelle-bias</guid>
@@ -88,6 +102,20 @@ Warum das wichtig ist: Wenn dasselbe KI-System Lebensläufe formulieren und prü
 Vorbehalt: Es handelt sich um Prüfexperimente mit Sprachmodellen, nicht um reale Einstellungsentscheidungen. Der Effekt hängt laut Zusammenfassung vom eingesetzten Modell ab, und die Zusammenfassung nennt keine Zahlen zur Größe der Effekte.
 
 Quelle: PNAS – https://doi.org/10.1073/pnas.2534118123</description>
+  </item>
+  <item>
+   <title>667 Vogelarten am Klang erkannt: Welche Gesänge die KI schlecht unterscheidet, hängt kaum von Körperbau oder Lebensweise ab</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-neotropische-voegel-667</link>
+   <guid isPermaLink="false">2026-11-20-neotropische-voegel-667</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Passive akustische Überwachung soll Artenvielfalt in den Tropen erfassen, doch Hunderte gleichzeitig singende Arten sind schwer zu trennen. Ein Team aus Bogotá (Cortés-Parra, Hortúa, Ríos-Orjuela) trainierte faltende neuronale Netze mit Aufnahmen von 667 Vogelarten aus dem Norden Südamerikas. Das beste Netz, EfficientNetV2L, erreichte 94,48 Prozent Genauigkeit, einen Makro-F1-Wert von 94,30 Prozent und eine Makro-ROC-AUC von 0,998. Danach prüften die Forschenden mit phylogenetischen Modellen, ob Körperbau, Lebensweise oder Verbreitung erklären, welche Arten schlechter erkannt werden. Das beste Modell erklärte nur rund 2,2 Prozent der Streuung; am ehesten ging ein größeres Verbreitungsgebiet mit schlechterer Erkennung einher, und Verwechslungen betrafen meist näher verwandte Arten.
+
+Warum das wichtig ist: Wer Vogelbestände im Regenwald per Mikrofon zählen will, muss wissen, bei welchen Arten die KI häufiger irrt. Die Studie zeigt, dass sich das mit einfachen Artmerkmalen kaum vorhersagen lässt, die Qualität also pro Art geprüft werden sollte.
+
+Vorbehalt: Die Zusammenfassung nennt keine Prüfung in neuen Gebieten oder bei Regen und Lärm; die Übertragbarkeit ist offen. Die erklärenden Merkmale sind grob, deshalb bleibt unklar, was die Unterschiede zwischen den Arten tatsächlich verursacht.
+
+Quelle: Royal Society Open Science – https://doi.org/10.1098/rsos.260394</description>
   </item>
   <item>
    <title>Ultraverarbeitete Kost insgesamt nicht mit Darmkrebs verknüpft, bestimmte Produkte aber schon</title>
@@ -186,6 +214,20 @@ Warum das wichtig ist: Wälder und Böden nehmen einen großen Teil unserer CO2-
 Vorbehalt: Es handelt sich um Prognosen, nicht um Messungen, und sie hängen von den verwendeten Klima- und Landmodellen ab. Die Arbeit lag zur Veröffentlichung als Vorabdruck unter Begutachtung, und die erwartete Abnahme ist kleiner als im starken El Niño von 2015.
 
 Quelle: ESA (Climate Change Initiative) – https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/futureeo/space-for-our-climate/predicting-el-nino-s-impact-on-carbon-sinks</description>
+  </item>
+  <item>
+   <title>Elefantenchöre verraten die Situation: Modelle erkennen den Kontext aus überlappenden Rumbles</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-elefanten-chor-rumbles</link>
+   <guid isPermaLink="false">2026-11-20-elefanten-chor-rumbles</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Etwa 60 Prozent der Rumbles afrikanischer Savannenelefanten werden im Chor von zwei oder mehr Tieren ausgestoßen, doch fast alle Studien untersuchen nur einzelne Rufe. Ein Team um Earth Species Project, ElephantVoices, Amboseli Trust for Elephants und die Colorado State University wertete 902 Aufnahmen einzelner und überlappender Rumbles aus, die zwischen 1986 und 2022 im Amboseli-Nationalpark in Kenia von 84 Elefanten aus 39 Familien gesammelt wurden. Die Modelle sagten aus den akustischen Merkmalen sechs soziale Kontexte voraus, darunter Kontaktruf, Begrüßung und „Let&#x27;s go“, und zwar sowohl für Einzelrufe als auch für Chöre. Ein nur mit Einzelrufen trainiertes Modell konnte auch den Kontext von Chören vorhersagen. Zudem wurden sich die Rufe in Kontakt-, Begrüßungs- und rhythmischen (Cadenced) Austauschen im Verlauf akustisch ähnlicher.
+
+Warum das wichtig ist: Elefanten koordinieren sich über Distanz mit tiefen Rufen; zu verstehen, was Chöre bedeuten, hilft, ihr Sozialleben und ihre Verständigung besser zu schützen. Die Studie zeigt, dass KI-Werkzeuge auch überlappende Tierlaute auswerten können, die bisher meist aussortiert wurden.
+
+Vorbehalt: Es gab keine Playback-Experimente, ob Elefanten auf angeglichene Rufe tatsächlich reagieren, ist ungeprüft; die Deutung als Abstimmung der Gruppe ist ein Vorschlag der Autoren. Die Daten stammen aus einer einzigen Population, und die Pressemitteilung nennt keine Trefferquoten im Vergleich zum Zufall.
+
+Quelle: Scientific Reports – https://www.nature.com/articles/s41598-026-68525-3</description>
   </item>
   <item>
    <title>KI findet im EKG ein bisher unbekanntes Signal für den plötzlichen Herztod</title>

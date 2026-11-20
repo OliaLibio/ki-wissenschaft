@@ -1,0 +1,46 @@
+{
+ "id": "2026-11-20-elefanten-chor-rumbles",
+ "date": "2026-11-20",
+ "published": "2026-10-01",
+ "category": "tiere",
+ "countries": [
+  "US",
+  "KE"
+ ],
+ "institution": "Earth Species Project, ElephantVoices, Amboseli Trust for Elephants, Colorado State University",
+ "maturity": "study",
+ "source": {
+  "name": "Scientific Reports",
+  "url": "https://www.nature.com/articles/s41598-026-68525-3"
+ },
+ "more": [
+  {
+   "name": "Nature Asia, Pressemitteilung",
+   "url": "https://www.natureasia.com/en/info/press-releases/detail/9451"
+  }
+ ],
+ "de": {
+  "title": "Elefantenchöre verraten die Situation: Modelle erkennen den Kontext aus überlappenden Rumbles",
+  "summary": "Etwa 60 Prozent der Rumbles afrikanischer Savannenelefanten werden im Chor von zwei oder mehr Tieren ausgestoßen, doch fast alle Studien untersuchen nur einzelne Rufe. Ein Team um Earth Species Project, ElephantVoices, Amboseli Trust for Elephants und die Colorado State University wertete 902 Aufnahmen einzelner und überlappender Rumbles aus, die zwischen 1986 und 2022 im Amboseli-Nationalpark in Kenia von 84 Elefanten aus 39 Familien gesammelt wurden. Die Modelle sagten aus den akustischen Merkmalen sechs soziale Kontexte voraus, darunter Kontaktruf, Begrüßung und „Let's go“, und zwar sowohl für Einzelrufe als auch für Chöre. Ein nur mit Einzelrufen trainiertes Modell konnte auch den Kontext von Chören vorhersagen. Zudem wurden sich die Rufe in Kontakt-, Begrüßungs- und rhythmischen (Cadenced) Austauschen im Verlauf akustisch ähnlicher.",
+  "why": "Elefanten koordinieren sich über Distanz mit tiefen Rufen; zu verstehen, was Chöre bedeuten, hilft, ihr Sozialleben und ihre Verständigung besser zu schützen. Die Studie zeigt, dass KI-Werkzeuge auch überlappende Tierlaute auswerten können, die bisher meist aussortiert wurden.",
+  "caveat": "Es gab keine Playback-Experimente, ob Elefanten auf angeglichene Rufe tatsächlich reagieren, ist ungeprüft; die Deutung als Abstimmung der Gruppe ist ein Vorschlag der Autoren. Die Daten stammen aus einer einzigen Population, und die Pressemitteilung nennt keine Trefferquoten im Vergleich zum Zufall."
+ },
+ "en": {
+  "title": "Elephant choruses carry context: models predict the situation from overlapping rumbles",
+  "summary": "About 60 percent of the rumbles of African savannah elephants are produced in choruses of two or more animals, yet most studies look only at single calls. A team from Earth Species Project, ElephantVoices, the Amboseli Trust for Elephants and Colorado State University analysed 902 recordings of single and overlapping rumbles collected between 1986 and 2022 from 84 elephants in 39 families in Amboseli National Park, Kenya. From acoustic features, the models predicted six social contexts, including contact, greeting and \"let's go\", for both single calls and choruses. A model trained only on single rumbles could also predict the context of choruses. In contact, greeting and cadenced exchanges, the rumbles also became acoustically more similar as the exchange went on.",
+  "why": "Elephants coordinate over distance with low rumbles, so understanding what choruses mean helps protect their social life and communication. The study shows that AI tools can also handle overlapping animal sounds, which are usually discarded.",
+  "caveat": "There were no playback experiments, so whether elephants actually respond to converging calls is untested; reading it as group coordination is the authors' suggestion. The data come from a single population, and the release gives no accuracy figures compared with chance."
+ },
+ "ru": {
+  "title": "Хоры слонов выдают ситуацию: модели определяют контекст по накладывающимся рокотам",
+  "summary": "Около 60 процентов рокотов африканских саванных слонов звучат хором из двух и более животных, но большинство исследований изучает только одиночные сигналы. Команда из Earth Species Project, ElephantVoices, Amboseli Trust for Elephants и Университета штата Колорадо проанализировала 902 записи одиночных и накладывающихся рокотов, собранных в 1986–2022 годах у 84 слонов из 39 семей в национальном парке Амбосели в Кении. По акустическим признакам модели предсказывали шесть социальных контекстов, среди них контакт, приветствие и «пошли», как для одиночных сигналов, так и для хоров. Модель, обученная только на одиночных рокотах, предсказывала и контекст хоров. Кроме того, в обменах-контактах, приветствиях и ритмичных (cadenced) обменах рокоты по ходу обмена становились акустически более похожими.",
+  "why": "Слоны координируются на расстоянии низкими рокотами, поэтому понимание хоров помогает лучше защищать их социальную жизнь и общение. Исследование показывает, что инструменты ИИ справляются и с накладывающимися звуками животных, которые обычно отбрасывают.",
+  "caveat": "Экспериментов с воспроизведением записей не было, поэтому реакция слонов на сближающиеся сигналы не проверена; трактовка как согласования действий группы — предположение авторов. Данные взяты из одной популяции, а в сообщении нет значений точности в сравнении со случайным уровнем."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-68525-3/MediaObjects/41598_2026_68525_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Scientific Reports",
+  "link": "https://www.nature.com/articles/s41598-026-68525-3"
+ }
+}
