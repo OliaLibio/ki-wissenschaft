@@ -1,0 +1,54 @@
+{
+ "id": "2026-11-20-mythos-muskelmasse-stoffwechsel",
+ "date": "2026-11-20",
+ "published": "2026-10-08",
+ "category": "mythen",
+ "countries": [
+  "US"
+ ],
+ "institution": "Pennington Biomedical Research Center",
+ "maturity": "study",
+ "evidence": "cohort",
+ "verdict": "partly",
+ "source": {
+  "name": "Journal of Clinical Endocrinology & Metabolism (Oxford University Press)",
+  "url": "https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgag407/8876181"
+ },
+ "more": [
+  {
+   "name": "Pressemitteilung Pennington Biomedical via EurekAlert",
+   "url": "https://www.eurekalert.org/news-releases/1150035"
+  },
+  {
+   "name": "Medical Xpress",
+   "url": "https://medicalxpress.com/news/2026-11-assumption-body-mass-metabolic-health.html"
+  }
+ ],
+ "de": {
+  "myth": "Je mehr Muskel- bzw. fettfreie Masse, desto besser der Stoffwechsel.",
+  "title": "Mehr fettfreie Masse heißt nicht automatisch gesünderer Stoffwechsel: Bauchfett entscheidet mit",
+  "summary": "Muskeln gelten als Stoffwechselschutz. Ein Team um Sri Lakshmi Devarakonda und Candida Rebello vom Pennington Biomedical Research Center wertete Daten von 59.269 Teilnehmern der UK Biobank (Alter 37 bis 73) aus, bei denen Körperzusammensetzung per DXA und MRT gemessen worden war. Rund 20 Prozent (12.073) erfüllten die Kriterien eines metabolischen Syndroms, rund 12 Prozent (6.907) hatten erhöhte HbA1c-Werte. Bei höherer fettfreier Masse insgesamt und bezogen auf die Körpergröße traten beide häufiger auf, bezogen auf das Körpergewicht dagegen seltener. Den stärksten Einfluss hatte das Bauchfett um die Organe, auch Fett im Muskel spielte eine Rolle.",
+  "why": "Wie viel Muskel jemand hat, sagt allein wenig über die Stoffwechselgesundheit; wo Fett sitzt, zählt mit. Das heißt nicht, dass Muskelaufbau schadet.",
+  "caveat": "Querschnittsstudie: Sie zeigt Zusammenhänge, keine Ursache, und kann nicht klären, was zuerst da war. Fettfreie Masse enthält auch Organe und Wasser, nicht nur Muskeln. Die Teilnehmer der UK Biobank sind im Schnitt gesünder als die Bevölkerung, Angaben zur Finanzierung fehlen in den gesichteten Quellen."
+ },
+ "en": {
+  "myth": "The more muscle (fat-free mass) you have, the better your metabolic health.",
+  "title": "More fat-free mass does not automatically mean healthier metabolism: belly fat matters too",
+  "summary": "Muscle is considered protective for metabolism. A team led by Sri Lakshmi Devarakonda and Candida Rebello at the Pennington Biomedical Research Center analysed data from 59,269 UK Biobank participants (aged 37 to 73) whose body composition had been measured by DXA and MRI. About 20 percent (12,073) met the criteria for metabolic syndrome and about 12 percent (6,907) had elevated HbA1c. Both were more common with higher total fat-free mass and fat-free mass relative to height, but less common relative to body weight. Visceral fat around the organs had the strongest influence, and fat within muscle also played a role.",
+  "why": "How much muscle someone has says little on its own about metabolic health; where fat sits matters too. This does not mean that building muscle is harmful.",
+  "caveat": "Cross-sectional study: it shows associations, not cause, and cannot tell what came first. Fat-free mass also includes organs and water, not just muscle. UK Biobank participants are on average healthier than the general population, and the sources consulted give no funding information."
+ },
+ "ru": {
+  "myth": "Чем больше мышечной (безжировой) массы, тем лучше обмен веществ.",
+  "title": "Больше безжировой массы не всегда значит здоровее обмен веществ: важен и жир на животе",
+  "summary": "Мышцы считаются защитой для обмена веществ. Команда Шри Лакшми Девараконды и Кандиды Ребелло из Исследовательского центра Pennington Biomedical проанализировала данные 59 269 участников UK Biobank (возраст 37–73 года), у которых состав тела измеряли методами DXA и МРТ. Около 20 процентов (12 073) соответствовали критериям метаболического синдрома, около 12 процентов (6 907) имели повышенный HbA1c. И то и другое встречалось чаще при большей безжировой массе в целом и в расчёте на рост, но реже в расчёте на массу тела. Сильнее всего влиял висцеральный жир вокруг органов, свою роль играл и жир внутри мышц.",
+  "why": "Количество мышц само по себе мало говорит о метаболическом здоровье; важно и то, где расположен жир. Это не значит, что наращивание мышц вредно.",
+  "caveat": "Поперечное исследование: показывает связи, а не причину, и не может определить, что было первичным. Безжировая масса включает также органы и воду, а не только мышцы. Участники UK Biobank в среднем здоровее населения, а сведений о финансировании в просмотренных источниках нет."
+ },
+ "image": {
+  "src": "https://scx1.b-cdn.net/csz/news/800a/2026/lean-body.jpg",
+  "kind": "press",
+  "credit": "Bild: Medical Xpress",
+  "link": "https://medicalxpress.com/news/2026-11-assumption-body-mass-metabolic-health.html"
+ }
+}

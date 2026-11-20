@@ -1,0 +1,50 @@
+{
+ "id": "2026-11-20-mythos-ultraverarbeitet-darmkrebs",
+ "date": "2026-11-20",
+ "published": "2026-10-15",
+ "category": "mythen",
+ "countries": [
+  "US"
+ ],
+ "institution": "National Cancer Institute (NIH)",
+ "maturity": "study",
+ "evidence": "cohort",
+ "verdict": "partly",
+ "source": {
+  "name": "PLOS Medicine via ScienceDaily",
+  "url": "https://sciencedaily.com/releases/2026/10/261020085014.htm"
+ },
+ "more": [
+  {
+   "name": "DOI 10.1371/journal.pmed.1005251",
+   "url": "https://doi.org/10.1371/journal.pmed.1005251"
+  }
+ ],
+ "de": {
+  "myth": "Ultraverarbeitete Lebensmittel erhöhen grundsätzlich das Darmkrebsrisiko.",
+  "title": "Ultraverarbeitete Kost insgesamt nicht mit Darmkrebs verknüpft, bestimmte Produkte aber schon",
+  "summary": "Ultraverarbeitete Lebensmittel gelten oft pauschal als krebsfördernd. Ein Team um Erikka Loftfield am US-amerikanischen National Cancer Institute wertete die NIH-AARP-Ernährungsstudie aus: 461.682 Amerikaner im Alter von 50 bis 71 Jahren, die 1995/96 Fragebögen ausfüllten und im Median 18,8 Jahre bis 2018 beobachtet wurden. Die Gesamtmenge ultraverarbeiteter Lebensmittel hing nicht mit der Darmkrebsrate zusammen. Ersetzte man rechnerisch 10 Prozent (nach Gewicht) davon durch gering verarbeitete Lebensmittel, war die Rate 2 Prozent niedriger. Laut Berichten über die Studie unterschieden sich die Produktgruppen: ultraverarbeitetes Fleisch hing mit mehr Darmkrebs zusammen, ultraverarbeitete Vollkorn- und Milchprodukte mit weniger.",
+  "why": "Die Pauschalwarnung vor allem Ultraverarbeiteten trifft für Darmkrebs nicht zu; entscheidend scheint zu sein, um welche Produkte es geht. Verarbeitetes Fleisch bleibt der Teil, bei dem die Daten ein höheres Risiko zeigen.",
+  "caveat": "Beobachtungsstudie, die keine Ursache belegt. Die Ernährung wurde nur einmal zu Beginn erfragt, die meisten Teilnehmer waren ältere weiße Amerikaner, und die Verfügbarkeit ultraverarbeiteter Produkte stieg im Studienzeitraum, sodass die Zufuhr womöglich unterschätzt wurde. Die Studie sagt nichts über andere Krankheiten wie Diabetes oder Herzleiden."
+ },
+ "en": {
+  "myth": "Ultra-processed food raises colorectal cancer risk across the board.",
+  "title": "Ultra-processed food overall not linked to colorectal cancer, but certain products are",
+  "summary": "Ultra-processed foods are often blamed wholesale for cancer. A team led by Erikka Loftfield at the US National Cancer Institute analysed the NIH-AARP Diet and Health Study: 461,682 Americans aged 50 to 71 who completed questionnaires in 1995/96 and were followed for a median of 18.8 years through 2018. Total intake of ultra-processed food was not associated with colorectal cancer incidence. Replacing 10 percent (by weight) of it with minimally processed foods was associated with a 2 percent lower incidence. Reports on the study say the food groups differed: ultra-processed meat was linked to more colorectal cancer, ultra-processed whole grains and dairy to less.",
+  "why": "The blanket warning against everything ultra-processed does not hold for colorectal cancer; what matters seems to be which products are eaten. Processed meat remains the part where the data show higher risk.",
+  "caveat": "Observational study that cannot prove cause. Diet was asked only once at baseline, most participants were older white Americans, and availability of ultra-processed products rose during follow-up, so intake may be underestimated. The study says nothing about other diseases such as diabetes or heart disease."
+ },
+ "ru": {
+  "myth": "Ультрапереработанные продукты в целом повышают риск рака толстой кишки.",
+  "title": "Ультрапереработанная пища в целом не связана с раком толстой кишки, но отдельные продукты связаны",
+  "summary": "Ультрапереработанные продукты часто огульно обвиняют в провоцировании рака. Команда Эрикки Лофтфилд из Национального института рака США проанализировала исследование NIH-AARP: 461 682 американца в возрасте 50–71 года, заполнивших анкеты в 1995–1996 годах и наблюдавшихся в среднем 18,8 года, до 2018-го. Общее количество ультрапереработанной пищи не было связано с заболеваемостью раком толстой кишки. Замена 10 процентов её (по весу) на малопереработанные продукты была связана с заболеваемостью на 2 процента ниже. По сообщениям об исследовании, группы продуктов различались: ультрапереработанное мясо было связано с большим числом случаев, ультрапереработанные цельнозерновые и молочные продукты — с меньшим.",
+  "why": "Огульное предостережение против всего ультрапереработанного для рака толстой кишки не подтверждается; важно, о каких именно продуктах речь. Переработанное мясо остаётся тем, где данные показывают повышенный риск.",
+  "caveat": "Наблюдательное исследование, не доказывающее причинности. Рацион выяснялся один раз в начале, большинство участников — пожилые белые американцы, а доступность ультрапереработанных продуктов росла за время наблюдения, поэтому потребление могли недооценить. Исследование ничего не говорит о других болезнях, например диабете или болезнях сердца."
+ },
+ "image": {
+  "src": "https://www.sciencedaily.com/images/1920/fast-food-burgers-fries-chicken-nuggets.webp",
+  "kind": "press",
+  "credit": "Bild: ScienceDaily",
+  "link": "https://sciencedaily.com/releases/2026/10/261020085014.htm"
+ }
+}

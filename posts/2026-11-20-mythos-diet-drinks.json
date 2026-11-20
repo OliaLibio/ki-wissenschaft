@@ -1,0 +1,54 @@
+{
+ "id": "2026-11-20-mythos-diet-drinks",
+ "date": "2026-11-20",
+ "published": "2026-08-04",
+ "category": "mythen",
+ "countries": [
+  "GB"
+ ],
+ "institution": "University of Liverpool",
+ "maturity": "clinical",
+ "evidence": "rct",
+ "verdict": "partly",
+ "source": {
+  "name": "British Journal of Nutrition (Cambridge University Press)",
+  "url": "https://www.cambridge.org/core/product/identifier/S0007114526108150/type/journal_article"
+ },
+ "more": [
+  {
+   "name": "Pressemitteilung University of Liverpool via EurekAlert",
+   "url": "https://www.eurekalert.org/news-releases/1145815"
+  },
+  {
+   "name": "DOI 10.1017/S0007114526108150",
+   "url": "https://doi.org/10.1017/S0007114526108150"
+  }
+ ],
+ "de": {
+  "myth": "Zuckerfreie Süßgetränke sabotieren das Abnehmen; Wasser ist immer besser.",
+  "title": "Light-Getränke statt Wasser: Nach zwei Jahren kein Nachteil beim Abnehmen",
+  "summary": "Süßstoffgetränke stehen im Verdacht, Heißhunger zu fördern und das Abnehmen zu erschweren. Das Team um Joanne Harrold und Jason Halford (University of Liverpool) hat in der SWITCH-Studie 493 Erwachsene mit Übergewicht (BMI 27 bis 35) zufällig einer von zwei Gruppen zugeteilt: 246 tranken täglich Wasser, 247 Getränke mit Süßstoffen wie Aspartam, Acesulfam-K oder Sucralose. Beide Gruppen nahmen an einem Programm zur Gewichtsabnahme teil, ein Jahr mit Betreuung, danach ein freiwilliges Jahr ohne. Nach 104 Wochen lag der Gewichtsverlust bei 4,8 kg in der Süßstoffgruppe und 3,7 kg in der Wassergruppe; der Unterschied war nicht signifikant, die Gruppen galten als gleichwertig. 220 Personen erreichten die letzte Phase.",
+  "why": "Die Studie spricht dagegen, dass Light-Getränke das Abnehmen aktiv behindern, wenn sie Zuckergetränke ersetzen. Sie sagt aber nichts über Zahnschäden, Darmflora oder Herz-Kreislauf-Risiken auf lange Sicht.",
+  "caveat": "Finanziert wurde die Studie vom US-Getränkeverband American Beverage Association; die Autoren betonen ihre Unabhängigkeit bei Auswertung und Bericht. Offene Studie ohne Verblindung, und nur 220 der 493 Teilnehmer erreichten das Ende der zweiten Phase. Sie betrifft Menschen in einem Abnehmprogramm, nicht den Alltag allgemein."
+ },
+ "en": {
+  "myth": "Sugar-free diet drinks sabotage weight loss; water is always better.",
+  "title": "Diet drinks instead of water: no disadvantage for weight loss after two years",
+  "summary": "Sweetened diet drinks are suspected of driving cravings and making weight loss harder. In the SWITCH trial, a team led by Joanne Harrold and Jason Halford (University of Liverpool) randomised 493 adults with overweight (BMI 27 to 35) to one of two groups: 246 drank water daily, 247 drank beverages with sweeteners such as aspartame, acesulfame-K or sucralose. Both groups took part in a weight-management programme, one year with support followed by a voluntary year without. After 104 weeks weight loss was 4.8 kg in the sweetener group and 3.7 kg in the water group; the difference was not significant and the groups were judged equivalent. 220 people reached the final phase.",
+  "why": "The trial argues against the idea that diet drinks actively hinder weight loss when they replace sugary drinks. It says nothing about dental damage, gut flora or cardiovascular risk in the long run.",
+  "caveat": "The study was funded by the American Beverage Association; the authors stress their independence in analysis and reporting. It was open-label without blinding, and only 220 of 493 participants reached the end of the second phase. It applies to people in a weight-loss programme, not to everyday drinking in general."
+ },
+ "ru": {
+  "myth": "Безсахарные подслащённые напитки мешают худеть; вода всегда лучше.",
+  "title": "Диетические напитки вместо воды: через два года никакого вреда для похудения",
+  "summary": "Напитки с подсластителями подозревают в том, что они усиливают тягу к еде и мешают худеть. В исследовании SWITCH команда Джоанн Гарролд и Джейсона Холфорда (Ливерпульский университет) случайным образом разделила 493 взрослых с избыточным весом (ИМТ 27–35) на две группы: 246 ежедневно пили воду, 247 — напитки с подсластителями, такими как аспартам, ацесульфам-K или сукралоза. Обе группы участвовали в программе снижения веса: год с сопровождением и затем добровольный год без него. Через 104 недели потеря веса составила 4,8 кг в группе подсластителей и 3,7 кг в группе воды; различие было незначимым, группы признали равноценными. До последней фазы дошли 220 человек.",
+  "why": "Исследование говорит против того, что диетические напитки сами по себе мешают худеть, если заменяют сладкие. Но оно ничего не говорит о вреде для зубов, микрофлоры кишечника или сердечно-сосудистых рисках в долгосрочной перспективе.",
+  "caveat": "Исследование финансировала Американская ассоциация производителей напитков; авторы подчёркивают независимость анализа и отчёта. Оно открытое, без ослепления, и лишь 220 из 493 участников дошли до конца второй фазы. Результат относится к людям в программе похудения, а не к повседневному питью вообще."
+ },
+ "image": {
+  "src": "https://www.sciencedaily.com/images/1920/woman-smiling-holding-diet-cola.webp",
+  "kind": "press",
+  "credit": "Bild: ScienceDaily",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm"
+ }
+}
