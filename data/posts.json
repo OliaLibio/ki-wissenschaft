@@ -1,7 +1,429 @@
 {
- "generated": "2026-11-19T11:54:30Z",
- "count": 34,
+ "generated": "2026-11-20T05:09:10Z",
+ "count": 43,
  "posts": [
+  {
+   "id": "2026-11-20-text-psychometrie",
+   "date": "2026-11-20",
+   "published": "2026-11-12",
+   "category": "grenzen",
+   "countries": [
+    "US"
+   ],
+   "institution": "Child Mind Institute / Harvard / MIT",
+   "maturity": "study",
+   "source": {
+    "name": "PLOS Digital Health via EurekAlert",
+    "url": "https://www.eurekalert.org/news-releases/1151915"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1371/journal.pdig.0001757",
+     "url": "https://doi.org/10.1371/journal.pdig.0001757"
+    }
+   ],
+   "de": {
+    "title": "Gute Gesamtwerte, trotzdem blind für das Offensichtliche: Warum KI-Textanalysen in der Psychologie breiter geprüft werden müssen",
+    "summary": "Sprachmodelle werden zunehmend eingesetzt, um psychische Merkmale in Texten zu erkennen, werden aber selten so geprüft wie ein Fragebogen. Ein Team um Daniel Low (Child Mind Institute, Harvard, MIT) schlägt dafür den Rahmen „Text Psychometrics“ vor. In Studie 1 wurden Gespräche der Crisis Text Line (Pool von 52.270 Gesprächen) und Reddit-Beiträge aus 11 Foren zu psychischen Themen klassifiziert, je 4.000 Trainings- und 600 Testtexte pro Thema. Die Autoren führen „Inhaltsvalidität-Testsätze“ ein und berichten, dass Modelle mit guter Gesamtleistung dennoch typische Kernausdrücke übersehen können, etwa „Anorexie“ bei Essproblemen. In Studie 2 wurde mit 49 bekannten Risikofaktoren aus dem ersten Viertel der Gespräche untersucht, welche Merkmale auf akute Suizidgefahr hindeuten.",
+    "why": "KI-Werkzeuge für psychische Gesundheit werden schon erprobt, obwohl übliche Genauigkeitswerte seltene oder offensichtliche Fälle verdecken können. Eine breitere Prüfung soll verhindern, dass sich Betroffene auf Systeme verlassen, die gerade Kernsymptome übersehen.",
+    "caveat": "Nach Angaben der Autoren ist keine der beiden Studien ein psychometrisch validiertes Modell; Wiederholungszuverlässigkeit und weitere Gütekriterien wurden nicht geprüft. Die Daten stammen von überwiegend jungen, weißen, weiblichen Nutzern, die Testsätze sind ausgewogen und bilden reale Häufigkeiten nicht ab. Mehrere Autoren nennen Interessenkonflikte, etwa Beratung in Verfahren zu Suiziden."
+   },
+   "en": {
+    "title": "Good overall scores, yet blind to the obvious: why AI text analysis in psychology needs broader testing",
+    "summary": "Language models are increasingly used to detect psychological constructs in text, yet they are rarely validated like questionnaires. A team led by Daniel Low (Child Mind Institute, Harvard, MIT) proposes a framework called Text Psychometrics. In Study 1, Crisis Text Line conversations (from a pool of 52,270) and Reddit posts from 11 mental health subreddits were classified, with 4,000 training and 600 test texts per topic. The authors introduce content validity test sets and report that models with good overall performance can still miss prototypical core expressions, such as 'anorexia' for eating concerns. Study 2 used the first quarter of conversations and 49 known risk factors to see which features characterise conversations that ended up needing emergency intervention for imminent suicide risk.",
+    "why": "AI tools for mental health are already being tested although standard accuracy scores can hide rare or obvious cases. Broader validation is meant to keep people from relying on systems that miss core symptoms.",
+    "caveat": "According to the authors, neither study yields a fully psychometrically validated model; test-retest reliability and other properties were not assessed. The data skew young, female and white, the test sets are balanced and do not reflect real base rates. Several authors report competing interests, including consulting in legal cases involving suicide."
+   },
+   "ru": {
+    "title": "Хорошие общие показатели, но слепота к очевидному: почему ИИ-анализ текстов в психологии нужно проверять шире",
+    "summary": "Языковые модели всё чаще используют для выявления психологических признаков в текстах, но их редко проверяют так, как анкеты. Команда Дэниела Лоу (Child Mind Institute, Гарвард, MIT) предлагает для этого рамку «Text Psychometrics». В исследовании 1 классифицировали беседы Crisis Text Line (из пула в 52 270 бесед) и посты Reddit из 11 форумов о психическом здоровье, по 4000 обучающих и 600 тестовых текстов на тему. Авторы вводят тестовые наборы для проверки содержательной валидности и сообщают, что модели с хорошей общей эффективностью всё же могут пропускать типичные ключевые выражения, например «анорексия» при проблемах с питанием. В исследовании 2 по первой четверти бесед и 49 известным факторам риска изучали, какие признаки характеризуют беседы, потребовавшие экстренного вмешательства из-за угрозы суицида.",
+    "why": "ИИ-инструменты для психического здоровья уже испытывают, хотя обычные показатели точности могут скрывать редкие или очевидные случаи. Более широкая проверка нужна, чтобы не полагаться на системы, пропускающие ключевые симптомы.",
+    "caveat": "По словам авторов, ни одно из двух исследований не даёт полностью валидированной психометрически модели, надёжность при повторных измерениях и другие свойства не проверялись. Данные смещены в сторону молодых белых женщин, тестовые наборы сбалансированы и не отражают реальные частоты. Несколько авторов сообщают о конфликте интересов, в том числе о консультациях по делам о суицидах."
+   },
+   "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Psychologist_at_work.jpg/960px-Psychologist_at_work.jpg",
+    "kind": "photo",
+    "credit": "Foto: Healme24, CC0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Psychologist_at_work.jpg"
+   }
+  },
+  {
+   "id": "2026-11-20-reasoning-modelle-bias",
+   "date": "2026-11-20",
+   "published": "2026-09-01",
+   "category": "grenzen",
+   "countries": [
+    "US",
+    "KR"
+   ],
+   "institution": "Rutgers University",
+   "maturity": "study",
+   "source": {
+    "name": "Nature Machine Intelligence via Tech Xplore",
+    "url": "https://techxplore.com/news/2026-11-ai-bots-harder-defy-stereotypes.html"
+   },
+   "more": [
+    {
+     "name": "Nature Machine Intelligence",
+     "url": "https://www.nature.com/articles/s42256-026-01300-1"
+    }
+   ],
+   "de": {
+    "title": "Auch KI hat „implizite Vorurteile“: Reasoning-Modelle denken länger, wenn sie gegen Stereotype entscheiden sollen",
+    "summary": "Messi H. J. Lee und Calvin K. Lai (Rutgers) haben den Impliziten Assoziationstest der Psychologie auf Denkmodelle übertragen. Statt Antwortzeiten messen sie die Zahl der „Denk-Token“ als Maß für den Rechenaufwand (RM-IAT). Bei vier Modellen (o3-mini, DeepSeek-R1, gpt-oss-20b, Qwen3-8B) brauchten Aufgaben, die gegen ein Stereotyp laufen, etwa „Amy“ mit „Führungskraft“ zu verbinden, mehr Rechenaufwand als stereotypkonforme. Claude 3.7 Sonnet zeigte das umgekehrte Muster, was die Autoren mit seinem internen Nachdenken über Vorurteile und Stereotype verbinden. Die Effekte sagten auch Verzerrungen in zwei bekannten Aufgaben zu Wortassoziation und Entscheidungen voraus.",
+    "why": "Verzerrungen zeigen sich damit nicht nur in der fertigen Antwort, sondern schon im Denkprozess der Modelle. Das hilft, versteckte Vorurteile zu finden, die eine glatte Endantwort verdeckt.",
+    "caveat": "Die Studie untersucht Wortpaar-Aufgaben bei nur fünf Modellen, darunter kleine offene wie Qwen3-8B. Die Zahl der Denk-Token ist ein indirektes Maß für „Aufwand“, keine Aussage über echtes Denken. Die Mitteilung nennt keine konkreten Zahlen."
+   },
+   "en": {
+    "title": "AI also has 'implicit bias': reasoning models think longer when asked to go against stereotypes",
+    "summary": "Messi H. J. Lee and Calvin K. Lai (Rutgers) transferred psychology's Implicit Association Test to reasoning models. Instead of response times they count reasoning tokens as an index of computational effort (RM-IAT). In four models (o3-mini, DeepSeek-R1, gpt-oss-20b, Qwen3-8B), association-incompatible tasks, such as pairing 'Amy' with 'executive', required more effort than compatible ones. Claude 3.7 Sonnet showed the reverse pattern, which the authors link to its internal reasoning about bias and stereotypes. The effects also predicted biases in two established tasks on word association and decision-making.",
+    "why": "Bias thus shows up not only in the final answer but already in how models process information. That helps uncover hidden prejudice that a polished final answer can mask.",
+    "caveat": "The study uses word-pairing tasks in only five models, including small open ones such as Qwen3-8B. Reasoning-token counts are an indirect measure of 'effort', not evidence of human-like thinking. The release gives no specific figures."
+   },
+   "ru": {
+    "title": "У ИИ тоже есть «неявные предубеждения»: модели рассуждения думают дольше, когда должны идти против стереотипов",
+    "summary": "Месси Х. Дж. Ли и Калвин К. Лай (Rutgers) перенесли психологический тест неявных ассоциаций на модели рассуждения. Вместо времени ответа они считают число токенов рассуждения как показатель вычислительных усилий (RM-IAT). У четырёх моделей (o3-mini, DeepSeek-R1, gpt-oss-20b, Qwen3-8B) задачи, идущие против стереотипа, например связать «Эми» со словом «руководитель», требовали больше усилий, чем согласующиеся со стереотипом. Claude 3.7 Sonnet показал обратную картину, которую авторы связывают с его внутренними рассуждениями о предвзятости и стереотипах. Эти эффекты также предсказывали смещения в двух известных задачах на словесные ассоциации и принятие решений.",
+    "why": "Предвзятость проявляется не только в готовом ответе, но и в самом процессе обработки информации. Это помогает находить скрытые предубеждения, которые гладкий итоговый ответ маскирует.",
+    "caveat": "Исследование охватывает задачи на сопоставление слов лишь у пяти моделей, включая небольшие открытые вроде Qwen3-8B. Число токенов рассуждения — косвенная мера «усилий», а не доказательство человекоподобного мышления. В сообщении нет конкретных цифр."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-026-01300-1/MediaObjects/42256_2026_1300_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Nature Machine Intelligence",
+    "link": "https://www.nature.com/articles/s42256-026-01300-1"
+   }
+  },
+  {
+   "id": "2026-11-20-pronet-luftqualitaet",
+   "date": "2026-11-20",
+   "published": "2026-10-12",
+   "category": "klima",
+   "countries": [
+    "CN"
+   ],
+   "institution": "Institute of Atmospheric Physics, Chinese Academy of Sciences",
+   "maturity": "study",
+   "source": {
+    "name": "National Science Review via EurekAlert (Science China Press)",
+    "url": "https://www.eurekalert.org/news-releases/1147373"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1093/nsr/nwag570",
+     "url": "https://doi.org/10.1093/nsr/nwag570"
+    }
+   ],
+   "de": {
+    "title": "ProNet: KI in den Gleichungen der Atmosphäre sagt Feinstaub sieben Tage voraus, so gut wie manuell korrigierte Eintagesprognosen",
+    "summary": "Ein Team um Huangjian Wu und Zifa Wang vom Institut für Atmosphärenphysik der Chinesischen Akademie der Wissenschaften hat neuronale Netze direkt in die Bilanzgleichungen eines Luftqualitätsmodells eingebaut. Das System ProNet nutzt dafür routinemäßige Feinstaubmessungen am Boden, um Fehler im Modell einzelnen Prozessen zuzuordnen. Über ein Jahr hinweg in 338 chinesischen Städten getestet, erreichten die Siebentagesprognosen von ProNet mindestens die Güte von Eintagesprognosen, die menschliche Fachleute von Hand nachkorrigiert hatten. Bei einem schweren Staubsturm im Frühjahr in Peking sank der Prognosefehler um 62 Prozent. Nebenbei zeigte das Verfahren, dass übliche Modelle die Nitratbildung überschätzen und die Sulfatbildung im Winter unterschätzen.",
+    "why": "Verlässliche Feinstaubprognosen helfen bei Warnungen für Asthmakranke und bei der Planung von Maßnahmen gegen Smog. Weil die KI hier Teil der physikalischen Gleichungen bleibt, lässt sich nachvollziehen, welcher Prozess im Modell falsch lag.",
+    "caveat": "Die 62 Prozent stammen aus einem einzelnen Staubsturm in Peking. Getestet wurde nur in chinesischen Städten, die Übertragbarkeit ist offen. Die Angaben stammen aus der Pressemitteilung; die vollständige Studie konnte ich nicht einsehen."
+   },
+   "en": {
+    "title": "ProNet: AI inside the equations of the atmosphere forecasts fine particles seven days ahead, matching manually corrected one-day forecasts",
+    "summary": "A team led by Huangjian Wu and Zifa Wang at the Institute of Atmospheric Physics, Chinese Academy of Sciences, embedded neural networks directly into the governing equations of an air-quality model. The system, ProNet, uses routine ground-level PM2.5 measurements to attribute model errors to individual processes. Tested over one year in 338 Chinese cities, ProNet's seven-day forecasts matched or beat one-day forecasts that human experts had adjusted by hand. During a severe spring dust storm in Beijing, forecast error fell by 62 percent. The method also showed that common models overestimate nitrate formation and underestimate sulfate formation in winter.",
+    "why": "Reliable fine-particle forecasts support warnings for people with asthma and planning of measures against smog. Because the AI stays part of the physical equations, it can be traced which process in the model was wrong.",
+    "caveat": "The 62 percent comes from a single dust storm in Beijing. Testing covered only Chinese cities, so transferability is open. The figures come from the press release; I could not check the full paper."
+   },
+   "ru": {
+    "title": "ProNet: ИИ внутри уравнений атмосферы прогнозирует мелкодисперсную пыль на семь дней не хуже вручную скорректированных суточных прогнозов",
+    "summary": "Команда Хуаньцзяня Ву и Цзыфа Вана из Института физики атмосферы Китайской академии наук встроила нейронные сети непосредственно в уравнения баланса модели качества воздуха. Система ProNet использует обычные наземные измерения PM2.5, чтобы приписывать ошибки модели отдельным процессам. При годовой проверке в 338 китайских городах семидневные прогнозы ProNet были не хуже суточных прогнозов, которые эксперты корректировали вручную. Во время сильной весенней пылевой бури в Пекине ошибка прогноза снизилась на 62 процента. Кроме того, метод показал, что обычные модели завышают образование нитратов и занижают образование сульфатов зимой.",
+    "why": "Надёжные прогнозы мелких частиц помогают предупреждать людей с астмой и планировать меры против смога. Поскольку ИИ остаётся частью физических уравнений, можно понять, какой именно процесс в модели ошибался.",
+    "caveat": "Цифра 62 процента относится к одной пылевой буре в Пекине. Проверка проводилась только в китайских городах, переносимость на другие регионы неясна. Данные взяты из пресс-релиза; полный текст статьи я проверить не смог."
+   },
+   "image": {
+    "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/f05bde3e-68b2-4b00-8f3f-1d9b2b701b56/Rendition/low-res/Content/Public",
+    "kind": "press",
+    "credit": "Bild: Science China Press / EurekAlert",
+    "link": "https://www.eurekalert.org/news-releases/1147373"
+   }
+  },
+  {
+   "id": "2026-11-20-pnas-lebenslauf-geschlecht",
+   "date": "2026-11-20",
+   "published": "2026-11-16",
+   "category": "grenzen",
+   "countries": [
+    "FR",
+    "IT"
+   ],
+   "institution": "ENS Lyon / Universität Bocconi",
+   "maturity": "study",
+   "source": {
+    "name": "PNAS",
+    "url": "https://doi.org/10.1073/pnas.2534118123"
+   },
+   "more": [],
+   "de": {
+    "title": "KI im Bewerbungsverfahren: Sprachmodelle schreiben Lebensläufe nach Geschlechterklischees und bewerten Frauen und Männer unterschiedlich",
+    "summary": "Sprachmodelle schreiben inzwischen Lebensläufe und bewerten Bewerbungen. Ein Team um Elass, Gauthier, Nozza und Profeta (ENS Lyon und Universität Bocconi) hat das in Prüfexperimenten untersucht, in denen das Geschlecht der Bewerberin oder des Bewerbers zufällig zugewiesen wurde und alle anderen Angaben gleich blieben. Die Modelle erzeugten geschlechtsstereotype Lebensläufe und zeigten Geschlechterverzerrungen bei Bewertungspunkten und Gehaltsempfehlungen. Die Bewertung folgte der Geschlechterverteilung der Berufe: Frauen wurden in männerdominierten Berufen benachteiligt und in frauendominierten bevorzugt. Gehaltsempfehlungen folgten den realen Lohnunterschieden, wenn das Geschlecht ausdrücklich genannt wurde; bei Signalen über den Namen wurde das schwächer und hing vom Modell ab. Die Autoren sehen zwei Wege: Bewertungsverzerrung (gleicher Inhalt, andere Bewertung) und Erzeugungsverzerrung (vom Modell geschriebene, geschlechtlich gefärbte Inhalte beeinflussen die spätere Bewertung).",
+    "why": "Wenn dasselbe KI-System Lebensläufe formulieren und prüfen hilft, können sich beide Verzerrungen gegenseitig verstärken. Wer sich auf KI-Vorauswahl verlässt, übernimmt damit unter Umständen alte Ungleichheiten.",
+    "caveat": "Es handelt sich um Prüfexperimente mit Sprachmodellen, nicht um reale Einstellungsentscheidungen. Der Effekt hängt laut Zusammenfassung vom eingesetzten Modell ab, und die Zusammenfassung nennt keine Zahlen zur Größe der Effekte."
+   },
+   "en": {
+    "title": "AI in hiring: language models write CVs along gender stereotypes and score women and men differently",
+    "summary": "Language models now help write CVs and evaluate applicants. A team around Elass, Gauthier, Nozza and Profeta (ENS Lyon and Bocconi University) studied this in audit experiments in which applicant gender was randomly assigned while all other information was held constant. The models generated gender-stereotypical CVs and showed gender bias in screening scores and wage recommendations. Scores tracked occupational gender segregation: women were penalised in male-dominated occupations and favoured in female-dominated ones. Wage recommendations tracked real occupational pay gaps when gender was explicit in the prompt, though this weakened under name-based signalling and depended on the model used. The authors identify two channels: evaluation bias (identical content judged differently) and generation bias (gendered content written by the model influences later evaluation).",
+    "why": "When the same AI system helps write and assess CVs, the two biases can reinforce each other. Relying on AI pre-screening may therefore carry old inequalities forward.",
+    "caveat": "These are audit experiments with language models, not real hiring decisions. According to the abstract the effect depends on the model used, and the abstract gives no numerical effect sizes."
+   },
+   "ru": {
+    "title": "ИИ при найме: языковые модели пишут резюме по гендерным стереотипам и по-разному оценивают женщин и мужчин",
+    "summary": "Языковые модели уже помогают составлять резюме и оценивать кандидатов. Команда Эласс, Готье, Ноццы и Профеты (ENS Лион и университет Боккони) изучила это в аудиторских экспериментах, где пол кандидата назначался случайно, а все остальные данные оставались прежними. Модели создавали резюме с гендерными стереотипами и показывали гендерные смещения в баллах отбора и рекомендациях по зарплате. Баллы повторяли гендерную сегрегацию профессий: женщин занижали в профессиях, где преобладают мужчины, и завышали там, где преобладают женщины. Рекомендации по зарплате повторяли реальные различия в оплате, если пол был указан явно; при сигнале через имя это ослабевало и зависело от модели. Авторы выделяют два механизма: смещение оценки (одинаковое содержание оценивается по-разному) и смещение генерации (написанное моделью гендерно окрашенное содержание влияет на последующую оценку).",
+    "why": "Если одна и та же система ИИ помогает писать и оценивать резюме, эти два смещения могут усиливать друг друга. Опора на ИИ-предотбор может тем самым переносить старое неравенство в новые процессы.",
+    "caveat": "Это аудиторские эксперименты с языковыми моделями, а не реальные решения о найме. По аннотации результат зависит от используемой модели, а численных размеров эффекта в аннотации нет."
+   },
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Job_interview_0001.jpg",
+    "kind": "photo",
+    "credit": "Foto: bpsusf, CC BY 2.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Job_interview_0001.jpg"
+   }
+  },
+  {
+   "id": "2026-11-20-mythos-ultraverarbeitet-darmkrebs",
+   "date": "2026-11-20",
+   "published": "2026-10-15",
+   "category": "mythen",
+   "countries": [
+    "US"
+   ],
+   "institution": "National Cancer Institute (NIH)",
+   "maturity": "study",
+   "evidence": "cohort",
+   "verdict": "partly",
+   "source": {
+    "name": "PLOS Medicine via ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/10/261020085014.htm"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1371/journal.pmed.1005251",
+     "url": "https://doi.org/10.1371/journal.pmed.1005251"
+    }
+   ],
+   "de": {
+    "myth": "Ultraverarbeitete Lebensmittel erhöhen grundsätzlich das Darmkrebsrisiko.",
+    "title": "Ultraverarbeitete Kost insgesamt nicht mit Darmkrebs verknüpft, bestimmte Produkte aber schon",
+    "summary": "Ultraverarbeitete Lebensmittel gelten oft pauschal als krebsfördernd. Ein Team um Erikka Loftfield am US-amerikanischen National Cancer Institute wertete die NIH-AARP-Ernährungsstudie aus: 461.682 Amerikaner im Alter von 50 bis 71 Jahren, die 1995/96 Fragebögen ausfüllten und im Median 18,8 Jahre bis 2018 beobachtet wurden. Die Gesamtmenge ultraverarbeiteter Lebensmittel hing nicht mit der Darmkrebsrate zusammen. Ersetzte man rechnerisch 10 Prozent (nach Gewicht) davon durch gering verarbeitete Lebensmittel, war die Rate 2 Prozent niedriger. Laut Berichten über die Studie unterschieden sich die Produktgruppen: ultraverarbeitetes Fleisch hing mit mehr Darmkrebs zusammen, ultraverarbeitete Vollkorn- und Milchprodukte mit weniger.",
+    "why": "Die Pauschalwarnung vor allem Ultraverarbeiteten trifft für Darmkrebs nicht zu; entscheidend scheint zu sein, um welche Produkte es geht. Verarbeitetes Fleisch bleibt der Teil, bei dem die Daten ein höheres Risiko zeigen.",
+    "caveat": "Beobachtungsstudie, die keine Ursache belegt. Die Ernährung wurde nur einmal zu Beginn erfragt, die meisten Teilnehmer waren ältere weiße Amerikaner, und die Verfügbarkeit ultraverarbeiteter Produkte stieg im Studienzeitraum, sodass die Zufuhr womöglich unterschätzt wurde. Die Studie sagt nichts über andere Krankheiten wie Diabetes oder Herzleiden."
+   },
+   "en": {
+    "myth": "Ultra-processed food raises colorectal cancer risk across the board.",
+    "title": "Ultra-processed food overall not linked to colorectal cancer, but certain products are",
+    "summary": "Ultra-processed foods are often blamed wholesale for cancer. A team led by Erikka Loftfield at the US National Cancer Institute analysed the NIH-AARP Diet and Health Study: 461,682 Americans aged 50 to 71 who completed questionnaires in 1995/96 and were followed for a median of 18.8 years through 2018. Total intake of ultra-processed food was not associated with colorectal cancer incidence. Replacing 10 percent (by weight) of it with minimally processed foods was associated with a 2 percent lower incidence. Reports on the study say the food groups differed: ultra-processed meat was linked to more colorectal cancer, ultra-processed whole grains and dairy to less.",
+    "why": "The blanket warning against everything ultra-processed does not hold for colorectal cancer; what matters seems to be which products are eaten. Processed meat remains the part where the data show higher risk.",
+    "caveat": "Observational study that cannot prove cause. Diet was asked only once at baseline, most participants were older white Americans, and availability of ultra-processed products rose during follow-up, so intake may be underestimated. The study says nothing about other diseases such as diabetes or heart disease."
+   },
+   "ru": {
+    "myth": "Ультрапереработанные продукты в целом повышают риск рака толстой кишки.",
+    "title": "Ультрапереработанная пища в целом не связана с раком толстой кишки, но отдельные продукты связаны",
+    "summary": "Ультрапереработанные продукты часто огульно обвиняют в провоцировании рака. Команда Эрикки Лофтфилд из Национального института рака США проанализировала исследование NIH-AARP: 461 682 американца в возрасте 50–71 года, заполнивших анкеты в 1995–1996 годах и наблюдавшихся в среднем 18,8 года, до 2018-го. Общее количество ультрапереработанной пищи не было связано с заболеваемостью раком толстой кишки. Замена 10 процентов её (по весу) на малопереработанные продукты была связана с заболеваемостью на 2 процента ниже. По сообщениям об исследовании, группы продуктов различались: ультрапереработанное мясо было связано с большим числом случаев, ультрапереработанные цельнозерновые и молочные продукты — с меньшим.",
+    "why": "Огульное предостережение против всего ультрапереработанного для рака толстой кишки не подтверждается; важно, о каких именно продуктах речь. Переработанное мясо остаётся тем, где данные показывают повышенный риск.",
+    "caveat": "Наблюдательное исследование, не доказывающее причинности. Рацион выяснялся один раз в начале, большинство участников — пожилые белые американцы, а доступность ультрапереработанных продуктов росла за время наблюдения, поэтому потребление могли недооценить. Исследование ничего не говорит о других болезнях, например диабете или болезнях сердца."
+   },
+   "image": {
+    "src": "https://www.sciencedaily.com/images/1920/fast-food-burgers-fries-chicken-nuggets.webp",
+    "kind": "press",
+    "credit": "Bild: ScienceDaily",
+    "link": "https://sciencedaily.com/releases/2026/10/261020085014.htm"
+   }
+  },
+  {
+   "id": "2026-11-20-mythos-muskelmasse-stoffwechsel",
+   "date": "2026-11-20",
+   "published": "2026-10-08",
+   "category": "mythen",
+   "countries": [
+    "US"
+   ],
+   "institution": "Pennington Biomedical Research Center",
+   "maturity": "study",
+   "evidence": "cohort",
+   "verdict": "partly",
+   "source": {
+    "name": "Journal of Clinical Endocrinology & Metabolism (Oxford University Press)",
+    "url": "https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgag407/8876181"
+   },
+   "more": [
+    {
+     "name": "Pressemitteilung Pennington Biomedical via EurekAlert",
+     "url": "https://www.eurekalert.org/news-releases/1150035"
+    },
+    {
+     "name": "Medical Xpress",
+     "url": "https://medicalxpress.com/news/2026-11-assumption-body-mass-metabolic-health.html"
+    }
+   ],
+   "de": {
+    "myth": "Je mehr Muskel- bzw. fettfreie Masse, desto besser der Stoffwechsel.",
+    "title": "Mehr fettfreie Masse heißt nicht automatisch gesünderer Stoffwechsel: Bauchfett entscheidet mit",
+    "summary": "Muskeln gelten als Stoffwechselschutz. Ein Team um Sri Lakshmi Devarakonda und Candida Rebello vom Pennington Biomedical Research Center wertete Daten von 59.269 Teilnehmern der UK Biobank (Alter 37 bis 73) aus, bei denen Körperzusammensetzung per DXA und MRT gemessen worden war. Rund 20 Prozent (12.073) erfüllten die Kriterien eines metabolischen Syndroms, rund 12 Prozent (6.907) hatten erhöhte HbA1c-Werte. Bei höherer fettfreier Masse insgesamt und bezogen auf die Körpergröße traten beide häufiger auf, bezogen auf das Körpergewicht dagegen seltener. Den stärksten Einfluss hatte das Bauchfett um die Organe, auch Fett im Muskel spielte eine Rolle.",
+    "why": "Wie viel Muskel jemand hat, sagt allein wenig über die Stoffwechselgesundheit; wo Fett sitzt, zählt mit. Das heißt nicht, dass Muskelaufbau schadet.",
+    "caveat": "Querschnittsstudie: Sie zeigt Zusammenhänge, keine Ursache, und kann nicht klären, was zuerst da war. Fettfreie Masse enthält auch Organe und Wasser, nicht nur Muskeln. Die Teilnehmer der UK Biobank sind im Schnitt gesünder als die Bevölkerung, Angaben zur Finanzierung fehlen in den gesichteten Quellen."
+   },
+   "en": {
+    "myth": "The more muscle (fat-free mass) you have, the better your metabolic health.",
+    "title": "More fat-free mass does not automatically mean healthier metabolism: belly fat matters too",
+    "summary": "Muscle is considered protective for metabolism. A team led by Sri Lakshmi Devarakonda and Candida Rebello at the Pennington Biomedical Research Center analysed data from 59,269 UK Biobank participants (aged 37 to 73) whose body composition had been measured by DXA and MRI. About 20 percent (12,073) met the criteria for metabolic syndrome and about 12 percent (6,907) had elevated HbA1c. Both were more common with higher total fat-free mass and fat-free mass relative to height, but less common relative to body weight. Visceral fat around the organs had the strongest influence, and fat within muscle also played a role.",
+    "why": "How much muscle someone has says little on its own about metabolic health; where fat sits matters too. This does not mean that building muscle is harmful.",
+    "caveat": "Cross-sectional study: it shows associations, not cause, and cannot tell what came first. Fat-free mass also includes organs and water, not just muscle. UK Biobank participants are on average healthier than the general population, and the sources consulted give no funding information."
+   },
+   "ru": {
+    "myth": "Чем больше мышечной (безжировой) массы, тем лучше обмен веществ.",
+    "title": "Больше безжировой массы не всегда значит здоровее обмен веществ: важен и жир на животе",
+    "summary": "Мышцы считаются защитой для обмена веществ. Команда Шри Лакшми Девараконды и Кандиды Ребелло из Исследовательского центра Pennington Biomedical проанализировала данные 59 269 участников UK Biobank (возраст 37–73 года), у которых состав тела измеряли методами DXA и МРТ. Около 20 процентов (12 073) соответствовали критериям метаболического синдрома, около 12 процентов (6 907) имели повышенный HbA1c. И то и другое встречалось чаще при большей безжировой массе в целом и в расчёте на рост, но реже в расчёте на массу тела. Сильнее всего влиял висцеральный жир вокруг органов, свою роль играл и жир внутри мышц.",
+    "why": "Количество мышц само по себе мало говорит о метаболическом здоровье; важно и то, где расположен жир. Это не значит, что наращивание мышц вредно.",
+    "caveat": "Поперечное исследование: показывает связи, а не причину, и не может определить, что было первичным. Безжировая масса включает также органы и воду, а не только мышцы. Участники UK Biobank в среднем здоровее населения, а сведений о финансировании в просмотренных источниках нет."
+   },
+   "image": {
+    "src": "https://scx1.b-cdn.net/csz/news/800a/2026/lean-body.jpg",
+    "kind": "press",
+    "credit": "Bild: Medical Xpress",
+    "link": "https://medicalxpress.com/news/2026-11-assumption-body-mass-metabolic-health.html"
+   }
+  },
+  {
+   "id": "2026-11-20-mythos-diet-drinks",
+   "date": "2026-11-20",
+   "published": "2026-08-04",
+   "category": "mythen",
+   "countries": [
+    "GB"
+   ],
+   "institution": "University of Liverpool",
+   "maturity": "clinical",
+   "evidence": "rct",
+   "verdict": "partly",
+   "source": {
+    "name": "British Journal of Nutrition (Cambridge University Press)",
+    "url": "https://www.cambridge.org/core/product/identifier/S0007114526108150/type/journal_article"
+   },
+   "more": [
+    {
+     "name": "Pressemitteilung University of Liverpool via EurekAlert",
+     "url": "https://www.eurekalert.org/news-releases/1145815"
+    },
+    {
+     "name": "DOI 10.1017/S0007114526108150",
+     "url": "https://doi.org/10.1017/S0007114526108150"
+    }
+   ],
+   "de": {
+    "myth": "Zuckerfreie Süßgetränke sabotieren das Abnehmen; Wasser ist immer besser.",
+    "title": "Light-Getränke statt Wasser: Nach zwei Jahren kein Nachteil beim Abnehmen",
+    "summary": "Süßstoffgetränke stehen im Verdacht, Heißhunger zu fördern und das Abnehmen zu erschweren. Das Team um Joanne Harrold und Jason Halford (University of Liverpool) hat in der SWITCH-Studie 493 Erwachsene mit Übergewicht (BMI 27 bis 35) zufällig einer von zwei Gruppen zugeteilt: 246 tranken täglich Wasser, 247 Getränke mit Süßstoffen wie Aspartam, Acesulfam-K oder Sucralose. Beide Gruppen nahmen an einem Programm zur Gewichtsabnahme teil, ein Jahr mit Betreuung, danach ein freiwilliges Jahr ohne. Nach 104 Wochen lag der Gewichtsverlust bei 4,8 kg in der Süßstoffgruppe und 3,7 kg in der Wassergruppe; der Unterschied war nicht signifikant, die Gruppen galten als gleichwertig. 220 Personen erreichten die letzte Phase.",
+    "why": "Die Studie spricht dagegen, dass Light-Getränke das Abnehmen aktiv behindern, wenn sie Zuckergetränke ersetzen. Sie sagt aber nichts über Zahnschäden, Darmflora oder Herz-Kreislauf-Risiken auf lange Sicht.",
+    "caveat": "Finanziert wurde die Studie vom US-Getränkeverband American Beverage Association; die Autoren betonen ihre Unabhängigkeit bei Auswertung und Bericht. Offene Studie ohne Verblindung, und nur 220 der 493 Teilnehmer erreichten das Ende der zweiten Phase. Sie betrifft Menschen in einem Abnehmprogramm, nicht den Alltag allgemein."
+   },
+   "en": {
+    "myth": "Sugar-free diet drinks sabotage weight loss; water is always better.",
+    "title": "Diet drinks instead of water: no disadvantage for weight loss after two years",
+    "summary": "Sweetened diet drinks are suspected of driving cravings and making weight loss harder. In the SWITCH trial, a team led by Joanne Harrold and Jason Halford (University of Liverpool) randomised 493 adults with overweight (BMI 27 to 35) to one of two groups: 246 drank water daily, 247 drank beverages with sweeteners such as aspartame, acesulfame-K or sucralose. Both groups took part in a weight-management programme, one year with support followed by a voluntary year without. After 104 weeks weight loss was 4.8 kg in the sweetener group and 3.7 kg in the water group; the difference was not significant and the groups were judged equivalent. 220 people reached the final phase.",
+    "why": "The trial argues against the idea that diet drinks actively hinder weight loss when they replace sugary drinks. It says nothing about dental damage, gut flora or cardiovascular risk in the long run.",
+    "caveat": "The study was funded by the American Beverage Association; the authors stress their independence in analysis and reporting. It was open-label without blinding, and only 220 of 493 participants reached the end of the second phase. It applies to people in a weight-loss programme, not to everyday drinking in general."
+   },
+   "ru": {
+    "myth": "Безсахарные подслащённые напитки мешают худеть; вода всегда лучше.",
+    "title": "Диетические напитки вместо воды: через два года никакого вреда для похудения",
+    "summary": "Напитки с подсластителями подозревают в том, что они усиливают тягу к еде и мешают худеть. В исследовании SWITCH команда Джоанн Гарролд и Джейсона Холфорда (Ливерпульский университет) случайным образом разделила 493 взрослых с избыточным весом (ИМТ 27–35) на две группы: 246 ежедневно пили воду, 247 — напитки с подсластителями, такими как аспартам, ацесульфам-K или сукралоза. Обе группы участвовали в программе снижения веса: год с сопровождением и затем добровольный год без него. Через 104 недели потеря веса составила 4,8 кг в группе подсластителей и 3,7 кг в группе воды; различие было незначимым, группы признали равноценными. До последней фазы дошли 220 человек.",
+    "why": "Исследование говорит против того, что диетические напитки сами по себе мешают худеть, если заменяют сладкие. Но оно ничего не говорит о вреде для зубов, микрофлоры кишечника или сердечно-сосудистых рисках в долгосрочной перспективе.",
+    "caveat": "Исследование финансировала Американская ассоциация производителей напитков; авторы подчёркивают независимость анализа и отчёта. Оно открытое, без ослепления, и лишь 220 из 493 участников дошли до конца второй фазы. Результат относится к людям в программе похудения, а не к повседневному питью вообще."
+   },
+   "image": {
+    "src": "https://www.sciencedaily.com/images/1920/woman-smiling-holding-diet-cola.webp",
+    "kind": "press",
+    "credit": "Bild: ScienceDaily",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm"
+   }
+  },
+  {
+   "id": "2026-11-20-flutkarten-usa",
+   "date": "2026-11-20",
+   "published": "2026-06-15",
+   "category": "klima",
+   "countries": [
+    "US",
+    "CN",
+    "SG"
+   ],
+   "institution": "Tsinghua University, National University of Singapore, Singapore-ETH Centre",
+   "maturity": "study",
+   "source": {
+    "name": "Nature Communications",
+    "url": "https://www.nature.com/articles/s41467-026-74336-x"
+   },
+   "more": [
+    {
+     "name": "PubMed Central",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13347014/"
+    }
+   ],
+   "de": {
+    "title": "Deep Learning füllt die Lücken der US-Hochwasserkarten: Millionen Menschen mehr in Risikozonen",
+    "summary": "Die offiziellen US-Hochwasserkarten decken nur ein Drittel der Flussläufe ab. Abraham Noah Wu, Ye Zhang und Rudi Stouffs haben ein Deep-Learning-Verfahren entwickelt, das aus vorhandenen Kartenaufzeichnungen lernt und daraus eine lückenlose Gefahrenkarte mit 30 Metern Auflösung für die zusammenhängenden USA erstellt. Nach ihrer Schätzung fehlen in der nationalen Datenbank von 2023 elf Millionen Menschen und 4,1 Millionen Gebäude in Überschwemmungszonen, das sind 69 Prozent beziehungsweise 81 Prozent mehr als in den offiziellen Karten. Eine Analyse von 917 Städten zeigt, dass gerade die völlig unkartierten Gebiete überdurchschnittlich viele verletzliche Gruppen wie Ältere und Kinder beherbergen. Die Methode ist quelloffen.",
+    "why": "Wer nicht weiß, dass sein Haus in einer Hochwasserzone liegt, versichert und schützt es nicht. Gute Karten sind die Grundlage für Warnungen, Versicherungen und Bauplanung, und bisher fehlen sie gerade dort, wo viele Menschen besonders verletzlich sind.",
+    "caveat": "Die Zahlen sind Modellschätzungen und keine Messungen; eine Überprüfung vor Ort für alle neu ausgewiesenen Gebiete steht aus. Die Studie liefert Gefahrenkarten, keine Vorhersage einzelner Hochwasser. Ob und wie die Behörden die Karten nutzen, ist offen."
+   },
+   "en": {
+    "title": "Deep learning fills the gaps in US flood maps: millions more people in risk zones",
+    "summary": "Official US flood maps cover only one-third of river channels. Abraham Noah Wu, Ye Zhang and Rudi Stouffs developed a deep-learning framework that learns from existing records and produces a spatially complete 30-metre flood hazard map for the contiguous US. They estimate that the 2023 national database omits 11 million people and 4.1 million buildings in flood zones, which is 69 percent and 81 percent beyond the official baseline. An analysis of 917 cities shows that entirely unmapped areas disproportionately house vulnerable groups such as the elderly and children. The method is open source.",
+    "why": "Anyone who does not know their home lies in a flood zone will neither insure nor protect it. Good maps underpin warnings, insurance and building rules, and so far they are missing precisely where many vulnerable people live.",
+    "caveat": "The figures are model estimates, not measurements, and on-the-ground verification of all newly flagged areas is still to come. The study delivers hazard maps, not forecasts of individual floods. Whether and how authorities will use the maps is open."
+   },
+   "ru": {
+    "title": "Глубокое обучение закрывает пробелы в картах наводнений США: в зонах риска оказываются миллионы людей",
+    "summary": "Официальные карты наводнений США охватывают лишь треть русел рек. Абрахам Ноа Ву, Е Чжан и Руди Штауфс разработали метод глубокого обучения, который учится на имеющихся записях и строит сплошную карту опасности наводнений с разрешением 30 метров для континентальной части США. По их оценке, в национальной базе 2023 года не учтены 11 миллионов человек и 4,1 миллиона зданий в зонах затопления, то есть на 69 и 81 процент больше, чем в официальных данных. Анализ 917 городов показывает, что именно полностью не закартированные территории непропорционально часто населяют уязвимые группы, такие как пожилые люди и дети. Метод имеет открытый исходный код.",
+    "why": "Тот, кто не знает, что его дом находится в зоне затопления, не страхует и не защищает его. Хорошие карты лежат в основе предупреждений, страхования и строительных норм, а пока их нет как раз там, где живёт много уязвимых людей.",
+    "caveat": "Цифры — модельные оценки, а не измерения; проверка на местах для всех вновь выявленных территорий ещё впереди. Исследование даёт карты опасности, а не прогнозы отдельных наводнений. Будут ли власти использовать эти карты, пока неясно."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-74336-x/MediaObjects/41467_2026_74336_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Nature Communications",
+    "link": "https://www.nature.com/articles/s41467-026-74336-x"
+   }
+  },
+  {
+   "id": "2026-11-20-esa-elnino-kohlenstoff",
+   "date": "2026-11-20",
+   "published": "2026-11-10",
+   "category": "klima",
+   "countries": [
+    "INT"
+   ],
+   "institution": "European Space Agency, ECMWF, LSCE",
+   "maturity": "preprint",
+   "source": {
+    "name": "ESA (Climate Change Initiative)",
+    "url": "https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/futureeo/space-for-our-climate/predicting-el-nino-s-impact-on-carbon-sinks"
+   },
+   "more": [],
+   "de": {
+    "title": "El Niño 2026: Satelliten und maschinelles Lernen sagen voraus, wo Landökosysteme weniger Kohlenstoff speichern",
+    "summary": "Satellitenbeobachtungen und saisonale Prognosen deuten auf einen der stärksten El-Niño-Ereignisse seit Jahrzehnten hin. Ein Team mit ESA, dem Europäischen Zentrum für mittelfristige Wettervorhersage (ECMWF) und dem Institut LSCE koppelte 51 saisonale Klimaprognosen mit Landmodellen. Maschinelles Lernen sagt dabei die verbrannte Fläche voraus, aus der sich der Kohlenstoffausstoß durch Feuer ergibt; trainiert wurde mit langjährigen globalen Satellitendaten der ESA. Für Juli bis Dezember 2026 ergibt sich eine Abnahme der Nettoproduktion der Landökosysteme um etwa 230 Millionen Tonnen, 44 Prozent davon in Südamerika. In Äquatorial-Südostasien könnte sich die verbrannte Fläche gegenüber 2015 bis 2026 verfünf- bis versechsfachen; die Risikogebiete überlappen fast 13 Millionen Hektar kohlenstoffreicher Wald und Torfland.",
+    "why": "Wälder und Böden nehmen einen großen Teil unserer CO2-Emissionen auf, und in starken El-Niño-Jahren ließ diese Senke zeitweise um bis zu 50 Prozent nach. Frühe Prognosen können zeigen, wo Brandschutz am dringendsten ist.",
+    "caveat": "Es handelt sich um Prognosen, nicht um Messungen, und sie hängen von den verwendeten Klima- und Landmodellen ab. Die Arbeit lag zur Veröffentlichung als Vorabdruck unter Begutachtung, und die erwartete Abnahme ist kleiner als im starken El Niño von 2015."
+   },
+   "en": {
+    "title": "El Niño 2026: satellites and machine learning forecast where land ecosystems will store less carbon",
+    "summary": "Satellite observations and seasonal forecasts point to one of the strongest El Niño events in recent decades. A team involving ESA, the European Centre for Medium-Range Weather Forecasts (ECMWF) and the LSCE institute coupled 51 seasonal climate forecasts with land-surface models. Machine learning predicts burned area, from which the carbon released by fires follows; it was trained on long-term global satellite records from ESA's Climate Change Initiative. For July to December 2026 the result is a reduction in net biome productivity of about 230 million tonnes, 44 percent of it in South America. In equatorial Southeast Asia, burned area could rise five- to sixfold relative to 2015 to 2026, with fire-risk areas overlapping almost 13 million hectares of carbon-rich forest and peatland.",
+    "why": "Forests and soils absorb a large share of our CO2 emissions, and in strong El Niño years this sink weakened by up to 50 percent. Early forecasts can show where fire prevention is most urgent.",
+    "caveat": "These are forecasts, not measurements, and they depend on the climate and land models used. The work was under review as a preprint when published, and the projected decline is smaller than in the strong 2015 El Niño."
+   },
+   "ru": {
+    "title": "Эль-Ниньо 2026: спутники и машинное обучение предсказывают, где экосистемы суши будут поглощать меньше углерода",
+    "summary": "Спутниковые наблюдения и сезонные прогнозы указывают на одно из сильнейших событий Эль-Ниньо за последние десятилетия. Команда с участием ESA, Европейского центра среднесрочных прогнозов погоды (ECMWF) и института LSCE объединила 51 сезонный климатический прогноз с моделями суши. Машинное обучение предсказывает выгоревшую площадь, по которой определяются выбросы углерода от пожаров; модель обучали на многолетних глобальных спутниковых данных Climate Change Initiative ESA. Для июля—декабря 2026 года получено снижение чистой продуктивности экосистем суши примерно на 230 миллионов тонн, из них 44 процента приходится на Южную Америку. В экваториальной Юго-Восточной Азии выгоревшая площадь может вырасти в пять–шесть раз по сравнению с 2015–2026 годами, а зоны риска перекрывают почти 13 миллионов гектаров богатых углеродом лесов и торфяников.",
+    "why": "Леса и почвы поглощают значительную часть наших выбросов CO2, а в сильные годы Эль-Ниньо этот сток ослабевал до 50 процентов. Ранние прогнозы показывают, где защита от пожаров нужнее всего.",
+    "caveat": "Это прогнозы, а не измерения, и они зависят от использованных климатических моделей и моделей суши. На момент публикации работа находилась на рецензировании как препринт, а ожидаемое снижение меньше, чем при сильном Эль-Ниньо 2015 года."
+   },
+   "image": {
+    "src": "https://media.esa.int/global/public/on-demand/image/2026/11/402428/image-thumb__402428__social_share/borneo-s3-olci-20261014-rotated.a9b20777.jpg",
+    "kind": "press",
+    "credit": "Bild: ESA",
+    "link": "https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/futureeo/space-for-our-climate/predicting-el-nino-s-impact-on-carbon-sinks"
+   }
+  },
   {
    "id": "2026-11-19-unesco-klima-ki",
    "date": "2026-11-19",

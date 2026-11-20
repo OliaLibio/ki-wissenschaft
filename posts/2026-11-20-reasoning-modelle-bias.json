@@ -1,0 +1,46 @@
+{
+ "id": "2026-11-20-reasoning-modelle-bias",
+ "date": "2026-11-20",
+ "published": "2026-09-01",
+ "category": "grenzen",
+ "countries": [
+  "US",
+  "KR"
+ ],
+ "institution": "Rutgers University",
+ "maturity": "study",
+ "source": {
+  "name": "Nature Machine Intelligence via Tech Xplore",
+  "url": "https://techxplore.com/news/2026-11-ai-bots-harder-defy-stereotypes.html"
+ },
+ "more": [
+  {
+   "name": "Nature Machine Intelligence",
+   "url": "https://www.nature.com/articles/s42256-026-01300-1"
+  }
+ ],
+ "de": {
+  "title": "Auch KI hat „implizite Vorurteile“: Reasoning-Modelle denken länger, wenn sie gegen Stereotype entscheiden sollen",
+  "summary": "Messi H. J. Lee und Calvin K. Lai (Rutgers) haben den Impliziten Assoziationstest der Psychologie auf Denkmodelle übertragen. Statt Antwortzeiten messen sie die Zahl der „Denk-Token“ als Maß für den Rechenaufwand (RM-IAT). Bei vier Modellen (o3-mini, DeepSeek-R1, gpt-oss-20b, Qwen3-8B) brauchten Aufgaben, die gegen ein Stereotyp laufen, etwa „Amy“ mit „Führungskraft“ zu verbinden, mehr Rechenaufwand als stereotypkonforme. Claude 3.7 Sonnet zeigte das umgekehrte Muster, was die Autoren mit seinem internen Nachdenken über Vorurteile und Stereotype verbinden. Die Effekte sagten auch Verzerrungen in zwei bekannten Aufgaben zu Wortassoziation und Entscheidungen voraus.",
+  "why": "Verzerrungen zeigen sich damit nicht nur in der fertigen Antwort, sondern schon im Denkprozess der Modelle. Das hilft, versteckte Vorurteile zu finden, die eine glatte Endantwort verdeckt.",
+  "caveat": "Die Studie untersucht Wortpaar-Aufgaben bei nur fünf Modellen, darunter kleine offene wie Qwen3-8B. Die Zahl der Denk-Token ist ein indirektes Maß für „Aufwand“, keine Aussage über echtes Denken. Die Mitteilung nennt keine konkreten Zahlen."
+ },
+ "en": {
+  "title": "AI also has 'implicit bias': reasoning models think longer when asked to go against stereotypes",
+  "summary": "Messi H. J. Lee and Calvin K. Lai (Rutgers) transferred psychology's Implicit Association Test to reasoning models. Instead of response times they count reasoning tokens as an index of computational effort (RM-IAT). In four models (o3-mini, DeepSeek-R1, gpt-oss-20b, Qwen3-8B), association-incompatible tasks, such as pairing 'Amy' with 'executive', required more effort than compatible ones. Claude 3.7 Sonnet showed the reverse pattern, which the authors link to its internal reasoning about bias and stereotypes. The effects also predicted biases in two established tasks on word association and decision-making.",
+  "why": "Bias thus shows up not only in the final answer but already in how models process information. That helps uncover hidden prejudice that a polished final answer can mask.",
+  "caveat": "The study uses word-pairing tasks in only five models, including small open ones such as Qwen3-8B. Reasoning-token counts are an indirect measure of 'effort', not evidence of human-like thinking. The release gives no specific figures."
+ },
+ "ru": {
+  "title": "У ИИ тоже есть «неявные предубеждения»: модели рассуждения думают дольше, когда должны идти против стереотипов",
+  "summary": "Месси Х. Дж. Ли и Калвин К. Лай (Rutgers) перенесли психологический тест неявных ассоциаций на модели рассуждения. Вместо времени ответа они считают число токенов рассуждения как показатель вычислительных усилий (RM-IAT). У четырёх моделей (o3-mini, DeepSeek-R1, gpt-oss-20b, Qwen3-8B) задачи, идущие против стереотипа, например связать «Эми» со словом «руководитель», требовали больше усилий, чем согласующиеся со стереотипом. Claude 3.7 Sonnet показал обратную картину, которую авторы связывают с его внутренними рассуждениями о предвзятости и стереотипах. Эти эффекты также предсказывали смещения в двух известных задачах на словесные ассоциации и принятие решений.",
+  "why": "Предвзятость проявляется не только в готовом ответе, но и в самом процессе обработки информации. Это помогает находить скрытые предубеждения, которые гладкий итоговый ответ маскирует.",
+  "caveat": "Исследование охватывает задачи на сопоставление слов лишь у пяти моделей, включая небольшие открытые вроде Qwen3-8B. Число токенов рассуждения — косвенная мера «усилий», а не доказательство человекоподобного мышления. В сообщении нет конкретных цифр."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-026-01300-1/MediaObjects/42256_2026_1300_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Nature Machine Intelligence",
+  "link": "https://www.nature.com/articles/s42256-026-01300-1"
+ }
+}

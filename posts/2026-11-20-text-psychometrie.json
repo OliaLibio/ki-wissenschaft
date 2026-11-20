@@ -1,0 +1,45 @@
+{
+ "id": "2026-11-20-text-psychometrie",
+ "date": "2026-11-20",
+ "published": "2026-11-12",
+ "category": "grenzen",
+ "countries": [
+  "US"
+ ],
+ "institution": "Child Mind Institute / Harvard / MIT",
+ "maturity": "study",
+ "source": {
+  "name": "PLOS Digital Health via EurekAlert",
+  "url": "https://www.eurekalert.org/news-releases/1151915"
+ },
+ "more": [
+  {
+   "name": "DOI 10.1371/journal.pdig.0001757",
+   "url": "https://doi.org/10.1371/journal.pdig.0001757"
+  }
+ ],
+ "de": {
+  "title": "Gute Gesamtwerte, trotzdem blind für das Offensichtliche: Warum KI-Textanalysen in der Psychologie breiter geprüft werden müssen",
+  "summary": "Sprachmodelle werden zunehmend eingesetzt, um psychische Merkmale in Texten zu erkennen, werden aber selten so geprüft wie ein Fragebogen. Ein Team um Daniel Low (Child Mind Institute, Harvard, MIT) schlägt dafür den Rahmen „Text Psychometrics“ vor. In Studie 1 wurden Gespräche der Crisis Text Line (Pool von 52.270 Gesprächen) und Reddit-Beiträge aus 11 Foren zu psychischen Themen klassifiziert, je 4.000 Trainings- und 600 Testtexte pro Thema. Die Autoren führen „Inhaltsvalidität-Testsätze“ ein und berichten, dass Modelle mit guter Gesamtleistung dennoch typische Kernausdrücke übersehen können, etwa „Anorexie“ bei Essproblemen. In Studie 2 wurde mit 49 bekannten Risikofaktoren aus dem ersten Viertel der Gespräche untersucht, welche Merkmale auf akute Suizidgefahr hindeuten.",
+  "why": "KI-Werkzeuge für psychische Gesundheit werden schon erprobt, obwohl übliche Genauigkeitswerte seltene oder offensichtliche Fälle verdecken können. Eine breitere Prüfung soll verhindern, dass sich Betroffene auf Systeme verlassen, die gerade Kernsymptome übersehen.",
+  "caveat": "Nach Angaben der Autoren ist keine der beiden Studien ein psychometrisch validiertes Modell; Wiederholungszuverlässigkeit und weitere Gütekriterien wurden nicht geprüft. Die Daten stammen von überwiegend jungen, weißen, weiblichen Nutzern, die Testsätze sind ausgewogen und bilden reale Häufigkeiten nicht ab. Mehrere Autoren nennen Interessenkonflikte, etwa Beratung in Verfahren zu Suiziden."
+ },
+ "en": {
+  "title": "Good overall scores, yet blind to the obvious: why AI text analysis in psychology needs broader testing",
+  "summary": "Language models are increasingly used to detect psychological constructs in text, yet they are rarely validated like questionnaires. A team led by Daniel Low (Child Mind Institute, Harvard, MIT) proposes a framework called Text Psychometrics. In Study 1, Crisis Text Line conversations (from a pool of 52,270) and Reddit posts from 11 mental health subreddits were classified, with 4,000 training and 600 test texts per topic. The authors introduce content validity test sets and report that models with good overall performance can still miss prototypical core expressions, such as 'anorexia' for eating concerns. Study 2 used the first quarter of conversations and 49 known risk factors to see which features characterise conversations that ended up needing emergency intervention for imminent suicide risk.",
+  "why": "AI tools for mental health are already being tested although standard accuracy scores can hide rare or obvious cases. Broader validation is meant to keep people from relying on systems that miss core symptoms.",
+  "caveat": "According to the authors, neither study yields a fully psychometrically validated model; test-retest reliability and other properties were not assessed. The data skew young, female and white, the test sets are balanced and do not reflect real base rates. Several authors report competing interests, including consulting in legal cases involving suicide."
+ },
+ "ru": {
+  "title": "Хорошие общие показатели, но слепота к очевидному: почему ИИ-анализ текстов в психологии нужно проверять шире",
+  "summary": "Языковые модели всё чаще используют для выявления психологических признаков в текстах, но их редко проверяют так, как анкеты. Команда Дэниела Лоу (Child Mind Institute, Гарвард, MIT) предлагает для этого рамку «Text Psychometrics». В исследовании 1 классифицировали беседы Crisis Text Line (из пула в 52 270 бесед) и посты Reddit из 11 форумов о психическом здоровье, по 4000 обучающих и 600 тестовых текстов на тему. Авторы вводят тестовые наборы для проверки содержательной валидности и сообщают, что модели с хорошей общей эффективностью всё же могут пропускать типичные ключевые выражения, например «анорексия» при проблемах с питанием. В исследовании 2 по первой четверти бесед и 49 известным факторам риска изучали, какие признаки характеризуют беседы, потребовавшие экстренного вмешательства из-за угрозы суицида.",
+  "why": "ИИ-инструменты для психического здоровья уже испытывают, хотя обычные показатели точности могут скрывать редкие или очевидные случаи. Более широкая проверка нужна, чтобы не полагаться на системы, пропускающие ключевые симптомы.",
+  "caveat": "По словам авторов, ни одно из двух исследований не даёт полностью валидированной психометрически модели, надёжность при повторных измерениях и другие свойства не проверялись. Данные смещены в сторону молодых белых женщин, тестовые наборы сбалансированы и не отражают реальные частоты. Несколько авторов сообщают о конфликте интересов, в том числе о консультациях по делам о суицидах."
+ },
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Psychologist_at_work.jpg/960px-Psychologist_at_work.jpg",
+  "kind": "photo",
+  "credit": "Foto: Healme24, CC0, Wikimedia Commons",
+  "link": "https://commons.wikimedia.org/wiki/File:Psychologist_at_work.jpg"
+ }
+}

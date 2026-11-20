@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-20-pnas-lebenslauf-geschlecht",
+ "date": "2026-11-20",
+ "published": "2026-11-16",
+ "category": "grenzen",
+ "countries": [
+  "FR",
+  "IT"
+ ],
+ "institution": "ENS Lyon / Universität Bocconi",
+ "maturity": "study",
+ "source": {
+  "name": "PNAS",
+  "url": "https://doi.org/10.1073/pnas.2534118123"
+ },
+ "more": [],
+ "de": {
+  "title": "KI im Bewerbungsverfahren: Sprachmodelle schreiben Lebensläufe nach Geschlechterklischees und bewerten Frauen und Männer unterschiedlich",
+  "summary": "Sprachmodelle schreiben inzwischen Lebensläufe und bewerten Bewerbungen. Ein Team um Elass, Gauthier, Nozza und Profeta (ENS Lyon und Universität Bocconi) hat das in Prüfexperimenten untersucht, in denen das Geschlecht der Bewerberin oder des Bewerbers zufällig zugewiesen wurde und alle anderen Angaben gleich blieben. Die Modelle erzeugten geschlechtsstereotype Lebensläufe und zeigten Geschlechterverzerrungen bei Bewertungspunkten und Gehaltsempfehlungen. Die Bewertung folgte der Geschlechterverteilung der Berufe: Frauen wurden in männerdominierten Berufen benachteiligt und in frauendominierten bevorzugt. Gehaltsempfehlungen folgten den realen Lohnunterschieden, wenn das Geschlecht ausdrücklich genannt wurde; bei Signalen über den Namen wurde das schwächer und hing vom Modell ab. Die Autoren sehen zwei Wege: Bewertungsverzerrung (gleicher Inhalt, andere Bewertung) und Erzeugungsverzerrung (vom Modell geschriebene, geschlechtlich gefärbte Inhalte beeinflussen die spätere Bewertung).",
+  "why": "Wenn dasselbe KI-System Lebensläufe formulieren und prüfen hilft, können sich beide Verzerrungen gegenseitig verstärken. Wer sich auf KI-Vorauswahl verlässt, übernimmt damit unter Umständen alte Ungleichheiten.",
+  "caveat": "Es handelt sich um Prüfexperimente mit Sprachmodellen, nicht um reale Einstellungsentscheidungen. Der Effekt hängt laut Zusammenfassung vom eingesetzten Modell ab, und die Zusammenfassung nennt keine Zahlen zur Größe der Effekte."
+ },
+ "en": {
+  "title": "AI in hiring: language models write CVs along gender stereotypes and score women and men differently",
+  "summary": "Language models now help write CVs and evaluate applicants. A team around Elass, Gauthier, Nozza and Profeta (ENS Lyon and Bocconi University) studied this in audit experiments in which applicant gender was randomly assigned while all other information was held constant. The models generated gender-stereotypical CVs and showed gender bias in screening scores and wage recommendations. Scores tracked occupational gender segregation: women were penalised in male-dominated occupations and favoured in female-dominated ones. Wage recommendations tracked real occupational pay gaps when gender was explicit in the prompt, though this weakened under name-based signalling and depended on the model used. The authors identify two channels: evaluation bias (identical content judged differently) and generation bias (gendered content written by the model influences later evaluation).",
+  "why": "When the same AI system helps write and assess CVs, the two biases can reinforce each other. Relying on AI pre-screening may therefore carry old inequalities forward.",
+  "caveat": "These are audit experiments with language models, not real hiring decisions. According to the abstract the effect depends on the model used, and the abstract gives no numerical effect sizes."
+ },
+ "ru": {
+  "title": "ИИ при найме: языковые модели пишут резюме по гендерным стереотипам и по-разному оценивают женщин и мужчин",
+  "summary": "Языковые модели уже помогают составлять резюме и оценивать кандидатов. Команда Эласс, Готье, Ноццы и Профеты (ENS Лион и университет Боккони) изучила это в аудиторских экспериментах, где пол кандидата назначался случайно, а все остальные данные оставались прежними. Модели создавали резюме с гендерными стереотипами и показывали гендерные смещения в баллах отбора и рекомендациях по зарплате. Баллы повторяли гендерную сегрегацию профессий: женщин занижали в профессиях, где преобладают мужчины, и завышали там, где преобладают женщины. Рекомендации по зарплате повторяли реальные различия в оплате, если пол был указан явно; при сигнале через имя это ослабевало и зависело от модели. Авторы выделяют два механизма: смещение оценки (одинаковое содержание оценивается по-разному) и смещение генерации (написанное моделью гендерно окрашенное содержание влияет на последующую оценку).",
+  "why": "Если одна и та же система ИИ помогает писать и оценивать резюме, эти два смещения могут усиливать друг друга. Опора на ИИ-предотбор может тем самым переносить старое неравенство в новые процессы.",
+  "caveat": "Это аудиторские эксперименты с языковыми моделями, а не реальные решения о найме. По аннотации результат зависит от используемой модели, а численных размеров эффекта в аннотации нет."
+ },
+ "image": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Job_interview_0001.jpg",
+  "kind": "photo",
+  "credit": "Foto: bpsusf, CC BY 2.0, Wikimedia Commons",
+  "link": "https://commons.wikimedia.org/wiki/File:Job_interview_0001.jpg"
+ }
+}

@@ -6,6 +6,132 @@
   <description>Montag, Mittwoch, Freitag: Was KI heute in der Forschung erreicht. Gesundheit, Tiere, Mythen-Check, Klima, Archäologie, Grenzen.</description>
   <language>de</language>
   <item>
+   <title>Gute Gesamtwerte, trotzdem blind für das Offensichtliche: Warum KI-Textanalysen in der Psychologie breiter geprüft werden müssen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-text-psychometrie</link>
+   <guid isPermaLink="false">2026-11-20-text-psychometrie</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Sprachmodelle werden zunehmend eingesetzt, um psychische Merkmale in Texten zu erkennen, werden aber selten so geprüft wie ein Fragebogen. Ein Team um Daniel Low (Child Mind Institute, Harvard, MIT) schlägt dafür den Rahmen „Text Psychometrics“ vor. In Studie 1 wurden Gespräche der Crisis Text Line (Pool von 52.270 Gesprächen) und Reddit-Beiträge aus 11 Foren zu psychischen Themen klassifiziert, je 4.000 Trainings- und 600 Testtexte pro Thema. Die Autoren führen „Inhaltsvalidität-Testsätze“ ein und berichten, dass Modelle mit guter Gesamtleistung dennoch typische Kernausdrücke übersehen können, etwa „Anorexie“ bei Essproblemen. In Studie 2 wurde mit 49 bekannten Risikofaktoren aus dem ersten Viertel der Gespräche untersucht, welche Merkmale auf akute Suizidgefahr hindeuten.
+
+Warum das wichtig ist: KI-Werkzeuge für psychische Gesundheit werden schon erprobt, obwohl übliche Genauigkeitswerte seltene oder offensichtliche Fälle verdecken können. Eine breitere Prüfung soll verhindern, dass sich Betroffene auf Systeme verlassen, die gerade Kernsymptome übersehen.
+
+Vorbehalt: Nach Angaben der Autoren ist keine der beiden Studien ein psychometrisch validiertes Modell; Wiederholungszuverlässigkeit und weitere Gütekriterien wurden nicht geprüft. Die Daten stammen von überwiegend jungen, weißen, weiblichen Nutzern, die Testsätze sind ausgewogen und bilden reale Häufigkeiten nicht ab. Mehrere Autoren nennen Interessenkonflikte, etwa Beratung in Verfahren zu Suiziden.
+
+Quelle: PLOS Digital Health via EurekAlert – https://www.eurekalert.org/news-releases/1151915</description>
+  </item>
+  <item>
+   <title>Auch KI hat „implizite Vorurteile“: Reasoning-Modelle denken länger, wenn sie gegen Stereotype entscheiden sollen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-reasoning-modelle-bias</link>
+   <guid isPermaLink="false">2026-11-20-reasoning-modelle-bias</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Messi H. J. Lee und Calvin K. Lai (Rutgers) haben den Impliziten Assoziationstest der Psychologie auf Denkmodelle übertragen. Statt Antwortzeiten messen sie die Zahl der „Denk-Token“ als Maß für den Rechenaufwand (RM-IAT). Bei vier Modellen (o3-mini, DeepSeek-R1, gpt-oss-20b, Qwen3-8B) brauchten Aufgaben, die gegen ein Stereotyp laufen, etwa „Amy“ mit „Führungskraft“ zu verbinden, mehr Rechenaufwand als stereotypkonforme. Claude 3.7 Sonnet zeigte das umgekehrte Muster, was die Autoren mit seinem internen Nachdenken über Vorurteile und Stereotype verbinden. Die Effekte sagten auch Verzerrungen in zwei bekannten Aufgaben zu Wortassoziation und Entscheidungen voraus.
+
+Warum das wichtig ist: Verzerrungen zeigen sich damit nicht nur in der fertigen Antwort, sondern schon im Denkprozess der Modelle. Das hilft, versteckte Vorurteile zu finden, die eine glatte Endantwort verdeckt.
+
+Vorbehalt: Die Studie untersucht Wortpaar-Aufgaben bei nur fünf Modellen, darunter kleine offene wie Qwen3-8B. Die Zahl der Denk-Token ist ein indirektes Maß für „Aufwand“, keine Aussage über echtes Denken. Die Mitteilung nennt keine konkreten Zahlen.
+
+Quelle: Nature Machine Intelligence via Tech Xplore – https://techxplore.com/news/2026-11-ai-bots-harder-defy-stereotypes.html</description>
+  </item>
+  <item>
+   <title>ProNet: KI in den Gleichungen der Atmosphäre sagt Feinstaub sieben Tage voraus, so gut wie manuell korrigierte Eintagesprognosen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-pronet-luftqualitaet</link>
+   <guid isPermaLink="false">2026-11-20-pronet-luftqualitaet</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Ein Team um Huangjian Wu und Zifa Wang vom Institut für Atmosphärenphysik der Chinesischen Akademie der Wissenschaften hat neuronale Netze direkt in die Bilanzgleichungen eines Luftqualitätsmodells eingebaut. Das System ProNet nutzt dafür routinemäßige Feinstaubmessungen am Boden, um Fehler im Modell einzelnen Prozessen zuzuordnen. Über ein Jahr hinweg in 338 chinesischen Städten getestet, erreichten die Siebentagesprognosen von ProNet mindestens die Güte von Eintagesprognosen, die menschliche Fachleute von Hand nachkorrigiert hatten. Bei einem schweren Staubsturm im Frühjahr in Peking sank der Prognosefehler um 62 Prozent. Nebenbei zeigte das Verfahren, dass übliche Modelle die Nitratbildung überschätzen und die Sulfatbildung im Winter unterschätzen.
+
+Warum das wichtig ist: Verlässliche Feinstaubprognosen helfen bei Warnungen für Asthmakranke und bei der Planung von Maßnahmen gegen Smog. Weil die KI hier Teil der physikalischen Gleichungen bleibt, lässt sich nachvollziehen, welcher Prozess im Modell falsch lag.
+
+Vorbehalt: Die 62 Prozent stammen aus einem einzelnen Staubsturm in Peking. Getestet wurde nur in chinesischen Städten, die Übertragbarkeit ist offen. Die Angaben stammen aus der Pressemitteilung; die vollständige Studie konnte ich nicht einsehen.
+
+Quelle: National Science Review via EurekAlert (Science China Press) – https://www.eurekalert.org/news-releases/1147373</description>
+  </item>
+  <item>
+   <title>KI im Bewerbungsverfahren: Sprachmodelle schreiben Lebensläufe nach Geschlechterklischees und bewerten Frauen und Männer unterschiedlich</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-pnas-lebenslauf-geschlecht</link>
+   <guid isPermaLink="false">2026-11-20-pnas-lebenslauf-geschlecht</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Sprachmodelle schreiben inzwischen Lebensläufe und bewerten Bewerbungen. Ein Team um Elass, Gauthier, Nozza und Profeta (ENS Lyon und Universität Bocconi) hat das in Prüfexperimenten untersucht, in denen das Geschlecht der Bewerberin oder des Bewerbers zufällig zugewiesen wurde und alle anderen Angaben gleich blieben. Die Modelle erzeugten geschlechtsstereotype Lebensläufe und zeigten Geschlechterverzerrungen bei Bewertungspunkten und Gehaltsempfehlungen. Die Bewertung folgte der Geschlechterverteilung der Berufe: Frauen wurden in männerdominierten Berufen benachteiligt und in frauendominierten bevorzugt. Gehaltsempfehlungen folgten den realen Lohnunterschieden, wenn das Geschlecht ausdrücklich genannt wurde; bei Signalen über den Namen wurde das schwächer und hing vom Modell ab. Die Autoren sehen zwei Wege: Bewertungsverzerrung (gleicher Inhalt, andere Bewertung) und Erzeugungsverzerrung (vom Modell geschriebene, geschlechtlich gefärbte Inhalte beeinflussen die spätere Bewertung).
+
+Warum das wichtig ist: Wenn dasselbe KI-System Lebensläufe formulieren und prüfen hilft, können sich beide Verzerrungen gegenseitig verstärken. Wer sich auf KI-Vorauswahl verlässt, übernimmt damit unter Umständen alte Ungleichheiten.
+
+Vorbehalt: Es handelt sich um Prüfexperimente mit Sprachmodellen, nicht um reale Einstellungsentscheidungen. Der Effekt hängt laut Zusammenfassung vom eingesetzten Modell ab, und die Zusammenfassung nennt keine Zahlen zur Größe der Effekte.
+
+Quelle: PNAS – https://doi.org/10.1073/pnas.2534118123</description>
+  </item>
+  <item>
+   <title>Ultraverarbeitete Kost insgesamt nicht mit Darmkrebs verknüpft, bestimmte Produkte aber schon</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-mythos-ultraverarbeitet-darmkrebs</link>
+   <guid isPermaLink="false">2026-11-20-mythos-ultraverarbeitet-darmkrebs</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>mythen</category>
+   <description>Ultraverarbeitete Lebensmittel gelten oft pauschal als krebsfördernd. Ein Team um Erikka Loftfield am US-amerikanischen National Cancer Institute wertete die NIH-AARP-Ernährungsstudie aus: 461.682 Amerikaner im Alter von 50 bis 71 Jahren, die 1995/96 Fragebögen ausfüllten und im Median 18,8 Jahre bis 2018 beobachtet wurden. Die Gesamtmenge ultraverarbeiteter Lebensmittel hing nicht mit der Darmkrebsrate zusammen. Ersetzte man rechnerisch 10 Prozent (nach Gewicht) davon durch gering verarbeitete Lebensmittel, war die Rate 2 Prozent niedriger. Laut Berichten über die Studie unterschieden sich die Produktgruppen: ultraverarbeitetes Fleisch hing mit mehr Darmkrebs zusammen, ultraverarbeitete Vollkorn- und Milchprodukte mit weniger.
+
+Warum das wichtig ist: Die Pauschalwarnung vor allem Ultraverarbeiteten trifft für Darmkrebs nicht zu; entscheidend scheint zu sein, um welche Produkte es geht. Verarbeitetes Fleisch bleibt der Teil, bei dem die Daten ein höheres Risiko zeigen.
+
+Vorbehalt: Beobachtungsstudie, die keine Ursache belegt. Die Ernährung wurde nur einmal zu Beginn erfragt, die meisten Teilnehmer waren ältere weiße Amerikaner, und die Verfügbarkeit ultraverarbeiteter Produkte stieg im Studienzeitraum, sodass die Zufuhr womöglich unterschätzt wurde. Die Studie sagt nichts über andere Krankheiten wie Diabetes oder Herzleiden.
+
+Quelle: PLOS Medicine via ScienceDaily – https://sciencedaily.com/releases/2026/10/261020085014.htm</description>
+  </item>
+  <item>
+   <title>Mehr fettfreie Masse heißt nicht automatisch gesünderer Stoffwechsel: Bauchfett entscheidet mit</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-mythos-muskelmasse-stoffwechsel</link>
+   <guid isPermaLink="false">2026-11-20-mythos-muskelmasse-stoffwechsel</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>mythen</category>
+   <description>Muskeln gelten als Stoffwechselschutz. Ein Team um Sri Lakshmi Devarakonda und Candida Rebello vom Pennington Biomedical Research Center wertete Daten von 59.269 Teilnehmern der UK Biobank (Alter 37 bis 73) aus, bei denen Körperzusammensetzung per DXA und MRT gemessen worden war. Rund 20 Prozent (12.073) erfüllten die Kriterien eines metabolischen Syndroms, rund 12 Prozent (6.907) hatten erhöhte HbA1c-Werte. Bei höherer fettfreier Masse insgesamt und bezogen auf die Körpergröße traten beide häufiger auf, bezogen auf das Körpergewicht dagegen seltener. Den stärksten Einfluss hatte das Bauchfett um die Organe, auch Fett im Muskel spielte eine Rolle.
+
+Warum das wichtig ist: Wie viel Muskel jemand hat, sagt allein wenig über die Stoffwechselgesundheit; wo Fett sitzt, zählt mit. Das heißt nicht, dass Muskelaufbau schadet.
+
+Vorbehalt: Querschnittsstudie: Sie zeigt Zusammenhänge, keine Ursache, und kann nicht klären, was zuerst da war. Fettfreie Masse enthält auch Organe und Wasser, nicht nur Muskeln. Die Teilnehmer der UK Biobank sind im Schnitt gesünder als die Bevölkerung, Angaben zur Finanzierung fehlen in den gesichteten Quellen.
+
+Quelle: Journal of Clinical Endocrinology &amp; Metabolism (Oxford University Press) – https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgag407/8876181</description>
+  </item>
+  <item>
+   <title>Light-Getränke statt Wasser: Nach zwei Jahren kein Nachteil beim Abnehmen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-mythos-diet-drinks</link>
+   <guid isPermaLink="false">2026-11-20-mythos-diet-drinks</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>mythen</category>
+   <description>Süßstoffgetränke stehen im Verdacht, Heißhunger zu fördern und das Abnehmen zu erschweren. Das Team um Joanne Harrold und Jason Halford (University of Liverpool) hat in der SWITCH-Studie 493 Erwachsene mit Übergewicht (BMI 27 bis 35) zufällig einer von zwei Gruppen zugeteilt: 246 tranken täglich Wasser, 247 Getränke mit Süßstoffen wie Aspartam, Acesulfam-K oder Sucralose. Beide Gruppen nahmen an einem Programm zur Gewichtsabnahme teil, ein Jahr mit Betreuung, danach ein freiwilliges Jahr ohne. Nach 104 Wochen lag der Gewichtsverlust bei 4,8 kg in der Süßstoffgruppe und 3,7 kg in der Wassergruppe; der Unterschied war nicht signifikant, die Gruppen galten als gleichwertig. 220 Personen erreichten die letzte Phase.
+
+Warum das wichtig ist: Die Studie spricht dagegen, dass Light-Getränke das Abnehmen aktiv behindern, wenn sie Zuckergetränke ersetzen. Sie sagt aber nichts über Zahnschäden, Darmflora oder Herz-Kreislauf-Risiken auf lange Sicht.
+
+Vorbehalt: Finanziert wurde die Studie vom US-Getränkeverband American Beverage Association; die Autoren betonen ihre Unabhängigkeit bei Auswertung und Bericht. Offene Studie ohne Verblindung, und nur 220 der 493 Teilnehmer erreichten das Ende der zweiten Phase. Sie betrifft Menschen in einem Abnehmprogramm, nicht den Alltag allgemein.
+
+Quelle: British Journal of Nutrition (Cambridge University Press) – https://www.cambridge.org/core/product/identifier/S0007114526108150/type/journal_article</description>
+  </item>
+  <item>
+   <title>Deep Learning füllt die Lücken der US-Hochwasserkarten: Millionen Menschen mehr in Risikozonen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-flutkarten-usa</link>
+   <guid isPermaLink="false">2026-11-20-flutkarten-usa</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Die offiziellen US-Hochwasserkarten decken nur ein Drittel der Flussläufe ab. Abraham Noah Wu, Ye Zhang und Rudi Stouffs haben ein Deep-Learning-Verfahren entwickelt, das aus vorhandenen Kartenaufzeichnungen lernt und daraus eine lückenlose Gefahrenkarte mit 30 Metern Auflösung für die zusammenhängenden USA erstellt. Nach ihrer Schätzung fehlen in der nationalen Datenbank von 2023 elf Millionen Menschen und 4,1 Millionen Gebäude in Überschwemmungszonen, das sind 69 Prozent beziehungsweise 81 Prozent mehr als in den offiziellen Karten. Eine Analyse von 917 Städten zeigt, dass gerade die völlig unkartierten Gebiete überdurchschnittlich viele verletzliche Gruppen wie Ältere und Kinder beherbergen. Die Methode ist quelloffen.
+
+Warum das wichtig ist: Wer nicht weiß, dass sein Haus in einer Hochwasserzone liegt, versichert und schützt es nicht. Gute Karten sind die Grundlage für Warnungen, Versicherungen und Bauplanung, und bisher fehlen sie gerade dort, wo viele Menschen besonders verletzlich sind.
+
+Vorbehalt: Die Zahlen sind Modellschätzungen und keine Messungen; eine Überprüfung vor Ort für alle neu ausgewiesenen Gebiete steht aus. Die Studie liefert Gefahrenkarten, keine Vorhersage einzelner Hochwasser. Ob und wie die Behörden die Karten nutzen, ist offen.
+
+Quelle: Nature Communications – https://www.nature.com/articles/s41467-026-74336-x</description>
+  </item>
+  <item>
+   <title>El Niño 2026: Satelliten und maschinelles Lernen sagen voraus, wo Landökosysteme weniger Kohlenstoff speichern</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-esa-elnino-kohlenstoff</link>
+   <guid isPermaLink="false">2026-11-20-esa-elnino-kohlenstoff</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Satellitenbeobachtungen und saisonale Prognosen deuten auf einen der stärksten El-Niño-Ereignisse seit Jahrzehnten hin. Ein Team mit ESA, dem Europäischen Zentrum für mittelfristige Wettervorhersage (ECMWF) und dem Institut LSCE koppelte 51 saisonale Klimaprognosen mit Landmodellen. Maschinelles Lernen sagt dabei die verbrannte Fläche voraus, aus der sich der Kohlenstoffausstoß durch Feuer ergibt; trainiert wurde mit langjährigen globalen Satellitendaten der ESA. Für Juli bis Dezember 2026 ergibt sich eine Abnahme der Nettoproduktion der Landökosysteme um etwa 230 Millionen Tonnen, 44 Prozent davon in Südamerika. In Äquatorial-Südostasien könnte sich die verbrannte Fläche gegenüber 2015 bis 2026 verfünf- bis versechsfachen; die Risikogebiete überlappen fast 13 Millionen Hektar kohlenstoffreicher Wald und Torfland.
+
+Warum das wichtig ist: Wälder und Böden nehmen einen großen Teil unserer CO2-Emissionen auf, und in starken El-Niño-Jahren ließ diese Senke zeitweise um bis zu 50 Prozent nach. Frühe Prognosen können zeigen, wo Brandschutz am dringendsten ist.
+
+Vorbehalt: Es handelt sich um Prognosen, nicht um Messungen, und sie hängen von den verwendeten Klima- und Landmodellen ab. Die Arbeit lag zur Veröffentlichung als Vorabdruck unter Begutachtung, und die erwartete Abnahme ist kleiner als im starken El Niño von 2015.
+
+Quelle: ESA (Climate Change Initiative) – https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/futureeo/space-for-our-climate/predicting-el-nino-s-impact-on-carbon-sinks</description>
+  </item>
+  <item>
    <title>KI-Chatbots geben bei Klimafragen nach: Nach wiederholtem Widerspruch sinkt die Genauigkeit um 31 bis 35 Prozentpunkte</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-19-unesco-klima-ki</link>
    <guid isPermaLink="false">2026-11-19-unesco-klima-ki</guid>
