@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-20-tells-radar-irak",
+ "date": "2026-11-20",
+ "published": "2026-07-07",
+ "category": "archaeologie",
+ "countries": [
+  "IT",
+  "IQ"
+ ],
+ "institution": "Istituto Italiano di Tecnologia / Università Ca' Foscari Venezia",
+ "maturity": "study",
+ "source": {
+  "name": "Remote Sensing (MDPI)",
+  "url": "https://doi.org/10.3390/rs18132255"
+ },
+ "more": [],
+ "de": {
+  "title": "Deep Learning findet antike Siedlungshügel im Irak auf Radarbildern von Satelliten",
+  "summary": "Ein Team um Elena Chiricallo und Arianna Traviglia vom Istituto Italiano di Tecnologia und der Universität Ca' Foscari Venedig hat eine Deep-Learning-Pipeline entwickelt, die im zentralen Irak archäologische Siedlungshügel, sogenannte Tells, automatisch erkennt und umrandet. Sie nutzt das Modell YOLOv8-Seg mit Radardaten des Satelliten Sentinel-1 und einem 30-Meter-Höhenmodell von Copernicus. Auf den Testflächen erreicht das Modell eine mittlere Präzision (Average Precision) von 0,495 und eine Überlappung (IoU) von 0,361. Die Auswertung durch Archäologen bestätigt die Verlässlichkeit und führte auch zu bislang nicht kartierten möglichen Fundstätten. In einem benachbarten Gebiet im Iran ließ sich das Verfahren übertragen, brauchte aber regionale Feinanpassung.",
+  "why": "Viele Fundstätten in Mesopotamien verschwinden durch Landwirtschaft und Bebauung, bevor jemand sie kartiert hat. Radar sieht auch bei Bewölkung und im großen Maßstab, die KI erstellt daraus Kandidatenlisten für Archäologen.",
+  "caveat": "Eine Average Precision von etwa 0,5 ist ein Ausgangswert, keine fertige Kartierung: Viele Treffer und Lücken bleiben. Die „möglichen neuen Stätten“ sind Kandidaten und noch nicht im Gelände bestätigt."
+ },
+ "en": {
+  "title": "Deep learning finds ancient settlement mounds in Iraq on satellite radar images",
+  "summary": "A team including Elena Chiricallo and Arianna Traviglia at the Istituto Italiano di Tecnologia and Ca' Foscari University of Venice built a deep-learning pipeline that automatically detects and outlines archaeological settlement mounds, known as tells, in central Iraq. It uses the YOLOv8-Seg model with Sentinel-1 radar data and the Copernicus 30-metre elevation model. On the test areas the model reaches an average precision of 0.495 and an intersection over union of 0.361. Archaeological interpretation of its output confirms its reliability and also pointed to previously unmapped potential sites. The method transferred to a nearby area in Iran, but needed regional fine-tuning.",
+  "why": "Many sites in Mesopotamia vanish under farming and construction before anyone maps them. Radar sees through cloud and at large scale, and the AI turns it into candidate lists for archaeologists.",
+  "caveat": "An average precision of about 0.5 is a baseline, not a finished map: many misses and false hits remain. The \"possible new sites\" are candidates and have not yet been confirmed in the field."
+ },
+ "ru": {
+  "title": "Глубокое обучение находит древние поселенческие холмы в Ираке на спутниковых радарных снимках",
+  "summary": "Команда, в которую входят Элена Кьярикалло и Арианна Травилья из Итальянского технологического института и Университета Ка’ Фоскари в Венеции, создала конвейер глубокого обучения, автоматически находящий и обводящий археологические поселенческие холмы — телли — в центральном Ираке. Он использует модель YOLOv8-Seg с радарными данными спутника Sentinel-1 и 30-метровой цифровой моделью рельефа Copernicus. На тестовых участках модель достигает средней точности 0,495 и пересечения над объединением 0,361. Археологическая интерпретация результатов подтверждает надёжность метода и указала на прежде не нанесённые на карту возможные памятники. На соседнем участке в Иране метод удалось перенести, но потребовалась региональная донастройка.",
+  "why": "Многие памятники Месопотамии исчезают под плугом и застройкой, не успев попасть на карту. Радар видит сквозь облака и в больших масштабах, а ИИ превращает данные в списки кандидатов для археологов.",
+  "caveat": "Средняя точность около 0,5 — это исходный уровень, а не готовая карта: остаётся много пропусков и ложных срабатываний. «Возможные новые памятники» — лишь кандидаты, на местности они пока не подтверждены."
+ },
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/105._The_archeological_site_of_Bakr_Awa%2C_an_ancient_mound_near_Halabja%2C_Shahrizor_Plain%2C_Sulaymaniyah%2C_Iraq._November_4%2C_2022._The_tell_and_its_surrounding_area_were_lastly_excavated_in_2014._An_area_before_the_tell.jpg/960px-thumbnail.jpg",
+  "kind": "photo",
+  "credit": "Foto: Neuroforever, CC BY-SA 4.0, Wikimedia Commons (Tell Bakr Awa, Irakisch-Kurdistan; Illustration, nicht aus der Studie)",
+  "link": "https://commons.wikimedia.org/wiki/File:105._The_archeological_site_of_Bakr_Awa,_an_ancient_mound_near_Halabja,_Shahrizor_Plain,_Sulaymaniyah,_Iraq._November_4,_2022._The_tell_and_its_surrounding_area_were_lastly_excavated_in_2014._An_area_before_the_tell.jpg"
+ }
+}

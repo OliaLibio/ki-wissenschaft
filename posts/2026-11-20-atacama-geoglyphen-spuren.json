@@ -1,0 +1,45 @@
+{
+ "id": "2026-11-20-atacama-geoglyphen-spuren",
+ "date": "2026-11-20",
+ "published": "2026-06-16",
+ "category": "archaeologie",
+ "countries": [
+  "CL"
+ ],
+ "institution": "Fundación Desierto de Atacama",
+ "maturity": "study",
+ "source": {
+  "name": "Antiquity",
+  "url": "https://doi.org/10.15184/aqy.2026.10372"
+ },
+ "more": [
+  {
+   "name": "Antiquity, Volume 100, Issue 413",
+   "url": "https://www.cambridge.org/core/product/3C8182D175D095F48EBC898A3A4F3AB3/core-reader"
+  }
+ ],
+ "de": {
+  "title": "KI zählt Reifenspuren: 95 Prozent der Geoglyphen von Alto Caramucho in der Atacama sind beschädigt",
+  "summary": "Ein Team um den Archäologen Gonzalo Pimentel dokumentierte die Schäden an den Geoglyphen von Alto Caramucho in der Atacama-Wüste mit Fotos aus mehr als zwei Jahrzehnten, Luftbild-Photogrammetrie und künstlicher Intelligenz. Das Segmentierungsmodell DeepLabv3 lernte, Fahrspuren von unberührtem Wüstenboden zu unterscheiden, trainiert mit 91 beschrifteten Bildausschnitten von je 768 mal 768 Pixeln. Auf den Testdaten erreichte es einen F1-Wert von 76,75 Prozent. Im Zentralbereich der Anlage sind demnach 95 Prozent der Geoglyphen von Fahrzeugspuren betroffen. Der Beitrag in der Rubrik Project Gallery der Zeitschrift Antiquity beschreibt dies als Katastrophe für das Kulturerbe.",
+  "why": "Geoglyphen sind riesige, nur flach in den Boden gescharrte Bilder, und jede Reifenspur zerstört sie unwiederbringlich. Automatisch ausgewertete Luftbilder machen den Schaden messbar und liefern damit ein Argument für Schutzmaßnahmen.",
+  "caveat": "Ein F1-Wert von knapp 77 Prozent heißt, dass die KI Spuren verfehlt oder falsch markiert; wie genau die 95 Prozent zustande kommen, geht aus der Kurzfassung nicht hervor. Es handelt sich um einen kurzen Projektbericht über eine einzelne Fundstätte, nicht um eine unabhängige Prüfung."
+ },
+ "en": {
+  "title": "AI counts tyre tracks: 95 percent of the Alto Caramucho geoglyphs in the Atacama are damaged",
+  "summary": "A team led by archaeologist Gonzalo Pimentel documented the damage to the Alto Caramucho geoglyphs in Chile's Atacama Desert using photographs spanning more than two decades, aerial photogrammetry and artificial intelligence. The segmentation model DeepLabv3 learned to tell vehicle tracks from untouched desert ground, trained on 91 labelled image grids of 768 by 768 pixels. On the test data it reached an F1 score of 76.75 percent. In the central area of the site, 95 percent of the geoglyphs are affected by vehicle tracks. The paper, in the Project Gallery section of Antiquity, calls this a heritage disaster.",
+  "why": "Geoglyphs are huge images only scraped into the surface, and every tyre track destroys them for good. Automated analysis of aerial images makes the damage measurable and gives a case for protection.",
+  "caveat": "An F1 score of about 77 percent means the AI misses or mislabels some tracks; the abstract does not say exactly how the 95 percent figure was derived. This is a short project report on a single site, not an independent audit."
+ },
+ "ru": {
+  "title": "ИИ считает следы шин: 95 процентов геоглифов Альто-Карамучо в Атакаме повреждены",
+  "summary": "Команда археолога Гонсало Пименталя задокументировала ущерб геоглифам Альто-Карамучо в пустыне Атакама по фотографиям за более чем два десятилетия, аэрофотограмметрии и искусственному интеллекту. Модель сегментации DeepLabv3 научилась отличать следы транспорта от нетронутого грунта; обучение велось на 91 размеченном фрагменте изображений размером 768 на 768 пикселей. На тестовых данных она показала F1-меру 76,75 процента. В центральной части памятника, по оценке авторов, следы транспорта затронули 95 процентов геоглифов. В статье рубрики Project Gallery журнала Antiquity это названо катастрофой для культурного наследия.",
+  "why": "Геоглифы — огромные рисунки, лишь слегка процарапанные в поверхности, и каждый след шины уничтожает их навсегда. Автоматический анализ аэроснимков делает ущерб измеримым и даёт аргумент в пользу защиты.",
+  "caveat": "F1-мера около 77 процентов означает, что ИИ часть следов пропускает или размечает неверно; как именно получена цифра 95 процентов, из аннотации не ясно. Это краткий проектный отчёт об одном памятнике, а не независимый аудит."
+ },
+ "image": {
+  "src": "https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0003598X2610372X/resource/name/S0003598X2610372X_figAb.png",
+  "kind": "press",
+  "credit": "Bild: Antiquity / Cambridge University Press (Pimentel et al.)",
+  "link": "https://doi.org/10.15184/aqy.2026.10372"
+ }
+}

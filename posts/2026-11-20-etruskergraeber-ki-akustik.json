@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-20-etruskergraeber-ki-akustik",
+ "date": "2026-11-20",
+ "published": "2026-08-20",
+ "category": "archaeologie",
+ "countries": [
+  "US",
+  "GB",
+  "IT"
+ ],
+ "institution": "Duke University / University of Oxford",
+ "maturity": "study",
+ "source": {
+  "name": "Journal of Archaeological Method and Theory",
+  "url": "https://doi.org/10.1007/s10816-026-09820-1"
+ },
+ "more": [
+  {
+   "name": "The Debrief",
+   "url": "https://thedebrief.org/ancient-etruscan-tombs-may-have-been-engineered-to-manipulate-the-senses-new-research-suggests/"
+  }
+ ],
+ "de": {
+  "title": "KI und Akustik rekonstruieren, wie Besucher zwei 2.400 Jahre alte Etruskergräber erlebt haben könnten",
+  "summary": "Maurizio Forte (Duke University) und Jacqueline Ortoleva (Universität Oxford) untersuchten zwei bemalte Grabkammern in Tarquinia, die Tomba del Gallo (um 450–400 v. Chr.) und die Tomba dei Demoni Azzurri (um 450–420 v. Chr.). Sie verbanden eine KI-gestützte Bildanalyse, die vorhersagt, wohin der Blick im Kerzenlicht zuerst fällt, mit 3D-Architekturmodellen, Schallmessungen per Händeklatschen und Simulationen von Bewegungsbahnen der Besucher. Die kleine Tomba del Gallo begünstigt demnach eine geordnete Blickführung und Kontrolle an der Schwelle. Die deutlich größere Tomba dei Demoni Azzurri (Kammer rund 6,2 mal 6,1 Meter) könnte dagegen durch Bild und Hall desorientierend wirken, bis hin zu tranceartigen Erlebnissen.",
+  "why": "Archäologie beschreibt meist, was erhalten ist, kaum, wie sich ein Raum anfühlte. KI-Bildanalyse und Akustik liefern hier prüfbare Modelle für das Erleben von Ritualen, die sonst nur Deutung wären.",
+  "caveat": "Es ist ein Modell, kein Beweis: Ob die Erbauer diese Wirkung planten, bleibt offen, manches kann aus gängiger Bautradition folgen. Nur zwei Gräber wurden untersucht, und die Studie nennt ihre Aussagen selbst vorsichtig („suggests“, „potentially“)."
+ },
+ "en": {
+  "title": "AI and acoustics reconstruct how visitors may have experienced two 2,400-year-old Etruscan tombs",
+  "summary": "Maurizio Forte (Duke University) and Jacqueline Ortoleva (University of Oxford) studied two painted burial chambers at Tarquinia, the Tomba del Gallo (about 450–400 BCE) and the Tomba dei Demoni Azzurri (about 450–420 BCE). They combined AI-based visual saliency analysis, which predicts where the eye is drawn by candlelight, with 3D architectural models, sound measurements using handclaps and simulated visitor movement paths. The small Tomba del Gallo favours ordered gaze and control at the threshold. The much larger Tomba dei Demoni Azzurri (chamber about 6.2 by 6.1 metres) could instead disorient through image and reverberation, possibly inducing trance-like experiences.",
+  "why": "Archaeology mostly describes what survives, rarely what a space felt like. AI image analysis plus acoustics gives testable models of ritual experience that would otherwise remain interpretation.",
+  "caveat": "This is a model, not proof: whether the builders intended these effects is open, and some may follow from ordinary building practice. Only two tombs were studied, and the paper itself words its claims cautiously (\"suggests\", \"potentially\")."
+ },
+ "ru": {
+  "title": "ИИ и акустика реконструируют, как посетители могли воспринимать две этрусские гробницы возрастом 2400 лет",
+  "summary": "Маурицио Форте (Университет Дьюка) и Жаклин Ортолева (Оксфордский университет) изучили две расписные погребальные камеры в Тарквинии: Томба дель Галло (около 450–400 гг. до н. э.) и Томба деи Демони Адзурри (около 450–420 гг. до н. э.). Они объединили анализ изображений с помощью ИИ, предсказывающий, куда при свете свечи падает взгляд, с 3D-моделями архитектуры, замерами звука хлопками в ладоши и симуляцией маршрутов посетителей. Небольшая Томба дель Галло, по их выводам, задаёт упорядоченное направление взгляда и контроль на пороге. Заметно более крупная Томба деи Демони Адзурри (камера примерно 6,2 на 6,1 метра) могла, напротив, дезориентировать образами и гулким эхом, вплоть до транс-подобных переживаний.",
+  "why": "Археология обычно описывает то, что сохранилось, и редко — каким было ощущение от пространства. Анализ изображений ИИ и акустика дают проверяемые модели ритуального опыта, который иначе остался бы лишь толкованием.",
+  "caveat": "Это модель, а не доказательство: планировали ли строители такой эффект, неизвестно, часть его может следовать из обычной строительной традиции. Изучены лишь две гробницы, и сама статья формулирует выводы осторожно («suggests», «potentially»)."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10816-026-09820-1/MediaObjects/10816_2026_9820_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie (Karte Etruriens), Journal of Archaeological Method and Theory",
+  "link": "https://doi.org/10.1007/s10816-026-09820-1"
+ }
+}

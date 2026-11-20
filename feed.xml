@@ -20,6 +20,20 @@ Vorbehalt: Nach Angaben der Autoren ist keine der beiden Studien ein psychometri
 Quelle: PLOS Digital Health via EurekAlert – https://www.eurekalert.org/news-releases/1151915</description>
   </item>
   <item>
+   <title>Deep Learning findet antike Siedlungshügel im Irak auf Radarbildern von Satelliten</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-tells-radar-irak</link>
+   <guid isPermaLink="false">2026-11-20-tells-radar-irak</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Ein Team um Elena Chiricallo und Arianna Traviglia vom Istituto Italiano di Tecnologia und der Universität Ca&#x27; Foscari Venedig hat eine Deep-Learning-Pipeline entwickelt, die im zentralen Irak archäologische Siedlungshügel, sogenannte Tells, automatisch erkennt und umrandet. Sie nutzt das Modell YOLOv8-Seg mit Radardaten des Satelliten Sentinel-1 und einem 30-Meter-Höhenmodell von Copernicus. Auf den Testflächen erreicht das Modell eine mittlere Präzision (Average Precision) von 0,495 und eine Überlappung (IoU) von 0,361. Die Auswertung durch Archäologen bestätigt die Verlässlichkeit und führte auch zu bislang nicht kartierten möglichen Fundstätten. In einem benachbarten Gebiet im Iran ließ sich das Verfahren übertragen, brauchte aber regionale Feinanpassung.
+
+Warum das wichtig ist: Viele Fundstätten in Mesopotamien verschwinden durch Landwirtschaft und Bebauung, bevor jemand sie kartiert hat. Radar sieht auch bei Bewölkung und im großen Maßstab, die KI erstellt daraus Kandidatenlisten für Archäologen.
+
+Vorbehalt: Eine Average Precision von etwa 0,5 ist ein Ausgangswert, keine fertige Kartierung: Viele Treffer und Lücken bleiben. Die „möglichen neuen Stätten“ sind Kandidaten und noch nicht im Gelände bestätigt.
+
+Quelle: Remote Sensing (MDPI) – https://doi.org/10.3390/rs18132255</description>
+  </item>
+  <item>
    <title>Smartwatch erkennt Anzeichen von Bluthochdruck ohne Manschette, aber jeden Dritten übersieht sie</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-smartwatch-bluthochdruck</link>
    <guid isPermaLink="false">2026-11-20-smartwatch-bluthochdruck</guid>
@@ -146,6 +160,20 @@ Vorbehalt: Die Zahlen sind Modellschätzungen und keine Messungen; eine Überpr�
 Quelle: Nature Communications – https://www.nature.com/articles/s41467-026-74336-x</description>
   </item>
   <item>
+   <title>KI und Akustik rekonstruieren, wie Besucher zwei 2.400 Jahre alte Etruskergräber erlebt haben könnten</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-etruskergraeber-ki-akustik</link>
+   <guid isPermaLink="false">2026-11-20-etruskergraeber-ki-akustik</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Maurizio Forte (Duke University) und Jacqueline Ortoleva (Universität Oxford) untersuchten zwei bemalte Grabkammern in Tarquinia, die Tomba del Gallo (um 450–400 v. Chr.) und die Tomba dei Demoni Azzurri (um 450–420 v. Chr.). Sie verbanden eine KI-gestützte Bildanalyse, die vorhersagt, wohin der Blick im Kerzenlicht zuerst fällt, mit 3D-Architekturmodellen, Schallmessungen per Händeklatschen und Simulationen von Bewegungsbahnen der Besucher. Die kleine Tomba del Gallo begünstigt demnach eine geordnete Blickführung und Kontrolle an der Schwelle. Die deutlich größere Tomba dei Demoni Azzurri (Kammer rund 6,2 mal 6,1 Meter) könnte dagegen durch Bild und Hall desorientierend wirken, bis hin zu tranceartigen Erlebnissen.
+
+Warum das wichtig ist: Archäologie beschreibt meist, was erhalten ist, kaum, wie sich ein Raum anfühlte. KI-Bildanalyse und Akustik liefern hier prüfbare Modelle für das Erleben von Ritualen, die sonst nur Deutung wären.
+
+Vorbehalt: Es ist ein Modell, kein Beweis: Ob die Erbauer diese Wirkung planten, bleibt offen, manches kann aus gängiger Bautradition folgen. Nur zwei Gräber wurden untersucht, und die Studie nennt ihre Aussagen selbst vorsichtig („suggests“, „potentially“).
+
+Quelle: Journal of Archaeological Method and Theory – https://doi.org/10.1007/s10816-026-09820-1</description>
+  </item>
+  <item>
    <title>El Niño 2026: Satelliten und maschinelles Lernen sagen voraus, wo Landökosysteme weniger Kohlenstoff speichern</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-esa-elnino-kohlenstoff</link>
    <guid isPermaLink="false">2026-11-20-esa-elnino-kohlenstoff</guid>
@@ -172,6 +200,20 @@ Warum das wichtig ist: Viele Menschen sterben plötzlich am Herzen, ohne dass Ä
 Vorbehalt: Die Ergebnisse stammen aus rückblickenden Registerdaten, nicht aus einer prospektiven Studie. Der Defibrillator-Effekt ist ein Vergleich mit Erwartungswerten, kein Beweis, und der biologische Mechanismus ist erst vorläufig getestet. Studienautor Obermeyer ist an Firmen beteiligt, die Daten bereitstellten; Tests in Kliniken laufen erst an. Hinweis: Die Studie erschien in Nature bereits am 24. Juni 2026, ScienceDaily berichtete im November.
 
 Quelle: Nature via ScienceDaily (UC Berkeley) – https://www.sciencedaily.com/releases/2026/11/261112230456.htm</description>
+  </item>
+  <item>
+   <title>KI zählt Reifenspuren: 95 Prozent der Geoglyphen von Alto Caramucho in der Atacama sind beschädigt</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-atacama-geoglyphen-spuren</link>
+   <guid isPermaLink="false">2026-11-20-atacama-geoglyphen-spuren</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Ein Team um den Archäologen Gonzalo Pimentel dokumentierte die Schäden an den Geoglyphen von Alto Caramucho in der Atacama-Wüste mit Fotos aus mehr als zwei Jahrzehnten, Luftbild-Photogrammetrie und künstlicher Intelligenz. Das Segmentierungsmodell DeepLabv3 lernte, Fahrspuren von unberührtem Wüstenboden zu unterscheiden, trainiert mit 91 beschrifteten Bildausschnitten von je 768 mal 768 Pixeln. Auf den Testdaten erreichte es einen F1-Wert von 76,75 Prozent. Im Zentralbereich der Anlage sind demnach 95 Prozent der Geoglyphen von Fahrzeugspuren betroffen. Der Beitrag in der Rubrik Project Gallery der Zeitschrift Antiquity beschreibt dies als Katastrophe für das Kulturerbe.
+
+Warum das wichtig ist: Geoglyphen sind riesige, nur flach in den Boden gescharrte Bilder, und jede Reifenspur zerstört sie unwiederbringlich. Automatisch ausgewertete Luftbilder machen den Schaden messbar und liefern damit ein Argument für Schutzmaßnahmen.
+
+Vorbehalt: Ein F1-Wert von knapp 77 Prozent heißt, dass die KI Spuren verfehlt oder falsch markiert; wie genau die 95 Prozent zustande kommen, geht aus der Kurzfassung nicht hervor. Es handelt sich um einen kurzen Projektbericht über eine einzelne Fundstätte, nicht um eine unabhängige Prüfung.
+
+Quelle: Antiquity – https://doi.org/10.15184/aqy.2026.10372</description>
   </item>
   <item>
    <title>KI-Chatbots geben bei Klimafragen nach: Nach wiederholtem Widerspruch sinkt die Genauigkeit um 31 bis 35 Prozentpunkte</title>

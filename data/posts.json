@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-20T05:09:34Z",
- "count": 46,
+ "generated": "2026-11-20T05:10:13Z",
+ "count": 49,
  "posts": [
   {
    "id": "2026-11-20-text-psychometrie",
@@ -45,6 +45,47 @@
     "kind": "photo",
     "credit": "Foto: Healme24, CC0, Wikimedia Commons",
     "link": "https://commons.wikimedia.org/wiki/File:Psychologist_at_work.jpg"
+   }
+  },
+  {
+   "id": "2026-11-20-tells-radar-irak",
+   "date": "2026-11-20",
+   "published": "2026-07-07",
+   "category": "archaeologie",
+   "countries": [
+    "IT",
+    "IQ"
+   ],
+   "institution": "Istituto Italiano di Tecnologia / Università Ca' Foscari Venezia",
+   "maturity": "study",
+   "source": {
+    "name": "Remote Sensing (MDPI)",
+    "url": "https://doi.org/10.3390/rs18132255"
+   },
+   "more": [],
+   "de": {
+    "title": "Deep Learning findet antike Siedlungshügel im Irak auf Radarbildern von Satelliten",
+    "summary": "Ein Team um Elena Chiricallo und Arianna Traviglia vom Istituto Italiano di Tecnologia und der Universität Ca' Foscari Venedig hat eine Deep-Learning-Pipeline entwickelt, die im zentralen Irak archäologische Siedlungshügel, sogenannte Tells, automatisch erkennt und umrandet. Sie nutzt das Modell YOLOv8-Seg mit Radardaten des Satelliten Sentinel-1 und einem 30-Meter-Höhenmodell von Copernicus. Auf den Testflächen erreicht das Modell eine mittlere Präzision (Average Precision) von 0,495 und eine Überlappung (IoU) von 0,361. Die Auswertung durch Archäologen bestätigt die Verlässlichkeit und führte auch zu bislang nicht kartierten möglichen Fundstätten. In einem benachbarten Gebiet im Iran ließ sich das Verfahren übertragen, brauchte aber regionale Feinanpassung.",
+    "why": "Viele Fundstätten in Mesopotamien verschwinden durch Landwirtschaft und Bebauung, bevor jemand sie kartiert hat. Radar sieht auch bei Bewölkung und im großen Maßstab, die KI erstellt daraus Kandidatenlisten für Archäologen.",
+    "caveat": "Eine Average Precision von etwa 0,5 ist ein Ausgangswert, keine fertige Kartierung: Viele Treffer und Lücken bleiben. Die „möglichen neuen Stätten“ sind Kandidaten und noch nicht im Gelände bestätigt."
+   },
+   "en": {
+    "title": "Deep learning finds ancient settlement mounds in Iraq on satellite radar images",
+    "summary": "A team including Elena Chiricallo and Arianna Traviglia at the Istituto Italiano di Tecnologia and Ca' Foscari University of Venice built a deep-learning pipeline that automatically detects and outlines archaeological settlement mounds, known as tells, in central Iraq. It uses the YOLOv8-Seg model with Sentinel-1 radar data and the Copernicus 30-metre elevation model. On the test areas the model reaches an average precision of 0.495 and an intersection over union of 0.361. Archaeological interpretation of its output confirms its reliability and also pointed to previously unmapped potential sites. The method transferred to a nearby area in Iran, but needed regional fine-tuning.",
+    "why": "Many sites in Mesopotamia vanish under farming and construction before anyone maps them. Radar sees through cloud and at large scale, and the AI turns it into candidate lists for archaeologists.",
+    "caveat": "An average precision of about 0.5 is a baseline, not a finished map: many misses and false hits remain. The \"possible new sites\" are candidates and have not yet been confirmed in the field."
+   },
+   "ru": {
+    "title": "Глубокое обучение находит древние поселенческие холмы в Ираке на спутниковых радарных снимках",
+    "summary": "Команда, в которую входят Элена Кьярикалло и Арианна Травилья из Итальянского технологического института и Университета Ка’ Фоскари в Венеции, создала конвейер глубокого обучения, автоматически находящий и обводящий археологические поселенческие холмы — телли — в центральном Ираке. Он использует модель YOLOv8-Seg с радарными данными спутника Sentinel-1 и 30-метровой цифровой моделью рельефа Copernicus. На тестовых участках модель достигает средней точности 0,495 и пересечения над объединением 0,361. Археологическая интерпретация результатов подтверждает надёжность метода и указала на прежде не нанесённые на карту возможные памятники. На соседнем участке в Иране метод удалось перенести, но потребовалась региональная донастройка.",
+    "why": "Многие памятники Месопотамии исчезают под плугом и застройкой, не успев попасть на карту. Радар видит сквозь облака и в больших масштабах, а ИИ превращает данные в списки кандидатов для археологов.",
+    "caveat": "Средняя точность около 0,5 — это исходный уровень, а не готовая карта: остаётся много пропусков и ложных срабатываний. «Возможные новые памятники» — лишь кандидаты, на местности они пока не подтверждены."
+   },
+   "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/105._The_archeological_site_of_Bakr_Awa%2C_an_ancient_mound_near_Halabja%2C_Shahrizor_Plain%2C_Sulaymaniyah%2C_Iraq._November_4%2C_2022._The_tell_and_its_surrounding_area_were_lastly_excavated_in_2014._An_area_before_the_tell.jpg/960px-thumbnail.jpg",
+    "kind": "photo",
+    "credit": "Foto: Neuroforever, CC BY-SA 4.0, Wikimedia Commons (Tell Bakr Awa, Irakisch-Kurdistan; Illustration, nicht aus der Studie)",
+    "link": "https://commons.wikimedia.org/wiki/File:105._The_archeological_site_of_Bakr_Awa,_an_ancient_mound_near_Halabja,_Shahrizor_Plain,_Sulaymaniyah,_Iraq._November_4,_2022._The_tell_and_its_surrounding_area_were_lastly_excavated_in_2014._An_area_before_the_tell.jpg"
    }
   },
   {
@@ -476,6 +517,53 @@
    }
   },
   {
+   "id": "2026-11-20-etruskergraeber-ki-akustik",
+   "date": "2026-11-20",
+   "published": "2026-08-20",
+   "category": "archaeologie",
+   "countries": [
+    "US",
+    "GB",
+    "IT"
+   ],
+   "institution": "Duke University / University of Oxford",
+   "maturity": "study",
+   "source": {
+    "name": "Journal of Archaeological Method and Theory",
+    "url": "https://doi.org/10.1007/s10816-026-09820-1"
+   },
+   "more": [
+    {
+     "name": "The Debrief",
+     "url": "https://thedebrief.org/ancient-etruscan-tombs-may-have-been-engineered-to-manipulate-the-senses-new-research-suggests/"
+    }
+   ],
+   "de": {
+    "title": "KI und Akustik rekonstruieren, wie Besucher zwei 2.400 Jahre alte Etruskergräber erlebt haben könnten",
+    "summary": "Maurizio Forte (Duke University) und Jacqueline Ortoleva (Universität Oxford) untersuchten zwei bemalte Grabkammern in Tarquinia, die Tomba del Gallo (um 450–400 v. Chr.) und die Tomba dei Demoni Azzurri (um 450–420 v. Chr.). Sie verbanden eine KI-gestützte Bildanalyse, die vorhersagt, wohin der Blick im Kerzenlicht zuerst fällt, mit 3D-Architekturmodellen, Schallmessungen per Händeklatschen und Simulationen von Bewegungsbahnen der Besucher. Die kleine Tomba del Gallo begünstigt demnach eine geordnete Blickführung und Kontrolle an der Schwelle. Die deutlich größere Tomba dei Demoni Azzurri (Kammer rund 6,2 mal 6,1 Meter) könnte dagegen durch Bild und Hall desorientierend wirken, bis hin zu tranceartigen Erlebnissen.",
+    "why": "Archäologie beschreibt meist, was erhalten ist, kaum, wie sich ein Raum anfühlte. KI-Bildanalyse und Akustik liefern hier prüfbare Modelle für das Erleben von Ritualen, die sonst nur Deutung wären.",
+    "caveat": "Es ist ein Modell, kein Beweis: Ob die Erbauer diese Wirkung planten, bleibt offen, manches kann aus gängiger Bautradition folgen. Nur zwei Gräber wurden untersucht, und die Studie nennt ihre Aussagen selbst vorsichtig („suggests“, „potentially“)."
+   },
+   "en": {
+    "title": "AI and acoustics reconstruct how visitors may have experienced two 2,400-year-old Etruscan tombs",
+    "summary": "Maurizio Forte (Duke University) and Jacqueline Ortoleva (University of Oxford) studied two painted burial chambers at Tarquinia, the Tomba del Gallo (about 450–400 BCE) and the Tomba dei Demoni Azzurri (about 450–420 BCE). They combined AI-based visual saliency analysis, which predicts where the eye is drawn by candlelight, with 3D architectural models, sound measurements using handclaps and simulated visitor movement paths. The small Tomba del Gallo favours ordered gaze and control at the threshold. The much larger Tomba dei Demoni Azzurri (chamber about 6.2 by 6.1 metres) could instead disorient through image and reverberation, possibly inducing trance-like experiences.",
+    "why": "Archaeology mostly describes what survives, rarely what a space felt like. AI image analysis plus acoustics gives testable models of ritual experience that would otherwise remain interpretation.",
+    "caveat": "This is a model, not proof: whether the builders intended these effects is open, and some may follow from ordinary building practice. Only two tombs were studied, and the paper itself words its claims cautiously (\"suggests\", \"potentially\")."
+   },
+   "ru": {
+    "title": "ИИ и акустика реконструируют, как посетители могли воспринимать две этрусские гробницы возрастом 2400 лет",
+    "summary": "Маурицио Форте (Университет Дьюка) и Жаклин Ортолева (Оксфордский университет) изучили две расписные погребальные камеры в Тарквинии: Томба дель Галло (около 450–400 гг. до н. э.) и Томба деи Демони Адзурри (около 450–420 гг. до н. э.). Они объединили анализ изображений с помощью ИИ, предсказывающий, куда при свете свечи падает взгляд, с 3D-моделями архитектуры, замерами звука хлопками в ладоши и симуляцией маршрутов посетителей. Небольшая Томба дель Галло, по их выводам, задаёт упорядоченное направление взгляда и контроль на пороге. Заметно более крупная Томба деи Демони Адзурри (камера примерно 6,2 на 6,1 метра) могла, напротив, дезориентировать образами и гулким эхом, вплоть до транс-подобных переживаний.",
+    "why": "Археология обычно описывает то, что сохранилось, и редко — каким было ощущение от пространства. Анализ изображений ИИ и акустика дают проверяемые модели ритуального опыта, который иначе остался бы лишь толкованием.",
+    "caveat": "Это модель, а не доказательство: планировали ли строители такой эффект, неизвестно, часть его может следовать из обычной строительной традиции. Изучены лишь две гробницы, и сама статья формулирует выводы осторожно («suggests», «potentially»)."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10816-026-09820-1/MediaObjects/10816_2026_9820_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie (Karte Etruriens), Journal of Archaeological Method and Theory",
+    "link": "https://doi.org/10.1007/s10816-026-09820-1"
+   }
+  },
+  {
    "id": "2026-11-20-esa-elnino-kohlenstoff",
    "date": "2026-11-20",
    "published": "2026-11-10",
@@ -560,6 +648,51 @@
     "kind": "figure",
     "credit": "Abbildung 1 der Studie, Nature",
     "link": "https://www.nature.com/articles/s41586-026-10674-6"
+   }
+  },
+  {
+   "id": "2026-11-20-atacama-geoglyphen-spuren",
+   "date": "2026-11-20",
+   "published": "2026-06-16",
+   "category": "archaeologie",
+   "countries": [
+    "CL"
+   ],
+   "institution": "Fundación Desierto de Atacama",
+   "maturity": "study",
+   "source": {
+    "name": "Antiquity",
+    "url": "https://doi.org/10.15184/aqy.2026.10372"
+   },
+   "more": [
+    {
+     "name": "Antiquity, Volume 100, Issue 413",
+     "url": "https://www.cambridge.org/core/product/3C8182D175D095F48EBC898A3A4F3AB3/core-reader"
+    }
+   ],
+   "de": {
+    "title": "KI zählt Reifenspuren: 95 Prozent der Geoglyphen von Alto Caramucho in der Atacama sind beschädigt",
+    "summary": "Ein Team um den Archäologen Gonzalo Pimentel dokumentierte die Schäden an den Geoglyphen von Alto Caramucho in der Atacama-Wüste mit Fotos aus mehr als zwei Jahrzehnten, Luftbild-Photogrammetrie und künstlicher Intelligenz. Das Segmentierungsmodell DeepLabv3 lernte, Fahrspuren von unberührtem Wüstenboden zu unterscheiden, trainiert mit 91 beschrifteten Bildausschnitten von je 768 mal 768 Pixeln. Auf den Testdaten erreichte es einen F1-Wert von 76,75 Prozent. Im Zentralbereich der Anlage sind demnach 95 Prozent der Geoglyphen von Fahrzeugspuren betroffen. Der Beitrag in der Rubrik Project Gallery der Zeitschrift Antiquity beschreibt dies als Katastrophe für das Kulturerbe.",
+    "why": "Geoglyphen sind riesige, nur flach in den Boden gescharrte Bilder, und jede Reifenspur zerstört sie unwiederbringlich. Automatisch ausgewertete Luftbilder machen den Schaden messbar und liefern damit ein Argument für Schutzmaßnahmen.",
+    "caveat": "Ein F1-Wert von knapp 77 Prozent heißt, dass die KI Spuren verfehlt oder falsch markiert; wie genau die 95 Prozent zustande kommen, geht aus der Kurzfassung nicht hervor. Es handelt sich um einen kurzen Projektbericht über eine einzelne Fundstätte, nicht um eine unabhängige Prüfung."
+   },
+   "en": {
+    "title": "AI counts tyre tracks: 95 percent of the Alto Caramucho geoglyphs in the Atacama are damaged",
+    "summary": "A team led by archaeologist Gonzalo Pimentel documented the damage to the Alto Caramucho geoglyphs in Chile's Atacama Desert using photographs spanning more than two decades, aerial photogrammetry and artificial intelligence. The segmentation model DeepLabv3 learned to tell vehicle tracks from untouched desert ground, trained on 91 labelled image grids of 768 by 768 pixels. On the test data it reached an F1 score of 76.75 percent. In the central area of the site, 95 percent of the geoglyphs are affected by vehicle tracks. The paper, in the Project Gallery section of Antiquity, calls this a heritage disaster.",
+    "why": "Geoglyphs are huge images only scraped into the surface, and every tyre track destroys them for good. Automated analysis of aerial images makes the damage measurable and gives a case for protection.",
+    "caveat": "An F1 score of about 77 percent means the AI misses or mislabels some tracks; the abstract does not say exactly how the 95 percent figure was derived. This is a short project report on a single site, not an independent audit."
+   },
+   "ru": {
+    "title": "ИИ считает следы шин: 95 процентов геоглифов Альто-Карамучо в Атакаме повреждены",
+    "summary": "Команда археолога Гонсало Пименталя задокументировала ущерб геоглифам Альто-Карамучо в пустыне Атакама по фотографиям за более чем два десятилетия, аэрофотограмметрии и искусственному интеллекту. Модель сегментации DeepLabv3 научилась отличать следы транспорта от нетронутого грунта; обучение велось на 91 размеченном фрагменте изображений размером 768 на 768 пикселей. На тестовых данных она показала F1-меру 76,75 процента. В центральной части памятника, по оценке авторов, следы транспорта затронули 95 процентов геоглифов. В статье рубрики Project Gallery журнала Antiquity это названо катастрофой для культурного наследия.",
+    "why": "Геоглифы — огромные рисунки, лишь слегка процарапанные в поверхности, и каждый след шины уничтожает их навсегда. Автоматический анализ аэроснимков делает ущерб измеримым и даёт аргумент в пользу защиты.",
+    "caveat": "F1-мера около 77 процентов означает, что ИИ часть следов пропускает или размечает неверно; как именно получена цифра 95 процентов, из аннотации не ясно. Это краткий проектный отчёт об одном памятнике, а не независимый аудит."
+   },
+   "image": {
+    "src": "https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0003598X2610372X/resource/name/S0003598X2610372X_figAb.png",
+    "kind": "press",
+    "credit": "Bild: Antiquity / Cambridge University Press (Pimentel et al.)",
+    "link": "https://doi.org/10.15184/aqy.2026.10372"
    }
   },
   {
