@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-20-flutkarten-usa",
+ "date": "2026-11-20",
+ "published": "2026-06-15",
+ "category": "klima",
+ "countries": [
+  "US",
+  "CN",
+  "SG"
+ ],
+ "institution": "Tsinghua University, National University of Singapore, Singapore-ETH Centre",
+ "maturity": "study",
+ "source": {
+  "name": "Nature Communications",
+  "url": "https://www.nature.com/articles/s41467-026-74336-x"
+ },
+ "more": [
+  {
+   "name": "PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13347014/"
+  }
+ ],
+ "de": {
+  "title": "Deep Learning füllt die Lücken der US-Hochwasserkarten: Millionen Menschen mehr in Risikozonen",
+  "summary": "Die offiziellen US-Hochwasserkarten decken nur ein Drittel der Flussläufe ab. Abraham Noah Wu, Ye Zhang und Rudi Stouffs haben ein Deep-Learning-Verfahren entwickelt, das aus vorhandenen Kartenaufzeichnungen lernt und daraus eine lückenlose Gefahrenkarte mit 30 Metern Auflösung für die zusammenhängenden USA erstellt. Nach ihrer Schätzung fehlen in der nationalen Datenbank von 2023 elf Millionen Menschen und 4,1 Millionen Gebäude in Überschwemmungszonen, das sind 69 Prozent beziehungsweise 81 Prozent mehr als in den offiziellen Karten. Eine Analyse von 917 Städten zeigt, dass gerade die völlig unkartierten Gebiete überdurchschnittlich viele verletzliche Gruppen wie Ältere und Kinder beherbergen. Die Methode ist quelloffen.",
+  "why": "Wer nicht weiß, dass sein Haus in einer Hochwasserzone liegt, versichert und schützt es nicht. Gute Karten sind die Grundlage für Warnungen, Versicherungen und Bauplanung, und bisher fehlen sie gerade dort, wo viele Menschen besonders verletzlich sind.",
+  "caveat": "Die Zahlen sind Modellschätzungen und keine Messungen; eine Überprüfung vor Ort für alle neu ausgewiesenen Gebiete steht aus. Die Studie liefert Gefahrenkarten, keine Vorhersage einzelner Hochwasser. Ob und wie die Behörden die Karten nutzen, ist offen."
+ },
+ "en": {
+  "title": "Deep learning fills the gaps in US flood maps: millions more people in risk zones",
+  "summary": "Official US flood maps cover only one-third of river channels. Abraham Noah Wu, Ye Zhang and Rudi Stouffs developed a deep-learning framework that learns from existing records and produces a spatially complete 30-metre flood hazard map for the contiguous US. They estimate that the 2023 national database omits 11 million people and 4.1 million buildings in flood zones, which is 69 percent and 81 percent beyond the official baseline. An analysis of 917 cities shows that entirely unmapped areas disproportionately house vulnerable groups such as the elderly and children. The method is open source.",
+  "why": "Anyone who does not know their home lies in a flood zone will neither insure nor protect it. Good maps underpin warnings, insurance and building rules, and so far they are missing precisely where many vulnerable people live.",
+  "caveat": "The figures are model estimates, not measurements, and on-the-ground verification of all newly flagged areas is still to come. The study delivers hazard maps, not forecasts of individual floods. Whether and how authorities will use the maps is open."
+ },
+ "ru": {
+  "title": "Глубокое обучение закрывает пробелы в картах наводнений США: в зонах риска оказываются миллионы людей",
+  "summary": "Официальные карты наводнений США охватывают лишь треть русел рек. Абрахам Ноа Ву, Е Чжан и Руди Штауфс разработали метод глубокого обучения, который учится на имеющихся записях и строит сплошную карту опасности наводнений с разрешением 30 метров для континентальной части США. По их оценке, в национальной базе 2023 года не учтены 11 миллионов человек и 4,1 миллиона зданий в зонах затопления, то есть на 69 и 81 процент больше, чем в официальных данных. Анализ 917 городов показывает, что именно полностью не закартированные территории непропорционально часто населяют уязвимые группы, такие как пожилые люди и дети. Метод имеет открытый исходный код.",
+  "why": "Тот, кто не знает, что его дом находится в зоне затопления, не страхует и не защищает его. Хорошие карты лежат в основе предупреждений, страхования и строительных норм, а пока их нет как раз там, где живёт много уязвимых людей.",
+  "caveat": "Цифры — модельные оценки, а не измерения; проверка на местах для всех вновь выявленных территорий ещё впереди. Исследование даёт карты опасности, а не прогнозы отдельных наводнений. Будут ли власти использовать эти карты, пока неясно."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-74336-x/MediaObjects/41467_2026_74336_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Nature Communications",
+  "link": "https://www.nature.com/articles/s41467-026-74336-x"
+ }
+}

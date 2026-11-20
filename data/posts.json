@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-20T05:09:10Z",
- "count": 43,
+ "generated": "2026-11-20T05:09:22Z",
+ "count": 46,
  "posts": [
   {
    "id": "2026-11-20-text-psychometrie",
@@ -45,6 +45,51 @@
     "kind": "photo",
     "credit": "Foto: Healme24, CC0, Wikimedia Commons",
     "link": "https://commons.wikimedia.org/wiki/File:Psychologist_at_work.jpg"
+   }
+  },
+  {
+   "id": "2026-11-20-smartwatch-bluthochdruck",
+   "date": "2026-11-20",
+   "published": "2026-11-05",
+   "category": "gesundheit",
+   "countries": [
+    "US"
+   ],
+   "institution": "Google Research, Beth Israel Deaconess Medical Center, Harvard Medical School",
+   "maturity": "clinical",
+   "source": {
+    "name": "Nature",
+    "url": "https://www.nature.com/articles/s41586-026-11336-3"
+   },
+   "more": [
+    {
+     "name": "Google Research Blog",
+     "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/"
+    }
+   ],
+   "de": {
+    "title": "Smartwatch erkennt Anzeichen von Bluthochdruck ohne Manschette, aber jeden Dritten übersieht sie",
+    "summary": "Mehr als die Hälfte der Menschen mit Bluthochdruck weiß nichts davon. Ein Team von Google Research mit dem Beth Israel Deaconess Medical Center hat eine KI trainiert, die aus den Pulswellen (Photoplethysmographie) und Bewegungsdaten einer handelsüblichen Smartwatch Bluthochdruck erkennt, ganz ohne Kalibrierung mit einer Manschette. In einer prospektiven Studie an fünf US-Standorten mit 196 Teilnehmenden ohne bekannte Herz-Kreislauf-Erkrankung und ohne Blutdruckmittel trug man die Uhr sieben Tage lang. Verglichen mit der 24-Stunden-Blutdruckmessung als Goldstandard erreichte die KI eine Sensitivität von 65,8 Prozent, eine Spezifität von 90,0 Prozent und einen positiven Vorhersagewert von 80,6 Prozent. Die einmalige Blutdruckmessung in der Praxis kam auf 55,3 Prozent Sensitivität bei gleicher Spezifität und 77,8 Prozent positivem Vorhersagewert.",
+    "why": "Bluthochdruck bleibt oft jahrelang unbemerkt und schädigt Herz und Gefäße. Eine Uhr, die Menschen zur Abklärung beim Arzt anstößt, könnte unentdeckte Fälle früher sichtbar machen.",
+    "caveat": "Die Uhr ist ein Hinweisgeber, kein Ersatz für die Messung mit Manschette: Sie übersah gut ein Drittel der Betroffenen. Teilnehmende waren ohne Herzkrankheit und Medikamente, und ob solche Warnungen tatsächlich die Gesundheit verbessern, müssen randomisierte Studien erst zeigen. Beteiligt ist Google Research, die Autoren des Blogs betonen, die Methoden seien nicht als Produkt zu verstehen."
+   },
+   "en": {
+    "title": "Smartwatch detects signs of high blood pressure without a cuff, but misses one in three",
+    "summary": "More than half of people with high blood pressure do not know it. A team at Google Research with Beth Israel Deaconess Medical Center trained an AI that detects hypertension from the pulse waveform (photoplethysmography) and motion data of an off-the-shelf smartwatch, without any cuff calibration. In a prospective study at five US sites with 196 participants who had no known cardiovascular disease and took no blood-pressure drugs, people wore the watch for seven days. Against 24-hour ambulatory blood-pressure monitoring as the gold standard, the AI reached a sensitivity of 65.8 percent, a specificity of 90.0 percent and a positive predictive value of 80.6 percent. A single office blood-pressure check reached 55.3 percent sensitivity at the same specificity and a positive predictive value of 77.8 percent.",
+    "why": "High blood pressure often goes unnoticed for years while it damages heart and vessels. A watch that nudges people to get checked could bring undiscovered cases to light sooner.",
+    "caveat": "The watch is a prompt, not a replacement for cuff measurement: it missed roughly a third of people with hypertension. Participants had no heart disease and took no medication, and randomised trials still have to show that such alerts improve health. Google Research is involved, and the blog authors stress that the methods do not indicate a commercial product."
+   },
+   "ru": {
+    "title": "Смартчасы замечают признаки гипертонии без манжеты, но пропускают каждого третьего",
+    "summary": "Более половины людей с повышенным давлением об этом не знают. Команда Google Research вместе с Beth Israel Deaconess Medical Center обучила ИИ распознавать гипертонию по форме пульсовой волны (фотоплетизмография) и данным о движении обычных смартчасов, без калибровки по манжете. В проспективном исследовании в пяти центрах США участвовали 196 человек без известных сердечно-сосудистых заболеваний и без лекарств от давления; часы носили семь дней. По сравнению с суточным мониторированием давления как золотым стандартом ИИ показал чувствительность 65,8 процента, специфичность 90,0 процента и положительную прогностическую ценность 80,6 процента. Однократное измерение давления на приёме дало чувствительность 55,3 процента при той же специфичности и прогностическую ценность 77,8 процента.",
+    "why": "Повышенное давление годами остаётся незамеченным и разрушает сердце и сосуды. Часы, которые подталкивают к обследованию, могли бы помочь раньше выявлять скрытые случаи.",
+    "caveat": "Часы лишь подсказывают и не заменяют измерение манжетой: они пропустили около трети людей с гипертонией. У участников не было болезней сердца и лекарств, а улучшит ли такое оповещение здоровье, должны показать рандомизированные исследования. К работе причастна Google Research; авторы блога подчёркивают, что методы не указывают на коммерческий продукт."
+   },
+   "image": {
+    "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/Hypertension1_Overview.png",
+    "kind": "press",
+    "credit": "Bild: Google Research",
+    "link": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/"
    }
   },
   {
@@ -338,6 +383,52 @@
    }
   },
   {
+   "id": "2026-11-20-gang-foundation-modell",
+   "date": "2026-11-20",
+   "published": "2026-11-06",
+   "category": "gesundheit",
+   "countries": [
+    "IL",
+    "US"
+   ],
+   "institution": "Newton Tech (Human Phenotype Project)",
+   "maturity": "study",
+   "source": {
+    "name": "Nature Medicine",
+    "url": "https://www.nature.com/articles/s41591-026-04724-9"
+   },
+   "more": [
+    {
+     "name": "Pressemitteilung (EurekAlert)",
+     "url": "https://www.eurekalert.org/news-releases/1150895"
+    }
+   ],
+   "de": {
+    "title": "Wie jemand geht, verrät viel über die Gesundheit: KI liest Gangmuster als Vitalzeichen",
+    "summary": "Ein Team um Adam Gabet hat ein Basismodell für Gang trainiert. Es wertet dreidimensionale Skelettbewegungen aus, die eine einzelne Tiefenkamera bei fünf Bewegungsaufgaben von 3.328 gründlich untersuchten Erwachsenen aufgezeichnet hat. Das Modell übersetzt die Bewegung in gelernte Zahlenmuster und sagte damit Alter (r = 0,69), Body-Mass-Index (r = 0,91) und die Fläche des Bauchfetts (r = 0,83) besser voraus als klassische Gangmerkmale wie Schrittlänge. Insgesamt sagte es 1.887 von 3.210 geprüften Merkmalen signifikant voraus, etwa Griffkraft und Schlafqualität. Gegenüber einem Vergleichsmodell aus Alter, BMI, Bauchfett und Größe verbesserte der Gang die Vorhersage in allen 18 untersuchten Körpersystemen bei Männern und in 17 von 18 bei Frauen, außerdem bei Diagnosen und Medikamenteneinnahme.",
+    "why": "Gehen lässt sich ohne Blutabnahme und ohne Gerät am Körper messen. Das Ergebnis deutet an, dass Bewegung eines Tages als einfacher Hinweis auf Stoffwechsel, Gebrechlichkeit und Schlaf dienen könnte.",
+    "caveat": "Es geht um statistische Zusammenhänge in einer einzigen Kohorte, nicht um Diagnosen im Praxisalltag. Die Pressemitteilung stammt von der beteiligten Firma Newton Tech und nennt Screening ausdrücklich noch „investigational“; prospektive Studien und Prüfungen an vielfältigeren Gruppen stehen aus."
+   },
+   "en": {
+    "title": "How someone walks reveals a lot about health: AI reads gait as a vital sign",
+    "summary": "A team led by Adam Gabet trained a foundation model for gait. It analyses three-dimensional skeletal motion that a single depth camera recorded during five motor tasks in 3,328 deeply phenotyped adults. The model turns movement into learned embeddings and predicted age (r = 0.69), body mass index (r = 0.91) and visceral fat area (r = 0.83) better than classic gait features such as stride length. Overall it significantly predicted 1,887 of 3,210 tested traits, such as grip strength and sleep quality. Against a baseline model using age, BMI, visceral fat and height alone, gait improved prediction in all 18 body systems studied in men and 17 of 18 in women, as well as prediction of diagnoses and medication use.",
+    "why": "Walking can be measured without a blood draw or a device on the body. The result suggests that a few seconds of movement could one day serve as a simple hint about metabolism, frailty and sleep.",
+    "caveat": "These are statistical associations in a single cohort, not diagnoses in everyday care. The press release comes from the involved company Newton Tech and itself calls screening uses investigational; prospective studies and tests in more diverse groups are still needed."
+   },
+   "ru": {
+    "title": "Походка многое говорит о здоровье: ИИ читает её как жизненный показатель",
+    "summary": "Команда Адама Габета обучила базовую модель походки. Она анализирует трёхмерные движения скелета, записанные одной камерой глубины во время пяти двигательных заданий у 3328 подробно обследованных взрослых. Модель переводит движение в выученные числовые представления и предсказала возраст (r = 0,69), индекс массы тела (r = 0,91) и площадь висцерального жира (r = 0,83) лучше классических признаков походки, таких как длина шага. Всего она достоверно предсказала 1887 из 3210 проверенных показателей, например силу хвата и качество сна. По сравнению с базовой моделью только из возраста, ИМТ, висцерального жира и роста походка улучшила прогноз во всех 18 изученных системах организма у мужчин и в 17 из 18 у женщин, а также прогноз диагнозов и приёма лекарств.",
+    "why": "Походку можно измерить без анализа крови и без датчиков на теле. Результат намекает, что несколько секунд движения когда-нибудь станут простой подсказкой об обмене веществ, хрупкости и сне.",
+    "caveat": "Это статистические связи в одной когорте, а не диагнозы в повседневной практике. Пресс-релиз выпустила участвующая компания Newton Tech, и она сама называет скрининговое применение пока исследовательским; нужны проспективные исследования и проверка на более разнообразных группах."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04724-9/MediaObjects/41591_2026_4724_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Nature Medicine",
+    "link": "https://www.nature.com/articles/s41591-026-04724-9"
+   }
+  },
+  {
    "id": "2026-11-20-flutkarten-usa",
    "date": "2026-11-20",
    "published": "2026-06-15",
@@ -422,6 +513,53 @@
     "kind": "press",
     "credit": "Bild: ESA",
     "link": "https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/futureeo/space-for-our-climate/predicting-el-nino-s-impact-on-carbon-sinks"
+   }
+  },
+  {
+   "id": "2026-11-20-ekg-herztod-biomarker",
+   "date": "2026-11-20",
+   "published": "2026-06-24",
+   "category": "gesundheit",
+   "countries": [
+    "US",
+    "SE",
+    "TW"
+   ],
+   "institution": "University of California, Berkeley",
+   "maturity": "study",
+   "source": {
+    "name": "Nature via ScienceDaily (UC Berkeley)",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm"
+   },
+   "more": [
+    {
+     "name": "Nature",
+     "url": "https://www.nature.com/articles/s41586-026-10674-6"
+    }
+   ],
+   "de": {
+    "title": "KI findet im EKG ein bisher unbekanntes Signal für den plötzlichen Herztod",
+    "summary": "Ein Team um Ziad Obermeyer von der UC Berkeley hat ein Deep-Learning-Modell mit allen EKGs einer schwedischen Region trainiert, die mit Totenscheinen verknüpft waren. Das Modell isoliert eine Hochrisikogruppe von 2,2 Prozent der Stichprobe mit einer jährlichen Rate plötzlicher Herztode von 7,0 Prozent. Die bisher übliche Messgröße, die linksventrikuläre Auswurffraktion, erfasst 1,9 Prozent der Stichprobe mit 4,6 Prozent jährlicher Rate. 86,1 Prozent der KI-Hochrisikopatienten fielen bei der Auswurffraktion nicht auf. Hochrisikopatienten mit implantiertem Defibrillator starben 54,4 Prozent seltener als erwartet. Das Modell wurde an einem US-Gesundheitssystem und einem taiwanischen Krankenhausregister extern bestätigt, und ein Generativmodell machte die gefundene Kurvenform sichtbar.",
+    "why": "Viele Menschen sterben plötzlich am Herzen, ohne dass Ärzte ihr Risiko erkannt haben, und viele Defibrillatoren werden nie ausgelöst. Ein Signal im Routine-EKG könnte helfen, Schutz gezielter einzusetzen.",
+    "caveat": "Die Ergebnisse stammen aus rückblickenden Registerdaten, nicht aus einer prospektiven Studie. Der Defibrillator-Effekt ist ein Vergleich mit Erwartungswerten, kein Beweis, und der biologische Mechanismus ist erst vorläufig getestet. Studienautor Obermeyer ist an Firmen beteiligt, die Daten bereitstellten; Tests in Kliniken laufen erst an. Hinweis: Die Studie erschien in Nature bereits am 24. Juni 2026, ScienceDaily berichtete im November."
+   },
+   "en": {
+    "title": "AI finds a previously unknown ECG signal for sudden cardiac death",
+    "summary": "A team led by Ziad Obermeyer at UC Berkeley trained a deep-learning model on all electrocardiograms of a Swedish region that were linked to death certificates. The model isolates a high-risk group making up 2.2 percent of the sample with a 7.0 percent annual rate of sudden cardiac death. The measure in wide use today, left ventricular ejection fraction, flags 1.9 percent of the sample with a 4.6 percent annual rate. Of the model's high-risk patients, 86.1 percent were not flagged by ejection fraction. High-risk patients with an implanted defibrillator were 54.4 percent less likely to die than expected. The model was externally validated in a US health system and a Taiwanese hospital registry, and a generative model made the discovered waveform shape visible.",
+    "why": "Many people die suddenly of heart problems without their risk having been recognised, and many defibrillators never fire. A signal in a routine ECG could help target protection better.",
+    "caveat": "The results come from retrospective registry data, not a prospective trial. The defibrillator effect is a comparison with expected values, not proof, and the biological mechanism has only been tested preliminarily. Author Obermeyer is involved in companies that supplied data; hospital testing is only beginning. Note: the study appeared in Nature on 24 June 2026; ScienceDaily reported it in November."
+   },
+   "ru": {
+    "title": "ИИ находит в ЭКГ ранее неизвестный признак внезапной сердечной смерти",
+    "summary": "Команда Зиада Обермейера из Калифорнийского университета в Беркли обучила модель глубокого обучения на всех ЭКГ одного шведского региона, связанных со свидетельствами о смерти. Модель выделяет группу высокого риска, составляющую 2,2 процента выборки, с годовой частотой внезапной сердечной смерти 7,0 процента. Применяемый сегодня показатель, фракция выброса левого желудочка, отмечает 1,9 процента выборки с годовой частотой 4,6 процента. 86,1 процента пациентов высокого риска по версии модели не были замечены по фракции выброса. Пациенты высокого риска с имплантированным дефибриллятором умирали на 54,4 процента реже ожидаемого. Модель подтвердили на американской системе здравоохранения и тайваньском больничном регистре, а генеративная модель показала найденную форму кривой.",
+    "why": "Многие внезапно умирают от сердца, хотя их риск не был распознан, а многие дефибрилляторы так ни разу и не срабатывают. Признак в обычной ЭКГ мог бы помочь точнее направлять защиту.",
+    "caveat": "Результаты получены на ретроспективных регистровых данных, а не в проспективном испытании. Эффект дефибриллятора — сравнение с ожидаемыми значениями, а не доказательство, механизм проверен лишь предварительно. Автор Обермейер связан с компаниями, предоставившими данные; клинические проверки только начинаются. Примечание: исследование вышло в Nature 24 июня 2026 года, ScienceDaily написал о нём в ноябре."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10674-6/MediaObjects/41586_2026_10674_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Nature",
+    "link": "https://www.nature.com/articles/s41586-026-10674-6"
    }
   },
   {

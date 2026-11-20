@@ -1,0 +1,45 @@
+{
+ "id": "2026-11-20-pronet-luftqualitaet",
+ "date": "2026-11-20",
+ "published": "2026-10-12",
+ "category": "klima",
+ "countries": [
+  "CN"
+ ],
+ "institution": "Institute of Atmospheric Physics, Chinese Academy of Sciences",
+ "maturity": "study",
+ "source": {
+  "name": "National Science Review via EurekAlert (Science China Press)",
+  "url": "https://www.eurekalert.org/news-releases/1147373"
+ },
+ "more": [
+  {
+   "name": "DOI 10.1093/nsr/nwag570",
+   "url": "https://doi.org/10.1093/nsr/nwag570"
+  }
+ ],
+ "de": {
+  "title": "ProNet: KI in den Gleichungen der Atmosphäre sagt Feinstaub sieben Tage voraus, so gut wie manuell korrigierte Eintagesprognosen",
+  "summary": "Ein Team um Huangjian Wu und Zifa Wang vom Institut für Atmosphärenphysik der Chinesischen Akademie der Wissenschaften hat neuronale Netze direkt in die Bilanzgleichungen eines Luftqualitätsmodells eingebaut. Das System ProNet nutzt dafür routinemäßige Feinstaubmessungen am Boden, um Fehler im Modell einzelnen Prozessen zuzuordnen. Über ein Jahr hinweg in 338 chinesischen Städten getestet, erreichten die Siebentagesprognosen von ProNet mindestens die Güte von Eintagesprognosen, die menschliche Fachleute von Hand nachkorrigiert hatten. Bei einem schweren Staubsturm im Frühjahr in Peking sank der Prognosefehler um 62 Prozent. Nebenbei zeigte das Verfahren, dass übliche Modelle die Nitratbildung überschätzen und die Sulfatbildung im Winter unterschätzen.",
+  "why": "Verlässliche Feinstaubprognosen helfen bei Warnungen für Asthmakranke und bei der Planung von Maßnahmen gegen Smog. Weil die KI hier Teil der physikalischen Gleichungen bleibt, lässt sich nachvollziehen, welcher Prozess im Modell falsch lag.",
+  "caveat": "Die 62 Prozent stammen aus einem einzelnen Staubsturm in Peking. Getestet wurde nur in chinesischen Städten, die Übertragbarkeit ist offen. Die Angaben stammen aus der Pressemitteilung; die vollständige Studie konnte ich nicht einsehen."
+ },
+ "en": {
+  "title": "ProNet: AI inside the equations of the atmosphere forecasts fine particles seven days ahead, matching manually corrected one-day forecasts",
+  "summary": "A team led by Huangjian Wu and Zifa Wang at the Institute of Atmospheric Physics, Chinese Academy of Sciences, embedded neural networks directly into the governing equations of an air-quality model. The system, ProNet, uses routine ground-level PM2.5 measurements to attribute model errors to individual processes. Tested over one year in 338 Chinese cities, ProNet's seven-day forecasts matched or beat one-day forecasts that human experts had adjusted by hand. During a severe spring dust storm in Beijing, forecast error fell by 62 percent. The method also showed that common models overestimate nitrate formation and underestimate sulfate formation in winter.",
+  "why": "Reliable fine-particle forecasts support warnings for people with asthma and planning of measures against smog. Because the AI stays part of the physical equations, it can be traced which process in the model was wrong.",
+  "caveat": "The 62 percent comes from a single dust storm in Beijing. Testing covered only Chinese cities, so transferability is open. The figures come from the press release; I could not check the full paper."
+ },
+ "ru": {
+  "title": "ProNet: ИИ внутри уравнений атмосферы прогнозирует мелкодисперсную пыль на семь дней не хуже вручную скорректированных суточных прогнозов",
+  "summary": "Команда Хуаньцзяня Ву и Цзыфа Вана из Института физики атмосферы Китайской академии наук встроила нейронные сети непосредственно в уравнения баланса модели качества воздуха. Система ProNet использует обычные наземные измерения PM2.5, чтобы приписывать ошибки модели отдельным процессам. При годовой проверке в 338 китайских городах семидневные прогнозы ProNet были не хуже суточных прогнозов, которые эксперты корректировали вручную. Во время сильной весенней пылевой бури в Пекине ошибка прогноза снизилась на 62 процента. Кроме того, метод показал, что обычные модели завышают образование нитратов и занижают образование сульфатов зимой.",
+  "why": "Надёжные прогнозы мелких частиц помогают предупреждать людей с астмой и планировать меры против смога. Поскольку ИИ остаётся частью физических уравнений, можно понять, какой именно процесс в модели ошибался.",
+  "caveat": "Цифра 62 процента относится к одной пылевой буре в Пекине. Проверка проводилась только в китайских городах, переносимость на другие регионы неясна. Данные взяты из пресс-релиза; полный текст статьи я проверить не смог."
+ },
+ "image": {
+  "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/f05bde3e-68b2-4b00-8f3f-1d9b2b701b56/Rendition/low-res/Content/Public",
+  "kind": "press",
+  "credit": "Bild: Science China Press / EurekAlert",
+  "link": "https://www.eurekalert.org/news-releases/1147373"
+ }
+}

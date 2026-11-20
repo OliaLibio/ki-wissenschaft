@@ -20,6 +20,20 @@ Vorbehalt: Nach Angaben der Autoren ist keine der beiden Studien ein psychometri
 Quelle: PLOS Digital Health via EurekAlert – https://www.eurekalert.org/news-releases/1151915</description>
   </item>
   <item>
+   <title>Smartwatch erkennt Anzeichen von Bluthochdruck ohne Manschette, aber jeden Dritten übersieht sie</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-smartwatch-bluthochdruck</link>
+   <guid isPermaLink="false">2026-11-20-smartwatch-bluthochdruck</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Mehr als die Hälfte der Menschen mit Bluthochdruck weiß nichts davon. Ein Team von Google Research mit dem Beth Israel Deaconess Medical Center hat eine KI trainiert, die aus den Pulswellen (Photoplethysmographie) und Bewegungsdaten einer handelsüblichen Smartwatch Bluthochdruck erkennt, ganz ohne Kalibrierung mit einer Manschette. In einer prospektiven Studie an fünf US-Standorten mit 196 Teilnehmenden ohne bekannte Herz-Kreislauf-Erkrankung und ohne Blutdruckmittel trug man die Uhr sieben Tage lang. Verglichen mit der 24-Stunden-Blutdruckmessung als Goldstandard erreichte die KI eine Sensitivität von 65,8 Prozent, eine Spezifität von 90,0 Prozent und einen positiven Vorhersagewert von 80,6 Prozent. Die einmalige Blutdruckmessung in der Praxis kam auf 55,3 Prozent Sensitivität bei gleicher Spezifität und 77,8 Prozent positivem Vorhersagewert.
+
+Warum das wichtig ist: Bluthochdruck bleibt oft jahrelang unbemerkt und schädigt Herz und Gefäße. Eine Uhr, die Menschen zur Abklärung beim Arzt anstößt, könnte unentdeckte Fälle früher sichtbar machen.
+
+Vorbehalt: Die Uhr ist ein Hinweisgeber, kein Ersatz für die Messung mit Manschette: Sie übersah gut ein Drittel der Betroffenen. Teilnehmende waren ohne Herzkrankheit und Medikamente, und ob solche Warnungen tatsächlich die Gesundheit verbessern, müssen randomisierte Studien erst zeigen. Beteiligt ist Google Research, die Autoren des Blogs betonen, die Methoden seien nicht als Produkt zu verstehen.
+
+Quelle: Nature – https://www.nature.com/articles/s41586-026-11336-3</description>
+  </item>
+  <item>
    <title>Auch KI hat „implizite Vorurteile“: Reasoning-Modelle denken länger, wenn sie gegen Stereotype entscheiden sollen</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-reasoning-modelle-bias</link>
    <guid isPermaLink="false">2026-11-20-reasoning-modelle-bias</guid>
@@ -104,6 +118,20 @@ Vorbehalt: Finanziert wurde die Studie vom US-Getränkeverband American Beverage
 Quelle: British Journal of Nutrition (Cambridge University Press) – https://www.cambridge.org/core/product/identifier/S0007114526108150/type/journal_article</description>
   </item>
   <item>
+   <title>Wie jemand geht, verrät viel über die Gesundheit: KI liest Gangmuster als Vitalzeichen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-gang-foundation-modell</link>
+   <guid isPermaLink="false">2026-11-20-gang-foundation-modell</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Ein Team um Adam Gabet hat ein Basismodell für Gang trainiert. Es wertet dreidimensionale Skelettbewegungen aus, die eine einzelne Tiefenkamera bei fünf Bewegungsaufgaben von 3.328 gründlich untersuchten Erwachsenen aufgezeichnet hat. Das Modell übersetzt die Bewegung in gelernte Zahlenmuster und sagte damit Alter (r = 0,69), Body-Mass-Index (r = 0,91) und die Fläche des Bauchfetts (r = 0,83) besser voraus als klassische Gangmerkmale wie Schrittlänge. Insgesamt sagte es 1.887 von 3.210 geprüften Merkmalen signifikant voraus, etwa Griffkraft und Schlafqualität. Gegenüber einem Vergleichsmodell aus Alter, BMI, Bauchfett und Größe verbesserte der Gang die Vorhersage in allen 18 untersuchten Körpersystemen bei Männern und in 17 von 18 bei Frauen, außerdem bei Diagnosen und Medikamenteneinnahme.
+
+Warum das wichtig ist: Gehen lässt sich ohne Blutabnahme und ohne Gerät am Körper messen. Das Ergebnis deutet an, dass Bewegung eines Tages als einfacher Hinweis auf Stoffwechsel, Gebrechlichkeit und Schlaf dienen könnte.
+
+Vorbehalt: Es geht um statistische Zusammenhänge in einer einzigen Kohorte, nicht um Diagnosen im Praxisalltag. Die Pressemitteilung stammt von der beteiligten Firma Newton Tech und nennt Screening ausdrücklich noch „investigational“; prospektive Studien und Prüfungen an vielfältigeren Gruppen stehen aus.
+
+Quelle: Nature Medicine – https://www.nature.com/articles/s41591-026-04724-9</description>
+  </item>
+  <item>
    <title>Deep Learning füllt die Lücken der US-Hochwasserkarten: Millionen Menschen mehr in Risikozonen</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-flutkarten-usa</link>
    <guid isPermaLink="false">2026-11-20-flutkarten-usa</guid>
@@ -130,6 +158,20 @@ Warum das wichtig ist: Wälder und Böden nehmen einen großen Teil unserer CO2-
 Vorbehalt: Es handelt sich um Prognosen, nicht um Messungen, und sie hängen von den verwendeten Klima- und Landmodellen ab. Die Arbeit lag zur Veröffentlichung als Vorabdruck unter Begutachtung, und die erwartete Abnahme ist kleiner als im starken El Niño von 2015.
 
 Quelle: ESA (Climate Change Initiative) – https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/futureeo/space-for-our-climate/predicting-el-nino-s-impact-on-carbon-sinks</description>
+  </item>
+  <item>
+   <title>KI findet im EKG ein bisher unbekanntes Signal für den plötzlichen Herztod</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-ekg-herztod-biomarker</link>
+   <guid isPermaLink="false">2026-11-20-ekg-herztod-biomarker</guid>
+   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Ein Team um Ziad Obermeyer von der UC Berkeley hat ein Deep-Learning-Modell mit allen EKGs einer schwedischen Region trainiert, die mit Totenscheinen verknüpft waren. Das Modell isoliert eine Hochrisikogruppe von 2,2 Prozent der Stichprobe mit einer jährlichen Rate plötzlicher Herztode von 7,0 Prozent. Die bisher übliche Messgröße, die linksventrikuläre Auswurffraktion, erfasst 1,9 Prozent der Stichprobe mit 4,6 Prozent jährlicher Rate. 86,1 Prozent der KI-Hochrisikopatienten fielen bei der Auswurffraktion nicht auf. Hochrisikopatienten mit implantiertem Defibrillator starben 54,4 Prozent seltener als erwartet. Das Modell wurde an einem US-Gesundheitssystem und einem taiwanischen Krankenhausregister extern bestätigt, und ein Generativmodell machte die gefundene Kurvenform sichtbar.
+
+Warum das wichtig ist: Viele Menschen sterben plötzlich am Herzen, ohne dass Ärzte ihr Risiko erkannt haben, und viele Defibrillatoren werden nie ausgelöst. Ein Signal im Routine-EKG könnte helfen, Schutz gezielter einzusetzen.
+
+Vorbehalt: Die Ergebnisse stammen aus rückblickenden Registerdaten, nicht aus einer prospektiven Studie. Der Defibrillator-Effekt ist ein Vergleich mit Erwartungswerten, kein Beweis, und der biologische Mechanismus ist erst vorläufig getestet. Studienautor Obermeyer ist an Firmen beteiligt, die Daten bereitstellten; Tests in Kliniken laufen erst an. Hinweis: Die Studie erschien in Nature bereits am 24. Juni 2026, ScienceDaily berichtete im November.
+
+Quelle: Nature via ScienceDaily (UC Berkeley) – https://www.sciencedaily.com/releases/2026/11/261112230456.htm</description>
   </item>
   <item>
    <title>KI-Chatbots geben bei Klimafragen nach: Nach wiederholtem Widerspruch sinkt die Genauigkeit um 31 bis 35 Prozentpunkte</title>
