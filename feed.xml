@@ -146,6 +146,20 @@ Vorbehalt: Ein Einzelautor, nur Kolumbien und im Detail nur ein Modell. Das Mode
 Quelle: Biodiversity Data Journal via EurekAlert – https://www.eurekalert.org/news-releases/1151763</description>
   </item>
   <item>
+   <title>KI erkennt Kaiserporträts: Augustus, Tiberius, Caligula und Claudius mit etwa 78 Prozent Trefferquote unterschieden</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-julisch-claudische-portraets</link>
+   <guid isPermaLink="false">2026-11-23-julisch-claudische-portraets</guid>
+   <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Ein Team um Birgit Bergmann und Frank Weichert hat geprüft, ob Deep Learning bei der formalen Analyse antiker Skulpturen helfen kann. Untersucht wurden Porträts der ersten vier julisch-claudischen Kaiser. Die Zerlegung der Gesichter in Bestandteile wie Haar, Augen oder Mund erreichte eine Überlappung (IoU) von etwa 0,85. Die Zuordnung zu einem der vier Kaiser kam auf einen F1-Wert von etwa 0,78, die Unterscheidung zweier Augustus-Porträttypen (Louvre MA 1280 und Prima Porta) auf etwa 0,79. Heatmaps deuten darauf hin, dass die Modelle sich stark am Haar orientieren, was zur Forschung passt, die Frisuren zur Typenbestimmung nutzt.
+
+Warum das wichtig ist: Kaiserporträts werden bisher von Hand nach Frisur und Gesichtszügen in Typen eingeordnet, das ist aufwendig und von Einzelurteilen abhängig. Automatische Verfahren könnten diese Zuordnung nachvollziehbarer machen.
+
+Vorbehalt: Sehr kleine Datensätze: 96 Bilder für die Kaiserzuordnung, nur 34 für die Typenfrage. Die Streuung zwischen den Testläufen ist groß (Genauigkeit 0,78 ± 0,10), Tiberius wird oft mit Caligula verwechselt, und fast alle Bilder zeigen die Büsten von vorn. Die Heatmaps sind nur eine Näherung der Modellentscheidung.
+
+Quelle: Journal of Computer Applications in Archaeology – https://journal.caa-international.org/articles/10.5334/jcaa.238/</description>
+  </item>
+  <item>
    <title>Neun KI-Agenten schrieben 135 Folgestudien, keine erfüllte alle Bedingungen der Fachleute</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-into-the-unknown</link>
    <guid isPermaLink="false">2026-11-23-into-the-unknown</guid>
@@ -158,6 +172,20 @@ Warum das wichtig ist: Autonome „KI-Wissenschaftler“ werden oft als nahe Zuk
 Vorbehalt: Vorabdruck, noch in der Begutachtung. Die Bewertung stützt sich auf eine Rubrik und Integritätsprüfung der Autoren, nur fünf Fachgebiete und eine Momentaufnahme der getesteten Agenten.
 
 Quelle: arXiv: Into the Unknown – https://arxiv.org/abs/2610.19159</description>
+  </item>
+  <item>
+   <title>Fossilien bestimmen mit KI und Bürgerforschung: Modelle schlagen Fachleute, aber nicht überall</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-fossilien-niederlande-ki</link>
+   <guid isPermaLink="false">2026-11-23-fossilien-niederlande-ki</guid>
+   <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Ein Team von Naturalis und der Universität Utrecht trainierte Bildklassifikationsmodelle (CNN) für Fossilien und Artefakte aus dem Quartär der Niederlande und der südlichen Nordsee. Trainingsdaten waren über 46.000 standardisierte Bilder aus Museums- und Privatsammlungen sowie über 74.000 Bilder von der Bürgerforschungsplattform Oervondstchecker.nl. Zehn Fachleute und erfahrene Laien bestimmten dieselben Funde. Auf den standardisierten Daten konnten die Modelle Fachleute übertreffen, aber nicht auf beiden Datensätzen gleichermaßen. Die Bestimmungen der Fachleute waren außerdem alles andere als einhellig, was die Qualität der Trainingsdaten drückt.
+
+Warum das wichtig ist: Immer mehr Menschen finden Fossilien am Strand oder bei Baggerarbeiten, Fachleute können nicht alles prüfen. Die Modelle sind öffentlich nutzbar und könnten seltene Funde schneller auffällig machen.
+
+Vorbehalt: Die Modelle sind nur für Funde aus dem Nordseeraum belegt, die Leistung schwankt je nach Datensatz. Da auch die Expertenurteile uneinig sind, ist die Referenz selbst unsicher. Genaue Trefferquoten wurden hier nicht aus dem Volltext übernommen.
+
+Quelle: PeerJ Computer Science – https://peerj.com/articles/cs-4049/</description>
   </item>
   <item>
    <title>Maschinelles Lernen zeigt: Fischschwärme sind etwa 60-mal entstanden und rund 320-mal wieder verloren gegangen</title>
@@ -200,6 +228,20 @@ Warum das wichtig ist: Wer KI-Agenten Forschung selbstständig erledigen lassen 
 Vorbehalt: Vorabdruck ohne Begutachtung. Die Fehlerauswertung läuft großteils über einen KI-Gutachter, und ob Eingriffe auf Ebene der Orchestrierung die Lücke schließen, wurde nicht getestet.
 
 Quelle: arXiv: How Do Agents Fail on AutoResearch – https://arxiv.org/abs/2608.14905</description>
+  </item>
+  <item>
+   <title>AlphaOracle schlägt Lesungen für Orakelknochen-Zeichen vor und übertrifft Vergleichsmodelle</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-alphaoracle-orakelknochen</link>
+   <guid isPermaLink="false">2026-11-23-alphaoracle-orakelknochen</guid>
+   <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Etwa 4.500 Zeichen sind auf chinesischen Orakelknochen und -schildern bekannt, rund 3.000 davon haben keine anerkannte Lesung. Ein Team um Yuliang Liu (Huazhong-Universität für Wissenschaft und Technik, mit Partnern in Guangzhou und Anyang) hat AlphaOracle entwickelt, das den Arbeitsablauf von Fachleuten nachbildet: Zeichen erkennen, Form analysieren, den Kontext der Inschrift auswerten und Kandidaten mit überlieferten Klassikern und Fachliteratur abgleichen. Trainiert wurde mit 73.883 Abreibungen, 45.364 Scans und 23.755 Fachstudien. An 88 zurückgehaltenen Zeichen erreichte das Modell 23,1 Prozent Treffer an erster Stelle, ein nachgebautes Bildmodell 13,1 Prozent. 86 Fachleute sahen die Erklärungen in 45,2 Prozent der Blindvergleiche vorn, die Analysezeit sank um 64 Prozent.
+
+Warum das wichtig ist: Zeichen auf Orakelknochen sind die ältesten Schriftzeugnisse Chinas, viele sind seit über 3.000 Jahren ungelesen. Das System liefert prüfbare Belegketten statt einer einzelnen Antwort, die Forschende nachvollziehen können.
+
+Vorbehalt: Das Modell braucht überlieferte Literatur als Anker und entscheidet nicht selbst, welche Lesung gilt. Die Vergleichsmodelle wurden ohne Training auf dem Fachgebiet getestet, der Abstand zeigt also auch den Wert der Fachdaten. Zahlen stammen aus der Studie, eine unabhängige Wiederholung steht aus.
+
+Quelle: The Innovation via EurekAlert – https://www.eurekalert.org/news-releases/1151020</description>
   </item>
   <item>
    <title>AIFL: KI-Abflussmodell des Wetterzentrums ECMWF erkennt Hochwasser bis sechs Tage vor dem Scheitel</title>
@@ -802,48 +844,6 @@ Warum das wichtig ist: Die Zahl 10.000 stammt aus einer japanischen Werbekampagn
 Vorbehalt: Beobachtungsstudie, also Zusammenhang statt Beweis. Armbandsensoren zählen manche Bewegungen falsch, und die Schritte wurden nur in einem Teilzeitraum gemessen.
 
 Quelle: British Journal of Sports Medicine via News-Medical – https://www.news-medical.net/news/20260910/You-may-not-need-10000-steps-if-some-of-them-are-taken-at-a-faster-pace.aspx</description>
-  </item>
-  <item>
-   <title>KI-Korrekturschicht verdoppelt die Trefferquote von Wettervorhersagen für zwei bis sechs Wochen</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-mit-wetter-wochen</link>
-   <guid isPermaLink="false">2026-11-13-mit-wetter-wochen</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>klima</category>
-   <description>Vorhersagen zwischen zwei und sechs Wochen galten bisher als Wüste der Vorhersagbarkeit: zu weit für Wettermodelle, zu nah für Klimamodelle. Ein Team um Judah Cohen am MIT hat eine Lernschicht gebaut, die aus historischen Daten die systematischen Fehler eines bestehenden Modells lernt und dessen Wahrscheinlichkeitsvorhersagen korrigiert. Aufgesetzt auf das Modell des Europäischen Wetterzentrums ECMWF verdoppelte sie die Vorhersagegüte in diesem Zeitfenster, gewann einen ECMWF-Wettbewerb und schlug als erste Methode den langjährigen Klimadurchschnitt. Auch Extremwetter wurde messbar besser vorhergesagt.
-
-Warum das wichtig ist: Energieversorger, Landwirte und Katastrophenschutz brauchen genau diesen Zeithorizont. Der Texas-Stromausfall 2021 mit über 240 Toten war der Anlass für die Arbeit. Die Methode lässt sich auf jedes Modell aufsetzen.
-
-Vorbehalt: Die Verdopplung wurde im Wettbewerbsrahmen gemessen, der reale Nutzen im Betrieb ist noch nicht belegt. Das Problem gilt weiterhin als schwierig.
-
-Quelle: Nature via Phys.org / MIT News – https://phys.org/news/2026-10-ai-weather-power-weeks.html</description>
-  </item>
-  <item>
-   <title>Größte Studie zu KI im Brustkrebs-Screening: weniger übersehene Tumoren</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-masai-mammographie</link>
-   <guid isPermaLink="false">2026-11-13-masai-mammographie</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>gesundheit</category>
-   <description>Die schwedische MASAI-Studie hat über 105.000 Frauen zufällig auf zwei Gruppen verteilt: Screening mit KI-Unterstützung oder klassische Doppelbefundung durch zwei Radiologen. Nach zwei Jahren traten in der KI-Gruppe 1,55 Intervallkarzinome pro 1.000 Frauen auf, in der Kontrollgruppe 1,76. Das sind 12 Prozent weniger Krebsfälle, die zwischen zwei Screenings übersehen wurden. Bei aggressiven Tumoren war der Unterschied größer: 27 Prozent weniger bei den gefährlichen Nicht-Luminal-A-Typen. Die KI sortierte Aufnahmen nach Risiko und entlastete die Radiologen deutlich.
-
-Warum das wichtig ist: Zum ersten Mal zeigt eine große randomisierte Studie, dass KI im Screening nicht nur schneller ist, sondern auch harte Ergebnisse verbessert. Das ist die Beweislage, die Gesundheitssysteme für eine Einführung brauchen.
-
-Vorbehalt: Nur ein Land, ein Gerätetyp und ein KI-System (Transpara). Ob die Ergebnisse auf andere Länder und Geräte übertragbar sind, ist offen.
-
-Quelle: The Lancet via Lund University – https://www.lunduniversity.lu.se/article/ai-support-breast-cancer-screening-fewer-missed-cancer-cases</description>
-  </item>
-  <item>
-   <title>KI-Prüfung von 2,5 Millionen Fachartikeln: Erfundene Quellen haben sich seit 2023 verzwölffacht</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-lancet-falsche-zitate</link>
-   <guid isPermaLink="false">2026-11-13-lancet-falsche-zitate</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>grenzen</category>
-   <description>Ein Team um Maxim Topaz von der Columbia University hat ein automatisches Prüfsystem gebaut und damit 97,1 Millionen Literaturverweise in 2,5 Millionen frei zugänglichen biomedizinischen Artikeln aus PubMed Central kontrolliert, erschienen zwischen Januar 2023 und Februar 2026. Ergebnis: 4.046 erfundene Zitate in 2.810 Artikeln. Die Rate lag 2023 stabil bei etwa 4 pro 10.000 Artikel und stieg ab Mitte 2024 steil an, auf rund 57 pro 10.000 Anfang 2026. In einem Artikel waren 18 von 30 Quellen frei erfunden. Zum Zeitpunkt der Prüfung hatten 98,4 Prozent der betroffenen Artikel keinerlei Reaktion des Verlags erhalten. Manche der falschen Quellen wurden inzwischen weiterzitiert und tauchen in Übersichtsarbeiten auf, die klinische Leitlinien beeinflussen.
-
-Warum das wichtig ist: Der Anstieg fällt zeitlich mit der Verbreitung von KI-Schreibwerkzeugen zusammen. Die Studie zeigt beides: KI erzeugt das Problem, und KI ist bisher das einzige Werkzeug, das es in dieser Größenordnung aufdecken kann.
-
-Vorbehalt: Nur frei zugängliche Artikel geprüft, der letzte Datenpunkt umfasst nur sieben Wochen. Die Fehlerrate des Prüfsystems selbst wird nicht berichtet, und die Ursache ist zeitlicher Zusammenhang, kein Beweis.
-
-Quelle: The Lancet via Columbia School of Nursing – https://www.nursing.columbia.edu/news/nearly-3-000-peer-reviewed-medical-papers-have-fake-citations-columbia-nursing-ai-assisted-audit-finds</description>
   </item>
  </channel>
 </rss>

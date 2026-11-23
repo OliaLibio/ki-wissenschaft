@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-23T05:09:01Z",
- "count": 67,
+ "generated": "2026-11-23T05:10:18Z",
+ "count": 70,
  "posts": [
   {
    "id": "2026-11-23-ultraschall-geburtstermin",
@@ -464,6 +464,45 @@
    "category": "tiere"
   },
   {
+   "id": "2026-11-23-julisch-claudische-portraets",
+   "date": "2026-11-23",
+   "published": "2026-10-16",
+   "category": "archaeologie",
+   "countries": [
+    "DE"
+   ],
+   "institution": "Autorenteam um Birgit Bergmann und Frank Weichert",
+   "maturity": "study",
+   "source": {
+    "name": "Journal of Computer Applications in Archaeology",
+    "url": "https://journal.caa-international.org/articles/10.5334/jcaa.238/"
+   },
+   "de": {
+    "title": "KI erkennt Kaiserporträts: Augustus, Tiberius, Caligula und Claudius mit etwa 78 Prozent Trefferquote unterschieden",
+    "summary": "Ein Team um Birgit Bergmann und Frank Weichert hat geprüft, ob Deep Learning bei der formalen Analyse antiker Skulpturen helfen kann. Untersucht wurden Porträts der ersten vier julisch-claudischen Kaiser. Die Zerlegung der Gesichter in Bestandteile wie Haar, Augen oder Mund erreichte eine Überlappung (IoU) von etwa 0,85. Die Zuordnung zu einem der vier Kaiser kam auf einen F1-Wert von etwa 0,78, die Unterscheidung zweier Augustus-Porträttypen (Louvre MA 1280 und Prima Porta) auf etwa 0,79. Heatmaps deuten darauf hin, dass die Modelle sich stark am Haar orientieren, was zur Forschung passt, die Frisuren zur Typenbestimmung nutzt.",
+    "why": "Kaiserporträts werden bisher von Hand nach Frisur und Gesichtszügen in Typen eingeordnet, das ist aufwendig und von Einzelurteilen abhängig. Automatische Verfahren könnten diese Zuordnung nachvollziehbarer machen.",
+    "caveat": "Sehr kleine Datensätze: 96 Bilder für die Kaiserzuordnung, nur 34 für die Typenfrage. Die Streuung zwischen den Testläufen ist groß (Genauigkeit 0,78 ± 0,10), Tiberius wird oft mit Caligula verwechselt, und fast alle Bilder zeigen die Büsten von vorn. Die Heatmaps sind nur eine Näherung der Modellentscheidung."
+   },
+   "en": {
+    "title": "AI tells imperial portraits apart: Augustus, Tiberius, Caligula and Claudius identified with about 78 percent F1",
+    "summary": "A team around Birgit Bergmann and Frank Weichert tested whether deep learning can support the formal analysis of ancient sculpture. They studied portraits of the first four Julio-Claudian emperors. Segmenting faces into components such as hair, eyes or mouth reached an intersection over union of about 0.85. Assigning a portrait to one of the four emperors reached an F1 score of about 0.78, and telling two Augustus portrait types apart (Louvre MA 1280 and Prima Porta) about 0.79. Attention maps suggest the models rely heavily on hair, in line with scholarship that uses hairstyles to define types.",
+    "why": "Imperial portraits are classified by hand according to hairstyle and facial features, which is laborious and depends on individual judgement. Automated methods could make such classification more transparent.",
+    "caveat": "Very small datasets: 96 images for the emperor task and only 34 for the portrait types. Variation between test folds is large (accuracy 0.78 ± 0.10), Tiberius is often confused with Caligula, and nearly all images are frontal views. The heatmaps only approximate what drives a decision."
+   },
+   "ru": {
+    "title": "ИИ различает портреты императоров: Август, Тиберий, Калигула и Клавдий определены с F1 около 0,78",
+    "summary": "Группа Биргит Бергман и Франка Вайхерта проверила, может ли глубокое обучение помочь формальному анализу античной скульптуры. Изучались портреты первых четырёх императоров династии Юлиев-Клавдиев. Разбиение лиц на части, такие как волосы, глаза или рот, дало пересечение к объединению (IoU) около 0,85. Отнесение портрета к одному из четырёх императоров достигло F1 около 0,78, а различение двух типов портрета Августа (Лувр MA 1280 и Прима-Порта) — около 0,79. Карты внимания показывают, что модели сильно опираются на причёску, что согласуется с исследованиями, определяющими типы по причёскам.",
+    "why": "Портреты императоров сегодня классифицируют вручную по причёске и чертам лица, это трудоёмко и зависит от личного суждения. Автоматические методы могли бы сделать такую классификацию прозрачнее.",
+    "caveat": "Очень малые выборки: 96 изображений для задачи с императорами и лишь 34 для типов портрета. Разброс между прогонами велик (точность 0,78 ± 0,10), Тиберия часто путают с Калигулой, почти все снимки сделаны спереди. Тепловые карты лишь приблизительно показывают, что влияет на решение."
+   },
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Statue-Augustus.jpg/960px-Statue-Augustus.jpg",
+    "kind": "photo",
+    "credit": "Foto: Till Niermann, gemeinfrei, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Statue-Augustus.jpg"
+   }
+  },
+  {
    "id": "2026-11-23-into-the-unknown",
    "date": "2026-11-23",
    "published": "2026-10-13",
@@ -501,6 +540,51 @@
     "kind": "figure",
     "credit": "Abbildung der Studie, arXiv",
     "link": "https://arxiv.org/abs/2610.19159"
+   }
+  },
+  {
+   "id": "2026-11-23-fossilien-niederlande-ki",
+   "date": "2026-11-23",
+   "published": "2026-08-04",
+   "category": "archaeologie",
+   "countries": [
+    "NL"
+   ],
+   "institution": "Naturalis Biodiversity Center und Universität Utrecht",
+   "maturity": "study",
+   "source": {
+    "name": "PeerJ Computer Science",
+    "url": "https://peerj.com/articles/cs-4049/"
+   },
+   "more": [
+    {
+     "name": "DOI",
+     "url": "https://doi.org/10.7717/peerj-cs.4049"
+    }
+   ],
+   "de": {
+    "title": "Fossilien bestimmen mit KI und Bürgerforschung: Modelle schlagen Fachleute, aber nicht überall",
+    "summary": "Ein Team von Naturalis und der Universität Utrecht trainierte Bildklassifikationsmodelle (CNN) für Fossilien und Artefakte aus dem Quartär der Niederlande und der südlichen Nordsee. Trainingsdaten waren über 46.000 standardisierte Bilder aus Museums- und Privatsammlungen sowie über 74.000 Bilder von der Bürgerforschungsplattform Oervondstchecker.nl. Zehn Fachleute und erfahrene Laien bestimmten dieselben Funde. Auf den standardisierten Daten konnten die Modelle Fachleute übertreffen, aber nicht auf beiden Datensätzen gleichermaßen. Die Bestimmungen der Fachleute waren außerdem alles andere als einhellig, was die Qualität der Trainingsdaten drückt.",
+    "why": "Immer mehr Menschen finden Fossilien am Strand oder bei Baggerarbeiten, Fachleute können nicht alles prüfen. Die Modelle sind öffentlich nutzbar und könnten seltene Funde schneller auffällig machen.",
+    "caveat": "Die Modelle sind nur für Funde aus dem Nordseeraum belegt, die Leistung schwankt je nach Datensatz. Da auch die Expertenurteile uneinig sind, ist die Referenz selbst unsicher. Genaue Trefferquoten wurden hier nicht aus dem Volltext übernommen."
+   },
+   "en": {
+    "title": "Identifying fossils with AI and citizen science: models beat experts, but not everywhere",
+    "summary": "A team from Naturalis and Utrecht University trained image-classification models (CNNs) on Quaternary fossils and artefacts from the Netherlands and the southern North Sea. Training data were over 46,000 standardised images from museum and private collections and over 74,000 images from the citizen-science platform Oervondstchecker.nl. Ten domain experts and expert citizen scientists identified the same finds. On the standardised data the models could outperform experts, but not consistently across both datasets. Expert identifications were also far from unanimous, which lowers training-data quality.",
+    "why": "More and more people find fossils on beaches or at dredging sites, and specialists cannot check them all. The models are publicly available and could flag rare finds faster.",
+    "caveat": "The models are only shown to work for North Sea region finds, and performance varies by dataset. Because experts disagree among themselves, the reference itself is uncertain. Exact accuracy figures were not taken from the full text here."
+   },
+   "ru": {
+    "title": "Определение ископаемых с помощью ИИ и гражданской науки: модели обходят специалистов, но не везде",
+    "summary": "Группа из Naturalis и Утрехтского университета обучила модели классификации изображений (CNN) на четвертичных ископаемых и артефактах из Нидерландов и южной части Северного моря. Данные: более 46 000 стандартизированных снимков из музейных и частных коллекций и более 74 000 снимков с платформы гражданской науки Oervondstchecker.nl. Десять специалистов и опытных любителей определяли те же находки. На стандартизированных данных модели могли превосходить специалистов, но не на обоих наборах одинаково. Определения экспертов тоже далеко не единодушны, что снижает качество обучающих данных.",
+    "why": "Всё больше людей находят окаменелости на пляжах или при дноуглубительных работах, а специалисты не могут проверить всё. Модели общедоступны и могут быстрее выделять редкие находки.",
+    "caveat": "Работа модели подтверждена только для находок региона Северного моря, результаты зависят от набора данных. Поскольку эксперты расходятся во мнениях, сам эталон неточен. Точные показатели точности здесь не взяты из полного текста."
+   },
+   "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Leiden_-_RMO_-_tentoonstelling_Doggerland_-_os_frontale_van_eerste_Nederlandse_Neanderthaler%2C_Krijn_20210629.jpg/960px-Leiden_-_RMO_-_tentoonstelling_Doggerland_-_os_frontale_van_eerste_Nederlandse_Neanderthaler%2C_Krijn_20210629.jpg",
+    "kind": "photo",
+    "credit": "Foto: Otter, CC BY-SA 4.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Leiden_-_RMO_-_tentoonstelling_Doggerland_-_os_frontale_van_eerste_Nederlandse_Neanderthaler,_Krijn_20210629.jpg"
    }
   },
   {
@@ -631,6 +715,51 @@
     "kind": "figure",
     "credit": "Übersichtsabbildung der Studie, arXiv",
     "link": "https://arxiv.org/abs/2608.14905"
+   }
+  },
+  {
+   "id": "2026-11-23-alphaoracle-orakelknochen",
+   "date": "2026-11-23",
+   "published": "2026-11-02",
+   "category": "archaeologie",
+   "countries": [
+    "CN"
+   ],
+   "institution": "Huazhong University of Science and Technology",
+   "maturity": "study",
+   "source": {
+    "name": "The Innovation via EurekAlert",
+    "url": "https://www.eurekalert.org/news-releases/1151020"
+   },
+   "more": [
+    {
+     "name": "The Innovation (DOI)",
+     "url": "https://doi.org/10.1016/j.xinn.2026.101462"
+    }
+   ],
+   "de": {
+    "title": "AlphaOracle schlägt Lesungen für Orakelknochen-Zeichen vor und übertrifft Vergleichsmodelle",
+    "summary": "Etwa 4.500 Zeichen sind auf chinesischen Orakelknochen und -schildern bekannt, rund 3.000 davon haben keine anerkannte Lesung. Ein Team um Yuliang Liu (Huazhong-Universität für Wissenschaft und Technik, mit Partnern in Guangzhou und Anyang) hat AlphaOracle entwickelt, das den Arbeitsablauf von Fachleuten nachbildet: Zeichen erkennen, Form analysieren, den Kontext der Inschrift auswerten und Kandidaten mit überlieferten Klassikern und Fachliteratur abgleichen. Trainiert wurde mit 73.883 Abreibungen, 45.364 Scans und 23.755 Fachstudien. An 88 zurückgehaltenen Zeichen erreichte das Modell 23,1 Prozent Treffer an erster Stelle, ein nachgebautes Bildmodell 13,1 Prozent. 86 Fachleute sahen die Erklärungen in 45,2 Prozent der Blindvergleiche vorn, die Analysezeit sank um 64 Prozent.",
+    "why": "Zeichen auf Orakelknochen sind die ältesten Schriftzeugnisse Chinas, viele sind seit über 3.000 Jahren ungelesen. Das System liefert prüfbare Belegketten statt einer einzelnen Antwort, die Forschende nachvollziehen können.",
+    "caveat": "Das Modell braucht überlieferte Literatur als Anker und entscheidet nicht selbst, welche Lesung gilt. Die Vergleichsmodelle wurden ohne Training auf dem Fachgebiet getestet, der Abstand zeigt also auch den Wert der Fachdaten. Zahlen stammen aus der Studie, eine unabhängige Wiederholung steht aus."
+   },
+   "en": {
+    "title": "AlphaOracle proposes readings for oracle bone characters and beats comparison models",
+    "summary": "About 4,500 characters are known from Chinese oracle bones and shells, and roughly 3,000 of them have no agreed reading. A team led by Yuliang Liu (Huazhong University of Science and Technology, with partners in Guangzhou and Anyang) built AlphaOracle, which mimics expert workflow: it detects characters, analyses their form, evaluates inscription context and checks candidates against transmitted classics and scholarship. It was trained on 73,883 rubbings, 45,364 scans and 23,755 modern studies. On 88 characters withheld from training it reached 23.1 percent top-1 accuracy, against 13.1 percent for a reimplemented image model. 86 specialists preferred its explanations in 45.2 percent of blind comparisons, and analysis time fell by 64 percent.",
+    "why": "Oracle bone characters are China's oldest written records, and many have gone unread for over 3,000 years. The system produces checkable chains of evidence rather than a single answer, which scholars can follow.",
+    "caveat": "The model needs transmitted literature as an anchor and does not decide which reading is correct. Comparison models were tested zero-shot, so the gap partly reflects the value of domain data. Figures come from the study itself; independent replication is pending."
+   },
+   "ru": {
+    "title": "AlphaOracle предлагает прочтения знаков на гадательных костях и превосходит модели сравнения",
+    "summary": "На китайских гадательных костях и панцирях известно около 4500 знаков, примерно для 3000 из них нет общепринятого прочтения. Группа Юйляна Лю (Хуачжунский университет науки и технологий с партнёрами в Гуанчжоу и Аньяне) создала AlphaOracle, которая повторяет рабочий процесс специалистов: находит знаки, анализирует их форму, оценивает контекст надписи и сверяет варианты с классическими текстами и научной литературой. Обучение шло на 73 883 оттисках, 45 364 сканах и 23 755 научных работах. На 88 знаках, исключённых из обучения, модель дала 23,1 процента верных ответов с первой попытки, воспроизведённая модель для изображений — 13,1 процента. 86 специалистов предпочли её объяснения в 45,2 процента слепых сравнений, время анализа сократилось на 64 процента.",
+    "why": "Знаки на гадательных костях — древнейшие письменные памятники Китая, многие не прочитаны более 3000 лет. Система выдаёт проверяемые цепочки доказательств, а не один ответ, и учёные могут их проследить.",
+    "caveat": "Модели нужна традиционная литература как опора, и она не решает, какое прочтение верно. Модели сравнения тестировались без дообучения, поэтому разрыв отчасти отражает ценность профильных данных. Цифры взяты из самой работы, независимой проверки пока нет."
+   },
+   "image": {
+    "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/6a66aea1-2e9b-4448-9ec8-cee1beecd13c/Rendition/low-res/Content/Public",
+    "kind": "press",
+    "credit": "Bild: Innovation Press / EurekAlert",
+    "link": "https://www.eurekalert.org/news-releases/1151020"
    }
   },
   {
