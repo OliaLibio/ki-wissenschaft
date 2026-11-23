@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-23T05:08:13Z",
- "count": 61,
+ "generated": "2026-11-23T05:08:28Z",
+ "count": 64,
  "posts": [
   {
    "id": "2026-11-23-rtaste",
@@ -86,6 +86,156 @@
    "id": "2026-11-23-review-ki-naturgefahren-satellit",
    "date": "2026-11-23",
    "category": "klima"
+  },
+  {
+   "published": "2026-06-18",
+   "countries": [
+    "US"
+   ],
+   "institution": "Keck Medicine of USC",
+   "maturity": "clinical",
+   "evidence": "rct",
+   "verdict": "busted",
+   "source": {
+    "name": "eBioMedicine via ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1016/j.ebiom.2026.106316",
+     "url": "https://doi.org/10.1016/j.ebiom.2026.106316"
+    }
+   ],
+   "de": {
+    "myth": "Fischöl-Kapseln schützen das Gehirn und beugen Demenz vor.",
+    "title": "Fischöl fürs Gehirn: Zwei Jahre hochdosiertes DHA brachten keinen kognitiven Vorteil",
+    "summary": "Amerikaner geben jährlich mehr als eine Milliarde Dollar für Omega-3-Präparate aus. Ein Team um Hussein Yassine (Keck Medicine of USC) gab 365 Erwachsenen von 55 bis 80 Jahren, die selten Fisch essen und ein erhöhtes Alzheimer-Risiko haben, zwei Jahre lang täglich 2.000 mg DHA oder Placebo, randomisiert und doppelblind. 47 Prozent trugen die Genvariante APOE4. Das DHA im Nervenwasser stieg nach sechs Monaten im Mittel um 17 Prozent, es kam also im Gehirn an. Trotzdem gab es keinen signifikanten Vorteil bei der geistigen Leistung und keinen Schutz vor dem Schrumpfen des Hippocampus.",
+    "why": "Dass ein Nährstoff im Gehirn ankommt, heißt nicht, dass er dort etwas bewirkt. Wer Fischöl nur für sein Gedächtnis nimmt, hat dafür hier keinen Beleg.",
+    "caveat": "Getestet wurde nur hochdosiertes DHA, nicht Omega-3 aus Fisch oder EPA. Die Ergebnisse gelten für ältere, selten Fisch essende Risikopersonen. Die Autoren betonen, Fisch bleibe Teil gesunder Ernährung. Gefördert wurde die Studie unter anderem von den US-amerikanischen National Institutes of Health."
+   },
+   "en": {
+    "myth": "Fish oil capsules protect the brain and prevent dementia.",
+    "title": "Fish oil for the brain: two years of high-dose DHA gave no cognitive benefit",
+    "summary": "Americans spend more than a billion dollars a year on omega-3 supplements. A team led by Hussein Yassine (Keck Medicine of USC) gave 365 adults aged 55 to 80, who rarely eat fish and are at elevated Alzheimer's risk, 2,000 mg of DHA or placebo daily for two years, randomised and double-blind. 47 percent carried the APOE4 gene variant. DHA in cerebrospinal fluid rose by an average of 17 percent after six months, so it did reach the brain. Even so, there was no significant advantage in cognitive performance and no protection against shrinkage of the hippocampus.",
+    "why": "A nutrient reaching the brain does not mean it does anything there. Anyone taking fish oil only for memory has no evidence for it here.",
+    "caveat": "Only high-dose DHA was tested, not omega-3 from fish or EPA. Results apply to older, low-fish-eating at-risk people. The authors stress that fish remains part of a healthy diet. Funding came partly from the US National Institutes of Health."
+   },
+   "ru": {
+    "myth": "Капсулы с рыбьим жиром защищают мозг и предотвращают деменцию.",
+    "title": "Рыбий жир для мозга: два года высоких доз DHA не дали когнитивной пользы",
+    "summary": "Американцы тратят на добавки омега-3 более миллиарда долларов в год. Команда Хусейна Ясина (Keck Medicine of USC) в рандомизированном двойном слепом исследовании два года давала 365 взрослым от 55 до 80 лет, которые редко едят рыбу и имеют повышенный риск болезни Альцгеймера, ежедневно 2000 мг DHA или плацебо. 47 процентов были носителями варианта гена APOE4. Через полгода DHA в спинномозговой жидкости вырос в среднем на 17 процентов, то есть в мозг вещество попало. Тем не менее значимого преимущества в когнитивных показателях не было, а сжатие гиппокампа оно не предотвратило.",
+    "why": "То, что вещество попадает в мозг, не значит, что оно там что-то делает. Тот, кто принимает рыбий жир ради памяти, подтверждения этому здесь не получает.",
+    "caveat": "Проверяли только высокие дозы DHA, а не омега-3 из рыбы или EPA. Результаты относятся к пожилым людям группы риска, редко евшим рыбу. Авторы подчёркивают, что рыба остаётся частью здорового питания. Исследование частично финансировали американские Национальные институты здоровья."
+   },
+   "image": {
+    "src": "https://www.sciencedaily.com/images/1920/fish-oil-omega-3-capsules-dha-epa.webp",
+    "kind": "press",
+    "credit": "Bild: ScienceDaily",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm"
+   },
+   "id": "2026-11-23-mythos-fischoel-gehirn",
+   "date": "2026-11-23",
+   "category": "mythen"
+  },
+  {
+   "published": "2026-10-29",
+   "countries": [
+    "US"
+   ],
+   "institution": "UCLA",
+   "maturity": "clinical",
+   "evidence": "rct",
+   "verdict": "partly",
+   "source": {
+    "name": "UCLA Health",
+    "url": "https://www.uclahealth.org/news/release/study-challenges-belief-women-are-more-sensitive-effects"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1038/s41386-026-02571-3 (Neuropsychopharmacology)",
+     "url": "https://doi.org/10.1038/s41386-026-02571-3"
+    }
+   ],
+   "de": {
+    "myth": "Frauen reagieren empfindlicher auf Cannabis als Männer.",
+    "title": "Cannabis: Nicht Frauen, sondern selten konsumierende Männer spürten die stärksten Wirkungen",
+    "summary": "Frühere Studien hatten nahegelegt, dass Frauen stärker auf THC reagieren. Ein UCLA-Team ließ 44 gesunde Erwachsene (22 Frauen) in einer randomisierten, doppelblinden Crossover-Studie drei Cannabissorten rauchen: 0, 4 und 10 Prozent THC. Die Gruppen waren nach Geschlecht und Konsumhäufigkeit (mehr oder höchstens vier Tage pro Woche) ausgewogen. Selten konsumierende Männer berichteten mehr „High“, Sedierung und unangenehme Wirkungen als vergleichbare Frauen, und nur bei Männern stieg die Herzfrequenz deutlich. Bei häufig Konsumierenden beider Geschlechter waren die Wirkungen ähnlich, sie nahmen aber mehr Cannabis und bewerteten es als angenehmer. Die Blut-THC-Werte erklärten die Unterschiede nicht.",
+    "why": "Die Annahme, Frauen seien grundsätzlich empfindlicher, lässt sich in dieser kontrollierten Studie nicht bestätigen. Wichtiger als das Geschlecht war, wie oft jemand konsumiert.",
+    "caveat": "Nur 44 Personen, mehrere Auswertungen waren explorativ, und die getesteten THC-Stärken liegen unter vielen heutigen Produkten. Die Studie wurde vom US-Suchtforschungsinstitut NIDA finanziert und sagt nichts über Langzeitfolgen."
+   },
+   "en": {
+    "myth": "Women are more sensitive to cannabis than men.",
+    "title": "Cannabis: it was occasional-using men, not women, who felt the strongest effects",
+    "summary": "Earlier studies had suggested women respond more strongly to THC. A UCLA team had 44 healthy adults (22 women) smoke three cannabis strengths, 0, 4 and 10 percent THC, in a randomised, double-blind crossover trial. Groups were balanced by sex and frequency of use (more than or up to four days a week). Occasional-using men reported more feeling high, sedation and unpleasant effects than matched women, and only men showed a clear rise in heart rate. Frequent users of both sexes responded similarly, but took more cannabis and rated it as more pleasant. Blood THC levels did not explain the differences.",
+    "why": "The belief that women are inherently more sensitive is not confirmed in this controlled trial. How often someone uses mattered more than sex.",
+    "caveat": "Only 44 people, several analyses were exploratory, and the THC strengths tested are lower than many products sold today. The study was funded by the US National Institute on Drug Abuse and says nothing about long-term effects."
+   },
+   "ru": {
+    "myth": "Женщины чувствительнее к каннабису, чем мужчины.",
+    "title": "Каннабис: сильнее всего действие ощутили не женщины, а редко употребляющие мужчины",
+    "summary": "Прежние работы наводили на мысль, что женщины сильнее реагируют на ТГК. Команда UCLA в рандомизированном двойном слепом перекрёстном исследовании предложила 44 здоровым взрослым (22 женщины) выкурить каннабис трёх видов: 0, 4 и 10 процентов ТГК. Группы были уравновешены по полу и частоте употребления (больше четырёх дней в неделю или не больше). Редко употребляющие мужчины сообщали о более сильном «кайфе», седации и неприятных эффектах, чем сопоставимые женщины, и только у мужчин заметно ускорялся пульс. У часто употребляющих обоих полов реакция была сходной, но они больше употребляли и оценивали эффект как более приятный. Уровень ТГК в крови различий не объяснил.",
+    "why": "Представление, что женщины по природе чувствительнее, в этом контролируемом исследовании не подтвердилось. Частота употребления оказалась важнее пола.",
+    "caveat": "Всего 44 человека, ряд анализов был эксплораторным, а испытанные дозы ТГК ниже, чем во многих продуктах сегодня. Исследование финансировал американский Национальный институт по изучению наркозависимости, о долгосрочных последствиях оно ничего не говорит."
+   },
+   "image": {
+    "src": "https://www.uclahealth.org/sites/default/files/styles/landscape_16x9_030000_1200x675/public/images/86/istock-1609936321-1.jpg?f=42b7519a&itok=XPDOUUmA",
+    "kind": "press",
+    "credit": "Bild: UCLA Health",
+    "link": "https://www.uclahealth.org/news/release/study-challenges-belief-women-are-more-sensitive-effects"
+   },
+   "id": "2026-11-23-mythos-cannabis-frauen",
+   "date": "2026-11-23",
+   "category": "mythen"
+  },
+  {
+   "published": "2026-08-21",
+   "countries": [
+    "US"
+   ],
+   "institution": "Yale School of Medicine",
+   "maturity": "review",
+   "evidence": "meta",
+   "verdict": "busted",
+   "source": {
+    "name": "Nature Medicine via ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1038/s41591-026-04562-9",
+     "url": "https://doi.org/10.1038/s41591-026-04562-9"
+    }
+   ],
+   "de": {
+    "myth": "Anti-Aging-Nahrungsergänzungsmittel senken das biologische Alter.",
+    "title": "Biologische Uhren im Test: Medikamente und Lebensstil senken das epigenetische Alter, rezeptfreie Präparate kaum",
+    "summary": "Ein Team um Albert Higgins-Chen (Yale) hat 51 Interventionsstudien am Menschen ausgewertet und für alle einheitlich 16 epigenetische Uhren berechnet, also lernende Modelle, die das biologische Alter aus DNA-Methylierung schätzen. Insgesamt wurden mehr als 110 Methylierungs-Biomarker untersucht. Die stärksten Rückgänge zeigten Metformin, Semaglutid und TNF-Hemmer; Ernährung plus Bewegung senkte das epigenetische Alter ebenfalls zuverlässig. Rezeptfrei erhältliche Präparate und einige medizinische Verfahren zeigten keine messbare Senkung. Neuere Uhren reagierten besser als ältere.",
+    "why": "Der Markt für Anti-Aging-Pillen verspricht messbar jüngere Zellen. Gemessen an diesen Uhren leisteten Lebensstil und einige Medikamente mehr als frei verkäufliche Präparate.",
+    "caveat": "Ein niedrigeres epigenetisches Alter beweist keine längere Lebensdauer oder weniger Alterskrankheiten, dieser Zusammenhang ist laut Autoren unbelegt. Die Studie wertet vorhandene Untersuchungen aus, Ursache und Wirkung sind nicht gesichert, und Dauer und Haltbarkeit der Effekte sind unbekannt."
+   },
+   "en": {
+    "myth": "Anti-aging supplements lower your biological age.",
+    "title": "Testing the biological clocks: drugs and lifestyle lower epigenetic age, over-the-counter supplements barely do",
+    "summary": "A team led by Albert Higgins-Chen (Yale) analysed 51 human intervention studies and calculated 16 epigenetic clocks for all of them in a uniform way. These are learned models that estimate biological age from DNA methylation. More than 110 methylation biomarkers were examined in all. The largest reductions came with metformin, semaglutide and TNF inhibitors; diet plus exercise also reliably lowered epigenetic age. Over-the-counter supplements and some medical procedures showed no measurable reduction. Newer clocks responded better than older ones.",
+    "why": "The anti-aging pill market promises measurably younger cells. By these clocks, lifestyle and some drugs did more than supplements sold without prescription.",
+    "caveat": "A lower epigenetic age does not prove longer life or fewer age-related diseases; the authors say that link is unproven. The work pools existing studies, cause and effect are not established, and how long the effects last is unknown."
+   },
+   "ru": {
+    "myth": "Антивозрастные добавки снижают биологический возраст.",
+    "title": "Проверка биологических часов: лекарства и образ жизни снижают эпигенетический возраст, добавки из аптеки почти нет",
+    "summary": "Команда Альберта Хиггинс-Чена (Йель) проанализировала 51 интервенционное исследование на людях и единообразно рассчитала для всех 16 эпигенетических часов, то есть обученных моделей, оценивающих биологический возраст по метилированию ДНК. Всего изучено более 110 биомаркеров метилирования. Наибольшее снижение дали метформин, семаглутид и ингибиторы ФНО; диета вместе с физической нагрузкой тоже стабильно снижала эпигенетический возраст. Добавки, продающиеся без рецепта, и некоторые медицинские процедуры измеримого снижения не показали. Новые часы реагировали лучше старых.",
+    "why": "Рынок антивозрастных таблеток обещает измеримо более молодые клетки. По этим часам образ жизни и некоторые лекарства сработали лучше, чем добавки без рецепта.",
+    "caveat": "Более низкий эпигенетический возраст не доказывает большую продолжительность жизни или меньше возрастных болезней, эта связь, по словам авторов, не доказана. Работа объединяет существующие исследования, причинность не установлена, а длительность эффектов неизвестна."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04562-9/MediaObjects/41591_2026_4562_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Nature Medicine",
+    "link": "https://www.nature.com/articles/s41591-026-04562-9"
+   },
+   "id": "2026-11-23-mythos-anti-aging-supplements",
+   "date": "2026-11-23",
+   "category": "mythen"
   },
   {
    "published": "2026-09-01",

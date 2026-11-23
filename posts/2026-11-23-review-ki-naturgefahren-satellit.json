@@ -1,0 +1,45 @@
+{
+ "published": "2026-07-30",
+ "countries": [
+  "RU"
+ ],
+ "institution": "Skoltech",
+ "maturity": "review",
+ "source": {
+  "name": "Earth Systems and Environment via Skoltech",
+  "url": "https://skoltech.ru/en/news/what-ai-sees-space-skoltech-researchers-review-capabilities-and-limits-ai-environmental-hazard-monitoring"
+ },
+ "more": [
+  {
+   "name": "Earth Systems and Environment",
+   "url": "https://doi.org/10.1007/s41748-026-01328-8"
+  }
+ ],
+ "de": {
+  "title": "Was KI aus dem All sieht: Übersicht zu über 200 Studien zeigt, wo Satelliten-KI bei Bränden und Fluten an Grenzen stößt",
+  "summary": "Ein Team des KI-Zentrums von Skoltech um Svetlana Illarionova hat mehr als 200 Studien ausgewertet, in denen Satellitendaten und KI zur Überwachung von Waldbränden, Überschwemmungen, Dürren und Landnutzungswandel dienen. Die Übersicht reicht von frühen Spektralindizes über klassisches maschinelles Lernen und tiefe neuronale Netze bis zu geowissenschaftlichen Basismodellen. Die Autoren halten fest, dass Gefahren unterschiedlich schnell ablaufen: Brände und Fluten binnen Stunden, Dürre und Landveränderung über Monate oder Jahre, ein einzelner Algorithmus passt daher nicht für alle. Sie empfehlen, physikalische Modelle mit neuronalen Netzen zu verbinden, Satelliten- und Bodensensoren zu kombinieren und jeder Vorhersage eine Zuverlässigkeitsangabe beizufügen.",
+  "why": "KI-Karten von Bränden und Fluten wirken überzeugend, doch für Warnungen im Ernstfall zählt, wie verlässlich sie in neuen Regionen und bei laufend eintreffenden Daten sind. Die Übersicht zeigt, woran das noch scheitert.",
+  "caveat": "Es handelt sich um eine Literaturübersicht, nicht um neue Messungen. Die Mitteilung nennt keine Vergleichszahlen zwischen Methoden. Die Arbeit wurde laut Mitteilung unter anderem vom russischen Wirtschaftsministerium gefördert."
+ },
+ "en": {
+  "title": "What AI sees from space: a review of 200+ studies shows where satellite AI hits limits for fires and floods",
+  "summary": "A team at Skoltech's AI Center led by Svetlana Illarionova reviewed more than 200 studies that use satellite data and AI to monitor wildfires, floods, droughts and land-cover change. The review spans early spectral indices, classical machine learning, deep neural networks and geospatial foundation models. The authors note that hazards unfold at different speeds, wildfires and floods within hours, drought and land change over months or years, so no single algorithm fits all. They recommend combining physical models with neural networks, integrating satellite and ground sensors, and attaching a reliability estimate to every prediction.",
+  "why": "AI maps of fires and floods look convincing, but for real warnings what counts is how reliable they are in new regions and with continuously arriving data. The review shows where that still fails.",
+  "caveat": "This is a literature review, not new measurements, and the release gives no head-to-head numbers between methods. According to the release, the work was funded in part by Russia's Ministry of Economic Development."
+ },
+ "ru": {
+  "title": "Что ИИ видит из космоса: обзор более 200 работ показывает, где спутниковый ИИ упирается в пределы при пожарах и наводнениях",
+  "summary": "Команда Центра ИИ Сколтеха под руководством Светланы Илларионовой проанализировала более 200 исследований, где спутниковые данные и ИИ применяются для мониторинга лесных пожаров, наводнений, засух и изменений земного покрова. Обзор охватывает ранние спектральные индексы, классическое машинное обучение, глубокие нейросети и геопространственные базовые модели. Авторы отмечают, что опасности развиваются с разной скоростью: пожары и наводнения за часы, засухи и изменения земного покрова за месяцы и годы, поэтому единого алгоритма для всех нет. Они рекомендуют сочетать физические модели с нейросетями, объединять спутниковые и наземные датчики и сопровождать каждый прогноз оценкой надёжности.",
+  "why": "ИИ-карты пожаров и наводнений выглядят убедительно, но для реальных предупреждений важна надёжность в новых регионах и при непрерывно поступающих данных. Обзор показывает, где это пока не получается.",
+  "caveat": "Это обзор литературы, а не новые измерения; в сообщении нет сравнительных цифр между методами. По данным сообщения, работа частично финансировалась Министерством экономического развития России."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs41748-026-01328-8/MediaObjects/41748_2026_1328_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Earth Systems and Environment",
+  "link": "https://doi.org/10.1007/s41748-026-01328-8"
+ },
+ "id": "2026-11-23-review-ki-naturgefahren-satellit",
+ "date": "2026-11-23",
+ "category": "klima"
+}

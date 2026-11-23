@@ -1,0 +1,45 @@
+{
+ "published": "2026-07-25",
+ "countries": [
+  "INT"
+ ],
+ "institution": "ECMWF",
+ "maturity": "study",
+ "source": {
+  "name": "Journal of Hydrology via ECMWF",
+  "url": "https://www.ecmwf.int/node/31204"
+ },
+ "more": [
+  {
+   "name": "Journal of Hydrology",
+   "url": "https://doi.org/10.1016/j.jhydrol.2026.136064"
+  }
+ ],
+ "de": {
+  "title": "AIFL: KI-Abflussmodell des Wetterzentrums ECMWF erkennt Hochwasser bis sechs Tage vor dem Scheitel",
+  "summary": "Das Europäische Zentrum für mittelfristige Wettervorhersage (ECMWF) hat mit AIFL ein globales Modell für Flussabflüsse entwickelt, ein LSTM-Netz (Maria Luisa Taccari, Kenza Tazi, Matthew Chantry, Christel Prudhomme u. a.). Es wurde mit 40 Jahren ERA5-Land-Daten aus mehr als 18.000 Einzugsgebieten vortrainiert und mit Vorhersagen des ECMWF-Wettermodells nachjustiert. Für 2021 bis 2024 erreichte es an 2.000 Messstationen einen mittleren Kling-Gupta-Wert von 0,66 bei einem mittleren Abflussverhältnis von 1,00. Gegenüber Googles globalem Hochwassermodell war AIFL an 43 Prozent von rund 1.200 gemeinsamen Stationen gleich gut oder besser. Beim Sturm Henk (Januar 2024, Belgien) zeigte es das Hochwassersignal in einem 182 Quadratkilometer großen Einzugsgebiet bis zu sechs Tage vor dem Höchststand.",
+  "why": "Überschwemmungen betreffen weltweit mehr Menschen als jede andere Naturgefahr, und jeder zusätzliche Tag Vorwarnzeit hilft Behörden und Betroffenen. AIFL ist dafür gebaut, in die täglichen Vorhersagen des Zentrums eingebunden zu werden.",
+  "caveat": "Das Modell ist vorsichtig und verpasst manche Ereignisse, vor allem die seltensten. Gegenüber Googles Modell liegt es nur an 43 Prozent der Stationen gleichauf oder vorn; ein systematischer Vergleich mit dem etablierten GloFAS steht aus, und Unsicherheitsangaben fehlen noch. Der Sturm Henk ist nur ein Einzelfall."
+ },
+ "en": {
+  "title": "AIFL: ECMWF's AI streamflow model detects floods up to six days before the peak",
+  "summary": "The European Centre for Medium-Range Weather Forecasts (ECMWF) has built AIFL, a global streamflow model based on an LSTM network (Maria Luisa Taccari, Kenza Tazi, Matthew Chantry, Christel Prudhomme and colleagues). It was pre-trained on 40 years of ERA5-Land data from more than 18,000 basins and fine-tuned on ECMWF weather forecasts. For 2021 to 2024 it reached a median Kling-Gupta efficiency of 0.66 and a median discharge bias ratio of 1.00 across 2,000 gauged basins. Against Google's global flood model it matched or beat it at 43 percent of about 1,200 shared stations. During Storm Henk (January 2024, Belgium) it showed the flood signal in a 182 square-kilometre catchment up to six days before the peak.",
+  "why": "Floods affect more people worldwide than any other natural hazard, and every extra day of warning helps authorities and residents. AIFL is designed to be integrated into the centre's daily forecasting workflow.",
+  "caveat": "The model is conservative and misses some events, especially the rarest ones. It matches or beats Google's model at only 43 percent of stations; a systematic comparison with the established GloFAS is still to come and uncertainty estimates are not yet included. Storm Henk is a single case."
+ },
+ "ru": {
+  "title": "AIFL: ИИ-модель стока Европейского центра ECMWF замечает наводнение за шесть дней до пика",
+  "summary": "Европейский центр среднесрочных прогнозов погоды (ECMWF) создал AIFL — глобальную модель речного стока на основе LSTM-сети (Мария Луиза Таккари, Кенза Тази, Мэтью Чантри, Кристел Прюдом и др.). Её предобучили на 40 годах данных ERA5-Land из более чем 18 000 водосборов и дообучили на прогнозах погодной модели ECMWF. За 2021–2024 годы на 2000 гидрологических постах она показала медианную эффективность Клинга–Гупты 0,66 при медианном отношении смещения стока 1,00. По сравнению с глобальной моделью наводнений Google AIFL была не хуже или лучше на 43 процентах из примерно 1200 общих станций. Во время шторма «Хенк» (январь 2024, Бельгия) она показала сигнал наводнения в водосборе площадью 182 квадратных километра за шесть дней до пика.",
+  "why": "Наводнения затрагивают больше людей, чем любая другая природная опасность, и каждый лишний день предупреждения помогает властям и жителям. AIFL изначально создавалась для включения в ежедневные прогнозы центра.",
+  "caveat": "Модель осторожна и пропускает часть событий, прежде всего самые редкие. Модель Google она сравнивает или превосходит лишь на 43 процентах станций; систематическое сравнение с устоявшейся GloFAS ещё впереди, оценок неопределённости пока нет. Шторм «Хенк» — единичный случай."
+ },
+ "image": {
+  "src": "https://www.ecmwf.int/sites/default/files/2026-04/Figure_1-AIFS-streamflow-690px.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Bild: ECMWF",
+  "link": "https://www.ecmwf.int/node/31204"
+ },
+ "id": "2026-11-23-aifl-abfluss-ecmwf",
+ "date": "2026-11-23",
+ "category": "klima"
+}
