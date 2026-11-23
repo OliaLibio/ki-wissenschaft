@@ -1,0 +1,45 @@
+{
+ "published": "2026-10-21",
+ "countries": [
+  "US"
+ ],
+ "institution": "University of Massachusetts Amherst",
+ "maturity": "study",
+ "source": {
+  "name": "Approaches in Entomology via UMass Amherst",
+  "url": "https://www.umass.edu/news/article/listening-buzz-umass-amherst-ecologist-develops-new-tool-monitoring-bee-populations"
+ },
+ "more": [
+  {
+   "name": "Approaches in Entomology (DOI)",
+   "url": "https://doi.org/10.1002/3070-5436.70006"
+  }
+ ],
+ "de": {
+  "title": "Bienen am Summen erkennen: Zwei neuronale Netze erfassen Aktivität und unterscheiden Honigbienen von Hummeln",
+  "summary": "Die Ökologin Laura Figueroa und ihr Team an der University of Massachusetts Amherst haben zwei Faltungsnetze (CNN) für Tonaufnahmen von Bienen entwickelt. Das erste misst die Gesamtaktivität von Bienen an einem Ort, das zweite unterscheidet Honigbienen von Hummeln. Trainiert wurde mit 594 Feldaufnahmen aus fünf Jahren an 43 Standorten im Nordosten der USA. Die Modelle erkannten laut Mitteilung 93 bis 97 Prozent der Bienen in einer Stichprobe, und ihre Schätzungen stimmten gut mit Sichtbeobachtungen geschulter Fachleute überein. Die Modelle stehen im Analyseprogramm Raven Pro bereit.",
+  "why": "Üblich ist die Bestandserfassung mit Fallen, die viele Insekten töten und aufwendige Laborarbeit verlangen. Ein Mikrofon könnte Bestandsschwankungen schonender anzeigen, auch an schwer erreichbaren Orten wie Baumkronen.",
+  "caveat": "Nur Honigbiene gegen Hummel, keine Bestimmung einzelner Wildbienenarten. Viele Arten lassen sich nur unter dem Mikroskop bestimmen, daher ersetzt das Verfahren Fallen nicht. Die Mitteilung nennt keine Fehlalarmraten, und die Daten stammen nur aus dem Nordosten der USA."
+ },
+ "en": {
+  "title": "Identifying bees by their buzz: two neural networks measure activity and tell honeybees from bumble bees",
+  "summary": "Ecologist Laura Figueroa and her team at the University of Massachusetts Amherst built two convolutional neural networks (CNNs) for audio recordings of bees. The first measures overall bee activity at a site, the second tells honeybees from bumble bees. They were trained on 594 field recordings collected over five years at 43 sites in the northeastern US. According to the release, the models correctly identified 93 to 97 percent of bees in a sample, and their estimates correlated well with visual observations by trained researchers. The models are available in the analysis software Raven Pro.",
+  "why": "Bee monitoring usually relies on traps that kill many insects and require extensive lab work. A microphone could track population changes more gently, including in hard-to-reach places such as tree canopies.",
+  "caveat": "Only honeybee versus bumble bee, no identification of individual wild bee species. Many species can only be identified under a microscope, so the method does not replace traps. The release gives no false-alarm rates, and the data come only from the northeastern US."
+ },
+ "ru": {
+  "title": "Пчёл узнают по жужжанию: две нейросети измеряют активность и отличают медоносных пчёл от шмелей",
+  "summary": "Эколог Лаура Фигероа и её команда из Массачусетского университета в Амхерсте создали две свёрточные нейросети (CNN) для звуковых записей пчёл. Первая измеряет общую активность пчёл на участке, вторая отличает медоносных пчёл от шмелей. Обучение проводилось на 594 полевых записях за пять лет с 43 участков на северо-востоке США. По сообщению, модели правильно определили 93–97 процентов пчёл в выборке, а их оценки хорошо совпали с визуальными наблюдениями обученных исследователей. Модели доступны в программе анализа звука Raven Pro.",
+  "why": "Обычно пчёл учитывают с помощью ловушек, которые убивают много насекомых и требуют трудоёмкой лабораторной работы. Микрофон мог бы щадяще отслеживать изменения численности, в том числе в труднодоступных местах, например в кронах деревьев.",
+  "caveat": "Только медоносная пчела против шмеля, без определения отдельных видов диких пчёл. Многие виды различимы только под микроскопом, поэтому метод не заменяет ловушки. В сообщении нет данных о ложных срабатываниях, а данные собраны только на северо-востоке США."
+ },
+ "image": {
+  "src": "https://www.umass.edu/sites/default/files/2026-10/Bombus%20ternarius%20wide.jpeg",
+  "kind": "press",
+  "credit": "Bild: University of Massachusetts Amherst",
+  "link": "https://www.umass.edu/news/article/listening-buzz-umass-amherst-ecologist-develops-new-tool-monitoring-bee-populations"
+ },
+ "id": "2026-11-23-bienen-brummen-erkennen",
+ "date": "2026-11-23",
+ "category": "tiere"
+}

@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-23T05:07:20Z",
- "count": 55,
+ "generated": "2026-11-23T05:08:13Z",
+ "count": 61,
  "posts": [
   {
    "id": "2026-11-23-rtaste",
@@ -43,6 +43,141 @@
    }
   },
   {
+   "published": "2026-07-30",
+   "countries": [
+    "RU"
+   ],
+   "institution": "Skoltech",
+   "maturity": "review",
+   "source": {
+    "name": "Earth Systems and Environment via Skoltech",
+    "url": "https://skoltech.ru/en/news/what-ai-sees-space-skoltech-researchers-review-capabilities-and-limits-ai-environmental-hazard-monitoring"
+   },
+   "more": [
+    {
+     "name": "Earth Systems and Environment",
+     "url": "https://doi.org/10.1007/s41748-026-01328-8"
+    }
+   ],
+   "de": {
+    "title": "Was KI aus dem All sieht: Übersicht zu über 200 Studien zeigt, wo Satelliten-KI bei Bränden und Fluten an Grenzen stößt",
+    "summary": "Ein Team des KI-Zentrums von Skoltech um Svetlana Illarionova hat mehr als 200 Studien ausgewertet, in denen Satellitendaten und KI zur Überwachung von Waldbränden, Überschwemmungen, Dürren und Landnutzungswandel dienen. Die Übersicht reicht von frühen Spektralindizes über klassisches maschinelles Lernen und tiefe neuronale Netze bis zu geowissenschaftlichen Basismodellen. Die Autoren halten fest, dass Gefahren unterschiedlich schnell ablaufen: Brände und Fluten binnen Stunden, Dürre und Landveränderung über Monate oder Jahre, ein einzelner Algorithmus passt daher nicht für alle. Sie empfehlen, physikalische Modelle mit neuronalen Netzen zu verbinden, Satelliten- und Bodensensoren zu kombinieren und jeder Vorhersage eine Zuverlässigkeitsangabe beizufügen.",
+    "why": "KI-Karten von Bränden und Fluten wirken überzeugend, doch für Warnungen im Ernstfall zählt, wie verlässlich sie in neuen Regionen und bei laufend eintreffenden Daten sind. Die Übersicht zeigt, woran das noch scheitert.",
+    "caveat": "Es handelt sich um eine Literaturübersicht, nicht um neue Messungen. Die Mitteilung nennt keine Vergleichszahlen zwischen Methoden. Die Arbeit wurde laut Mitteilung unter anderem vom russischen Wirtschaftsministerium gefördert."
+   },
+   "en": {
+    "title": "What AI sees from space: a review of 200+ studies shows where satellite AI hits limits for fires and floods",
+    "summary": "A team at Skoltech's AI Center led by Svetlana Illarionova reviewed more than 200 studies that use satellite data and AI to monitor wildfires, floods, droughts and land-cover change. The review spans early spectral indices, classical machine learning, deep neural networks and geospatial foundation models. The authors note that hazards unfold at different speeds, wildfires and floods within hours, drought and land change over months or years, so no single algorithm fits all. They recommend combining physical models with neural networks, integrating satellite and ground sensors, and attaching a reliability estimate to every prediction.",
+    "why": "AI maps of fires and floods look convincing, but for real warnings what counts is how reliable they are in new regions and with continuously arriving data. The review shows where that still fails.",
+    "caveat": "This is a literature review, not new measurements, and the release gives no head-to-head numbers between methods. According to the release, the work was funded in part by Russia's Ministry of Economic Development."
+   },
+   "ru": {
+    "title": "Что ИИ видит из космоса: обзор более 200 работ показывает, где спутниковый ИИ упирается в пределы при пожарах и наводнениях",
+    "summary": "Команда Центра ИИ Сколтеха под руководством Светланы Илларионовой проанализировала более 200 исследований, где спутниковые данные и ИИ применяются для мониторинга лесных пожаров, наводнений, засух и изменений земного покрова. Обзор охватывает ранние спектральные индексы, классическое машинное обучение, глубокие нейросети и геопространственные базовые модели. Авторы отмечают, что опасности развиваются с разной скоростью: пожары и наводнения за часы, засухи и изменения земного покрова за месяцы и годы, поэтому единого алгоритма для всех нет. Они рекомендуют сочетать физические модели с нейросетями, объединять спутниковые и наземные датчики и сопровождать каждый прогноз оценкой надёжности.",
+    "why": "ИИ-карты пожаров и наводнений выглядят убедительно, но для реальных предупреждений важна надёжность в новых регионах и при непрерывно поступающих данных. Обзор показывает, где это пока не получается.",
+    "caveat": "Это обзор литературы, а не новые измерения; в сообщении нет сравнительных цифр между методами. По данным сообщения, работа частично финансировалась Министерством экономического развития России."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs41748-026-01328-8/MediaObjects/41748_2026_1328_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Earth Systems and Environment",
+    "link": "https://doi.org/10.1007/s41748-026-01328-8"
+   },
+   "id": "2026-11-23-review-ki-naturgefahren-satellit",
+   "date": "2026-11-23",
+   "category": "klima"
+  },
+  {
+   "published": "2026-09-01",
+   "countries": [
+    "US"
+   ],
+   "institution": "Google Research / NASA JPL",
+   "maturity": "study",
+   "source": {
+    "name": "PNAS",
+    "url": "https://www.pnas.org/doi/10.1073/pnas.2612145123"
+   },
+   "more": [
+    {
+     "name": "Google Research Blog",
+     "url": "https://www.research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/"
+    }
+   ],
+   "de": {
+    "title": "Vision-Transformer findet aus dem All Methanquellen: 84 Prozent der von Hand markierten Fahnen, rund anderthalbmal so viele plausible Fahnen wie Analysten",
+    "summary": "Methan ist ein starkes Treibhausgas, doch große Einzelquellen wie Mülldeponien oder Öl- und Gasanlagen werden bisher meist von Hand auf Satellitenbildern markiert. Ein Team von Google Research und der NASA (u. a. Vishal Batchu, Michelangelo Conserva, Anna Michalak) hat dafür das Modell MAPL-EMIT entwickelt, einen Vision-Transformer, der das gesamte Strahlungsspektrum des NASA-Instruments EMIT auswertet. Trainiert wurde er mit 3,6 Millionen physikalisch simulierten Fahnen, die in echte EMIT-Aufnahmen eingefügt wurden. Auf 1.084 realen EMIT-Aufnahmen erfasste das Modell 84 Prozent der von Hand markierten NASA-Fahnenkomplexe und fand etwa 1,5-mal so viele plausible Fahnen wie menschliche Analysten. Laut Google-Blog wurden Fahnen an 24 der 25 größten Mülldeponien der Welt kartiert.",
+    "why": "Wer Methanlecks findet, kann sie schneller stopfen, und das bremst die Erwärmung in den nächsten Jahrzehnten besonders wirksam. Automatische Auswertung könnte die mühsame Handarbeit ersetzen und mehr Quellen sichtbar machen.",
+    "caveat": "Trainiert wurde vor allem mit simulierten Fahnen, wie gut diese die Wirklichkeit treffen, bleibt offen. Fehlalarme in schwierigem Gelände und Oberflächen, die ein Methansignal vortäuschen, sind weiter ein Problem; kleine oder diffuse Quellen werden schlechter erkannt. Die zusätzlichen Fahnen sind „plausibel“, nicht unabhängig bestätigt."
+   },
+   "en": {
+    "title": "Vision transformer spots methane sources from space: 84 percent of hand-marked plumes and about 1.5 times as many plausible plumes as analysts",
+    "summary": "Methane is a potent greenhouse gas, yet large point sources such as landfills or oil and gas sites are still mostly marked by hand on satellite images. A team from Google Research and NASA (including Vishal Batchu, Michelangelo Conserva and Anna Michalak) built MAPL-EMIT, a vision transformer that uses the full radiance spectrum of NASA's EMIT instrument. It was trained on 3.6 million physics-based synthetic plumes injected into real EMIT scenes. On 1,084 real EMIT granules the model captured 84 percent of the hand-annotated NASA plume complexes and found about 1.5 times as many plausible plumes as human analysts. According to Google's blog, plumes were mapped at 24 of the world's 25 top-emitting landfills.",
+    "why": "Finding methane leaks lets operators fix them, which slows warming in the coming decades especially effectively. Automatic analysis could replace laborious manual work and reveal more sources.",
+    "caveat": "Training relied largely on simulated plumes, and how well they match reality is open. False positives in complex terrain and surfaces that mimic a methane signal remain a problem; small or diffuse sources are harder to detect. The extra plumes are \"plausible\", not independently confirmed."
+   },
+   "ru": {
+    "title": "Vision-трансформер находит источники метана из космоса: 84 процента размеченных вручную шлейфов и примерно в 1,5 раза больше правдоподобных шлейфов, чем у аналитиков",
+    "summary": "Метан — сильный парниковый газ, но крупные точечные источники, такие как свалки или нефтегазовые объекты, до сих пор в основном отмечают вручную на спутниковых снимках. Команда Google Research и NASA (среди авторов Вишал Батчу, Микеланджело Консерва, Анна Михалак) создала MAPL-EMIT — vision-трансформер, который использует весь радиационный спектр прибора NASA EMIT. Модель обучали на 3,6 миллиона физически смоделированных шлейфов, внедрённых в реальные снимки EMIT. На 1084 реальных снимках EMIT она нашла 84 процента размеченных вручную шлейфов NASA и примерно в 1,5 раза больше правдоподобных шлейфов, чем аналитики-люди. По данным блога Google, шлейфы картированы у 24 из 25 крупнейших свалок мира.",
+    "why": "Найденную утечку метана можно устранить, а это особенно эффективно замедляет потепление в ближайшие десятилетия. Автоматический анализ мог бы заменить трудоёмкую ручную работу и выявить больше источников.",
+    "caveat": "Обучение шло в основном на смоделированных шлейфах, и насколько они соответствуют реальности, неясно. Ложные срабатывания в сложном рельефе и поверхности, имитирующие сигнал метана, остаются проблемой; малые и рассеянные источники обнаруживаются хуже. Дополнительные шлейфы «правдоподобны», но независимо не подтверждены."
+   },
+   "image": {
+    "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/MAPL-EMIT-overview-hero.png",
+    "kind": "press",
+    "credit": "Bild: Google Research",
+    "link": "https://www.research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/"
+   },
+   "id": "2026-11-23-methan-mapl-emit",
+   "date": "2026-11-23",
+   "category": "klima"
+  },
+  {
+   "published": "2026-11-05",
+   "countries": [
+    "CO"
+   ],
+   "institution": "Biodiversity Data Journal / Pensoft",
+   "maturity": "study",
+   "source": {
+    "name": "Biodiversity Data Journal via EurekAlert",
+    "url": "https://www.eurekalert.org/news-releases/1151763"
+   },
+   "more": [
+    {
+     "name": "Biodiversity Data Journal",
+     "url": "https://bdj.pensoft.net/article/208137/"
+    }
+   ],
+   "de": {
+    "title": "Nur jedes zehnte Tier richtig: Ein Sprachmodell scheitert an der Artbestimmung kolumbianischer Wirbeltiere",
+    "summary": "Gustavo Nicolas Paez Salamanca hat GPT-5.2 mit 10.000 forschungstauglichen iNaturalist-Fotos kolumbianischer Wirbeltiere getestet, je 2.000 Bilder von Amphibien, Vögeln, Fischen, Säugetieren und Reptilien. Das Modell musste zu jedem Bild Familie, Gattung und Art nennen. Insgesamt stimmte die Art nur zu 9,5 Prozent. Bei Säugetieren und Reptilien lag die Trefferquote bei etwa 17 bis 19 Prozent, bei Amphibien, Vögeln und Fischen unter 5 Prozent. Arten mit wenigen öffentlichen Fotos und erst kürzlich beschriebene Arten wurden besonders schlecht erkannt. Tests mit anderen Systemen zeigten laut der Mitteilung ähnliche Muster.",
+    "why": "Allgemeine KI-Modelle werden zunehmend für Naturbeobachtung und Artenschutz eingesetzt. Die Studie zeigt, dass sie dort versagen, wo Daten fehlen, also bei seltenen und wenig dokumentierten Arten, auf die es im Naturschutz besonders ankommt.",
+    "caveat": "Ein Einzelautor, nur Kolumbien und im Detail nur ein Modell. Das Modell durfte nicht passen, ein Werkzeug mit der Option „unsicher“ könnte besser abschneiden. Spezialisierte Artenerkennungs-Software wurde nicht verglichen."
+   },
+   "en": {
+    "title": "Only one in ten right: a language model fails at identifying Colombian vertebrates to species",
+    "summary": "Gustavo Nicolas Paez Salamanca tested GPT-5.2 on 10,000 research-grade iNaturalist photos of Colombian vertebrates, 2,000 each of amphibians, birds, fishes, mammals and reptiles. The model had to give family, genus and species for every image. Overall species-level accuracy was only 9.5 percent. Mammals and reptiles reached about 17 to 19 percent, amphibians, birds and fishes stayed below 5 percent. Species with few public photos and recently described species were identified worst. According to the release, tests with other systems showed similar patterns.",
+    "why": "General-purpose AI models are increasingly used for nature observation and conservation. The study shows they fail where data are scarce, that is, for rare and poorly documented species, which matter most in conservation.",
+    "caveat": "A single author, only Colombia, and in detail only one model. The model was not allowed to abstain; a tool with an option to say \"unsure\" might do better. Specialised species-recognition software was not compared."
+   },
+   "ru": {
+    "title": "Верно лишь каждый десятый: языковая модель плохо определяет колумбийских позвоночных до вида",
+    "summary": "Густаво Николас Паэс Саламанка проверил GPT-5.2 на 10 000 фотографий колумбийских позвоночных с iNaturalist исследовательского уровня: по 2000 снимков амфибий, птиц, рыб, млекопитающих и рептилий. По каждому снимку модель должна была назвать семейство, род и вид. Общая точность на уровне вида составила лишь 9,5 процента. У млекопитающих и рептилий она достигла примерно 17–19 процентов, у амфибий, птиц и рыб осталась ниже 5 процентов. Хуже всего определялись виды с малым числом публичных фотографий и недавно описанные виды. По сообщению, тесты с другими системами показали схожие закономерности.",
+    "why": "Универсальные ИИ-модели всё чаще используют для наблюдений за природой и охраны видов. Исследование показывает, что они подводят там, где мало данных, то есть у редких и плохо документированных видов, которые важнее всего для охраны природы.",
+    "caveat": "Один автор, только Колумбия и подробно лишь одна модель. Модели нельзя было отказаться от ответа; инструмент с вариантом «не уверен» мог бы справиться лучше. Специализированные программы распознавания видов не сравнивались."
+   },
+   "image": {
+    "src": "https://blog.pensoft.net/wp-content/uploads/2026/11/169-Journal-comms-3.png",
+    "kind": "press",
+    "credit": "Bild: Pensoft Publishers",
+    "link": "https://blog.pensoft.net/2026/11/18/new-study-maps-where-ai-species-identification-fails/"
+   },
+   "id": "2026-11-23-ki-artbestimmung-kolumbien",
+   "date": "2026-11-23",
+   "category": "tiere"
+  },
+  {
    "id": "2026-11-23-into-the-unknown",
    "date": "2026-11-23",
    "published": "2026-10-13",
@@ -83,6 +218,96 @@
    }
   },
   {
+   "published": "2026-11-06",
+   "countries": [
+    "US"
+   ],
+   "institution": "Cornell University",
+   "maturity": "study",
+   "source": {
+    "name": "PNAS via Cornell Chronicle",
+    "url": "https://news.cornell.edu/stories/2026/11/machine-learning-helps-explain-evolution-fish-schools"
+   },
+   "more": [
+    {
+     "name": "PNAS",
+     "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2611720123"
+    }
+   ],
+   "de": {
+    "title": "Maschinelles Lernen zeigt: Fischschwärme sind etwa 60-mal entstanden und rund 320-mal wieder verloren gegangen",
+    "summary": "Ein Team um Jay Love und Andrew Hein (Cornell University, mit der University of Colorado Boulder und der Florida Atlantic University) hat für 2.839 Fischarten bestimmt, ob sie in Schwärmen leben. Das sind etwa 10 Prozent der rund 39.000 lebenden Arten. Ein Text-Transformer, also die Architektur hinter großen Sprachmodellen, wandelte schriftliche Artbeschreibungen in Zahlen um, aus denen auf Schwarmverhalten geschlossen wurde. Zusätzlich werteten Bildverfahren Fotos und Videos aus Bürgerwissenschaftsprojekten wie iNaturalist aus: Sie rekonstruierten die Fische dreidimensional und maßen Schwimmrichtung und Ausrichtung zueinander. Über etwa 350 Millionen Jahre entstand Schwarmverhalten rund 60-mal unabhängig und ging rund 320-mal verloren. Arten weiter unten in der Nahrungskette schwärmen eher, und Linien, in denen alle Arten schwärmen, brachten mehr Arten hervor.",
+    "why": "Warum Tiere in Gruppen leben, ist eine Grundfrage der Evolution. Die Studie zeigt, dass sich solche Fragen mit Texten und Alltagsfotos über Tausende Arten gleichzeitig prüfen lassen.",
+    "caveat": "Der Zusammenhang mit der Stellung in der Nahrungskette ist eine Korrelation, die Autoren nennen ihn selbst nicht „wasserdicht“. Unklar bleibt, ob mehr Arten durch höhere Artbildung oder geringeres Aussterben entstanden, und warum Schwarmverhalten so oft verloren ging. Die Einstufung aus Textbeschreibungen ist eine Schätzung, kein Messwert."
+   },
+   "en": {
+    "title": "Machine learning suggests fish schooling evolved about 60 times and was lost about 320 times",
+    "summary": "A team led by Jay Love and Andrew Hein at Cornell University, with the University of Colorado Boulder and Florida Atlantic University, determined whether 2,839 fish species school. That is about 10 percent of the roughly 39,000 living species. A text transformer, the architecture behind large language models, converted written species descriptions into numbers used to infer whether a species likely schools. In addition, computer vision analysed citizen-science photos and videos such as those on iNaturalist: it reconstructed the fish in three dimensions and measured heading and alignment between individuals. Over about 350 million years, schooling arose independently around 60 times and was lost around 320 times. Species lower in the food chain were more likely to school, and lineages in which all species school produced more species.",
+    "why": "Why animals live in groups is a basic question in evolution. The study shows that such questions can be tested across thousands of species at once using text and everyday photos.",
+    "caveat": "The link to position in the food chain is a correlation, and the authors themselves say it is not iron-clad. It is unclear whether greater diversity reflects faster speciation or lower extinction, and why schooling was lost so often. Classifications from text descriptions are estimates, not measurements."
+   },
+   "ru": {
+    "title": "Машинное обучение: стайное поведение у рыб возникало примерно 60 раз и утрачивалось примерно 320 раз",
+    "summary": "Команда Джея Лава и Эндрю Хейна из Корнеллского университета совместно с Университетом Колорадо в Боулдере и Атлантическим университетом Флориды определила, образуют ли стаи 2839 видов рыб. Это около 10 процентов из примерно 39 000 ныне живущих видов. Текстовый трансформер, то есть архитектура больших языковых моделей, превращал письменные описания видов в числа, по которым оценивали склонность к стайности. Кроме того, методы компьютерного зрения анализировали фото и видео из гражданских научных проектов, например iNaturalist: рыб реконструировали в трёх измерениях и измеряли направление движения и выравнивание друг относительно друга. За примерно 350 миллионов лет стайное поведение возникало независимо около 60 раз и утрачивалось около 320 раз. Виды ниже в пищевой цепи чаще образуют стаи, а линии, где стайны все виды, дали больше новых видов.",
+    "why": "Почему животные живут группами — один из базовых вопросов эволюции. Исследование показывает, что такие вопросы можно проверять сразу на тысячах видов с помощью текстов и обычных фотографий.",
+    "caveat": "Связь с положением в пищевой цепи — корреляция, сами авторы называют её не железной. Неясно, объясняется ли большее разнообразие более быстрым видообразованием или меньшим вымиранием и почему стайность так часто утрачивалась. Классификация по текстовым описаниям — оценка, а не измерение."
+   },
+   "image": {
+    "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-11/1105_fish_tnd.jpg",
+    "kind": "press",
+    "credit": "Bild: Cornell University",
+    "link": "https://news.cornell.edu/stories/2026/11/machine-learning-helps-explain-evolution-fish-schools"
+   },
+   "id": "2026-11-23-fische-schwarm-evolution",
+   "date": "2026-11-23",
+   "category": "tiere"
+  },
+  {
+   "published": "2026-10-21",
+   "countries": [
+    "US"
+   ],
+   "institution": "University of Massachusetts Amherst",
+   "maturity": "study",
+   "source": {
+    "name": "Approaches in Entomology via UMass Amherst",
+    "url": "https://www.umass.edu/news/article/listening-buzz-umass-amherst-ecologist-develops-new-tool-monitoring-bee-populations"
+   },
+   "more": [
+    {
+     "name": "Approaches in Entomology (DOI)",
+     "url": "https://doi.org/10.1002/3070-5436.70006"
+    }
+   ],
+   "de": {
+    "title": "Bienen am Summen erkennen: Zwei neuronale Netze erfassen Aktivität und unterscheiden Honigbienen von Hummeln",
+    "summary": "Die Ökologin Laura Figueroa und ihr Team an der University of Massachusetts Amherst haben zwei Faltungsnetze (CNN) für Tonaufnahmen von Bienen entwickelt. Das erste misst die Gesamtaktivität von Bienen an einem Ort, das zweite unterscheidet Honigbienen von Hummeln. Trainiert wurde mit 594 Feldaufnahmen aus fünf Jahren an 43 Standorten im Nordosten der USA. Die Modelle erkannten laut Mitteilung 93 bis 97 Prozent der Bienen in einer Stichprobe, und ihre Schätzungen stimmten gut mit Sichtbeobachtungen geschulter Fachleute überein. Die Modelle stehen im Analyseprogramm Raven Pro bereit.",
+    "why": "Üblich ist die Bestandserfassung mit Fallen, die viele Insekten töten und aufwendige Laborarbeit verlangen. Ein Mikrofon könnte Bestandsschwankungen schonender anzeigen, auch an schwer erreichbaren Orten wie Baumkronen.",
+    "caveat": "Nur Honigbiene gegen Hummel, keine Bestimmung einzelner Wildbienenarten. Viele Arten lassen sich nur unter dem Mikroskop bestimmen, daher ersetzt das Verfahren Fallen nicht. Die Mitteilung nennt keine Fehlalarmraten, und die Daten stammen nur aus dem Nordosten der USA."
+   },
+   "en": {
+    "title": "Identifying bees by their buzz: two neural networks measure activity and tell honeybees from bumble bees",
+    "summary": "Ecologist Laura Figueroa and her team at the University of Massachusetts Amherst built two convolutional neural networks (CNNs) for audio recordings of bees. The first measures overall bee activity at a site, the second tells honeybees from bumble bees. They were trained on 594 field recordings collected over five years at 43 sites in the northeastern US. According to the release, the models correctly identified 93 to 97 percent of bees in a sample, and their estimates correlated well with visual observations by trained researchers. The models are available in the analysis software Raven Pro.",
+    "why": "Bee monitoring usually relies on traps that kill many insects and require extensive lab work. A microphone could track population changes more gently, including in hard-to-reach places such as tree canopies.",
+    "caveat": "Only honeybee versus bumble bee, no identification of individual wild bee species. Many species can only be identified under a microscope, so the method does not replace traps. The release gives no false-alarm rates, and the data come only from the northeastern US."
+   },
+   "ru": {
+    "title": "Пчёл узнают по жужжанию: две нейросети измеряют активность и отличают медоносных пчёл от шмелей",
+    "summary": "Эколог Лаура Фигероа и её команда из Массачусетского университета в Амхерсте создали две свёрточные нейросети (CNN) для звуковых записей пчёл. Первая измеряет общую активность пчёл на участке, вторая отличает медоносных пчёл от шмелей. Обучение проводилось на 594 полевых записях за пять лет с 43 участков на северо-востоке США. По сообщению, модели правильно определили 93–97 процентов пчёл в выборке, а их оценки хорошо совпали с визуальными наблюдениями обученных исследователей. Модели доступны в программе анализа звука Raven Pro.",
+    "why": "Обычно пчёл учитывают с помощью ловушек, которые убивают много насекомых и требуют трудоёмкой лабораторной работы. Микрофон мог бы щадяще отслеживать изменения численности, в том числе в труднодоступных местах, например в кронах деревьев.",
+    "caveat": "Только медоносная пчела против шмеля, без определения отдельных видов диких пчёл. Многие виды различимы только под микроскопом, поэтому метод не заменяет ловушки. В сообщении нет данных о ложных срабатываниях, а данные собраны только на северо-востоке США."
+   },
+   "image": {
+    "src": "https://www.umass.edu/sites/default/files/2026-10/Bombus%20ternarius%20wide.jpeg",
+    "kind": "press",
+    "credit": "Bild: University of Massachusetts Amherst",
+    "link": "https://www.umass.edu/news/article/listening-buzz-umass-amherst-ecologist-develops-new-tool-monitoring-bee-populations"
+   },
+   "id": "2026-11-23-bienen-brummen-erkennen",
+   "date": "2026-11-23",
+   "category": "tiere"
+  },
+  {
    "id": "2026-11-23-autoresearcheval",
    "date": "2026-11-23",
    "published": "2026-08-14",
@@ -121,6 +346,51 @@
     "credit": "Übersichtsabbildung der Studie, arXiv",
     "link": "https://arxiv.org/abs/2608.14905"
    }
+  },
+  {
+   "published": "2026-07-25",
+   "countries": [
+    "INT"
+   ],
+   "institution": "ECMWF",
+   "maturity": "study",
+   "source": {
+    "name": "Journal of Hydrology via ECMWF",
+    "url": "https://www.ecmwf.int/node/31204"
+   },
+   "more": [
+    {
+     "name": "Journal of Hydrology",
+     "url": "https://doi.org/10.1016/j.jhydrol.2026.136064"
+    }
+   ],
+   "de": {
+    "title": "AIFL: KI-Abflussmodell des Wetterzentrums ECMWF erkennt Hochwasser bis sechs Tage vor dem Scheitel",
+    "summary": "Das Europäische Zentrum für mittelfristige Wettervorhersage (ECMWF) hat mit AIFL ein globales Modell für Flussabflüsse entwickelt, ein LSTM-Netz (Maria Luisa Taccari, Kenza Tazi, Matthew Chantry, Christel Prudhomme u. a.). Es wurde mit 40 Jahren ERA5-Land-Daten aus mehr als 18.000 Einzugsgebieten vortrainiert und mit Vorhersagen des ECMWF-Wettermodells nachjustiert. Für 2021 bis 2024 erreichte es an 2.000 Messstationen einen mittleren Kling-Gupta-Wert von 0,66 bei einem mittleren Abflussverhältnis von 1,00. Gegenüber Googles globalem Hochwassermodell war AIFL an 43 Prozent von rund 1.200 gemeinsamen Stationen gleich gut oder besser. Beim Sturm Henk (Januar 2024, Belgien) zeigte es das Hochwassersignal in einem 182 Quadratkilometer großen Einzugsgebiet bis zu sechs Tage vor dem Höchststand.",
+    "why": "Überschwemmungen betreffen weltweit mehr Menschen als jede andere Naturgefahr, und jeder zusätzliche Tag Vorwarnzeit hilft Behörden und Betroffenen. AIFL ist dafür gebaut, in die täglichen Vorhersagen des Zentrums eingebunden zu werden.",
+    "caveat": "Das Modell ist vorsichtig und verpasst manche Ereignisse, vor allem die seltensten. Gegenüber Googles Modell liegt es nur an 43 Prozent der Stationen gleichauf oder vorn; ein systematischer Vergleich mit dem etablierten GloFAS steht aus, und Unsicherheitsangaben fehlen noch. Der Sturm Henk ist nur ein Einzelfall."
+   },
+   "en": {
+    "title": "AIFL: ECMWF's AI streamflow model detects floods up to six days before the peak",
+    "summary": "The European Centre for Medium-Range Weather Forecasts (ECMWF) has built AIFL, a global streamflow model based on an LSTM network (Maria Luisa Taccari, Kenza Tazi, Matthew Chantry, Christel Prudhomme and colleagues). It was pre-trained on 40 years of ERA5-Land data from more than 18,000 basins and fine-tuned on ECMWF weather forecasts. For 2021 to 2024 it reached a median Kling-Gupta efficiency of 0.66 and a median discharge bias ratio of 1.00 across 2,000 gauged basins. Against Google's global flood model it matched or beat it at 43 percent of about 1,200 shared stations. During Storm Henk (January 2024, Belgium) it showed the flood signal in a 182 square-kilometre catchment up to six days before the peak.",
+    "why": "Floods affect more people worldwide than any other natural hazard, and every extra day of warning helps authorities and residents. AIFL is designed to be integrated into the centre's daily forecasting workflow.",
+    "caveat": "The model is conservative and misses some events, especially the rarest ones. It matches or beats Google's model at only 43 percent of stations; a systematic comparison with the established GloFAS is still to come and uncertainty estimates are not yet included. Storm Henk is a single case."
+   },
+   "ru": {
+    "title": "AIFL: ИИ-модель стока Европейского центра ECMWF замечает наводнение за шесть дней до пика",
+    "summary": "Европейский центр среднесрочных прогнозов погоды (ECMWF) создал AIFL — глобальную модель речного стока на основе LSTM-сети (Мария Луиза Таккари, Кенза Тази, Мэтью Чантри, Кристел Прюдом и др.). Её предобучили на 40 годах данных ERA5-Land из более чем 18 000 водосборов и дообучили на прогнозах погодной модели ECMWF. За 2021–2024 годы на 2000 гидрологических постах она показала медианную эффективность Клинга–Гупты 0,66 при медианном отношении смещения стока 1,00. По сравнению с глобальной моделью наводнений Google AIFL была не хуже или лучше на 43 процентах из примерно 1200 общих станций. Во время шторма «Хенк» (январь 2024, Бельгия) она показала сигнал наводнения в водосборе площадью 182 квадратных километра за шесть дней до пика.",
+    "why": "Наводнения затрагивают больше людей, чем любая другая природная опасность, и каждый лишний день предупреждения помогает властям и жителям. AIFL изначально создавалась для включения в ежедневные прогнозы центра.",
+    "caveat": "Модель осторожна и пропускает часть событий, прежде всего самые редкие. Модель Google она сравнивает или превосходит лишь на 43 процентах станций; систематическое сравнение с устоявшейся GloFAS ещё впереди, оценок неопределённости пока нет. Шторм «Хенк» — единичный случай."
+   },
+   "image": {
+    "src": "https://www.ecmwf.int/sites/default/files/2026-04/Figure_1-AIFS-streamflow-690px.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Bild: ECMWF",
+    "link": "https://www.ecmwf.int/node/31204"
+   },
+   "id": "2026-11-23-aifl-abfluss-ecmwf",
+   "date": "2026-11-23",
+   "category": "klima"
   },
   {
    "id": "2026-11-20-text-psychometrie",

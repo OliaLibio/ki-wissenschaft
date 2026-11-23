@@ -1,0 +1,45 @@
+{
+ "published": "2026-11-06",
+ "countries": [
+  "US"
+ ],
+ "institution": "Cornell University",
+ "maturity": "study",
+ "source": {
+  "name": "PNAS via Cornell Chronicle",
+  "url": "https://news.cornell.edu/stories/2026/11/machine-learning-helps-explain-evolution-fish-schools"
+ },
+ "more": [
+  {
+   "name": "PNAS",
+   "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2611720123"
+  }
+ ],
+ "de": {
+  "title": "Maschinelles Lernen zeigt: Fischschwärme sind etwa 60-mal entstanden und rund 320-mal wieder verloren gegangen",
+  "summary": "Ein Team um Jay Love und Andrew Hein (Cornell University, mit der University of Colorado Boulder und der Florida Atlantic University) hat für 2.839 Fischarten bestimmt, ob sie in Schwärmen leben. Das sind etwa 10 Prozent der rund 39.000 lebenden Arten. Ein Text-Transformer, also die Architektur hinter großen Sprachmodellen, wandelte schriftliche Artbeschreibungen in Zahlen um, aus denen auf Schwarmverhalten geschlossen wurde. Zusätzlich werteten Bildverfahren Fotos und Videos aus Bürgerwissenschaftsprojekten wie iNaturalist aus: Sie rekonstruierten die Fische dreidimensional und maßen Schwimmrichtung und Ausrichtung zueinander. Über etwa 350 Millionen Jahre entstand Schwarmverhalten rund 60-mal unabhängig und ging rund 320-mal verloren. Arten weiter unten in der Nahrungskette schwärmen eher, und Linien, in denen alle Arten schwärmen, brachten mehr Arten hervor.",
+  "why": "Warum Tiere in Gruppen leben, ist eine Grundfrage der Evolution. Die Studie zeigt, dass sich solche Fragen mit Texten und Alltagsfotos über Tausende Arten gleichzeitig prüfen lassen.",
+  "caveat": "Der Zusammenhang mit der Stellung in der Nahrungskette ist eine Korrelation, die Autoren nennen ihn selbst nicht „wasserdicht“. Unklar bleibt, ob mehr Arten durch höhere Artbildung oder geringeres Aussterben entstanden, und warum Schwarmverhalten so oft verloren ging. Die Einstufung aus Textbeschreibungen ist eine Schätzung, kein Messwert."
+ },
+ "en": {
+  "title": "Machine learning suggests fish schooling evolved about 60 times and was lost about 320 times",
+  "summary": "A team led by Jay Love and Andrew Hein at Cornell University, with the University of Colorado Boulder and Florida Atlantic University, determined whether 2,839 fish species school. That is about 10 percent of the roughly 39,000 living species. A text transformer, the architecture behind large language models, converted written species descriptions into numbers used to infer whether a species likely schools. In addition, computer vision analysed citizen-science photos and videos such as those on iNaturalist: it reconstructed the fish in three dimensions and measured heading and alignment between individuals. Over about 350 million years, schooling arose independently around 60 times and was lost around 320 times. Species lower in the food chain were more likely to school, and lineages in which all species school produced more species.",
+  "why": "Why animals live in groups is a basic question in evolution. The study shows that such questions can be tested across thousands of species at once using text and everyday photos.",
+  "caveat": "The link to position in the food chain is a correlation, and the authors themselves say it is not iron-clad. It is unclear whether greater diversity reflects faster speciation or lower extinction, and why schooling was lost so often. Classifications from text descriptions are estimates, not measurements."
+ },
+ "ru": {
+  "title": "Машинное обучение: стайное поведение у рыб возникало примерно 60 раз и утрачивалось примерно 320 раз",
+  "summary": "Команда Джея Лава и Эндрю Хейна из Корнеллского университета совместно с Университетом Колорадо в Боулдере и Атлантическим университетом Флориды определила, образуют ли стаи 2839 видов рыб. Это около 10 процентов из примерно 39 000 ныне живущих видов. Текстовый трансформер, то есть архитектура больших языковых моделей, превращал письменные описания видов в числа, по которым оценивали склонность к стайности. Кроме того, методы компьютерного зрения анализировали фото и видео из гражданских научных проектов, например iNaturalist: рыб реконструировали в трёх измерениях и измеряли направление движения и выравнивание друг относительно друга. За примерно 350 миллионов лет стайное поведение возникало независимо около 60 раз и утрачивалось около 320 раз. Виды ниже в пищевой цепи чаще образуют стаи, а линии, где стайны все виды, дали больше новых видов.",
+  "why": "Почему животные живут группами — один из базовых вопросов эволюции. Исследование показывает, что такие вопросы можно проверять сразу на тысячах видов с помощью текстов и обычных фотографий.",
+  "caveat": "Связь с положением в пищевой цепи — корреляция, сами авторы называют её не железной. Неясно, объясняется ли большее разнообразие более быстрым видообразованием или меньшим вымиранием и почему стайность так часто утрачивалась. Классификация по текстовым описаниям — оценка, а не измерение."
+ },
+ "image": {
+  "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-11/1105_fish_tnd.jpg",
+  "kind": "press",
+  "credit": "Bild: Cornell University",
+  "link": "https://news.cornell.edu/stories/2026/11/machine-learning-helps-explain-evolution-fish-schools"
+ },
+ "id": "2026-11-23-fische-schwarm-evolution",
+ "date": "2026-11-23",
+ "category": "tiere"
+}

@@ -20,6 +20,48 @@ Vorbehalt: Vorabdruck eines Einzelautors, nur sieben Studien aus einem Fachgebie
 Quelle: arXiv: rTaste – https://arxiv.org/abs/2610.40488</description>
   </item>
   <item>
+   <title>Was KI aus dem All sieht: Übersicht zu über 200 Studien zeigt, wo Satelliten-KI bei Bränden und Fluten an Grenzen stößt</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-review-ki-naturgefahren-satellit</link>
+   <guid isPermaLink="false">2026-11-23-review-ki-naturgefahren-satellit</guid>
+   <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Ein Team des KI-Zentrums von Skoltech um Svetlana Illarionova hat mehr als 200 Studien ausgewertet, in denen Satellitendaten und KI zur Überwachung von Waldbränden, Überschwemmungen, Dürren und Landnutzungswandel dienen. Die Übersicht reicht von frühen Spektralindizes über klassisches maschinelles Lernen und tiefe neuronale Netze bis zu geowissenschaftlichen Basismodellen. Die Autoren halten fest, dass Gefahren unterschiedlich schnell ablaufen: Brände und Fluten binnen Stunden, Dürre und Landveränderung über Monate oder Jahre, ein einzelner Algorithmus passt daher nicht für alle. Sie empfehlen, physikalische Modelle mit neuronalen Netzen zu verbinden, Satelliten- und Bodensensoren zu kombinieren und jeder Vorhersage eine Zuverlässigkeitsangabe beizufügen.
+
+Warum das wichtig ist: KI-Karten von Bränden und Fluten wirken überzeugend, doch für Warnungen im Ernstfall zählt, wie verlässlich sie in neuen Regionen und bei laufend eintreffenden Daten sind. Die Übersicht zeigt, woran das noch scheitert.
+
+Vorbehalt: Es handelt sich um eine Literaturübersicht, nicht um neue Messungen. Die Mitteilung nennt keine Vergleichszahlen zwischen Methoden. Die Arbeit wurde laut Mitteilung unter anderem vom russischen Wirtschaftsministerium gefördert.
+
+Quelle: Earth Systems and Environment via Skoltech – https://skoltech.ru/en/news/what-ai-sees-space-skoltech-researchers-review-capabilities-and-limits-ai-environmental-hazard-monitoring</description>
+  </item>
+  <item>
+   <title>Vision-Transformer findet aus dem All Methanquellen: 84 Prozent der von Hand markierten Fahnen, rund anderthalbmal so viele plausible Fahnen wie Analysten</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-methan-mapl-emit</link>
+   <guid isPermaLink="false">2026-11-23-methan-mapl-emit</guid>
+   <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Methan ist ein starkes Treibhausgas, doch große Einzelquellen wie Mülldeponien oder Öl- und Gasanlagen werden bisher meist von Hand auf Satellitenbildern markiert. Ein Team von Google Research und der NASA (u. a. Vishal Batchu, Michelangelo Conserva, Anna Michalak) hat dafür das Modell MAPL-EMIT entwickelt, einen Vision-Transformer, der das gesamte Strahlungsspektrum des NASA-Instruments EMIT auswertet. Trainiert wurde er mit 3,6 Millionen physikalisch simulierten Fahnen, die in echte EMIT-Aufnahmen eingefügt wurden. Auf 1.084 realen EMIT-Aufnahmen erfasste das Modell 84 Prozent der von Hand markierten NASA-Fahnenkomplexe und fand etwa 1,5-mal so viele plausible Fahnen wie menschliche Analysten. Laut Google-Blog wurden Fahnen an 24 der 25 größten Mülldeponien der Welt kartiert.
+
+Warum das wichtig ist: Wer Methanlecks findet, kann sie schneller stopfen, und das bremst die Erwärmung in den nächsten Jahrzehnten besonders wirksam. Automatische Auswertung könnte die mühsame Handarbeit ersetzen und mehr Quellen sichtbar machen.
+
+Vorbehalt: Trainiert wurde vor allem mit simulierten Fahnen, wie gut diese die Wirklichkeit treffen, bleibt offen. Fehlalarme in schwierigem Gelände und Oberflächen, die ein Methansignal vortäuschen, sind weiter ein Problem; kleine oder diffuse Quellen werden schlechter erkannt. Die zusätzlichen Fahnen sind „plausibel“, nicht unabhängig bestätigt.
+
+Quelle: PNAS – https://www.pnas.org/doi/10.1073/pnas.2612145123</description>
+  </item>
+  <item>
+   <title>Nur jedes zehnte Tier richtig: Ein Sprachmodell scheitert an der Artbestimmung kolumbianischer Wirbeltiere</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-ki-artbestimmung-kolumbien</link>
+   <guid isPermaLink="false">2026-11-23-ki-artbestimmung-kolumbien</guid>
+   <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Gustavo Nicolas Paez Salamanca hat GPT-5.2 mit 10.000 forschungstauglichen iNaturalist-Fotos kolumbianischer Wirbeltiere getestet, je 2.000 Bilder von Amphibien, Vögeln, Fischen, Säugetieren und Reptilien. Das Modell musste zu jedem Bild Familie, Gattung und Art nennen. Insgesamt stimmte die Art nur zu 9,5 Prozent. Bei Säugetieren und Reptilien lag die Trefferquote bei etwa 17 bis 19 Prozent, bei Amphibien, Vögeln und Fischen unter 5 Prozent. Arten mit wenigen öffentlichen Fotos und erst kürzlich beschriebene Arten wurden besonders schlecht erkannt. Tests mit anderen Systemen zeigten laut der Mitteilung ähnliche Muster.
+
+Warum das wichtig ist: Allgemeine KI-Modelle werden zunehmend für Naturbeobachtung und Artenschutz eingesetzt. Die Studie zeigt, dass sie dort versagen, wo Daten fehlen, also bei seltenen und wenig dokumentierten Arten, auf die es im Naturschutz besonders ankommt.
+
+Vorbehalt: Ein Einzelautor, nur Kolumbien und im Detail nur ein Modell. Das Modell durfte nicht passen, ein Werkzeug mit der Option „unsicher“ könnte besser abschneiden. Spezialisierte Artenerkennungs-Software wurde nicht verglichen.
+
+Quelle: Biodiversity Data Journal via EurekAlert – https://www.eurekalert.org/news-releases/1151763</description>
+  </item>
+  <item>
    <title>Neun KI-Agenten schrieben 135 Folgestudien, keine erfüllte alle Bedingungen der Fachleute</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-into-the-unknown</link>
    <guid isPermaLink="false">2026-11-23-into-the-unknown</guid>
@@ -34,6 +76,34 @@ Vorbehalt: Vorabdruck, noch in der Begutachtung. Die Bewertung stützt sich auf 
 Quelle: arXiv: Into the Unknown – https://arxiv.org/abs/2610.19159</description>
   </item>
   <item>
+   <title>Maschinelles Lernen zeigt: Fischschwärme sind etwa 60-mal entstanden und rund 320-mal wieder verloren gegangen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-fische-schwarm-evolution</link>
+   <guid isPermaLink="false">2026-11-23-fische-schwarm-evolution</guid>
+   <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Ein Team um Jay Love und Andrew Hein (Cornell University, mit der University of Colorado Boulder und der Florida Atlantic University) hat für 2.839 Fischarten bestimmt, ob sie in Schwärmen leben. Das sind etwa 10 Prozent der rund 39.000 lebenden Arten. Ein Text-Transformer, also die Architektur hinter großen Sprachmodellen, wandelte schriftliche Artbeschreibungen in Zahlen um, aus denen auf Schwarmverhalten geschlossen wurde. Zusätzlich werteten Bildverfahren Fotos und Videos aus Bürgerwissenschaftsprojekten wie iNaturalist aus: Sie rekonstruierten die Fische dreidimensional und maßen Schwimmrichtung und Ausrichtung zueinander. Über etwa 350 Millionen Jahre entstand Schwarmverhalten rund 60-mal unabhängig und ging rund 320-mal verloren. Arten weiter unten in der Nahrungskette schwärmen eher, und Linien, in denen alle Arten schwärmen, brachten mehr Arten hervor.
+
+Warum das wichtig ist: Warum Tiere in Gruppen leben, ist eine Grundfrage der Evolution. Die Studie zeigt, dass sich solche Fragen mit Texten und Alltagsfotos über Tausende Arten gleichzeitig prüfen lassen.
+
+Vorbehalt: Der Zusammenhang mit der Stellung in der Nahrungskette ist eine Korrelation, die Autoren nennen ihn selbst nicht „wasserdicht“. Unklar bleibt, ob mehr Arten durch höhere Artbildung oder geringeres Aussterben entstanden, und warum Schwarmverhalten so oft verloren ging. Die Einstufung aus Textbeschreibungen ist eine Schätzung, kein Messwert.
+
+Quelle: PNAS via Cornell Chronicle – https://news.cornell.edu/stories/2026/11/machine-learning-helps-explain-evolution-fish-schools</description>
+  </item>
+  <item>
+   <title>Bienen am Summen erkennen: Zwei neuronale Netze erfassen Aktivität und unterscheiden Honigbienen von Hummeln</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-bienen-brummen-erkennen</link>
+   <guid isPermaLink="false">2026-11-23-bienen-brummen-erkennen</guid>
+   <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Die Ökologin Laura Figueroa und ihr Team an der University of Massachusetts Amherst haben zwei Faltungsnetze (CNN) für Tonaufnahmen von Bienen entwickelt. Das erste misst die Gesamtaktivität von Bienen an einem Ort, das zweite unterscheidet Honigbienen von Hummeln. Trainiert wurde mit 594 Feldaufnahmen aus fünf Jahren an 43 Standorten im Nordosten der USA. Die Modelle erkannten laut Mitteilung 93 bis 97 Prozent der Bienen in einer Stichprobe, und ihre Schätzungen stimmten gut mit Sichtbeobachtungen geschulter Fachleute überein. Die Modelle stehen im Analyseprogramm Raven Pro bereit.
+
+Warum das wichtig ist: Üblich ist die Bestandserfassung mit Fallen, die viele Insekten töten und aufwendige Laborarbeit verlangen. Ein Mikrofon könnte Bestandsschwankungen schonender anzeigen, auch an schwer erreichbaren Orten wie Baumkronen.
+
+Vorbehalt: Nur Honigbiene gegen Hummel, keine Bestimmung einzelner Wildbienenarten. Viele Arten lassen sich nur unter dem Mikroskop bestimmen, daher ersetzt das Verfahren Fallen nicht. Die Mitteilung nennt keine Fehlalarmraten, und die Daten stammen nur aus dem Nordosten der USA.
+
+Quelle: Approaches in Entomology via UMass Amherst – https://www.umass.edu/news/article/listening-buzz-umass-amherst-ecologist-develops-new-tool-monitoring-bee-populations</description>
+  </item>
+  <item>
    <title>800 Forschungsläufe von KI-Agenten: Dieselben Fehlermuster bei allen acht getesteten Systemen</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-autoresearcheval</link>
    <guid isPermaLink="false">2026-11-23-autoresearcheval</guid>
@@ -46,6 +116,20 @@ Warum das wichtig ist: Wer KI-Agenten Forschung selbstständig erledigen lassen 
 Vorbehalt: Vorabdruck ohne Begutachtung. Die Fehlerauswertung läuft großteils über einen KI-Gutachter, und ob Eingriffe auf Ebene der Orchestrierung die Lücke schließen, wurde nicht getestet.
 
 Quelle: arXiv: How Do Agents Fail on AutoResearch – https://arxiv.org/abs/2608.14905</description>
+  </item>
+  <item>
+   <title>AIFL: KI-Abflussmodell des Wetterzentrums ECMWF erkennt Hochwasser bis sechs Tage vor dem Scheitel</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-aifl-abfluss-ecmwf</link>
+   <guid isPermaLink="false">2026-11-23-aifl-abfluss-ecmwf</guid>
+   <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Das Europäische Zentrum für mittelfristige Wettervorhersage (ECMWF) hat mit AIFL ein globales Modell für Flussabflüsse entwickelt, ein LSTM-Netz (Maria Luisa Taccari, Kenza Tazi, Matthew Chantry, Christel Prudhomme u. a.). Es wurde mit 40 Jahren ERA5-Land-Daten aus mehr als 18.000 Einzugsgebieten vortrainiert und mit Vorhersagen des ECMWF-Wettermodells nachjustiert. Für 2021 bis 2024 erreichte es an 2.000 Messstationen einen mittleren Kling-Gupta-Wert von 0,66 bei einem mittleren Abflussverhältnis von 1,00. Gegenüber Googles globalem Hochwassermodell war AIFL an 43 Prozent von rund 1.200 gemeinsamen Stationen gleich gut oder besser. Beim Sturm Henk (Januar 2024, Belgien) zeigte es das Hochwassersignal in einem 182 Quadratkilometer großen Einzugsgebiet bis zu sechs Tage vor dem Höchststand.
+
+Warum das wichtig ist: Überschwemmungen betreffen weltweit mehr Menschen als jede andere Naturgefahr, und jeder zusätzliche Tag Vorwarnzeit hilft Behörden und Betroffenen. AIFL ist dafür gebaut, in die täglichen Vorhersagen des Zentrums eingebunden zu werden.
+
+Vorbehalt: Das Modell ist vorsichtig und verpasst manche Ereignisse, vor allem die seltensten. Gegenüber Googles Modell liegt es nur an 43 Prozent der Stationen gleichauf oder vorn; ein systematischer Vergleich mit dem etablierten GloFAS steht aus, und Unsicherheitsangaben fehlen noch. Der Sturm Henk ist nur ein Einzelfall.
+
+Quelle: Journal of Hydrology via ECMWF – https://www.ecmwf.int/node/31204</description>
   </item>
   <item>
    <title>Gute Gesamtwerte, trotzdem blind für das Offensichtliche: Warum KI-Textanalysen in der Psychologie breiter geprüft werden müssen</title>
@@ -760,20 +844,6 @@ Warum das wichtig ist: Die KI-Tintenerkennung der Vesuvius Challenge kämpft mit
 Vorbehalt: Nur Nachbildungen, keine echten Herculaneum-Rollen. Blei kommt in manchen antiken Tinten vor, in anderen nicht, und eine systematische Prüfung der Sammlung steht aus.
 
 Quelle: PLOS ONE via ScienceDaily – https://www.sciencedaily.com/releases/2026/09/260925005414.htm</description>
-  </item>
-  <item>
-   <title>KI entwirft molekulare Scheren, die krankmachende Proteine zerschneiden</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-baker-proteasen</link>
-   <guid isPermaLink="false">2026-11-13-baker-proteasen</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>gesundheit</category>
-   <description>Das Labor von David Baker hat mit RFdiffusion2, ProteinMPNN und AlphaFold 3 Enzyme am Computer entworfen, die ein frei gewähltes Zielprotein erkennen und an einer bestimmten Stelle durchtrennen. Von 69 entworfenen Cystein-Proteasen funktionierten 13 im Labor, von 135 Zink-Proteasen 36 Prozent. Nach Feinabstimmung schnitt das beste Enzym 30-mal schneller. Ein Design zerlegte das Protein TDP-43, das sich bei ALS und manchen Demenzformen ablagert, andere schnitten Fragmente von Amyloid-beta, das mit Alzheimer in Verbindung steht.
-
-Warum das wichtig ist: Bisher mussten Enzyme aus der Natur mühsam angepasst werden. Jetzt lassen sie sich für ein Zielprotein nach Wunsch entwerfen. Das öffnet einen neuen Weg für Medikamente, die schädliche Proteine gezielt abbauen.
-
-Vorbehalt: Reine Laborergebnisse in Bakterien. Es gibt keine Tests an Tieren oder Menschen, und nur ein Teil der Entwürfe war aktiv.
-
-Quelle: Nature via Phys.org – https://phys.org/news/2026-10-ai-molecular-scissors-protein.html</description>
   </item>
  </channel>
 </rss>
