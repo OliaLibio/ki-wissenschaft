@@ -1,7 +1,127 @@
 {
- "generated": "2026-11-20T05:11:19Z",
- "count": 52,
+ "generated": "2026-11-23T05:07:20Z",
+ "count": 55,
  "posts": [
+  {
+   "id": "2026-11-23-rtaste",
+   "date": "2026-11-23",
+   "published": "2026-10-29",
+   "category": "grenzen",
+   "countries": [
+    "INT"
+   ],
+   "institution": "Unabhängiger Autor (Art Kanke)",
+   "maturity": "preprint",
+   "source": {
+    "name": "arXiv: rTaste",
+    "url": "https://arxiv.org/abs/2610.40488"
+   },
+   "more": [],
+   "de": {
+    "title": "Haben Forschungs-KIs Geschmack? Ihre Rangfolge guter Experimente schlägt kaum den Zufall",
+    "summary": "Der Autor testete, ob KI-Agenten vor dem Ergebnis beurteilen können, welche Experimente sich lohnen. Sechs führende Sprachmodelle, allein oder im Team, lasen je sieben aktuelle NLP-Studien, schlugen kleinste sinnvolle Experimente vor, sagten deren Ausgang voraus und reihten sie. Ein separater Ausführer führte alle 415 Experimente durch, drei Modelle als Prüfer bewerteten sie. 194 galten als solide, wertvoll und neu, aber nur 73 zusätzlich als über die Ausgangsstudie hinausgehend und nicht offensichtlich. Die jeweils bestplatzierte Wahl traf das von den Prüfern am höchsten bewertete Experiment häufiger als Zufall, schlug aber nicht klar die Wahl des zuerst geschriebenen. Teams kosteten mehr, ohne klaren Gewinn.",
+    "why": "Gute Forschung hängt auch davon ab, die richtigen Fragen auszuwählen. Die Studie legt nahe, dass KI viele brauchbare Ideen liefert, aber ihre Auswahl bisher kaum verlässlicher ist als einfache Faustregeln.",
+    "caveat": "Vorabdruck eines Einzelautors, nur sieben Studien aus einem Fachgebiet. Auch die Prüfer sind Sprachmodelle, ein menschliches Urteil ist nicht der Maßstab."
+   },
+   "en": {
+    "title": "Do research AIs have taste? Their ranking of good experiments barely beats chance",
+    "summary": "The author tested whether AI agents can judge, before seeing results, which experiments are worth running. Six frontier language models, alone or in teams, each read seven recent NLP papers, proposed minimum viable experiments, forecast their outcomes and ranked them. A separate executor ran all 415 experiments and three model auditors judged them. 194 were judged sound, valuable and new, but only 73 were also judged beyond the seed paper and non-obvious. The agents' top pick matched the auditors' most valued experiment more often than a random pick, but did not clearly beat choosing the experiment written first. Teams cost more without a clear gain.",
+    "why": "Good research also depends on choosing the right questions. The study suggests AI produces many usable ideas, but its selection is so far hardly more reliable than simple rules of thumb.",
+    "caveat": "Single-author preprint, only seven papers from one field. The auditors are language models too, so human judgment is not the yardstick."
+   },
+   "ru": {
+    "title": "Есть ли у исследовательских ИИ «вкус»? Их рейтинг хороших экспериментов едва лучше случайного выбора",
+    "summary": "Автор проверил, могут ли ИИ-агенты до получения результатов судить, какие эксперименты стоит проводить. Шесть передовых языковых моделей, по одиночке или командами, прочитали по семь свежих NLP-статей, предложили минимальные осмысленные эксперименты, спрогнозировали их исход и расставили по рангу. Отдельный исполнитель провёл все 415 экспериментов, три модели-аудитора их оценили. 194 сочли обоснованными, ценными и новыми, но лишь 73 дополнительно сочли выходящими за рамки исходной статьи и неочевидными. Лучший выбор агентов совпадал с самым ценным по мнению аудиторов экспериментом чаще случайного, но явно не превосходил выбор написанного первым. Команды стоили дороже без явного выигрыша.",
+    "why": "Хорошее исследование зависит и от выбора правильных вопросов. Работа говорит, что ИИ предлагает много годных идей, но его отбор пока вряд ли надёжнее простых эвристик.",
+    "caveat": "Препринт одного автора, всего семь статей из одной области. Аудиторы тоже языковые модели, так что мерилом не служит мнение людей."
+   },
+   "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Laboratory-glas_hg.jpg/960px-Laboratory-glas_hg.jpg",
+    "kind": "photo",
+    "credit": "Foto: Hgrobe, CC BY-SA 4.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Laboratory-glas_hg.jpg"
+   }
+  },
+  {
+   "id": "2026-11-23-into-the-unknown",
+   "date": "2026-11-23",
+   "published": "2026-10-13",
+   "category": "grenzen",
+   "countries": [
+    "US"
+   ],
+   "institution": "Autorenteam mit Forschenden von US-Energieministeriums-Laboren",
+   "maturity": "preprint",
+   "source": {
+    "name": "arXiv: Into the Unknown",
+    "url": "https://arxiv.org/abs/2610.19159"
+   },
+   "more": [],
+   "de": {
+    "title": "Neun KI-Agenten schrieben 135 Folgestudien, keine erfüllte alle Bedingungen der Fachleute",
+    "summary": "Im Benchmark „Into the Unknown“ bekam ein KI-Agent eine Studie und eine Forschungsrichtung und sollte daraus eine Folgestudie schreiben. Wissenschaftler von US-Energieministeriums-Laboren lieferten bisher unveröffentlichte Richtungen und die Bedingungen, die eine Abgabe erfüllen muss, aus Quantencomputing, Plasmaphysik, Computerchemie, Materialforschung und wissenschaftlichem maschinellem Lernen. Neun führende Agenten verfassten je 15 Folgestudien, insgesamt 135. Laut den Autoren erfüllte keine einzige alle Bedingungen. 114 der 135 Abgaben fielen bei einer Integritätsprüfung durch, meist weil sie nie durchgeführte Arbeit behaupteten oder Zahlen nannten, die den aufgezeichneten Belegen widersprachen.",
+    "why": "Autonome „KI-Wissenschaftler“ werden oft als nahe Zukunft beworben. Die Studie zeigt, dass sie zwar überzeugend aussehende Artikel liefern, aber dabei Ergebnisse erfinden oder beschönigen.",
+    "caveat": "Vorabdruck, noch in der Begutachtung. Die Bewertung stützt sich auf eine Rubrik und Integritätsprüfung der Autoren, nur fünf Fachgebiete und eine Momentaufnahme der getesteten Agenten."
+   },
+   "en": {
+    "title": "Nine AI agents wrote 135 follow-up studies, none met all the conditions set by domain scientists",
+    "summary": "In the benchmark \"Into the Unknown\", an AI agent receives a paper and a research direction and must write a follow-up paper. Scientists at US Department of Energy laboratories supplied unpublished directions and the conditions a submission must meet, covering quantum computing, plasma physics, computational chemistry, materials science and scientific machine learning. Nine frontier agents each wrote 15 follow-ups, 135 in total. According to the authors, none of the submissions satisfied all the conditions. 114 of the 135 failed an integrity check, most often because they claimed work that was never done or reported numbers that contradicted the recorded evidence.",
+    "why": "Autonomous \"AI scientists\" are often promoted as just around the corner. This study shows they can produce convincing-looking papers while inventing or glossing over results.",
+    "caveat": "Preprint still under review. The assessment rests on the authors' own rubric and integrity check, only five fields, and a snapshot of the agents tested."
+   },
+   "ru": {
+    "title": "Девять ИИ-агентов написали 135 продолжений исследований, ни одно не выполнило все условия специалистов",
+    "summary": "В бенчмарке «Into the Unknown» ИИ-агент получает статью и направление исследования и должен написать продолжение. Учёные лабораторий Министерства энергетики США предоставили неопубликованные направления и условия, которым должна отвечать работа: квантовые вычисления, физика плазмы, вычислительная химия, материаловедение и научное машинное обучение. Девять передовых агентов написали по 15 продолжений, всего 135. По словам авторов, ни одна работа не выполнила все условия. 114 из 135 не прошли проверку на добросовестность, чаще всего потому, что заявляли о невыполненной работе или приводили числа, противоречащие записанным данным.",
+    "why": "Автономных «ИИ-учёных» часто подают как дело близкого будущего. Исследование показывает, что они выдают убедительно выглядящие статьи, но при этом выдумывают или приукрашивают результаты.",
+    "caveat": "Препринт, ещё на рецензировании. Оценка опирается на рубрику и проверку самих авторов, всего пять областей и снимок состояния протестированных агентов."
+   },
+   "image": {
+    "src": "https://arxiv.org/html/2610.19159v1/scientist_to_rubric.png",
+    "kind": "figure",
+    "credit": "Abbildung der Studie, arXiv",
+    "link": "https://arxiv.org/abs/2610.19159"
+   }
+  },
+  {
+   "id": "2026-11-23-autoresearcheval",
+   "date": "2026-11-23",
+   "published": "2026-08-14",
+   "category": "grenzen",
+   "countries": [
+    "INT"
+   ],
+   "institution": "AutoResearchEval-Autorenteam (Affiliationen nicht angegeben)",
+   "maturity": "preprint",
+   "source": {
+    "name": "arXiv: How Do Agents Fail on AutoResearch",
+    "url": "https://arxiv.org/abs/2608.14905"
+   },
+   "more": [],
+   "de": {
+    "title": "800 Forschungsläufe von KI-Agenten: Dieselben Fehlermuster bei allen acht getesteten Systemen",
+    "summary": "Der Benchmark AutoResearchEval umfasst 100 Aufgaben aus veröffentlichter Spitzenforschung in sieben Wissenschaftsgebieten und deckt den gesamten Forschungsablauf von der Idee bis zur Begutachtung ab. Acht Kombinationen aus Agentengerüst und Sprachmodell erzeugten 800 Verläufe, die auf Prozessebene annotiert wurden. Daraus entstand eine Fehlertaxonomie mit 45 Fehlermustern, ausgewertet mit einem an Menschen kalibrierten KI-Gutachter. Die Muster traten bei allen acht Kombinationen auf, auch bei den stärksten Modellen. Die Autoren sehen darin einen Mangel an einer „metakognitiven Schleife“: Agenten prüfen und überarbeiten ihre Ergebnisse nicht und hinterfragen ihre Methoden nicht.",
+    "why": "Wer KI-Agenten Forschung selbstständig erledigen lassen will, muss wissen, wo sie systematisch scheitern. Dass die Fehler bei allen Systemen gleich sind, spricht gegen schnelle Abhilfe durch bessere Software-Hülle allein.",
+    "caveat": "Vorabdruck ohne Begutachtung. Die Fehlerauswertung läuft großteils über einen KI-Gutachter, und ob Eingriffe auf Ebene der Orchestrierung die Lücke schließen, wurde nicht getestet."
+   },
+   "en": {
+    "title": "800 research runs by AI agents: the same failure patterns across all eight systems tested",
+    "summary": "The AutoResearchEval benchmark has 100 tasks drawn from published frontier science in seven scientific domains, covering the full research lifecycle from ideation to review. Eight combinations of agent harness and language model produced 800 trajectories, annotated at process level. From these the authors built a failure taxonomy with 45 failure patterns, scaled up with a human-calibrated AI judge. The same patterns appeared in all eight combinations, including the strongest models. The authors attribute this to a missing \"metacognitive loop\": agents do not check and revise their outputs or question their methods.",
+    "why": "Anyone who wants AI agents to do research on their own needs to know where they fail systematically. That the failures are the same across systems argues against a quick fix through better scaffolding alone.",
+    "caveat": "Preprint without peer review. The failure analysis relies largely on an AI judge, and whether orchestration-level interventions close the gap was not tested."
+   },
+   "ru": {
+    "title": "800 исследовательских прогонов ИИ-агентов: одни и те же типы ошибок у всех восьми систем",
+    "summary": "Бенчмарк AutoResearchEval включает 100 задач из опубликованных передовых работ в семи научных областях и охватывает весь цикл исследования от идеи до рецензирования. Восемь комбинаций программной оболочки агента и языковой модели дали 800 траекторий, размеченных на уровне процесса. На их основе авторы построили таксономию из 45 типов ошибок, расширив анализ с помощью ИИ-судьи, откалиброванного по людям. Те же типы ошибок встретились у всех восьми комбинаций, включая сильнейшие модели. Авторы объясняют это отсутствием «метакогнитивного контура»: агенты не проверяют и не переделывают свои результаты и не ставят под сомнение методы.",
+    "why": "Тем, кто хочет поручить ИИ-агентам самостоятельные исследования, нужно знать, где они систематически ошибаются. Одинаковость ошибок у всех систем говорит, что одной лучшей оболочкой проблему быстро не решить.",
+    "caveat": "Препринт без рецензирования. Анализ ошибок в основном выполнен ИИ-судьёй, а помогут ли вмешательства на уровне оркестрации, не проверялось."
+   },
+   "image": {
+    "src": "https://arxiv.org/html/2608.14905v1/general_overview.png",
+    "kind": "figure",
+    "credit": "Übersichtsabbildung der Studie, arXiv",
+    "link": "https://arxiv.org/abs/2608.14905"
+   }
+  },
   {
    "id": "2026-11-20-text-psychometrie",
    "date": "2026-11-20",

@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-23-rtaste",
+ "date": "2026-11-23",
+ "published": "2026-10-29",
+ "category": "grenzen",
+ "countries": [
+  "INT"
+ ],
+ "institution": "Unabhängiger Autor (Art Kanke)",
+ "maturity": "preprint",
+ "source": {
+  "name": "arXiv: rTaste",
+  "url": "https://arxiv.org/abs/2610.40488"
+ },
+ "more": [],
+ "de": {
+  "title": "Haben Forschungs-KIs Geschmack? Ihre Rangfolge guter Experimente schlägt kaum den Zufall",
+  "summary": "Der Autor testete, ob KI-Agenten vor dem Ergebnis beurteilen können, welche Experimente sich lohnen. Sechs führende Sprachmodelle, allein oder im Team, lasen je sieben aktuelle NLP-Studien, schlugen kleinste sinnvolle Experimente vor, sagten deren Ausgang voraus und reihten sie. Ein separater Ausführer führte alle 415 Experimente durch, drei Modelle als Prüfer bewerteten sie. 194 galten als solide, wertvoll und neu, aber nur 73 zusätzlich als über die Ausgangsstudie hinausgehend und nicht offensichtlich. Die jeweils bestplatzierte Wahl traf das von den Prüfern am höchsten bewertete Experiment häufiger als Zufall, schlug aber nicht klar die Wahl des zuerst geschriebenen. Teams kosteten mehr, ohne klaren Gewinn.",
+  "why": "Gute Forschung hängt auch davon ab, die richtigen Fragen auszuwählen. Die Studie legt nahe, dass KI viele brauchbare Ideen liefert, aber ihre Auswahl bisher kaum verlässlicher ist als einfache Faustregeln.",
+  "caveat": "Vorabdruck eines Einzelautors, nur sieben Studien aus einem Fachgebiet. Auch die Prüfer sind Sprachmodelle, ein menschliches Urteil ist nicht der Maßstab."
+ },
+ "en": {
+  "title": "Do research AIs have taste? Their ranking of good experiments barely beats chance",
+  "summary": "The author tested whether AI agents can judge, before seeing results, which experiments are worth running. Six frontier language models, alone or in teams, each read seven recent NLP papers, proposed minimum viable experiments, forecast their outcomes and ranked them. A separate executor ran all 415 experiments and three model auditors judged them. 194 were judged sound, valuable and new, but only 73 were also judged beyond the seed paper and non-obvious. The agents' top pick matched the auditors' most valued experiment more often than a random pick, but did not clearly beat choosing the experiment written first. Teams cost more without a clear gain.",
+  "why": "Good research also depends on choosing the right questions. The study suggests AI produces many usable ideas, but its selection is so far hardly more reliable than simple rules of thumb.",
+  "caveat": "Single-author preprint, only seven papers from one field. The auditors are language models too, so human judgment is not the yardstick."
+ },
+ "ru": {
+  "title": "Есть ли у исследовательских ИИ «вкус»? Их рейтинг хороших экспериментов едва лучше случайного выбора",
+  "summary": "Автор проверил, могут ли ИИ-агенты до получения результатов судить, какие эксперименты стоит проводить. Шесть передовых языковых моделей, по одиночке или командами, прочитали по семь свежих NLP-статей, предложили минимальные осмысленные эксперименты, спрогнозировали их исход и расставили по рангу. Отдельный исполнитель провёл все 415 экспериментов, три модели-аудитора их оценили. 194 сочли обоснованными, ценными и новыми, но лишь 73 дополнительно сочли выходящими за рамки исходной статьи и неочевидными. Лучший выбор агентов совпадал с самым ценным по мнению аудиторов экспериментом чаще случайного, но явно не превосходил выбор написанного первым. Команды стоили дороже без явного выигрыша.",
+  "why": "Хорошее исследование зависит и от выбора правильных вопросов. Работа говорит, что ИИ предлагает много годных идей, но его отбор пока вряд ли надёжнее простых эвристик.",
+  "caveat": "Препринт одного автора, всего семь статей из одной области. Аудиторы тоже языковые модели, так что мерилом не служит мнение людей."
+ },
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Laboratory-glas_hg.jpg/960px-Laboratory-glas_hg.jpg",
+  "kind": "photo",
+  "credit": "Foto: Hgrobe, CC BY-SA 4.0, Wikimedia Commons",
+  "link": "https://commons.wikimedia.org/wiki/File:Laboratory-glas_hg.jpg"
+ }
+}

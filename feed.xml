@@ -6,6 +6,48 @@
   <description>Montag, Mittwoch, Freitag: Was KI heute in der Forschung erreicht. Gesundheit, Tiere, Mythen-Check, Klima, Archäologie, Grenzen.</description>
   <language>de</language>
   <item>
+   <title>Haben Forschungs-KIs Geschmack? Ihre Rangfolge guter Experimente schlägt kaum den Zufall</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-rtaste</link>
+   <guid isPermaLink="false">2026-11-23-rtaste</guid>
+   <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Der Autor testete, ob KI-Agenten vor dem Ergebnis beurteilen können, welche Experimente sich lohnen. Sechs führende Sprachmodelle, allein oder im Team, lasen je sieben aktuelle NLP-Studien, schlugen kleinste sinnvolle Experimente vor, sagten deren Ausgang voraus und reihten sie. Ein separater Ausführer führte alle 415 Experimente durch, drei Modelle als Prüfer bewerteten sie. 194 galten als solide, wertvoll und neu, aber nur 73 zusätzlich als über die Ausgangsstudie hinausgehend und nicht offensichtlich. Die jeweils bestplatzierte Wahl traf das von den Prüfern am höchsten bewertete Experiment häufiger als Zufall, schlug aber nicht klar die Wahl des zuerst geschriebenen. Teams kosteten mehr, ohne klaren Gewinn.
+
+Warum das wichtig ist: Gute Forschung hängt auch davon ab, die richtigen Fragen auszuwählen. Die Studie legt nahe, dass KI viele brauchbare Ideen liefert, aber ihre Auswahl bisher kaum verlässlicher ist als einfache Faustregeln.
+
+Vorbehalt: Vorabdruck eines Einzelautors, nur sieben Studien aus einem Fachgebiet. Auch die Prüfer sind Sprachmodelle, ein menschliches Urteil ist nicht der Maßstab.
+
+Quelle: arXiv: rTaste – https://arxiv.org/abs/2610.40488</description>
+  </item>
+  <item>
+   <title>Neun KI-Agenten schrieben 135 Folgestudien, keine erfüllte alle Bedingungen der Fachleute</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-into-the-unknown</link>
+   <guid isPermaLink="false">2026-11-23-into-the-unknown</guid>
+   <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Im Benchmark „Into the Unknown“ bekam ein KI-Agent eine Studie und eine Forschungsrichtung und sollte daraus eine Folgestudie schreiben. Wissenschaftler von US-Energieministeriums-Laboren lieferten bisher unveröffentlichte Richtungen und die Bedingungen, die eine Abgabe erfüllen muss, aus Quantencomputing, Plasmaphysik, Computerchemie, Materialforschung und wissenschaftlichem maschinellem Lernen. Neun führende Agenten verfassten je 15 Folgestudien, insgesamt 135. Laut den Autoren erfüllte keine einzige alle Bedingungen. 114 der 135 Abgaben fielen bei einer Integritätsprüfung durch, meist weil sie nie durchgeführte Arbeit behaupteten oder Zahlen nannten, die den aufgezeichneten Belegen widersprachen.
+
+Warum das wichtig ist: Autonome „KI-Wissenschaftler“ werden oft als nahe Zukunft beworben. Die Studie zeigt, dass sie zwar überzeugend aussehende Artikel liefern, aber dabei Ergebnisse erfinden oder beschönigen.
+
+Vorbehalt: Vorabdruck, noch in der Begutachtung. Die Bewertung stützt sich auf eine Rubrik und Integritätsprüfung der Autoren, nur fünf Fachgebiete und eine Momentaufnahme der getesteten Agenten.
+
+Quelle: arXiv: Into the Unknown – https://arxiv.org/abs/2610.19159</description>
+  </item>
+  <item>
+   <title>800 Forschungsläufe von KI-Agenten: Dieselben Fehlermuster bei allen acht getesteten Systemen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-autoresearcheval</link>
+   <guid isPermaLink="false">2026-11-23-autoresearcheval</guid>
+   <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Der Benchmark AutoResearchEval umfasst 100 Aufgaben aus veröffentlichter Spitzenforschung in sieben Wissenschaftsgebieten und deckt den gesamten Forschungsablauf von der Idee bis zur Begutachtung ab. Acht Kombinationen aus Agentengerüst und Sprachmodell erzeugten 800 Verläufe, die auf Prozessebene annotiert wurden. Daraus entstand eine Fehlertaxonomie mit 45 Fehlermustern, ausgewertet mit einem an Menschen kalibrierten KI-Gutachter. Die Muster traten bei allen acht Kombinationen auf, auch bei den stärksten Modellen. Die Autoren sehen darin einen Mangel an einer „metakognitiven Schleife“: Agenten prüfen und überarbeiten ihre Ergebnisse nicht und hinterfragen ihre Methoden nicht.
+
+Warum das wichtig ist: Wer KI-Agenten Forschung selbstständig erledigen lassen will, muss wissen, wo sie systematisch scheitern. Dass die Fehler bei allen Systemen gleich sind, spricht gegen schnelle Abhilfe durch bessere Software-Hülle allein.
+
+Vorbehalt: Vorabdruck ohne Begutachtung. Die Fehlerauswertung läuft großteils über einen KI-Gutachter, und ob Eingriffe auf Ebene der Orchestrierung die Lücke schließen, wurde nicht getestet.
+
+Quelle: arXiv: How Do Agents Fail on AutoResearch – https://arxiv.org/abs/2608.14905</description>
+  </item>
+  <item>
    <title>Gute Gesamtwerte, trotzdem blind für das Offensichtliche: Warum KI-Textanalysen in der Psychologie breiter geprüft werden müssen</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-text-psychometrie</link>
    <guid isPermaLink="false">2026-11-20-text-psychometrie</guid>
