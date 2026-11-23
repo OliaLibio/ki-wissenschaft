@@ -1,0 +1,50 @@
+{
+ "published": "2026-06-18",
+ "countries": [
+  "US"
+ ],
+ "institution": "Keck Medicine of USC",
+ "maturity": "clinical",
+ "evidence": "rct",
+ "verdict": "busted",
+ "source": {
+  "name": "eBioMedicine via ScienceDaily",
+  "url": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm"
+ },
+ "more": [
+  {
+   "name": "DOI 10.1016/j.ebiom.2026.106316",
+   "url": "https://doi.org/10.1016/j.ebiom.2026.106316"
+  }
+ ],
+ "de": {
+  "myth": "Fischöl-Kapseln schützen das Gehirn und beugen Demenz vor.",
+  "title": "Fischöl fürs Gehirn: Zwei Jahre hochdosiertes DHA brachten keinen kognitiven Vorteil",
+  "summary": "Amerikaner geben jährlich mehr als eine Milliarde Dollar für Omega-3-Präparate aus. Ein Team um Hussein Yassine (Keck Medicine of USC) gab 365 Erwachsenen von 55 bis 80 Jahren, die selten Fisch essen und ein erhöhtes Alzheimer-Risiko haben, zwei Jahre lang täglich 2.000 mg DHA oder Placebo, randomisiert und doppelblind. 47 Prozent trugen die Genvariante APOE4. Das DHA im Nervenwasser stieg nach sechs Monaten im Mittel um 17 Prozent, es kam also im Gehirn an. Trotzdem gab es keinen signifikanten Vorteil bei der geistigen Leistung und keinen Schutz vor dem Schrumpfen des Hippocampus.",
+  "why": "Dass ein Nährstoff im Gehirn ankommt, heißt nicht, dass er dort etwas bewirkt. Wer Fischöl nur für sein Gedächtnis nimmt, hat dafür hier keinen Beleg.",
+  "caveat": "Getestet wurde nur hochdosiertes DHA, nicht Omega-3 aus Fisch oder EPA. Die Ergebnisse gelten für ältere, selten Fisch essende Risikopersonen. Die Autoren betonen, Fisch bleibe Teil gesunder Ernährung. Gefördert wurde die Studie unter anderem von den US-amerikanischen National Institutes of Health."
+ },
+ "en": {
+  "myth": "Fish oil capsules protect the brain and prevent dementia.",
+  "title": "Fish oil for the brain: two years of high-dose DHA gave no cognitive benefit",
+  "summary": "Americans spend more than a billion dollars a year on omega-3 supplements. A team led by Hussein Yassine (Keck Medicine of USC) gave 365 adults aged 55 to 80, who rarely eat fish and are at elevated Alzheimer's risk, 2,000 mg of DHA or placebo daily for two years, randomised and double-blind. 47 percent carried the APOE4 gene variant. DHA in cerebrospinal fluid rose by an average of 17 percent after six months, so it did reach the brain. Even so, there was no significant advantage in cognitive performance and no protection against shrinkage of the hippocampus.",
+  "why": "A nutrient reaching the brain does not mean it does anything there. Anyone taking fish oil only for memory has no evidence for it here.",
+  "caveat": "Only high-dose DHA was tested, not omega-3 from fish or EPA. Results apply to older, low-fish-eating at-risk people. The authors stress that fish remains part of a healthy diet. Funding came partly from the US National Institutes of Health."
+ },
+ "ru": {
+  "myth": "Капсулы с рыбьим жиром защищают мозг и предотвращают деменцию.",
+  "title": "Рыбий жир для мозга: два года высоких доз DHA не дали когнитивной пользы",
+  "summary": "Американцы тратят на добавки омега-3 более миллиарда долларов в год. Команда Хусейна Ясина (Keck Medicine of USC) в рандомизированном двойном слепом исследовании два года давала 365 взрослым от 55 до 80 лет, которые редко едят рыбу и имеют повышенный риск болезни Альцгеймера, ежедневно 2000 мг DHA или плацебо. 47 процентов были носителями варианта гена APOE4. Через полгода DHA в спинномозговой жидкости вырос в среднем на 17 процентов, то есть в мозг вещество попало. Тем не менее значимого преимущества в когнитивных показателях не было, а сжатие гиппокампа оно не предотвратило.",
+  "why": "То, что вещество попадает в мозг, не значит, что оно там что-то делает. Тот, кто принимает рыбий жир ради памяти, подтверждения этому здесь не получает.",
+  "caveat": "Проверяли только высокие дозы DHA, а не омега-3 из рыбы или EPA. Результаты относятся к пожилым людям группы риска, редко евшим рыбу. Авторы подчёркивают, что рыба остаётся частью здорового питания. Исследование частично финансировали американские Национальные институты здоровья."
+ },
+ "image": {
+  "src": "https://www.sciencedaily.com/images/1920/fish-oil-omega-3-capsules-dha-epa.webp",
+  "kind": "press",
+  "credit": "Bild: ScienceDaily",
+  "link": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm"
+ },
+ "id": "2026-11-23-mythos-fischoel-gehirn",
+ "date": "2026-11-23",
+ "category": "mythen"
+}

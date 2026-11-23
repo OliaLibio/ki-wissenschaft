@@ -1,0 +1,50 @@
+{
+ "published": "2026-08-21",
+ "countries": [
+  "US"
+ ],
+ "institution": "Yale School of Medicine",
+ "maturity": "review",
+ "evidence": "meta",
+ "verdict": "busted",
+ "source": {
+  "name": "Nature Medicine via ScienceDaily",
+  "url": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm"
+ },
+ "more": [
+  {
+   "name": "DOI 10.1038/s41591-026-04562-9",
+   "url": "https://doi.org/10.1038/s41591-026-04562-9"
+  }
+ ],
+ "de": {
+  "myth": "Anti-Aging-Nahrungsergänzungsmittel senken das biologische Alter.",
+  "title": "Biologische Uhren im Test: Medikamente und Lebensstil senken das epigenetische Alter, rezeptfreie Präparate kaum",
+  "summary": "Ein Team um Albert Higgins-Chen (Yale) hat 51 Interventionsstudien am Menschen ausgewertet und für alle einheitlich 16 epigenetische Uhren berechnet, also lernende Modelle, die das biologische Alter aus DNA-Methylierung schätzen. Insgesamt wurden mehr als 110 Methylierungs-Biomarker untersucht. Die stärksten Rückgänge zeigten Metformin, Semaglutid und TNF-Hemmer; Ernährung plus Bewegung senkte das epigenetische Alter ebenfalls zuverlässig. Rezeptfrei erhältliche Präparate und einige medizinische Verfahren zeigten keine messbare Senkung. Neuere Uhren reagierten besser als ältere.",
+  "why": "Der Markt für Anti-Aging-Pillen verspricht messbar jüngere Zellen. Gemessen an diesen Uhren leisteten Lebensstil und einige Medikamente mehr als frei verkäufliche Präparate.",
+  "caveat": "Ein niedrigeres epigenetisches Alter beweist keine längere Lebensdauer oder weniger Alterskrankheiten, dieser Zusammenhang ist laut Autoren unbelegt. Die Studie wertet vorhandene Untersuchungen aus, Ursache und Wirkung sind nicht gesichert, und Dauer und Haltbarkeit der Effekte sind unbekannt."
+ },
+ "en": {
+  "myth": "Anti-aging supplements lower your biological age.",
+  "title": "Testing the biological clocks: drugs and lifestyle lower epigenetic age, over-the-counter supplements barely do",
+  "summary": "A team led by Albert Higgins-Chen (Yale) analysed 51 human intervention studies and calculated 16 epigenetic clocks for all of them in a uniform way. These are learned models that estimate biological age from DNA methylation. More than 110 methylation biomarkers were examined in all. The largest reductions came with metformin, semaglutide and TNF inhibitors; diet plus exercise also reliably lowered epigenetic age. Over-the-counter supplements and some medical procedures showed no measurable reduction. Newer clocks responded better than older ones.",
+  "why": "The anti-aging pill market promises measurably younger cells. By these clocks, lifestyle and some drugs did more than supplements sold without prescription.",
+  "caveat": "A lower epigenetic age does not prove longer life or fewer age-related diseases; the authors say that link is unproven. The work pools existing studies, cause and effect are not established, and how long the effects last is unknown."
+ },
+ "ru": {
+  "myth": "Антивозрастные добавки снижают биологический возраст.",
+  "title": "Проверка биологических часов: лекарства и образ жизни снижают эпигенетический возраст, добавки из аптеки почти нет",
+  "summary": "Команда Альберта Хиггинс-Чена (Йель) проанализировала 51 интервенционное исследование на людях и единообразно рассчитала для всех 16 эпигенетических часов, то есть обученных моделей, оценивающих биологический возраст по метилированию ДНК. Всего изучено более 110 биомаркеров метилирования. Наибольшее снижение дали метформин, семаглутид и ингибиторы ФНО; диета вместе с физической нагрузкой тоже стабильно снижала эпигенетический возраст. Добавки, продающиеся без рецепта, и некоторые медицинские процедуры измеримого снижения не показали. Новые часы реагировали лучше старых.",
+  "why": "Рынок антивозрастных таблеток обещает измеримо более молодые клетки. По этим часам образ жизни и некоторые лекарства сработали лучше, чем добавки без рецепта.",
+  "caveat": "Более низкий эпигенетический возраст не доказывает большую продолжительность жизни или меньше возрастных болезней, эта связь, по словам авторов, не доказана. Работа объединяет существующие исследования, причинность не установлена, а длительность эффектов неизвестна."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04562-9/MediaObjects/41591_2026_4562_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Nature Medicine",
+  "link": "https://www.nature.com/articles/s41591-026-04562-9"
+ },
+ "id": "2026-11-23-mythos-anti-aging-supplements",
+ "date": "2026-11-23",
+ "category": "mythen"
+}

@@ -1,0 +1,50 @@
+{
+ "published": "2026-10-29",
+ "countries": [
+  "US"
+ ],
+ "institution": "UCLA",
+ "maturity": "clinical",
+ "evidence": "rct",
+ "verdict": "partly",
+ "source": {
+  "name": "UCLA Health",
+  "url": "https://www.uclahealth.org/news/release/study-challenges-belief-women-are-more-sensitive-effects"
+ },
+ "more": [
+  {
+   "name": "DOI 10.1038/s41386-026-02571-3 (Neuropsychopharmacology)",
+   "url": "https://doi.org/10.1038/s41386-026-02571-3"
+  }
+ ],
+ "de": {
+  "myth": "Frauen reagieren empfindlicher auf Cannabis als Männer.",
+  "title": "Cannabis: Nicht Frauen, sondern selten konsumierende Männer spürten die stärksten Wirkungen",
+  "summary": "Frühere Studien hatten nahegelegt, dass Frauen stärker auf THC reagieren. Ein UCLA-Team ließ 44 gesunde Erwachsene (22 Frauen) in einer randomisierten, doppelblinden Crossover-Studie drei Cannabissorten rauchen: 0, 4 und 10 Prozent THC. Die Gruppen waren nach Geschlecht und Konsumhäufigkeit (mehr oder höchstens vier Tage pro Woche) ausgewogen. Selten konsumierende Männer berichteten mehr „High“, Sedierung und unangenehme Wirkungen als vergleichbare Frauen, und nur bei Männern stieg die Herzfrequenz deutlich. Bei häufig Konsumierenden beider Geschlechter waren die Wirkungen ähnlich, sie nahmen aber mehr Cannabis und bewerteten es als angenehmer. Die Blut-THC-Werte erklärten die Unterschiede nicht.",
+  "why": "Die Annahme, Frauen seien grundsätzlich empfindlicher, lässt sich in dieser kontrollierten Studie nicht bestätigen. Wichtiger als das Geschlecht war, wie oft jemand konsumiert.",
+  "caveat": "Nur 44 Personen, mehrere Auswertungen waren explorativ, und die getesteten THC-Stärken liegen unter vielen heutigen Produkten. Die Studie wurde vom US-Suchtforschungsinstitut NIDA finanziert und sagt nichts über Langzeitfolgen."
+ },
+ "en": {
+  "myth": "Women are more sensitive to cannabis than men.",
+  "title": "Cannabis: it was occasional-using men, not women, who felt the strongest effects",
+  "summary": "Earlier studies had suggested women respond more strongly to THC. A UCLA team had 44 healthy adults (22 women) smoke three cannabis strengths, 0, 4 and 10 percent THC, in a randomised, double-blind crossover trial. Groups were balanced by sex and frequency of use (more than or up to four days a week). Occasional-using men reported more feeling high, sedation and unpleasant effects than matched women, and only men showed a clear rise in heart rate. Frequent users of both sexes responded similarly, but took more cannabis and rated it as more pleasant. Blood THC levels did not explain the differences.",
+  "why": "The belief that women are inherently more sensitive is not confirmed in this controlled trial. How often someone uses mattered more than sex.",
+  "caveat": "Only 44 people, several analyses were exploratory, and the THC strengths tested are lower than many products sold today. The study was funded by the US National Institute on Drug Abuse and says nothing about long-term effects."
+ },
+ "ru": {
+  "myth": "Женщины чувствительнее к каннабису, чем мужчины.",
+  "title": "Каннабис: сильнее всего действие ощутили не женщины, а редко употребляющие мужчины",
+  "summary": "Прежние работы наводили на мысль, что женщины сильнее реагируют на ТГК. Команда UCLA в рандомизированном двойном слепом перекрёстном исследовании предложила 44 здоровым взрослым (22 женщины) выкурить каннабис трёх видов: 0, 4 и 10 процентов ТГК. Группы были уравновешены по полу и частоте употребления (больше четырёх дней в неделю или не больше). Редко употребляющие мужчины сообщали о более сильном «кайфе», седации и неприятных эффектах, чем сопоставимые женщины, и только у мужчин заметно ускорялся пульс. У часто употребляющих обоих полов реакция была сходной, но они больше употребляли и оценивали эффект как более приятный. Уровень ТГК в крови различий не объяснил.",
+  "why": "Представление, что женщины по природе чувствительнее, в этом контролируемом исследовании не подтвердилось. Частота употребления оказалась важнее пола.",
+  "caveat": "Всего 44 человека, ряд анализов был эксплораторным, а испытанные дозы ТГК ниже, чем во многих продуктах сегодня. Исследование финансировал американский Национальный институт по изучению наркозависимости, о долгосрочных последствиях оно ничего не говорит."
+ },
+ "image": {
+  "src": "https://www.uclahealth.org/sites/default/files/styles/landscape_16x9_030000_1200x675/public/images/86/istock-1609936321-1.jpg?f=42b7519a&itok=XPDOUUmA",
+  "kind": "press",
+  "credit": "Bild: UCLA Health",
+  "link": "https://www.uclahealth.org/news/release/study-challenges-belief-women-are-more-sensitive-effects"
+ },
+ "id": "2026-11-23-mythos-cannabis-frauen",
+ "date": "2026-11-23",
+ "category": "mythen"
+}
