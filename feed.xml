@@ -6,6 +6,34 @@
   <description>Montag, Mittwoch, Freitag: Was KI heute in der Forschung erreicht. Gesundheit, Tiere, Mythen-Check, Klima, Archäologie, Grenzen.</description>
   <language>de</language>
   <item>
+   <title>KI schätzt den Geburtstermin aus Ultraschallbildern: Der Vorsprung schrumpft bei fairem Vergleich, ein Frühgeburts-Signal bleibt</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-ultraschall-geburtstermin</link>
+   <guid isPermaLink="false">2026-11-23-ultraschall-geburtstermin</guid>
+   <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Wer ohne frühen Ultraschall in die Schwangerschaftsvorsorge kommt, bekommt oft einen ungenauen Termin. Ein Team aus Santiago hat ein kommerzielles Deep-Learning-Modell, das nur Ultraschallbilder liest, unverändert an vier öffentlichen Kliniken in Chile geprüft: 64.235 Bilder aus 3.788 Untersuchungen von 2.550 Schwangeren, 34 Prozent davon Migrantinnen. Der mittlere Fehler lag bei 6,9 Tagen gegenüber 11,6 Tagen beim herkömmlichen Termin. Der Großteil dieses Vorsprungs kam aber daher, dass Schwangerschaften vor Ort kürzer dauerten, und gegenüber angepassten Vergleichswerten blieb weniger als ein Tag. Der separate Risikowert des Modells unterschied Frühgeburten mit einer AUC von 0,86, das Schwangerschaftsalter allein nur mit 0,52.
+
+Warum das wichtig ist: Die Studie zeigt, wie leicht sich Genauigkeitswerte schönrechnen lassen, wenn man das falsche Vergleichsmaß wählt. Interessanter als der Termin ist die Frage, welche Frau früh entbindet.
+
+Vorbehalt: Die Frühgeburt-Analysen sind ausdrücklich explorativ, das Modell war schlecht kalibriert, und keine Frau wurde mit ihm betreut. Das geprüfte System ist ein kommerzielles Produkt der Firma Ultrasound AI, bei der ein Autor als strategischer Berater angegeben ist.
+
+Quelle: npj Digital Medicine – https://www.nature.com/articles/s41746-026-03453-0</description>
+  </item>
+  <item>
+   <title>Schnelltests per KI auswerten, trainiert nur mit künstlichen Bildern: SynSight erreicht bei HIV-Tests 98 Prozent Sensitivität</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-synsight-schnelltests</link>
+   <guid isPermaLink="false">2026-11-23-synsight-schnelltests</guid>
+   <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Schnelltests für HIV oder COVID-19 sind billig, doch die Streifen werden oft falsch abgelesen. KI kann beim Auswerten helfen, braucht aber meist große, teure Bibliotheken echter Testfotos. Ein Team um Rachel McKendry vom University College London und Maryam Shahmanesh vom Africa Health Research Institute in Durban hat deshalb SynSight entwickelt, eine Pipeline, die Tests im Bild findet und klassifiziert und dabei ausschließlich mit synthetischen Daten trainiert wird. Bei der Prüfung an HIV-Tests erreichte sie 98 Prozent Sensitivität und 99 Prozent Spezifität, bei COVID-19-Tests bis zu 99 Prozent Genauigkeit.
+
+Warum das wichtig ist: Neue Schnelltests kommen ständig auf den Markt, echte Trainingsbilder fehlen dann zunächst. Künstliche Daten könnten die Auswertung per Smartphone auch dort möglich machen, wo kaum Fachpersonal verfügbar ist.
+
+Vorbehalt: Es handelt sich um eine kurze Methodenarbeit im Labor, nicht um einen Einsatz in der Praxis. Aus der Zusammenfassung geht nicht hervor, wie schwierige Aufnahmen oder andere Testtypen abschneiden.
+
+Quelle: npj Digital Medicine – https://www.nature.com/articles/s41746-026-03380-0</description>
+  </item>
+  <item>
    <title>Haben Forschungs-KIs Geschmack? Ihre Rangfolge guter Experimente schlägt kaum den Zufall</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-rtaste</link>
    <guid isPermaLink="false">2026-11-23-rtaste</guid>
@@ -32,6 +60,20 @@ Warum das wichtig ist: KI-Karten von Bränden und Fluten wirken überzeugend, do
 Vorbehalt: Es handelt sich um eine Literaturübersicht, nicht um neue Messungen. Die Mitteilung nennt keine Vergleichszahlen zwischen Methoden. Die Arbeit wurde laut Mitteilung unter anderem vom russischen Wirtschaftsministerium gefördert.
 
 Quelle: Earth Systems and Environment via Skoltech – https://skoltech.ru/en/news/what-ai-sees-space-skoltech-researchers-review-capabilities-and-limits-ai-environmental-hazard-monitoring</description>
+  </item>
+  <item>
+   <title>Foto vom Augenhintergrund hilft, Präeklampsie vorherzusagen: Retina-PE erreicht in Shanghai AUC-Werte bis 0,98</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-retina-praeeklampsie</link>
+   <guid isPermaLink="false">2026-11-23-retina-praeeklampsie</guid>
+   <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Präeklampsie ist eine gefährliche Schwangerschaftserkrankung mit Bluthochdruck, für die es kaum einfache Früherkennung gibt. Ein Team aus Shanghai hat das Modell Retina-PE entwickelt, das Fotos der Netzhaut, mütterliche Risikofaktoren und den mittleren Blutdruck kombiniert. Grundlage waren prospektiv erhobene Daten von 8.616 Schwangeren aus mehreren Kliniken. In den Entwicklungsdaten lag die Trennschärfe (AUC) für eine Präeklampsie zwischen der 24. und 28. Woche bei 0,853, für eine früh beginnende Form innerhalb einer Woche bei 0,979. In der externen Validierung waren die Werte niedriger: 0,728 für die 24. bis 28. Woche und 0,776 für die frühe Form innerhalb einer Woche.
+
+Warum das wichtig ist: Ein Foto der Netzhaut ist schmerzfrei, schnell und auch ohne Labor möglich. Wenn sich das bestätigt, könnten Risikoschwangere früher engmaschig betreut werden.
+
+Vorbehalt: Die Daten wurden prospektiv gesammelt, das Modell aber rückblickend ausgewertet. Die Leistung fiel in der externen Prüfung deutlich ab, und bei einigen Aufgaben gab es nur wenige Fälle. Ob der Test im Klinikalltag Behandlungen verbessert, zeigt erst eine prospektive Studie.
+
+Quelle: npj Digital Medicine – https://www.nature.com/articles/s41746-026-03463-y</description>
   </item>
   <item>
    <title>Fischöl fürs Gehirn: Zwei Jahre hochdosiertes DHA brachten keinen kognitiven Vorteil</title>
@@ -802,48 +844,6 @@ Warum das wichtig ist: Der Anstieg fällt zeitlich mit der Verbreitung von KI-Sc
 Vorbehalt: Nur frei zugängliche Artikel geprüft, der letzte Datenpunkt umfasst nur sieben Wochen. Die Fehlerrate des Prüfsystems selbst wird nicht berichtet, und die Ursache ist zeitlicher Zusammenhang, kein Beweis.
 
 Quelle: The Lancet via Columbia School of Nursing – https://www.nursing.columbia.edu/news/nearly-3-000-peer-reviewed-medical-papers-have-fake-citations-columbia-nursing-ai-assisted-audit-finds</description>
-  </item>
-  <item>
-   <title>Warnschuss: Bei Rekordhitze schlagen Physikmodelle die KI-Wettermodelle</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-kit-extremwetter</link>
-   <guid isPermaLink="false">2026-11-13-kit-extremwetter</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>klima</category>
-   <description>Ein Team um Zhongwei Zhang am KIT hat drei KI-Wettermodelle, GraphCast von Google DeepMind, Pangu-Weather von Huawei und FuXi aus Shanghai, gegen das physikalische Hochauflösungsmodell des ECMWF getestet. Grundlage waren alle Hitze-, Kälte- und Windrekorde der Jahre 2018 und 2020, allein 2020 rund 160.000 Hitze-, 33.000 Kälte- und 53.000 Windrekorde. Beim Alltagswetter waren zwei KI-Modelle besser als das Physikmodell. Bei Hitzerekorden lag das Physikmodell vor allen dreien. Die KI unterschätzte Hitzerekorde systematisch, und je deutlicher ein Rekord gebrochen wurde, desto schlechter traf sie die Intensität.
-
-Warum das wichtig ist: KI-Modelle lernen aus der Vergangenheit, und beispiellose Ereignisse kommen dort nicht vor. Gerade bei den gefährlichsten Wetterlagen ist das ein Problem. Die Autoren raten zu Hybridmodellen statt zum schnellen Ersatz der Physik.
-
-Vorbehalt: Nur zwei Jahre untersucht, und die getesteten KI-Modelle sind eine ältere, deterministische Generation. Neuere probabilistische Modelle wurden nicht geprüft, Extremregen auch nicht.
-
-Quelle: Science Advances via Carbon Brief – https://www.carbonbrief.org/traditional-models-still-outperform-ai-for-extreme-weather-forecasts</description>
-  </item>
-  <item>
-   <title>Erste verkohlte Schriftrolle aus Herculaneum vollständig gelesen, ohne sie zu öffnen</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-herculaneum-scroll-1667</link>
-   <guid isPermaLink="false">2026-11-13-herculaneum-scroll-1667</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>archaeologie</category>
-   <description>Die Rolle PHerc. 1667 war seit dem Vesuvausbruch im Jahr 79 versiegelt. Am Europäischen Synchrotron in Grenoble wurde sie mit Phasenkontrast-Röntgentomografie gescannt, Software rekonstruierte die Windungen und breitete das Papyrus digital aus, und Lernmodelle erkannten die Tinte, die sich vom verkohlten Papyrus kaum unterscheidet. Erhalten ist der innere Kern, rund acht von ursprünglich 19 bis 24 Zentimetern Höhe, mit den unteren Teilen von etwa 22 Textspalten auf 1,4 Metern. Der griechische Text ist eine Abhandlung über Ethik, vermutlich stoisch, über menschliche Natur, Antrieb und moralischen Fortschritt. Die letzte Spalte nennt Aristokreon, Neffe und Schüler des Chrysipp. Eine zweite Rolle, PHerc. 139, erwies sich als achtes Buch von Philodems Schrift über die Götter.
-
-Warum das wichtig ist: Hunderte Rollen aus der einzigen erhaltenen antiken Bibliothek sind noch versiegelt. Zum ersten Mal ist eine davon von Anfang bis Ende lesbar, mit frei verfügbaren Daten und Code.
-
-Vorbehalt: Frühere Öffnungsversuche zerstörten die äußeren Lagen, der Text hat Lücken. Die Ergebnisse liegen als Vorabdruck vor und sind noch nicht begutachtet.
-
-Quelle: Vesuvius Challenge – https://scrollprize.org/firstscroll</description>
-  </item>
-  <item>
-   <title>Warum KI-Forscher die Fehler der Wissenschaft verstärken könnten: das Problem der fehlenden Nullresultate</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-dead-science-walking</link>
-   <guid isPermaLink="false">2026-11-13-dead-science-walking</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>grenzen</category>
-   <description>Sogenannte KI-Wissenschaftler, also Systeme, die selbstständig Literatur lesen, Hypothesen bilden und Experimente auswerten, lernen aus der veröffentlichten Forschung. Die aber ist verzerrt: Positive Ergebnisse werden publiziert, gescheiterte Versuche verschwinden in der Schublade. Der Vorabdruck schätzt diese Lücke auf rund 60 Prozent in der Medikamentenforschung, 56 Prozent in der Psychologie und 35 Prozent in der Krebsbiologie. Eine dreistufige KI-Pipeline aus Suche, Generierung und Bewertung würde die Verzerrung laut Modellrechnung um den Faktor 2,18 verstärken. Besonders heikel ist das Replikations-Waschen: Eine KI-erzeugte Behauptung wird von einem anderen KI-System zitiert und erscheint dann als unabhängige Bestätigung.
-
-Warum das wichtig ist: Die Warnung ist einfach: Wer Wissenschaft automatisiert, automatisiert auch ihre blinden Flecken. Vorgeschlagen werden Datenbanken für Nullresultate, Bewertungsmaße, die Rückzüge berücksichtigen, und Offenlegung der Trainingsdaten.
-
-Vorbehalt: Einzelautor ohne genannte Institution, Vorabdruck, Zahlen sind grobe Schätzungen und nicht gemessen. Ein Denkanstoß, keine empirische Studie.
-
-Quelle: arXiv 2606.04220 – https://arxiv.org/abs/2606.04220</description>
   </item>
  </channel>
 </rss>

@@ -1,7 +1,98 @@
 {
- "generated": "2026-11-23T05:08:33Z",
- "count": 64,
+ "generated": "2026-11-23T05:09:01Z",
+ "count": 67,
  "posts": [
+  {
+   "id": "2026-11-23-ultraschall-geburtstermin",
+   "date": "2026-11-23",
+   "published": "2026-11-05",
+   "category": "gesundheit",
+   "countries": [
+    "CL"
+   ],
+   "institution": "Hospital Padre Hurtado, Santiago de Chile",
+   "maturity": "study",
+   "source": {
+    "name": "npj Digital Medicine",
+    "url": "https://www.nature.com/articles/s41746-026-03453-0"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1038/s41746-026-03453-0",
+     "url": "https://doi.org/10.1038/s41746-026-03453-0"
+    }
+   ],
+   "de": {
+    "title": "KI schätzt den Geburtstermin aus Ultraschallbildern: Der Vorsprung schrumpft bei fairem Vergleich, ein Frühgeburts-Signal bleibt",
+    "summary": "Wer ohne frühen Ultraschall in die Schwangerschaftsvorsorge kommt, bekommt oft einen ungenauen Termin. Ein Team aus Santiago hat ein kommerzielles Deep-Learning-Modell, das nur Ultraschallbilder liest, unverändert an vier öffentlichen Kliniken in Chile geprüft: 64.235 Bilder aus 3.788 Untersuchungen von 2.550 Schwangeren, 34 Prozent davon Migrantinnen. Der mittlere Fehler lag bei 6,9 Tagen gegenüber 11,6 Tagen beim herkömmlichen Termin. Der Großteil dieses Vorsprungs kam aber daher, dass Schwangerschaften vor Ort kürzer dauerten, und gegenüber angepassten Vergleichswerten blieb weniger als ein Tag. Der separate Risikowert des Modells unterschied Frühgeburten mit einer AUC von 0,86, das Schwangerschaftsalter allein nur mit 0,52.",
+    "why": "Die Studie zeigt, wie leicht sich Genauigkeitswerte schönrechnen lassen, wenn man das falsche Vergleichsmaß wählt. Interessanter als der Termin ist die Frage, welche Frau früh entbindet.",
+    "caveat": "Die Frühgeburt-Analysen sind ausdrücklich explorativ, das Modell war schlecht kalibriert, und keine Frau wurde mit ihm betreut. Das geprüfte System ist ein kommerzielles Produkt der Firma Ultrasound AI, bei der ein Autor als strategischer Berater angegeben ist."
+   },
+   "en": {
+    "title": "AI estimates the due date from ultrasound images: the lead shrinks under a fair comparison, a preterm-birth signal remains",
+    "summary": "Women who arrive for antenatal care without an early scan often get an imprecise due date. A team in Santiago externally validated a commercial deep-learning model that reads ultrasound images only, applied unmodified at four public hospitals in Chile: 64,235 frames from 3,788 examinations of 2,550 pregnancies, 34 percent of them in migrant women. Mean absolute error was 6.9 days versus 11.6 days for the conventional due date. Most of that gain, however, reflected shorter local gestations, and against recentred comparators it fell below one day. The model's separate risk score discriminated preterm birth with an AUC of 0.86, against 0.52 for gestational age alone.",
+    "why": "The study shows how easily accuracy figures flatter a model when the wrong yardstick is used. More interesting than the date is the question of who will deliver early.",
+    "caveat": "The preterm-birth analyses are explicitly exploratory, the model was miscalibrated, and no woman was managed with it. The evaluated system is a commercial product of Ultrasound AI, Inc., to which one author is listed as a strategic advisor."
+   },
+   "ru": {
+    "title": "ИИ оценивает срок родов по снимкам УЗИ: при честном сравнении преимущество тает, но сигнал о преждевременных родах остаётся",
+    "summary": "Женщины, пришедшие на наблюдение без раннего УЗИ, часто получают неточный срок родов. Команда из Сантьяго проверила коммерческую модель глубокого обучения, которая читает только снимки УЗИ, без доработки в четырёх государственных клиниках Чили: 64 235 кадров из 3788 обследований 2550 беременностей, 34 процента — у мигранток. Средняя абсолютная ошибка составила 6,9 дня против 11,6 дня у обычного срока. Но большая часть выигрыша объяснялась более короткой местной длительностью беременности, и по сравнению с пересчитанными эталонами разница была меньше одного дня. Отдельная оценка риска модели различала преждевременные роды с AUC 0,86, а один гестационный возраст — только 0,52.",
+    "why": "Исследование показывает, как легко показатели точности приукрашивают модель при неверной мерке. Интереснее самой даты вопрос, кто родит раньше срока.",
+    "caveat": "Анализы преждевременных родов прямо названы поисковыми, модель была плохо откалибрована, и ни одну женщину не вели с её помощью. Проверенная система — коммерческий продукт компании Ultrasound AI, Inc., у которой один из авторов указан стратегическим консультантом."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03453-0/MediaObjects/41746_2026_3453_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, npj Digital Medicine",
+    "link": "https://www.nature.com/articles/s41746-026-03453-0"
+   }
+  },
+  {
+   "id": "2026-11-23-synsight-schnelltests",
+   "date": "2026-11-23",
+   "published": "2026-11-10",
+   "category": "gesundheit",
+   "countries": [
+    "GB",
+    "ZA"
+   ],
+   "institution": "University College London, Africa Health Research Institute",
+   "maturity": "lab",
+   "source": {
+    "name": "npj Digital Medicine",
+    "url": "https://www.nature.com/articles/s41746-026-03380-0"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1038/s41746-026-03380-0",
+     "url": "https://doi.org/10.1038/s41746-026-03380-0"
+    }
+   ],
+   "de": {
+    "title": "Schnelltests per KI auswerten, trainiert nur mit künstlichen Bildern: SynSight erreicht bei HIV-Tests 98 Prozent Sensitivität",
+    "summary": "Schnelltests für HIV oder COVID-19 sind billig, doch die Streifen werden oft falsch abgelesen. KI kann beim Auswerten helfen, braucht aber meist große, teure Bibliotheken echter Testfotos. Ein Team um Rachel McKendry vom University College London und Maryam Shahmanesh vom Africa Health Research Institute in Durban hat deshalb SynSight entwickelt, eine Pipeline, die Tests im Bild findet und klassifiziert und dabei ausschließlich mit synthetischen Daten trainiert wird. Bei der Prüfung an HIV-Tests erreichte sie 98 Prozent Sensitivität und 99 Prozent Spezifität, bei COVID-19-Tests bis zu 99 Prozent Genauigkeit.",
+    "why": "Neue Schnelltests kommen ständig auf den Markt, echte Trainingsbilder fehlen dann zunächst. Künstliche Daten könnten die Auswertung per Smartphone auch dort möglich machen, wo kaum Fachpersonal verfügbar ist.",
+    "caveat": "Es handelt sich um eine kurze Methodenarbeit im Labor, nicht um einen Einsatz in der Praxis. Aus der Zusammenfassung geht nicht hervor, wie schwierige Aufnahmen oder andere Testtypen abschneiden."
+   },
+   "en": {
+    "title": "AI reads rapid tests after training on artificial images only: SynSight reaches 98 percent sensitivity on HIV tests",
+    "summary": "Rapid tests for HIV or COVID-19 are cheap, but the result strips are often misread. AI can help with interpretation, yet usually needs large, costly libraries of real test photos. A team around Rachel McKendry at University College London and Maryam Shahmanesh at the Africa Health Research Institute in Durban therefore built SynSight, a pipeline that locates and classifies tests in an image and is trained exclusively on synthetic data. Validated on HIV tests it reached 98 percent sensitivity and 99 percent specificity, and up to 99 percent accuracy on COVID-19 tests.",
+    "why": "New rapid tests keep appearing, and real training images are missing at first. Synthetic data could make smartphone-based reading possible even where trained staff are scarce.",
+    "caveat": "This is a short methods paper from the lab, not a deployment in practice. The abstract does not say how difficult photographs or other test types perform."
+   },
+   "ru": {
+    "title": "ИИ читает экспресс-тесты, обучаясь только на искусственных снимках: SynSight достигает 98 процентов чувствительности на тестах на ВИЧ",
+    "summary": "Экспресс-тесты на ВИЧ или COVID-19 дёшевы, но полоски часто читают неверно. ИИ может помочь, но обычно нужны большие дорогие библиотеки реальных снимков тестов. Поэтому команда Рейчел Маккендри из Университетского колледжа Лондона и Мэриам Шахманеш из Института здоровья Африки в Дурбане создала SynSight — конвейер, который находит тест на снимке и классифицирует его, обучаясь исключительно на синтетических данных. При проверке на тестах на ВИЧ он показал чувствительность 98 процентов и специфичность 99 процентов, на тестах на COVID-19 — точность до 99 процентов.",
+    "why": "Новые экспресс-тесты появляются постоянно, а реальных обучающих снимков сначала нет. Синтетические данные могли бы сделать чтение по смартфону возможным и там, где мало обученного персонала.",
+    "caveat": "Это короткая методическая работа в лаборатории, а не применение на практике. Из аннотации не видно, как модель справляется со сложными снимками и другими типами тестов."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03380-0/MediaObjects/41746_2026_3380_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, npj Digital Medicine",
+    "link": "https://www.nature.com/articles/s41746-026-03380-0"
+   }
+  },
   {
    "id": "2026-11-23-rtaste",
    "date": "2026-11-23",
@@ -86,6 +177,51 @@
    "id": "2026-11-23-review-ki-naturgefahren-satellit",
    "date": "2026-11-23",
    "category": "klima"
+  },
+  {
+   "id": "2026-11-23-retina-praeeklampsie",
+   "date": "2026-11-23",
+   "published": "2026-11-17",
+   "category": "gesundheit",
+   "countries": [
+    "CN"
+   ],
+   "institution": "Shanghai Jiao Tong University School of Medicine, Tongji University",
+   "maturity": "study",
+   "source": {
+    "name": "npj Digital Medicine",
+    "url": "https://www.nature.com/articles/s41746-026-03463-y"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1038/s41746-026-03463-y",
+     "url": "https://doi.org/10.1038/s41746-026-03463-y"
+    }
+   ],
+   "de": {
+    "title": "Foto vom Augenhintergrund hilft, Präeklampsie vorherzusagen: Retina-PE erreicht in Shanghai AUC-Werte bis 0,98",
+    "summary": "Präeklampsie ist eine gefährliche Schwangerschaftserkrankung mit Bluthochdruck, für die es kaum einfache Früherkennung gibt. Ein Team aus Shanghai hat das Modell Retina-PE entwickelt, das Fotos der Netzhaut, mütterliche Risikofaktoren und den mittleren Blutdruck kombiniert. Grundlage waren prospektiv erhobene Daten von 8.616 Schwangeren aus mehreren Kliniken. In den Entwicklungsdaten lag die Trennschärfe (AUC) für eine Präeklampsie zwischen der 24. und 28. Woche bei 0,853, für eine früh beginnende Form innerhalb einer Woche bei 0,979. In der externen Validierung waren die Werte niedriger: 0,728 für die 24. bis 28. Woche und 0,776 für die frühe Form innerhalb einer Woche.",
+    "why": "Ein Foto der Netzhaut ist schmerzfrei, schnell und auch ohne Labor möglich. Wenn sich das bestätigt, könnten Risikoschwangere früher engmaschig betreut werden.",
+    "caveat": "Die Daten wurden prospektiv gesammelt, das Modell aber rückblickend ausgewertet. Die Leistung fiel in der externen Prüfung deutlich ab, und bei einigen Aufgaben gab es nur wenige Fälle. Ob der Test im Klinikalltag Behandlungen verbessert, zeigt erst eine prospektive Studie."
+   },
+   "en": {
+    "title": "A photo of the back of the eye helps predict preeclampsia: Retina-PE reaches AUCs up to 0.98 in Shanghai",
+    "summary": "Preeclampsia is a dangerous pregnancy complication involving high blood pressure, and simple early screening is scarce. A team in Shanghai developed a model called Retina-PE that combines retinal photographs, maternal risk factors and mean arterial pressure. It rests on prospectively collected data from 8,616 pregnant women at several hospitals. In the development data, the area under the curve (AUC) for preeclampsia between weeks 24 and 28 was 0.853, and 0.979 for early-onset preeclampsia within one week. In external validation the values were lower: 0.728 for weeks 24 to 28 and 0.776 for early-onset disease within one week.",
+    "why": "A retinal photo is painless, quick and possible without a lab. If confirmed, women at risk could be monitored more closely earlier.",
+    "caveat": "The data were collected prospectively but the model was evaluated retrospectively. Performance dropped clearly in external testing, and some tasks had few cases. Whether the test improves care in practice needs a prospective study."
+   },
+   "ru": {
+    "title": "Снимок глазного дна помогает предсказать преэклампсию: Retina-PE в Шанхае достигает AUC до 0,98",
+    "summary": "Преэклампсия — опасное осложнение беременности с повышенным давлением, простых способов раннего скрининга почти нет. Команда из Шанхая создала модель Retina-PE, которая объединяет фотографии сетчатки, факторы риска матери и среднее артериальное давление. Основой послужили проспективно собранные данные 8616 беременных из нескольких клиник. В данных разработки площадь под кривой (AUC) для преэклампсии на сроке 24–28 недель составила 0,853, а для раннего варианта в течение одной недели — 0,979. При внешней проверке значения были ниже: 0,728 для 24–28 недель и 0,776 для раннего варианта в течение одной недели.",
+    "why": "Снимок сетчатки безболезнен, быстр и возможен без лаборатории. Если результат подтвердится, женщин из группы риска можно будет раньше наблюдать чаще.",
+    "caveat": "Данные собирались проспективно, но модель оценивали ретроспективно. При внешней проверке качество заметно упало, а в некоторых задачах случаев было мало. Улучшит ли тест помощь на практике, покажет только проспективное исследование."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, npj Digital Medicine",
+    "link": "https://www.nature.com/articles/s41746-026-03463-y"
+   }
   },
   {
    "published": "2026-06-18",

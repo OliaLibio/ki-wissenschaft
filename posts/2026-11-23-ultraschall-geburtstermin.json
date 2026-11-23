@@ -1,0 +1,45 @@
+{
+ "id": "2026-11-23-ultraschall-geburtstermin",
+ "date": "2026-11-23",
+ "published": "2026-11-05",
+ "category": "gesundheit",
+ "countries": [
+  "CL"
+ ],
+ "institution": "Hospital Padre Hurtado, Santiago de Chile",
+ "maturity": "study",
+ "source": {
+  "name": "npj Digital Medicine",
+  "url": "https://www.nature.com/articles/s41746-026-03453-0"
+ },
+ "more": [
+  {
+   "name": "DOI 10.1038/s41746-026-03453-0",
+   "url": "https://doi.org/10.1038/s41746-026-03453-0"
+  }
+ ],
+ "de": {
+  "title": "KI schätzt den Geburtstermin aus Ultraschallbildern: Der Vorsprung schrumpft bei fairem Vergleich, ein Frühgeburts-Signal bleibt",
+  "summary": "Wer ohne frühen Ultraschall in die Schwangerschaftsvorsorge kommt, bekommt oft einen ungenauen Termin. Ein Team aus Santiago hat ein kommerzielles Deep-Learning-Modell, das nur Ultraschallbilder liest, unverändert an vier öffentlichen Kliniken in Chile geprüft: 64.235 Bilder aus 3.788 Untersuchungen von 2.550 Schwangeren, 34 Prozent davon Migrantinnen. Der mittlere Fehler lag bei 6,9 Tagen gegenüber 11,6 Tagen beim herkömmlichen Termin. Der Großteil dieses Vorsprungs kam aber daher, dass Schwangerschaften vor Ort kürzer dauerten, und gegenüber angepassten Vergleichswerten blieb weniger als ein Tag. Der separate Risikowert des Modells unterschied Frühgeburten mit einer AUC von 0,86, das Schwangerschaftsalter allein nur mit 0,52.",
+  "why": "Die Studie zeigt, wie leicht sich Genauigkeitswerte schönrechnen lassen, wenn man das falsche Vergleichsmaß wählt. Interessanter als der Termin ist die Frage, welche Frau früh entbindet.",
+  "caveat": "Die Frühgeburt-Analysen sind ausdrücklich explorativ, das Modell war schlecht kalibriert, und keine Frau wurde mit ihm betreut. Das geprüfte System ist ein kommerzielles Produkt der Firma Ultrasound AI, bei der ein Autor als strategischer Berater angegeben ist."
+ },
+ "en": {
+  "title": "AI estimates the due date from ultrasound images: the lead shrinks under a fair comparison, a preterm-birth signal remains",
+  "summary": "Women who arrive for antenatal care without an early scan often get an imprecise due date. A team in Santiago externally validated a commercial deep-learning model that reads ultrasound images only, applied unmodified at four public hospitals in Chile: 64,235 frames from 3,788 examinations of 2,550 pregnancies, 34 percent of them in migrant women. Mean absolute error was 6.9 days versus 11.6 days for the conventional due date. Most of that gain, however, reflected shorter local gestations, and against recentred comparators it fell below one day. The model's separate risk score discriminated preterm birth with an AUC of 0.86, against 0.52 for gestational age alone.",
+  "why": "The study shows how easily accuracy figures flatter a model when the wrong yardstick is used. More interesting than the date is the question of who will deliver early.",
+  "caveat": "The preterm-birth analyses are explicitly exploratory, the model was miscalibrated, and no woman was managed with it. The evaluated system is a commercial product of Ultrasound AI, Inc., to which one author is listed as a strategic advisor."
+ },
+ "ru": {
+  "title": "ИИ оценивает срок родов по снимкам УЗИ: при честном сравнении преимущество тает, но сигнал о преждевременных родах остаётся",
+  "summary": "Женщины, пришедшие на наблюдение без раннего УЗИ, часто получают неточный срок родов. Команда из Сантьяго проверила коммерческую модель глубокого обучения, которая читает только снимки УЗИ, без доработки в четырёх государственных клиниках Чили: 64 235 кадров из 3788 обследований 2550 беременностей, 34 процента — у мигранток. Средняя абсолютная ошибка составила 6,9 дня против 11,6 дня у обычного срока. Но большая часть выигрыша объяснялась более короткой местной длительностью беременности, и по сравнению с пересчитанными эталонами разница была меньше одного дня. Отдельная оценка риска модели различала преждевременные роды с AUC 0,86, а один гестационный возраст — только 0,52.",
+  "why": "Исследование показывает, как легко показатели точности приукрашивают модель при неверной мерке. Интереснее самой даты вопрос, кто родит раньше срока.",
+  "caveat": "Анализы преждевременных родов прямо названы поисковыми, модель была плохо откалибрована, и ни одну женщину не вели с её помощью. Проверенная система — коммерческий продукт компании Ultrasound AI, Inc., у которой один из авторов указан стратегическим консультантом."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03453-0/MediaObjects/41746_2026_3453_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, npj Digital Medicine",
+  "link": "https://www.nature.com/articles/s41746-026-03453-0"
+ }
+}

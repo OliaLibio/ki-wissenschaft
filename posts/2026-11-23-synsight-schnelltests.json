@@ -1,0 +1,46 @@
+{
+ "id": "2026-11-23-synsight-schnelltests",
+ "date": "2026-11-23",
+ "published": "2026-11-10",
+ "category": "gesundheit",
+ "countries": [
+  "GB",
+  "ZA"
+ ],
+ "institution": "University College London, Africa Health Research Institute",
+ "maturity": "lab",
+ "source": {
+  "name": "npj Digital Medicine",
+  "url": "https://www.nature.com/articles/s41746-026-03380-0"
+ },
+ "more": [
+  {
+   "name": "DOI 10.1038/s41746-026-03380-0",
+   "url": "https://doi.org/10.1038/s41746-026-03380-0"
+  }
+ ],
+ "de": {
+  "title": "Schnelltests per KI auswerten, trainiert nur mit künstlichen Bildern: SynSight erreicht bei HIV-Tests 98 Prozent Sensitivität",
+  "summary": "Schnelltests für HIV oder COVID-19 sind billig, doch die Streifen werden oft falsch abgelesen. KI kann beim Auswerten helfen, braucht aber meist große, teure Bibliotheken echter Testfotos. Ein Team um Rachel McKendry vom University College London und Maryam Shahmanesh vom Africa Health Research Institute in Durban hat deshalb SynSight entwickelt, eine Pipeline, die Tests im Bild findet und klassifiziert und dabei ausschließlich mit synthetischen Daten trainiert wird. Bei der Prüfung an HIV-Tests erreichte sie 98 Prozent Sensitivität und 99 Prozent Spezifität, bei COVID-19-Tests bis zu 99 Prozent Genauigkeit.",
+  "why": "Neue Schnelltests kommen ständig auf den Markt, echte Trainingsbilder fehlen dann zunächst. Künstliche Daten könnten die Auswertung per Smartphone auch dort möglich machen, wo kaum Fachpersonal verfügbar ist.",
+  "caveat": "Es handelt sich um eine kurze Methodenarbeit im Labor, nicht um einen Einsatz in der Praxis. Aus der Zusammenfassung geht nicht hervor, wie schwierige Aufnahmen oder andere Testtypen abschneiden."
+ },
+ "en": {
+  "title": "AI reads rapid tests after training on artificial images only: SynSight reaches 98 percent sensitivity on HIV tests",
+  "summary": "Rapid tests for HIV or COVID-19 are cheap, but the result strips are often misread. AI can help with interpretation, yet usually needs large, costly libraries of real test photos. A team around Rachel McKendry at University College London and Maryam Shahmanesh at the Africa Health Research Institute in Durban therefore built SynSight, a pipeline that locates and classifies tests in an image and is trained exclusively on synthetic data. Validated on HIV tests it reached 98 percent sensitivity and 99 percent specificity, and up to 99 percent accuracy on COVID-19 tests.",
+  "why": "New rapid tests keep appearing, and real training images are missing at first. Synthetic data could make smartphone-based reading possible even where trained staff are scarce.",
+  "caveat": "This is a short methods paper from the lab, not a deployment in practice. The abstract does not say how difficult photographs or other test types perform."
+ },
+ "ru": {
+  "title": "ИИ читает экспресс-тесты, обучаясь только на искусственных снимках: SynSight достигает 98 процентов чувствительности на тестах на ВИЧ",
+  "summary": "Экспресс-тесты на ВИЧ или COVID-19 дёшевы, но полоски часто читают неверно. ИИ может помочь, но обычно нужны большие дорогие библиотеки реальных снимков тестов. Поэтому команда Рейчел Маккендри из Университетского колледжа Лондона и Мэриам Шахманеш из Института здоровья Африки в Дурбане создала SynSight — конвейер, который находит тест на снимке и классифицирует его, обучаясь исключительно на синтетических данных. При проверке на тестах на ВИЧ он показал чувствительность 98 процентов и специфичность 99 процентов, на тестах на COVID-19 — точность до 99 процентов.",
+  "why": "Новые экспресс-тесты появляются постоянно, а реальных обучающих снимков сначала нет. Синтетические данные могли бы сделать чтение по смартфону возможным и там, где мало обученного персонала.",
+  "caveat": "Это короткая методическая работа в лаборатории, а не применение на практике. Из аннотации не видно, как модель справляется со сложными снимками и другими типами тестов."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03380-0/MediaObjects/41746_2026_3380_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, npj Digital Medicine",
+  "link": "https://www.nature.com/articles/s41746-026-03380-0"
+ }
+}
