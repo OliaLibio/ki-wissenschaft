@@ -48,32 +48,33 @@ Diese Themen hat sich die Leserin gewünscht. Erledige sie im genannten Lauf **z
 
 - **Lauf am 2026-11-25 (Mittwoch), Rubrik `mythen`:** ein Mythen-Check zu **Vitamin D**. Geeignete Behauptungen zum Beispiel: „Vitamin-D-Tabletten schützen vor Erkältungen / Knochenbrüchen / Krebs / Depression“ oder „Wer viel draußen ist, hat genug Vitamin D“. Am besten eine aktuelle große Studie oder Übersichtsarbeit. Gibt es in den letzten sechs Monaten keine, nimm die maßgebliche große Studie (zum Beispiel einen großen randomisierten Versuch oder eine Cochrane-Übersicht), auch wenn sie älter ist, und gib ihr echtes Veröffentlichungsdatum an.
 
-## Schreibstil: einfache Sprache
+## Schreibstil: klare, menschliche Sprache
 
-Die Leserinnen und Leser sind neugierige Laien ohne naturwissenschaftliche Ausbildung. Jeder Beitrag muss beim ersten Lesen verständlich sein. Schreib so, wie man es einer interessierten Freundin am Küchentisch erklären würde.
+Die Leserinnen und Leser sind neugierige Laien ohne naturwissenschaftliche Ausbildung. Jeder Beitrag muss für sie verständlich sein, ohne dass er oberflächlich wird. Schreib so, wie eine kluge Freundin am Küchentisch erklärt, was in einer Studie gemacht wurde und was dabei herauskam: in ganzen, natürlichen Sätzen, gern auch etwas länger, wenn das beim Verstehen hilft.
 
-**Regeln**
+**Worauf es ankommt**
 
-- **Kurze Sätze**, höchstens etwa 15 Wörter. Ein Gedanke pro Satz.
+- **Erklären statt verkürzen.** Die Leserin soll verstehen, worum es ging, was die Forschenden gemacht haben und was das Ergebnis bedeutet. Lieber einen Satz mehr, der den Zusammenhang erklärt, als ein knappes Stichwort. Satzlänge ist kein Ziel, Verständlichkeit schon.
 - **Keine Namen von Forschenden** im Text. Die Institution steht ohnehin im Feld `institution`; im Text höchstens „Forschende aus Kanada“ oder „ein Team einer US-Universität“.
-- **Keine Fachwörter.** Wenn eines unvermeidlich ist, sofort in Alltagssprache erklären: „Bauchfett, also Fett, das zwischen den Organen sitzt“. Verboten ohne Erklärung sind zum Beispiel: metabolisches Syndrom, HbA1c, DXA, MRT, Kohorte, randomisiert, Placebo, Biomarker, Inzidenz, Metaanalyse, Algorithmus, neuronales Netz, Proteine, Enzyme, Sensitivität, Spezifität, Konfidenzintervall, signifikant.
-- **Wenige, runde Zahlen.** Höchstens zwei oder drei pro Beitrag. „Fast 60.000 Menschen“ statt „59.269 Teilnehmer“; „etwa jeder Fünfte“ statt „20 Prozent (12.073)“.
+- **Fachwörter übersetzen.** Wenn ein Fachwort für die Sache wichtig ist, darf es vorkommen, aber direkt danach in Alltagssprache erklärt: „Bauchfett, also das Fett, das sich zwischen den Organen versteckt“. Ohne Erklärung nicht verwenden, zum Beispiel: metabolisches Syndrom, HbA1c, DXA, MRT, Kohorte, randomisiert, Placebo, Biomarker, Inzidenz, Metaanalyse, Algorithmus, neuronales Netz, Proteine, Enzyme, Sensitivität, Spezifität, Konfidenzintervall, signifikant.
+- **Wie wurde geforscht, in Alltagsworten.** Statt „randomisierte, doppelblinde Studie“: „Die Teilnehmenden wurden per Los in zwei Gruppen eingeteilt, und weder sie noch die Ärzte wussten, wer das echte Mittel bekam.“ Statt „Kohortenstudie“: „Die Forschenden haben Menschen über Jahre begleitet und beobachtet, ohne selbst etwas zu verändern.“
+- **Zahlen mit Sinn.** Nur die Zahlen, die für das Verständnis wichtig sind, und so, dass man sie sich vorstellen kann: „fast 60.000 Menschen“ statt „59.269 Teilnehmer“, „etwa jeder Fünfte“ statt „20 Prozent (12.073)“.
 - **Bilder aus dem Alltag** helfen: Vergleiche, Beispiele, „stell dir vor …“.
-- **Keine Abkürzungen** außer allgemein bekannten (KI, USA, CO2).
+- **Keine Abkürzungen** außer allgemein bekannten (KI, USA, CO2), oder beim ersten Mal ausgeschrieben und erklärt.
 
 **Felder**
 
-- `title`: eine klare Aussage in Alltagssprache, höchstens etwa 12 Wörter. Was ist herausgekommen? Kein Fachbegriff.
-- `summary` (**Worum geht es und was kam heraus**): drei bis fünf kurze Sätze. Erst die Frage, die die Forschenden hatten. Dann, was sie gemacht haben, in einem Satz. Dann das Ergebnis.
-- `why` (auf der Seite „Was heißt das für mich?“): ein bis zwei Sätze, was die Leserin daraus für ihren Alltag oder ihr Weltbild mitnehmen kann.
-- `caveat` (auf der Seite „Der Haken“): ein bis zwei Sätze, warum man das Ergebnis noch nicht überbewerten sollte, in Alltagssprache („Es waren nur 40 Menschen“, „Bisher nur an Mäusen getestet“, „Die Firma, die das Mittel verkauft, hat die Studie bezahlt“).
+- `title`: eine klare Aussage in Alltagssprache. Was ist herausgekommen? Kein Fachbegriff.
+- `summary` (**Worum geht es und was kam heraus**): ein gut lesbarer Absatz, meist vier bis sieben Sätze. Erst die Frage oder das Problem, aus dem Alltag heraus erklärt. Dann, was die Forschenden gemacht haben, so beschrieben, dass man es sich vorstellen kann. Dann das Ergebnis und was es bedeutet.
+- `why` (auf der Seite „Was heißt das für mich?“): ein paar Sätze, was die Leserin daraus für ihren Alltag oder ihr Verständnis der Welt mitnehmen kann.
+- `caveat` (auf der Seite „Der Haken“): ehrlich und verständlich, warum man das Ergebnis noch nicht überbewerten sollte („Es waren nur 40 Menschen“, „Bisher nur an Mäusen getestet“, „Die Firma, die das Mittel verkauft, hat die Studie bezahlt“).
 - `myth` (nur Mythen-Check): die Behauptung so, wie man sie im Alltag hört.
-- Englisch und Russisch: genauso einfach, keine Fachsprache, vollwertige Übersetzungen.
+- Englisch und Russisch: genauso verständlich, keine Fachsprache, vollwertige Übersetzungen.
 - Keine Übertreibungen wie „Durchbruch“ oder „Revolution“.
 
 **Beispiel, wie es NICHT sein soll:** „Ein Team um X und Y vom Z Research Center wertete Daten von 59.269 Teilnehmern der UK Biobank aus, bei denen Körperzusammensetzung per DXA und MRT gemessen worden war. Rund 20 Prozent erfüllten die Kriterien eines metabolischen Syndroms.“
 
-**So ist es richtig:** „Viele glauben: Je mehr Muskeln, desto gesünder der Stoffwechsel. Forschende aus den USA haben das bei fast 60.000 Erwachsenen in Großbritannien überprüft. Sie haben genau gemessen, wie viel Muskeln und Fett jeder hat und wo das Fett sitzt. Ergebnis: Mehr Muskeln allein schützen nicht. Entscheidend ist vor allem das Fett im Bauch, das sich zwischen den Organen versteckt.“
+**So ist es richtig:** „Viele Menschen gehen davon aus, dass mehr Muskeln automatisch einen gesünderen Stoffwechsel bedeuten, also dass der Körper Zucker und Fett besser verarbeitet. Forschende aus den USA wollten wissen, ob das stimmt, und haben dafür die Daten von fast 60.000 Erwachsenen aus Großbritannien ausgewertet. Bei ihnen wurde mit speziellen Körperscans genau gemessen, wie viel Muskeln und wie viel Fett sie haben und wo im Körper das Fett sitzt. Das Ergebnis überraschte: Mehr Muskeln allein schützten nicht vor Stoffwechselproblemen wie erhöhtem Blutzucker. Viel wichtiger war, wie viel Fett sich im Bauchraum zwischen den Organen angesammelt hatte.“
 
 ## Technisch
 
