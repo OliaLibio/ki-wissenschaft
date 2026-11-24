@@ -42,14 +42,38 @@ Du pflegst die Webseite „KI in der Wissenschaft“ in diesem Repository. Deine
   3. **Freies Foto von Wikimedia Commons** (`kind: "photo"`), Suche über `https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=<Suchbegriff>%20filetype:bitmap&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=960`. Nimm `thumburl` (ohne `?utm…`-Anhang), Autor aus `Artist`, Lizenz aus `LicenseShortName`. credit: „Foto: <Autor>, <Lizenz>, Wikimedia Commons“, link: die `descriptionurl`.
 - Prüfe jede Bild-URL mit `curl -s -o /dev/null -w "%{http_code} %{content_type}" -A "Mozilla/5.0" <url>`. Nur `200` mit `image/...` ist gültig. Sonst die nächste Bildquelle nehmen.
 
-## Schreibstil
+## Wunschthemen
 
-- Jeder Beitrag in allen drei Sprachen: `de`, `en`, `ru`. Deutsch ist die Leitsprache, Englisch und Russisch sind vollwertige Übersetzungen, keine Kurzfassungen.
-- `title`: konkret, mit dem Ergebnis, ohne Clickbait.
-- `summary`: vier bis sechs Sätze mit den wichtigsten Zahlen (Teilnehmer, Trefferquoten, Vergleichsgruppen), Institution und Methode.
-- `why`: zwei Sätze, warum das für Laien relevant ist.
-- `caveat`: ehrlich. Studiengröße, Vorabdruck ohne Begutachtung, Interessenkonflikte, fehlende Replikation.
-- Keine Übertreibungen wie „Durchbruch“ oder „Revolution“, außer in Zitaten.
+Diese Themen hat sich die Leserin gewünscht. Erledige sie im genannten Lauf **zuerst**, sie zählen zu den drei bis fünf Beiträgen ihrer Rubrik. Danach lösche die erledigte Zeile aus dieser Liste und committe das mit.
+
+- **Lauf am 2026-11-25 (Mittwoch), Rubrik `mythen`:** ein Mythen-Check zu **Vitamin D**. Geeignete Behauptungen zum Beispiel: „Vitamin-D-Tabletten schützen vor Erkältungen / Knochenbrüchen / Krebs / Depression“ oder „Wer viel draußen ist, hat genug Vitamin D“. Am besten eine aktuelle große Studie oder Übersichtsarbeit. Gibt es in den letzten sechs Monaten keine, nimm die maßgebliche große Studie (zum Beispiel einen großen randomisierten Versuch oder eine Cochrane-Übersicht), auch wenn sie älter ist, und gib ihr echtes Veröffentlichungsdatum an.
+
+## Schreibstil: einfache Sprache
+
+Die Leserinnen und Leser sind neugierige Laien ohne naturwissenschaftliche Ausbildung. Jeder Beitrag muss beim ersten Lesen verständlich sein. Schreib so, wie man es einer interessierten Freundin am Küchentisch erklären würde.
+
+**Regeln**
+
+- **Kurze Sätze**, höchstens etwa 15 Wörter. Ein Gedanke pro Satz.
+- **Keine Namen von Forschenden** im Text. Die Institution steht ohnehin im Feld `institution`; im Text höchstens „Forschende aus Kanada“ oder „ein Team einer US-Universität“.
+- **Keine Fachwörter.** Wenn eines unvermeidlich ist, sofort in Alltagssprache erklären: „Bauchfett, also Fett, das zwischen den Organen sitzt“. Verboten ohne Erklärung sind zum Beispiel: metabolisches Syndrom, HbA1c, DXA, MRT, Kohorte, randomisiert, Placebo, Biomarker, Inzidenz, Metaanalyse, Algorithmus, neuronales Netz, Proteine, Enzyme, Sensitivität, Spezifität, Konfidenzintervall, signifikant.
+- **Wenige, runde Zahlen.** Höchstens zwei oder drei pro Beitrag. „Fast 60.000 Menschen“ statt „59.269 Teilnehmer“; „etwa jeder Fünfte“ statt „20 Prozent (12.073)“.
+- **Bilder aus dem Alltag** helfen: Vergleiche, Beispiele, „stell dir vor …“.
+- **Keine Abkürzungen** außer allgemein bekannten (KI, USA, CO2).
+
+**Felder**
+
+- `title`: eine klare Aussage in Alltagssprache, höchstens etwa 12 Wörter. Was ist herausgekommen? Kein Fachbegriff.
+- `summary` (**Worum geht es und was kam heraus**): drei bis fünf kurze Sätze. Erst die Frage, die die Forschenden hatten. Dann, was sie gemacht haben, in einem Satz. Dann das Ergebnis.
+- `why` (auf der Seite „Was heißt das für mich?“): ein bis zwei Sätze, was die Leserin daraus für ihren Alltag oder ihr Weltbild mitnehmen kann.
+- `caveat` (auf der Seite „Der Haken“): ein bis zwei Sätze, warum man das Ergebnis noch nicht überbewerten sollte, in Alltagssprache („Es waren nur 40 Menschen“, „Bisher nur an Mäusen getestet“, „Die Firma, die das Mittel verkauft, hat die Studie bezahlt“).
+- `myth` (nur Mythen-Check): die Behauptung so, wie man sie im Alltag hört.
+- Englisch und Russisch: genauso einfach, keine Fachsprache, vollwertige Übersetzungen.
+- Keine Übertreibungen wie „Durchbruch“ oder „Revolution“.
+
+**Beispiel, wie es NICHT sein soll:** „Ein Team um X und Y vom Z Research Center wertete Daten von 59.269 Teilnehmern der UK Biobank aus, bei denen Körperzusammensetzung per DXA und MRT gemessen worden war. Rund 20 Prozent erfüllten die Kriterien eines metabolischen Syndroms.“
+
+**So ist es richtig:** „Viele glauben: Je mehr Muskeln, desto gesünder der Stoffwechsel. Forschende aus den USA haben das bei fast 60.000 Erwachsenen in Großbritannien überprüft. Sie haben genau gemessen, wie viel Muskeln und Fett jeder hat und wo das Fett sitzt. Ergebnis: Mehr Muskeln allein schützen nicht. Entscheidend ist vor allem das Fett im Bauch, das sich zwischen den Organen versteckt.“
 
 ## Technisch
 

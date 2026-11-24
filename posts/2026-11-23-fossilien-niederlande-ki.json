@@ -19,22 +19,22 @@
   }
  ],
  "de": {
-  "title": "Fossilien bestimmen mit KI und Bürgerforschung: Modelle schlagen Fachleute, aber nicht überall",
-  "summary": "Ein Team von Naturalis und der Universität Utrecht trainierte Bildklassifikationsmodelle (CNN) für Fossilien und Artefakte aus dem Quartär der Niederlande und der südlichen Nordsee. Trainingsdaten waren über 46.000 standardisierte Bilder aus Museums- und Privatsammlungen sowie über 74.000 Bilder von der Bürgerforschungsplattform Oervondstchecker.nl. Zehn Fachleute und erfahrene Laien bestimmten dieselben Funde. Auf den standardisierten Daten konnten die Modelle Fachleute übertreffen, aber nicht auf beiden Datensätzen gleichermaßen. Die Bestimmungen der Fachleute waren außerdem alles andere als einhellig, was die Qualität der Trainingsdaten drückt.",
-  "why": "Immer mehr Menschen finden Fossilien am Strand oder bei Baggerarbeiten, Fachleute können nicht alles prüfen. Die Modelle sind öffentlich nutzbar und könnten seltene Funde schneller auffällig machen.",
-  "caveat": "Die Modelle sind nur für Funde aus dem Nordseeraum belegt, die Leistung schwankt je nach Datensatz. Da auch die Expertenurteile uneinig sind, ist die Referenz selbst unsicher. Genaue Trefferquoten wurden hier nicht aus dem Volltext übernommen."
+  "title": "Strandfund per Foto bestimmen: KI erkennt Fossilien aus der Nordsee",
+  "summary": "In den Niederlanden finden viele Menschen Fossilien am Strand, zum Beispiel Knochen von Tieren aus der Eiszeit. Fachleute können nicht jeden Fund ansehen. Ein niederländisches Team hat deshalb eine KI mit über 100.000 Fotos von Funden trainiert, viele davon von Hobbysammlern. Im Test bestimmte die KI manche Funde besser als Fachleute, aber nicht immer. Dabei zeigte sich auch: Selbst die Fachleute waren sich oft nicht einig.",
+  "why": "Die KI ist frei nutzbar. Wer etwas findet, erfährt so schneller, was es sein könnte, und seltene Funde fallen eher auf.",
+  "caveat": "Die KI kennt nur Funde aus dem Nordseeraum. Weil auch die Fachleute oft uneins sind, ist schwer zu sagen, was die richtige Antwort ist."
  },
  "en": {
-  "title": "Identifying fossils with AI and citizen science: models beat experts, but not everywhere",
-  "summary": "A team from Naturalis and Utrecht University trained image-classification models (CNNs) on Quaternary fossils and artefacts from the Netherlands and the southern North Sea. Training data were over 46,000 standardised images from museum and private collections and over 74,000 images from the citizen-science platform Oervondstchecker.nl. Ten domain experts and expert citizen scientists identified the same finds. On the standardised data the models could outperform experts, but not consistently across both datasets. Expert identifications were also far from unanimous, which lowers training-data quality.",
-  "why": "More and more people find fossils on beaches or at dredging sites, and specialists cannot check them all. The models are publicly available and could flag rare finds faster.",
-  "caveat": "The models are only shown to work for North Sea region finds, and performance varies by dataset. Because experts disagree among themselves, the reference itself is uncertain. Exact accuracy figures were not taken from the full text here."
+  "title": "Identify a beach find from a photo: AI recognises North Sea fossils",
+  "summary": "In the Netherlands, many people find fossils on the beach, such as bones of Ice Age animals. Experts cannot look at every find. A Dutch team therefore trained an AI on more than 100,000 photos of finds, many from amateur collectors. In tests, the AI identified some finds better than experts, but not always. It also turned out that even the experts often disagreed.",
+  "why": "The AI is free to use. Anyone who finds something can learn faster what it might be, and rare finds are more likely to be noticed.",
+  "caveat": "The AI only knows finds from the North Sea region. Because experts often disagree too, it is hard to say what the right answer is."
  },
  "ru": {
-  "title": "Определение ископаемых с помощью ИИ и гражданской науки: модели обходят специалистов, но не везде",
-  "summary": "Группа из Naturalis и Утрехтского университета обучила модели классификации изображений (CNN) на четвертичных ископаемых и артефактах из Нидерландов и южной части Северного моря. Данные: более 46 000 стандартизированных снимков из музейных и частных коллекций и более 74 000 снимков с платформы гражданской науки Oervondstchecker.nl. Десять специалистов и опытных любителей определяли те же находки. На стандартизированных данных модели могли превосходить специалистов, но не на обоих наборах одинаково. Определения экспертов тоже далеко не единодушны, что снижает качество обучающих данных.",
-  "why": "Всё больше людей находят окаменелости на пляжах или при дноуглубительных работах, а специалисты не могут проверить всё. Модели общедоступны и могут быстрее выделять редкие находки.",
-  "caveat": "Работа модели подтверждена только для находок региона Северного моря, результаты зависят от набора данных. Поскольку эксперты расходятся во мнениях, сам эталон неточен. Точные показатели точности здесь не взяты из полного текста."
+  "title": "Определить находку по фото: ИИ узнаёт окаменелости Северного моря",
+  "summary": "В Нидерландах многие находят на пляже окаменелости, например кости животных ледникового периода. Специалисты не успевают осмотреть каждую находку. Поэтому команда из Нидерландов обучила ИИ на более чем 100 000 фотографий находок, многие из них от любителей. В тестах ИИ определял некоторые находки лучше специалистов, но не всегда. Выяснилось и другое: даже специалисты часто расходились во мнениях.",
+  "why": "ИИ доступен всем бесплатно. Нашедший что-то быстрее узнает, что это может быть, а редкие находки скорее привлекут внимание.",
+  "caveat": "ИИ знает только находки из региона Северного моря. Раз специалисты тоже часто не согласны, трудно сказать, какой ответ верный."
  },
  "image": {
   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Leiden_-_RMO_-_tentoonstelling_Doggerland_-_os_frontale_van_eerste_Nederlandse_Neanderthaler%2C_Krijn_20210629.jpg/960px-Leiden_-_RMO_-_tentoonstelling_Doggerland_-_os_frontale_van_eerste_Nederlandse_Neanderthaler%2C_Krijn_20210629.jpg",

@@ -16,22 +16,22 @@
   }
  ],
  "de": {
-  "title": "Bienen am Summen erkennen: Zwei neuronale Netze erfassen Aktivität und unterscheiden Honigbienen von Hummeln",
-  "summary": "Die Ökologin Laura Figueroa und ihr Team an der University of Massachusetts Amherst haben zwei Faltungsnetze (CNN) für Tonaufnahmen von Bienen entwickelt. Das erste misst die Gesamtaktivität von Bienen an einem Ort, das zweite unterscheidet Honigbienen von Hummeln. Trainiert wurde mit 594 Feldaufnahmen aus fünf Jahren an 43 Standorten im Nordosten der USA. Die Modelle erkannten laut Mitteilung 93 bis 97 Prozent der Bienen in einer Stichprobe, und ihre Schätzungen stimmten gut mit Sichtbeobachtungen geschulter Fachleute überein. Die Modelle stehen im Analyseprogramm Raven Pro bereit.",
-  "why": "Üblich ist die Bestandserfassung mit Fallen, die viele Insekten töten und aufwendige Laborarbeit verlangen. Ein Mikrofon könnte Bestandsschwankungen schonender anzeigen, auch an schwer erreichbaren Orten wie Baumkronen.",
-  "caveat": "Nur Honigbiene gegen Hummel, keine Bestimmung einzelner Wildbienenarten. Viele Arten lassen sich nur unter dem Mikroskop bestimmen, daher ersetzt das Verfahren Fallen nicht. Die Mitteilung nennt keine Fehlalarmraten, und die Daten stammen nur aus dem Nordosten der USA."
+  "title": "Ein Mikrofon erkennt am Summen, ob Honigbienen oder Hummeln unterwegs sind",
+  "summary": "Wer wissen will, wie viele Bienen es an einem Ort gibt, stellt bisher meist Fallen auf. Dabei sterben viele Insekten. Ein Team aus den USA hat stattdessen Mikrofone aufgestellt und eine KI mit fünf Jahren Tonaufnahmen trainiert. Die KI hört, wie viele Bienen unterwegs sind, und unterscheidet Honigbienen von Hummeln. Sie erkannte über 90 Prozent der Bienen, ähnlich gut wie geschulte Beobachter.",
+  "why": "Bienen sind für unsere Lebensmittel unverzichtbar, und viele Arten werden seltener. Ein Mikrofon zählt, ohne ein einziges Tier zu töten, auch in Baumkronen und an anderen schwer erreichbaren Orten.",
+  "caveat": "Die KI unterscheidet nur zwei Gruppen, nicht die vielen Wildbienenarten. Getestet wurde nur im Nordosten der USA."
  },
  "en": {
-  "title": "Identifying bees by their buzz: two neural networks measure activity and tell honeybees from bumble bees",
-  "summary": "Ecologist Laura Figueroa and her team at the University of Massachusetts Amherst built two convolutional neural networks (CNNs) for audio recordings of bees. The first measures overall bee activity at a site, the second tells honeybees from bumble bees. They were trained on 594 field recordings collected over five years at 43 sites in the northeastern US. According to the release, the models correctly identified 93 to 97 percent of bees in a sample, and their estimates correlated well with visual observations by trained researchers. The models are available in the analysis software Raven Pro.",
-  "why": "Bee monitoring usually relies on traps that kill many insects and require extensive lab work. A microphone could track population changes more gently, including in hard-to-reach places such as tree canopies.",
-  "caveat": "Only honeybee versus bumble bee, no identification of individual wild bee species. Many species can only be identified under a microscope, so the method does not replace traps. The release gives no false-alarm rates, and the data come only from the northeastern US."
+  "title": "A microphone can tell from the buzz whether honeybees or bumblebees are about",
+  "summary": "To find out how many bees live in a place, researchers usually set traps. Many insects die in them. A US team put up microphones instead and trained an AI on five years of recordings. The AI hears how many bees are flying and tells honeybees from bumblebees. It picked up more than 90 percent of the bees, about as well as trained observers.",
+  "why": "Bees are essential for our food, and many species are declining. A microphone counts them without killing a single animal, even in treetops and other hard-to-reach places.",
+  "caveat": "The AI only tells two groups apart, not the many species of wild bee. It was only tested in the north-eastern United States."
  },
  "ru": {
-  "title": "Пчёл узнают по жужжанию: две нейросети измеряют активность и отличают медоносных пчёл от шмелей",
-  "summary": "Эколог Лаура Фигероа и её команда из Массачусетского университета в Амхерсте создали две свёрточные нейросети (CNN) для звуковых записей пчёл. Первая измеряет общую активность пчёл на участке, вторая отличает медоносных пчёл от шмелей. Обучение проводилось на 594 полевых записях за пять лет с 43 участков на северо-востоке США. По сообщению, модели правильно определили 93–97 процентов пчёл в выборке, а их оценки хорошо совпали с визуальными наблюдениями обученных исследователей. Модели доступны в программе анализа звука Raven Pro.",
-  "why": "Обычно пчёл учитывают с помощью ловушек, которые убивают много насекомых и требуют трудоёмкой лабораторной работы. Микрофон мог бы щадяще отслеживать изменения численности, в том числе в труднодоступных местах, например в кронах деревьев.",
-  "caveat": "Только медоносная пчела против шмеля, без определения отдельных видов диких пчёл. Многие виды различимы только под микроскопом, поэтому метод не заменяет ловушки. В сообщении нет данных о ложных срабатываниях, а данные собраны только на северо-востоке США."
+  "title": "Микрофон по жужжанию отличает медоносных пчёл от шмелей",
+  "summary": "Чтобы узнать, сколько пчёл живёт в каком-то месте, обычно ставят ловушки. В них гибнет много насекомых. Команда из США вместо этого поставила микрофоны и обучила ИИ на записях за пять лет. ИИ слышит, сколько пчёл летает, и отличает медоносных пчёл от шмелей. Он распознал более 90 процентов пчёл, примерно как опытные наблюдатели.",
+  "why": "Пчёлы незаменимы для нашей еды, а многие их виды становятся редкими. Микрофон считает, не убивая ни одного насекомого, даже в кронах деревьев и других труднодоступных местах.",
+  "caveat": "ИИ различает только две группы, а не множество видов диких пчёл. Проверка шла только на северо-востоке США."
  },
  "image": {
   "src": "https://www.umass.edu/sites/default/files/2026-10/Bombus%20ternarius%20wide.jpeg",

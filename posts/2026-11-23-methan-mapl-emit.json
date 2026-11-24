@@ -16,22 +16,22 @@
   }
  ],
  "de": {
-  "title": "Vision-Transformer findet aus dem All Methanquellen: 84 Prozent der von Hand markierten Fahnen, rund anderthalbmal so viele plausible Fahnen wie Analysten",
-  "summary": "Methan ist ein starkes Treibhausgas, doch große Einzelquellen wie Mülldeponien oder Öl- und Gasanlagen werden bisher meist von Hand auf Satellitenbildern markiert. Ein Team von Google Research und der NASA (u. a. Vishal Batchu, Michelangelo Conserva, Anna Michalak) hat dafür das Modell MAPL-EMIT entwickelt, einen Vision-Transformer, der das gesamte Strahlungsspektrum des NASA-Instruments EMIT auswertet. Trainiert wurde er mit 3,6 Millionen physikalisch simulierten Fahnen, die in echte EMIT-Aufnahmen eingefügt wurden. Auf 1.084 realen EMIT-Aufnahmen erfasste das Modell 84 Prozent der von Hand markierten NASA-Fahnenkomplexe und fand etwa 1,5-mal so viele plausible Fahnen wie menschliche Analysten. Laut Google-Blog wurden Fahnen an 24 der 25 größten Mülldeponien der Welt kartiert.",
-  "why": "Wer Methanlecks findet, kann sie schneller stopfen, und das bremst die Erwärmung in den nächsten Jahrzehnten besonders wirksam. Automatische Auswertung könnte die mühsame Handarbeit ersetzen und mehr Quellen sichtbar machen.",
-  "caveat": "Trainiert wurde vor allem mit simulierten Fahnen, wie gut diese die Wirklichkeit treffen, bleibt offen. Fehlalarme in schwierigem Gelände und Oberflächen, die ein Methansignal vortäuschen, sind weiter ein Problem; kleine oder diffuse Quellen werden schlechter erkannt. Die zusätzlichen Fahnen sind „plausibel“, nicht unabhängig bestätigt."
+  "title": "KI findet aus dem All mehr Methan-Lecks als Fachleute",
+  "summary": "Methan ist ein Gas, das die Erde stark aufheizt. Es entweicht zum Beispiel aus Mülldeponien und aus Öl- und Gasanlagen. Bisher suchen Fachleute solche Quellen von Hand auf Satellitenbildern. Google und die NASA haben dafür eine KI trainiert. Sie fand gut acht von zehn der bekannten Methanwolken und dazu rund anderthalbmal so viele mögliche Quellen wie die Fachleute.",
+  "why": "Methan-Lecks zu stopfen ist einer der schnellsten Wege, die Erwärmung zu bremsen. Wer weiß, wo sie sind, kann gezielt handeln.",
+  "caveat": "Trainiert wurde die KI vor allem mit künstlich erzeugten Bildern. Die zusätzlich gefundenen Quellen sind wahrscheinlich, aber noch nicht vor Ort bestätigt."
  },
  "en": {
-  "title": "Vision transformer spots methane sources from space: 84 percent of hand-marked plumes and about 1.5 times as many plausible plumes as analysts",
-  "summary": "Methane is a potent greenhouse gas, yet large point sources such as landfills or oil and gas sites are still mostly marked by hand on satellite images. A team from Google Research and NASA (including Vishal Batchu, Michelangelo Conserva and Anna Michalak) built MAPL-EMIT, a vision transformer that uses the full radiance spectrum of NASA's EMIT instrument. It was trained on 3.6 million physics-based synthetic plumes injected into real EMIT scenes. On 1,084 real EMIT granules the model captured 84 percent of the hand-annotated NASA plume complexes and found about 1.5 times as many plausible plumes as human analysts. According to Google's blog, plumes were mapped at 24 of the world's 25 top-emitting landfills.",
-  "why": "Finding methane leaks lets operators fix them, which slows warming in the coming decades especially effectively. Automatic analysis could replace laborious manual work and reveal more sources.",
-  "caveat": "Training relied largely on simulated plumes, and how well they match reality is open. False positives in complex terrain and surfaces that mimic a methane signal remain a problem; small or diffuse sources are harder to detect. The extra plumes are \"plausible\", not independently confirmed."
+  "title": "AI in space spots more methane leaks than experts",
+  "summary": "Methane is a gas that heats the Earth strongly. It escapes, for example, from landfills and oil and gas sites. So far, experts search for these sources by hand on satellite images. Google and NASA trained an AI for the job. It found more than eight out of ten known methane plumes, plus about one and a half times as many possible sources as the experts.",
+  "why": "Plugging methane leaks is one of the fastest ways to slow global warming. Knowing where they are makes targeted action possible.",
+  "caveat": "The AI was trained mainly on computer-generated images. The extra sources it found are likely, but not yet confirmed on the ground."
  },
  "ru": {
-  "title": "Vision-трансформер находит источники метана из космоса: 84 процента размеченных вручную шлейфов и примерно в 1,5 раза больше правдоподобных шлейфов, чем у аналитиков",
-  "summary": "Метан — сильный парниковый газ, но крупные точечные источники, такие как свалки или нефтегазовые объекты, до сих пор в основном отмечают вручную на спутниковых снимках. Команда Google Research и NASA (среди авторов Вишал Батчу, Микеланджело Консерва, Анна Михалак) создала MAPL-EMIT — vision-трансформер, который использует весь радиационный спектр прибора NASA EMIT. Модель обучали на 3,6 миллиона физически смоделированных шлейфов, внедрённых в реальные снимки EMIT. На 1084 реальных снимках EMIT она нашла 84 процента размеченных вручную шлейфов NASA и примерно в 1,5 раза больше правдоподобных шлейфов, чем аналитики-люди. По данным блога Google, шлейфы картированы у 24 из 25 крупнейших свалок мира.",
-  "why": "Найденную утечку метана можно устранить, а это особенно эффективно замедляет потепление в ближайшие десятилетия. Автоматический анализ мог бы заменить трудоёмкую ручную работу и выявить больше источников.",
-  "caveat": "Обучение шло в основном на смоделированных шлейфах, и насколько они соответствуют реальности, неясно. Ложные срабатывания в сложном рельефе и поверхности, имитирующие сигнал метана, остаются проблемой; малые и рассеянные источники обнаруживаются хуже. Дополнительные шлейфы «правдоподобны», но независимо не подтверждены."
+  "title": "ИИ из космоса находит больше утечек метана, чем специалисты",
+  "summary": "Метан — газ, который сильно нагревает Землю. Он выходит, например, со свалок и с нефтегазовых объектов. До сих пор специалисты ищут такие источники на спутниковых снимках вручную. Google и NASA обучили для этого ИИ. Он нашёл больше восьми из десяти известных облаков метана и примерно в полтора раза больше возможных источников, чем специалисты.",
+  "why": "Устранение утечек метана — один из самых быстрых способов замедлить потепление. Зная, где они, можно действовать точечно.",
+  "caveat": "ИИ обучали в основном на искусственно созданных снимках. Найденные дополнительно источники вероятны, но ещё не подтверждены на месте."
  },
  "image": {
   "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/MAPL-EMIT-overview-hero.png",

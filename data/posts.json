@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T05:10:18Z",
+ "generated": "2026-11-24T19:04:06Z",
  "count": 70,
  "posts": [
   {
@@ -23,22 +23,22 @@
     }
    ],
    "de": {
-    "title": "KI schätzt den Geburtstermin aus Ultraschallbildern: Der Vorsprung schrumpft bei fairem Vergleich, ein Frühgeburts-Signal bleibt",
-    "summary": "Wer ohne frühen Ultraschall in die Schwangerschaftsvorsorge kommt, bekommt oft einen ungenauen Termin. Ein Team aus Santiago hat ein kommerzielles Deep-Learning-Modell, das nur Ultraschallbilder liest, unverändert an vier öffentlichen Kliniken in Chile geprüft: 64.235 Bilder aus 3.788 Untersuchungen von 2.550 Schwangeren, 34 Prozent davon Migrantinnen. Der mittlere Fehler lag bei 6,9 Tagen gegenüber 11,6 Tagen beim herkömmlichen Termin. Der Großteil dieses Vorsprungs kam aber daher, dass Schwangerschaften vor Ort kürzer dauerten, und gegenüber angepassten Vergleichswerten blieb weniger als ein Tag. Der separate Risikowert des Modells unterschied Frühgeburten mit einer AUC von 0,86, das Schwangerschaftsalter allein nur mit 0,52.",
-    "why": "Die Studie zeigt, wie leicht sich Genauigkeitswerte schönrechnen lassen, wenn man das falsche Vergleichsmaß wählt. Interessanter als der Termin ist die Frage, welche Frau früh entbindet.",
-    "caveat": "Die Frühgeburt-Analysen sind ausdrücklich explorativ, das Modell war schlecht kalibriert, und keine Frau wurde mit ihm betreut. Das geprüfte System ist ein kommerzielles Produkt der Firma Ultrasound AI, bei der ein Autor als strategischer Berater angegeben ist."
+    "title": "KI schätzt den Geburtstermin per Ultraschall, aber kaum besser als gedacht",
+    "summary": "Wer erst spät in der Schwangerschaft zum Ultraschall kommt, bekommt oft einen ungenauen Geburtstermin. In Chile wurde eine KI getestet, die den Termin allein aus Ultraschallbildern schätzt, bei über 2.500 Schwangeren. Auf den ersten Blick lag sie viel näher am echten Termin. Bei einem fairen Vergleich blieb aber nur ein Vorsprung von weniger als einem Tag. Überraschend: Die KI erkannte recht gut, welche Frauen ihr Kind zu früh bekommen würden.",
+    "why": "Die Studie zeigt, wie leicht Ergebnisse besser aussehen, als sie sind. Spannender als der Termin ist der Hinweis auf Frühgeburten.",
+    "caveat": "Der Hinweis auf Frühgeburten ist ein erster Fund, keine Frau wurde mit der KI betreut. Einer der Forschenden berät die Firma, die die KI verkauft."
    },
    "en": {
-    "title": "AI estimates the due date from ultrasound images: the lead shrinks under a fair comparison, a preterm-birth signal remains",
-    "summary": "Women who arrive for antenatal care without an early scan often get an imprecise due date. A team in Santiago externally validated a commercial deep-learning model that reads ultrasound images only, applied unmodified at four public hospitals in Chile: 64,235 frames from 3,788 examinations of 2,550 pregnancies, 34 percent of them in migrant women. Mean absolute error was 6.9 days versus 11.6 days for the conventional due date. Most of that gain, however, reflected shorter local gestations, and against recentred comparators it fell below one day. The model's separate risk score discriminated preterm birth with an AUC of 0.86, against 0.52 for gestational age alone.",
-    "why": "The study shows how easily accuracy figures flatter a model when the wrong yardstick is used. More interesting than the date is the question of who will deliver early.",
-    "caveat": "The preterm-birth analyses are explicitly exploratory, the model was miscalibrated, and no woman was managed with it. The evaluated system is a commercial product of Ultrasound AI, Inc., to which one author is listed as a strategic advisor."
+    "title": "AI estimates due dates from ultrasound, but barely better than it seemed",
+    "summary": "Women who have their first ultrasound late in pregnancy often get an inaccurate due date. In Chile, an AI that estimates the due date from ultrasound images alone was tested on more than 2,500 pregnant women. At first glance, it was much closer to the real date. In a fair comparison, though, its lead shrank to less than a day. A surprise: the AI was fairly good at spotting which women would give birth too early.",
+    "why": "The study shows how easily results can look better than they are. More exciting than the due date is the hint about premature births.",
+    "caveat": "The premature-birth hint is a first finding; no woman was cared for using the AI. One of the researchers advises the company that sells it."
    },
    "ru": {
-    "title": "ИИ оценивает срок родов по снимкам УЗИ: при честном сравнении преимущество тает, но сигнал о преждевременных родах остаётся",
-    "summary": "Женщины, пришедшие на наблюдение без раннего УЗИ, часто получают неточный срок родов. Команда из Сантьяго проверила коммерческую модель глубокого обучения, которая читает только снимки УЗИ, без доработки в четырёх государственных клиниках Чили: 64 235 кадров из 3788 обследований 2550 беременностей, 34 процента — у мигранток. Средняя абсолютная ошибка составила 6,9 дня против 11,6 дня у обычного срока. Но большая часть выигрыша объяснялась более короткой местной длительностью беременности, и по сравнению с пересчитанными эталонами разница была меньше одного дня. Отдельная оценка риска модели различала преждевременные роды с AUC 0,86, а один гестационный возраст — только 0,52.",
-    "why": "Исследование показывает, как легко показатели точности приукрашивают модель при неверной мерке. Интереснее самой даты вопрос, кто родит раньше срока.",
-    "caveat": "Анализы преждевременных родов прямо названы поисковыми, модель была плохо откалибрована, и ни одну женщину не вели с её помощью. Проверенная система — коммерческий продукт компании Ultrasound AI, Inc., у которой один из авторов указан стратегическим консультантом."
+    "title": "ИИ определяет дату родов по УЗИ, но почти не лучше, чем казалось",
+    "summary": "Те, кто впервые приходит на УЗИ поздно, часто получают неточную дату родов. В Чили проверили ИИ, который определяет дату только по снимкам УЗИ, на более чем 2500 беременных. На первый взгляд он был гораздо ближе к настоящей дате. Но при честном сравнении преимущество сократилось до меньше чем одного дня. Неожиданно ИИ довольно хорошо распознавал, кто из женщин родит раньше срока.",
+    "why": "Исследование показывает, как легко результаты выглядят лучше, чем есть. Интереснее даты родов — подсказка о преждевременных родах.",
+    "caveat": "Подсказка о преждевременных родах — лишь первая находка, никого из женщин с помощью ИИ не наблюдали. Один из исследователей консультирует компанию, которая продаёт этот ИИ."
    },
    "image": {
     "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03453-0/MediaObjects/41746_2026_3453_Fig1_HTML.png",
@@ -69,22 +69,22 @@
     }
    ],
    "de": {
-    "title": "Schnelltests per KI auswerten, trainiert nur mit künstlichen Bildern: SynSight erreicht bei HIV-Tests 98 Prozent Sensitivität",
-    "summary": "Schnelltests für HIV oder COVID-19 sind billig, doch die Streifen werden oft falsch abgelesen. KI kann beim Auswerten helfen, braucht aber meist große, teure Bibliotheken echter Testfotos. Ein Team um Rachel McKendry vom University College London und Maryam Shahmanesh vom Africa Health Research Institute in Durban hat deshalb SynSight entwickelt, eine Pipeline, die Tests im Bild findet und klassifiziert und dabei ausschließlich mit synthetischen Daten trainiert wird. Bei der Prüfung an HIV-Tests erreichte sie 98 Prozent Sensitivität und 99 Prozent Spezifität, bei COVID-19-Tests bis zu 99 Prozent Genauigkeit.",
-    "why": "Neue Schnelltests kommen ständig auf den Markt, echte Trainingsbilder fehlen dann zunächst. Künstliche Daten könnten die Auswertung per Smartphone auch dort möglich machen, wo kaum Fachpersonal verfügbar ist.",
-    "caveat": "Es handelt sich um eine kurze Methodenarbeit im Labor, nicht um einen Einsatz in der Praxis. Aus der Zusammenfassung geht nicht hervor, wie schwierige Aufnahmen oder andere Testtypen abschneiden."
+    "title": "KI liest Schnelltests per Handyfoto ab, gelernt nur mit künstlichen Bildern",
+    "summary": "Schnelltests für HIV oder Corona sind billig, werden aber oft falsch abgelesen. Eine KI kann helfen, braucht dafür aber normalerweise Tausende echte Fotos von Tests. Forschende aus London und Südafrika haben ihre KI stattdessen nur mit am Computer erzeugten Bildern trainiert. Bei echten HIV-Tests lag sie trotzdem in 98 bis 99 von 100 Fällen richtig.",
+    "why": "Neue Tests kommen ständig auf den Markt, und echte Fotos davon gibt es anfangs kaum. So könnte ein Handy beim Ablesen helfen, auch dort, wo Fachpersonal fehlt.",
+    "caveat": "Bisher wurde das nur im Labor getestet, nicht im Alltag. Wie gut die KI bei verwackelten oder dunklen Fotos ist, ist unklar."
    },
    "en": {
-    "title": "AI reads rapid tests after training on artificial images only: SynSight reaches 98 percent sensitivity on HIV tests",
-    "summary": "Rapid tests for HIV or COVID-19 are cheap, but the result strips are often misread. AI can help with interpretation, yet usually needs large, costly libraries of real test photos. A team around Rachel McKendry at University College London and Maryam Shahmanesh at the Africa Health Research Institute in Durban therefore built SynSight, a pipeline that locates and classifies tests in an image and is trained exclusively on synthetic data. Validated on HIV tests it reached 98 percent sensitivity and 99 percent specificity, and up to 99 percent accuracy on COVID-19 tests.",
-    "why": "New rapid tests keep appearing, and real training images are missing at first. Synthetic data could make smartphone-based reading possible even where trained staff are scarce.",
-    "caveat": "This is a short methods paper from the lab, not a deployment in practice. The abstract does not say how difficult photographs or other test types perform."
+    "title": "AI reads rapid tests from phone photos, trained only on artificial images",
+    "summary": "Rapid tests for HIV or Covid are cheap but often read wrongly. An AI can help, but it usually needs thousands of real photos of tests. Researchers in London and South Africa instead trained their AI only on computer-generated images. On real HIV tests, it was still right in 98 to 99 cases out of 100.",
+    "why": "New tests keep coming onto the market, and at first there are hardly any real photos of them. A phone could help read them, even where trained staff are scarce.",
+    "caveat": "So far this has only been tested in the lab, not in everyday use. It is unclear how well the AI copes with blurry or dark photos."
    },
    "ru": {
-    "title": "ИИ читает экспресс-тесты, обучаясь только на искусственных снимках: SynSight достигает 98 процентов чувствительности на тестах на ВИЧ",
-    "summary": "Экспресс-тесты на ВИЧ или COVID-19 дёшевы, но полоски часто читают неверно. ИИ может помочь, но обычно нужны большие дорогие библиотеки реальных снимков тестов. Поэтому команда Рейчел Маккендри из Университетского колледжа Лондона и Мэриам Шахманеш из Института здоровья Африки в Дурбане создала SynSight — конвейер, который находит тест на снимке и классифицирует его, обучаясь исключительно на синтетических данных. При проверке на тестах на ВИЧ он показал чувствительность 98 процентов и специфичность 99 процентов, на тестах на COVID-19 — точность до 99 процентов.",
-    "why": "Новые экспресс-тесты появляются постоянно, а реальных обучающих снимков сначала нет. Синтетические данные могли бы сделать чтение по смартфону возможным и там, где мало обученного персонала.",
-    "caveat": "Это короткая методическая работа в лаборатории, а не применение на практике. Из аннотации не видно, как модель справляется со сложными снимками и другими типами тестов."
+    "title": "ИИ считывает экспресс-тесты по фото с телефона, обученный только на искусственных снимках",
+    "summary": "Экспресс-тесты на ВИЧ или ковид дешёвые, но их часто читают неправильно. ИИ может помочь, но обычно ему нужны тысячи настоящих фотографий тестов. Исследователи из Лондона и ЮАР обучили свой ИИ только на изображениях, созданных компьютером. На настоящих тестах на ВИЧ он всё равно был прав в 98–99 случаях из 100.",
+    "why": "Новые тесты постоянно появляются в продаже, и настоящих фото их поначалу почти нет. Телефон мог бы помогать с чтением результата даже там, где не хватает специалистов.",
+    "caveat": "Пока это проверено только в лаборатории, а не в жизни. Как ИИ справляется со смазанными или тёмными фото, неясно."
    },
    "image": {
     "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03380-0/MediaObjects/41746_2026_3380_Fig1_HTML.png",
@@ -109,22 +109,22 @@
    },
    "more": [],
    "de": {
-    "title": "Haben Forschungs-KIs Geschmack? Ihre Rangfolge guter Experimente schlägt kaum den Zufall",
-    "summary": "Der Autor testete, ob KI-Agenten vor dem Ergebnis beurteilen können, welche Experimente sich lohnen. Sechs führende Sprachmodelle, allein oder im Team, lasen je sieben aktuelle NLP-Studien, schlugen kleinste sinnvolle Experimente vor, sagten deren Ausgang voraus und reihten sie. Ein separater Ausführer führte alle 415 Experimente durch, drei Modelle als Prüfer bewerteten sie. 194 galten als solide, wertvoll und neu, aber nur 73 zusätzlich als über die Ausgangsstudie hinausgehend und nicht offensichtlich. Die jeweils bestplatzierte Wahl traf das von den Prüfern am höchsten bewertete Experiment häufiger als Zufall, schlug aber nicht klar die Wahl des zuerst geschriebenen. Teams kosteten mehr, ohne klaren Gewinn.",
-    "why": "Gute Forschung hängt auch davon ab, die richtigen Fragen auszuwählen. Die Studie legt nahe, dass KI viele brauchbare Ideen liefert, aber ihre Auswahl bisher kaum verlässlicher ist als einfache Faustregeln.",
-    "caveat": "Vorabdruck eines Einzelautors, nur sieben Studien aus einem Fachgebiet. Auch die Prüfer sind Sprachmodelle, ein menschliches Urteil ist nicht der Maßstab."
+    "title": "KI hat viele Forschungsideen, kann aber schlecht die besten auswählen",
+    "summary": "Gute Forschung beginnt mit der Frage: Welcher Versuch lohnt sich? Ein Forscher ließ sechs bekannte KI-Programme Ideen für über 400 kleine Experimente vorschlagen und ordnen, welche am wertvollsten sind. Alle Experimente wurden dann tatsächlich durchgeführt. Viele Ideen waren brauchbar, aber nur wenige wirklich neu. Die Rangliste der KI war kaum besser, als einfach die erste Idee zu nehmen.",
+    "why": "KI kann beim Sammeln von Ideen helfen. Die Entscheidung, welche Frage sich lohnt, sollte man ihr aber noch nicht überlassen.",
+    "caveat": "Ein einzelner Forscher, nur ein Fachgebiet, und noch nicht unabhängig geprüft. Bewertet wurden die Experimente wiederum von KI, nicht von Menschen."
    },
    "en": {
-    "title": "Do research AIs have taste? Their ranking of good experiments barely beats chance",
-    "summary": "The author tested whether AI agents can judge, before seeing results, which experiments are worth running. Six frontier language models, alone or in teams, each read seven recent NLP papers, proposed minimum viable experiments, forecast their outcomes and ranked them. A separate executor ran all 415 experiments and three model auditors judged them. 194 were judged sound, valuable and new, but only 73 were also judged beyond the seed paper and non-obvious. The agents' top pick matched the auditors' most valued experiment more often than a random pick, but did not clearly beat choosing the experiment written first. Teams cost more without a clear gain.",
-    "why": "Good research also depends on choosing the right questions. The study suggests AI produces many usable ideas, but its selection is so far hardly more reliable than simple rules of thumb.",
-    "caveat": "Single-author preprint, only seven papers from one field. The auditors are language models too, so human judgment is not the yardstick."
+    "title": "AI has plenty of research ideas but struggles to pick the best",
+    "summary": "Good research starts with the question: which experiment is worth doing? One researcher had six well-known AI programs suggest ideas for more than 400 small experiments and rank which were most valuable. All the experiments were then actually carried out. Many ideas were usable, but few were truly new. The AI's ranking was hardly better than simply picking the first idea.",
+    "why": "AI can help collect ideas. But deciding which question is worth pursuing should not be left to it yet.",
+    "caveat": "A single researcher, only one field, and not yet independently reviewed. The experiments were again judged by AI, not by people."
    },
    "ru": {
-    "title": "Есть ли у исследовательских ИИ «вкус»? Их рейтинг хороших экспериментов едва лучше случайного выбора",
-    "summary": "Автор проверил, могут ли ИИ-агенты до получения результатов судить, какие эксперименты стоит проводить. Шесть передовых языковых моделей, по одиночке или командами, прочитали по семь свежих NLP-статей, предложили минимальные осмысленные эксперименты, спрогнозировали их исход и расставили по рангу. Отдельный исполнитель провёл все 415 экспериментов, три модели-аудитора их оценили. 194 сочли обоснованными, ценными и новыми, но лишь 73 дополнительно сочли выходящими за рамки исходной статьи и неочевидными. Лучший выбор агентов совпадал с самым ценным по мнению аудиторов экспериментом чаще случайного, но явно не превосходил выбор написанного первым. Команды стоили дороже без явного выигрыша.",
-    "why": "Хорошее исследование зависит и от выбора правильных вопросов. Работа говорит, что ИИ предлагает много годных идей, но его отбор пока вряд ли надёжнее простых эвристик.",
-    "caveat": "Препринт одного автора, всего семь статей из одной области. Аудиторы тоже языковые модели, так что мерилом не служит мнение людей."
+    "title": "У ИИ много научных идей, но выбрать лучшие он почти не умеет",
+    "summary": "Хорошая наука начинается с вопроса: какой эксперимент стоит провести? Один исследователь попросил шесть известных программ ИИ предложить идеи для более чем 400 небольших экспериментов и расставить их по ценности. Затем все эксперименты действительно провели. Многие идеи были полезны, но по-настоящему новых — мало. Рейтинг ИИ был едва ли лучше, чем просто взять первую идею.",
+    "why": "ИИ может помочь собрать идеи. Но решать, какой вопрос стоит исследовать, ему пока доверять нельзя.",
+    "caveat": "Один исследователь, одна область, и независимой проверки ещё не было. Эксперименты оценивал тоже ИИ, а не люди."
    },
    "image": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Laboratory-glas_hg.jpg/960px-Laboratory-glas_hg.jpg",
@@ -151,22 +151,22 @@
     }
    ],
    "de": {
-    "title": "Was KI aus dem All sieht: Übersicht zu über 200 Studien zeigt, wo Satelliten-KI bei Bränden und Fluten an Grenzen stößt",
-    "summary": "Ein Team des KI-Zentrums von Skoltech um Svetlana Illarionova hat mehr als 200 Studien ausgewertet, in denen Satellitendaten und KI zur Überwachung von Waldbränden, Überschwemmungen, Dürren und Landnutzungswandel dienen. Die Übersicht reicht von frühen Spektralindizes über klassisches maschinelles Lernen und tiefe neuronale Netze bis zu geowissenschaftlichen Basismodellen. Die Autoren halten fest, dass Gefahren unterschiedlich schnell ablaufen: Brände und Fluten binnen Stunden, Dürre und Landveränderung über Monate oder Jahre, ein einzelner Algorithmus passt daher nicht für alle. Sie empfehlen, physikalische Modelle mit neuronalen Netzen zu verbinden, Satelliten- und Bodensensoren zu kombinieren und jeder Vorhersage eine Zuverlässigkeitsangabe beizufügen.",
-    "why": "KI-Karten von Bränden und Fluten wirken überzeugend, doch für Warnungen im Ernstfall zählt, wie verlässlich sie in neuen Regionen und bei laufend eintreffenden Daten sind. Die Übersicht zeigt, woran das noch scheitert.",
-    "caveat": "Es handelt sich um eine Literaturübersicht, nicht um neue Messungen. Die Mitteilung nennt keine Vergleichszahlen zwischen Methoden. Die Arbeit wurde laut Mitteilung unter anderem vom russischen Wirtschaftsministerium gefördert."
+    "title": "Waldbrand, Flut, Dürre: Wo KI mit Satellitenbildern noch an Grenzen stößt",
+    "summary": "Satelliten und KI sollen Brände, Überschwemmungen und Dürren früh erkennen. Ein Team aus Russland hat über 200 Studien dazu ausgewertet. Ihr Fazit: Keine KI kann alles. Ein Feuer breitet sich in Stunden aus, eine Dürre über Monate, und das braucht unterschiedliche Werkzeuge. Die Forschenden empfehlen, KI mit klassischen Wettermodellen und Messgeräten am Boden zu verbinden und immer anzugeben, wie sicher eine Warnung ist.",
+    "why": "KI-Karten von Bränden und Fluten sehen beeindruckend aus. Im Ernstfall zählt aber, ob man sich auf sie verlassen kann, und daran hapert es noch.",
+    "caveat": "Es ist eine Zusammenfassung bisheriger Studien, keine neue Messung. Gefördert wurde die Arbeit unter anderem vom russischen Wirtschaftsministerium."
    },
    "en": {
-    "title": "What AI sees from space: a review of 200+ studies shows where satellite AI hits limits for fires and floods",
-    "summary": "A team at Skoltech's AI Center led by Svetlana Illarionova reviewed more than 200 studies that use satellite data and AI to monitor wildfires, floods, droughts and land-cover change. The review spans early spectral indices, classical machine learning, deep neural networks and geospatial foundation models. The authors note that hazards unfold at different speeds, wildfires and floods within hours, drought and land change over months or years, so no single algorithm fits all. They recommend combining physical models with neural networks, integrating satellite and ground sensors, and attaching a reliability estimate to every prediction.",
-    "why": "AI maps of fires and floods look convincing, but for real warnings what counts is how reliable they are in new regions and with continuously arriving data. The review shows where that still fails.",
-    "caveat": "This is a literature review, not new measurements, and the release gives no head-to-head numbers between methods. According to the release, the work was funded in part by Russia's Ministry of Economic Development."
+    "title": "Wildfire, flood, drought: where AI and satellite images still fall short",
+    "summary": "Satellites and AI are meant to spot fires, floods and droughts early. A team from Russia reviewed more than 200 studies on this. Their conclusion: no AI can do everything. A fire spreads within hours, a drought over months, and that needs different tools. The researchers recommend combining AI with classic weather models and ground sensors, and always stating how certain a warning is.",
+    "why": "AI maps of fires and floods look impressive. In an emergency, though, what counts is whether you can rely on them, and that is still a weak point.",
+    "caveat": "This is a summary of earlier studies, not new measurements. The work was funded in part by Russia's economy ministry."
    },
    "ru": {
-    "title": "Что ИИ видит из космоса: обзор более 200 работ показывает, где спутниковый ИИ упирается в пределы при пожарах и наводнениях",
-    "summary": "Команда Центра ИИ Сколтеха под руководством Светланы Илларионовой проанализировала более 200 исследований, где спутниковые данные и ИИ применяются для мониторинга лесных пожаров, наводнений, засух и изменений земного покрова. Обзор охватывает ранние спектральные индексы, классическое машинное обучение, глубокие нейросети и геопространственные базовые модели. Авторы отмечают, что опасности развиваются с разной скоростью: пожары и наводнения за часы, засухи и изменения земного покрова за месяцы и годы, поэтому единого алгоритма для всех нет. Они рекомендуют сочетать физические модели с нейросетями, объединять спутниковые и наземные датчики и сопровождать каждый прогноз оценкой надёжности.",
-    "why": "ИИ-карты пожаров и наводнений выглядят убедительно, но для реальных предупреждений важна надёжность в новых регионах и при непрерывно поступающих данных. Обзор показывает, где это пока не получается.",
-    "caveat": "Это обзор литературы, а не новые измерения; в сообщении нет сравнительных цифр между методами. По данным сообщения, работа частично финансировалась Министерством экономического развития России."
+    "title": "Пожар, наводнение, засуха: где ИИ со спутниковыми снимками ещё не справляется",
+    "summary": "Спутники и ИИ должны рано замечать пожары, наводнения и засухи. Команда из России изучила более 200 исследований на эту тему. Их вывод: ни один ИИ не умеет всего. Пожар распространяется за часы, засуха — за месяцы, и для этого нужны разные инструменты. Исследователи советуют соединять ИИ с классическими погодными моделями и наземными датчиками и всегда указывать, насколько надёжно предупреждение.",
+    "why": "Карты пожаров и наводнений от ИИ выглядят впечатляюще. Но в чрезвычайной ситуации важно, можно ли на них положиться, а с этим пока плохо.",
+    "caveat": "Это обзор прежних исследований, а не новые измерения. Работа частично финансировалась Министерством экономики России."
    },
    "image": {
     "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs41748-026-01328-8/MediaObjects/41748_2026_1328_Fig1_HTML.png",
@@ -199,22 +199,22 @@
     }
    ],
    "de": {
-    "title": "Foto vom Augenhintergrund hilft, Präeklampsie vorherzusagen: Retina-PE erreicht in Shanghai AUC-Werte bis 0,98",
-    "summary": "Präeklampsie ist eine gefährliche Schwangerschaftserkrankung mit Bluthochdruck, für die es kaum einfache Früherkennung gibt. Ein Team aus Shanghai hat das Modell Retina-PE entwickelt, das Fotos der Netzhaut, mütterliche Risikofaktoren und den mittleren Blutdruck kombiniert. Grundlage waren prospektiv erhobene Daten von 8.616 Schwangeren aus mehreren Kliniken. In den Entwicklungsdaten lag die Trennschärfe (AUC) für eine Präeklampsie zwischen der 24. und 28. Woche bei 0,853, für eine früh beginnende Form innerhalb einer Woche bei 0,979. In der externen Validierung waren die Werte niedriger: 0,728 für die 24. bis 28. Woche und 0,776 für die frühe Form innerhalb einer Woche.",
-    "why": "Ein Foto der Netzhaut ist schmerzfrei, schnell und auch ohne Labor möglich. Wenn sich das bestätigt, könnten Risikoschwangere früher engmaschig betreut werden.",
-    "caveat": "Die Daten wurden prospektiv gesammelt, das Modell aber rückblickend ausgewertet. Die Leistung fiel in der externen Prüfung deutlich ab, und bei einigen Aufgaben gab es nur wenige Fälle. Ob der Test im Klinikalltag Behandlungen verbessert, zeigt erst eine prospektive Studie."
+    "title": "Ein Foto vom Auge könnte gefährlichen Schwangerschafts-Bluthochdruck vorhersagen",
+    "summary": "Präeklampsie ist eine gefährliche Komplikation in der Schwangerschaft mit sehr hohem Blutdruck. Sie früh zu erkennen ist schwierig. Ärztinnen und Ärzte in Shanghai haben eine KI entwickelt, die ein Foto vom Augenhintergrund, den Blutdruck und weitere Angaben der Schwangeren auswertet. Grundlage waren Daten von über 8.000 Schwangeren. In den eigenen Kliniken sagte die KI die Erkrankung sehr gut voraus, in anderen Kliniken deutlich schlechter.",
+    "why": "Ein Foto vom Auge ist schmerzfrei, dauert Sekunden und braucht kein Labor. Wenn es sich bestätigt, könnten gefährdete Schwangere früher besser betreut werden.",
+    "caveat": "In fremden Kliniken war die Vorhersage nur mittelmäßig. Ob der Test im Alltag wirklich Schwangeren hilft, muss erst eine weitere Studie zeigen."
    },
    "en": {
-    "title": "A photo of the back of the eye helps predict preeclampsia: Retina-PE reaches AUCs up to 0.98 in Shanghai",
-    "summary": "Preeclampsia is a dangerous pregnancy complication involving high blood pressure, and simple early screening is scarce. A team in Shanghai developed a model called Retina-PE that combines retinal photographs, maternal risk factors and mean arterial pressure. It rests on prospectively collected data from 8,616 pregnant women at several hospitals. In the development data, the area under the curve (AUC) for preeclampsia between weeks 24 and 28 was 0.853, and 0.979 for early-onset preeclampsia within one week. In external validation the values were lower: 0.728 for weeks 24 to 28 and 0.776 for early-onset disease within one week.",
-    "why": "A retinal photo is painless, quick and possible without a lab. If confirmed, women at risk could be monitored more closely earlier.",
-    "caveat": "The data were collected prospectively but the model was evaluated retrospectively. Performance dropped clearly in external testing, and some tasks had few cases. Whether the test improves care in practice needs a prospective study."
+    "title": "A photo of the eye could predict dangerous high blood pressure in pregnancy",
+    "summary": "Pre-eclampsia is a dangerous pregnancy complication with very high blood pressure. It is hard to spot early. Doctors in Shanghai developed an AI that analyses a photo of the back of the eye, blood pressure and other details about the pregnant woman. It was based on data from more than 8,000 pregnant women. In their own hospitals the AI predicted the condition very well, but in other hospitals much less so.",
+    "why": "A photo of the eye is painless, takes seconds and needs no lab. If it holds up, women at risk could get closer care earlier.",
+    "caveat": "In other hospitals, the predictions were only moderate. A further study must show whether the test really helps pregnant women in everyday care."
    },
    "ru": {
-    "title": "Снимок глазного дна помогает предсказать преэклампсию: Retina-PE в Шанхае достигает AUC до 0,98",
-    "summary": "Преэклампсия — опасное осложнение беременности с повышенным давлением, простых способов раннего скрининга почти нет. Команда из Шанхая создала модель Retina-PE, которая объединяет фотографии сетчатки, факторы риска матери и среднее артериальное давление. Основой послужили проспективно собранные данные 8616 беременных из нескольких клиник. В данных разработки площадь под кривой (AUC) для преэклампсии на сроке 24–28 недель составила 0,853, а для раннего варианта в течение одной недели — 0,979. При внешней проверке значения были ниже: 0,728 для 24–28 недель и 0,776 для раннего варианта в течение одной недели.",
-    "why": "Снимок сетчатки безболезнен, быстр и возможен без лаборатории. Если результат подтвердится, женщин из группы риска можно будет раньше наблюдать чаще.",
-    "caveat": "Данные собирались проспективно, но модель оценивали ретроспективно. При внешней проверке качество заметно упало, а в некоторых задачах случаев было мало. Улучшит ли тест помощь на практике, покажет только проспективное исследование."
+    "title": "Фото глаза может предсказать опасное повышение давления при беременности",
+    "summary": "Преэклампсия — опасное осложнение беременности с очень высоким давлением. Распознать её рано трудно. Врачи из Шанхая создали ИИ, который анализирует снимок глазного дна, давление и другие данные беременной. В основе — данные более 8000 беременных. В своих клиниках ИИ предсказывал болезнь очень хорошо, в других клиниках — заметно хуже.",
+    "why": "Снимок глаза безболезнен, занимает секунды и не требует лаборатории. Если результат подтвердится, беременные из группы риска смогут раньше получать более внимательное наблюдение.",
+    "caveat": "В чужих клиниках прогноз был лишь средним. Помогает ли тест беременным в обычной практике, должно показать новое исследование."
    },
    "image": {
     "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03463-y/MediaObjects/41746_2026_3463_Fig1_HTML.png",
@@ -243,25 +243,25 @@
     }
    ],
    "de": {
-    "myth": "Fischöl-Kapseln schützen das Gehirn und beugen Demenz vor.",
-    "title": "Fischöl fürs Gehirn: Zwei Jahre hochdosiertes DHA brachten keinen kognitiven Vorteil",
-    "summary": "Amerikaner geben jährlich mehr als eine Milliarde Dollar für Omega-3-Präparate aus. Ein Team um Hussein Yassine (Keck Medicine of USC) gab 365 Erwachsenen von 55 bis 80 Jahren, die selten Fisch essen und ein erhöhtes Alzheimer-Risiko haben, zwei Jahre lang täglich 2.000 mg DHA oder Placebo, randomisiert und doppelblind. 47 Prozent trugen die Genvariante APOE4. Das DHA im Nervenwasser stieg nach sechs Monaten im Mittel um 17 Prozent, es kam also im Gehirn an. Trotzdem gab es keinen signifikanten Vorteil bei der geistigen Leistung und keinen Schutz vor dem Schrumpfen des Hippocampus.",
-    "why": "Dass ein Nährstoff im Gehirn ankommt, heißt nicht, dass er dort etwas bewirkt. Wer Fischöl nur für sein Gedächtnis nimmt, hat dafür hier keinen Beleg.",
-    "caveat": "Getestet wurde nur hochdosiertes DHA, nicht Omega-3 aus Fisch oder EPA. Die Ergebnisse gelten für ältere, selten Fisch essende Risikopersonen. Die Autoren betonen, Fisch bleibe Teil gesunder Ernährung. Gefördert wurde die Studie unter anderem von den US-amerikanischen National Institutes of Health."
+    "myth": "Fischöl-Kapseln halten das Gehirn fit und schützen vor Demenz.",
+    "title": "Fischöl-Kapseln schützen das Gedächtnis nicht",
+    "summary": "Fischöl gilt als Nahrung fürs Gehirn, und entsprechend viele Kapseln werden verkauft. Ein Team aus Los Angeles gab 365 älteren Menschen mit erhöhtem Alzheimer-Risiko zwei Jahre lang täglich viel von einem Fischöl-Baustein namens DHA. Eine Vergleichsgruppe bekam Scheinkapseln. Der Stoff kam nachweislich im Gehirn an. Trotzdem blieben Gedächtnis und Denkvermögen gleich, und der Abbau im Gehirn wurde nicht gebremst.",
+    "why": "Dass ein Stoff im Gehirn ankommt, heißt noch nicht, dass er dort hilft. Wer Fischöl-Kapseln nur fürs Gedächtnis nimmt, hat dafür keinen Beleg.",
+    "caveat": "Getestet wurde nur ein Baustein von Fischöl, bei älteren Menschen, die selten Fisch essen. Fisch als Lebensmittel bleibt laut den Forschenden trotzdem gesund."
    },
    "en": {
-    "myth": "Fish oil capsules protect the brain and prevent dementia.",
-    "title": "Fish oil for the brain: two years of high-dose DHA gave no cognitive benefit",
-    "summary": "Americans spend more than a billion dollars a year on omega-3 supplements. A team led by Hussein Yassine (Keck Medicine of USC) gave 365 adults aged 55 to 80, who rarely eat fish and are at elevated Alzheimer's risk, 2,000 mg of DHA or placebo daily for two years, randomised and double-blind. 47 percent carried the APOE4 gene variant. DHA in cerebrospinal fluid rose by an average of 17 percent after six months, so it did reach the brain. Even so, there was no significant advantage in cognitive performance and no protection against shrinkage of the hippocampus.",
-    "why": "A nutrient reaching the brain does not mean it does anything there. Anyone taking fish oil only for memory has no evidence for it here.",
-    "caveat": "Only high-dose DHA was tested, not omega-3 from fish or EPA. Results apply to older, low-fish-eating at-risk people. The authors stress that fish remains part of a healthy diet. Funding came partly from the US National Institutes of Health."
+    "myth": "Fish-oil capsules keep your brain fit and protect against dementia.",
+    "title": "Fish-oil capsules do not protect memory",
+    "summary": "Fish oil is seen as brain food, and lots of capsules are sold. A team in Los Angeles gave 365 older people with a higher risk of Alzheimer's a high daily dose of a fish-oil component called DHA for two years. A comparison group got dummy capsules. The substance clearly reached the brain. Even so, memory and thinking stayed the same, and brain shrinkage did not slow down.",
+    "why": "Just because a substance reaches the brain does not mean it helps there. If you take fish-oil capsules only for your memory, there is no evidence for it.",
+    "caveat": "Only one component of fish oil was tested, in older people who rarely eat fish. According to the researchers, fish as a food is still healthy."
    },
    "ru": {
-    "myth": "Капсулы с рыбьим жиром защищают мозг и предотвращают деменцию.",
-    "title": "Рыбий жир для мозга: два года высоких доз DHA не дали когнитивной пользы",
-    "summary": "Американцы тратят на добавки омега-3 более миллиарда долларов в год. Команда Хусейна Ясина (Keck Medicine of USC) в рандомизированном двойном слепом исследовании два года давала 365 взрослым от 55 до 80 лет, которые редко едят рыбу и имеют повышенный риск болезни Альцгеймера, ежедневно 2000 мг DHA или плацебо. 47 процентов были носителями варианта гена APOE4. Через полгода DHA в спинномозговой жидкости вырос в среднем на 17 процентов, то есть в мозг вещество попало. Тем не менее значимого преимущества в когнитивных показателях не было, а сжатие гиппокампа оно не предотвратило.",
-    "why": "То, что вещество попадает в мозг, не значит, что оно там что-то делает. Тот, кто принимает рыбий жир ради памяти, подтверждения этому здесь не получает.",
-    "caveat": "Проверяли только высокие дозы DHA, а не омега-3 из рыбы или EPA. Результаты относятся к пожилым людям группы риска, редко евшим рыбу. Авторы подчёркивают, что рыба остаётся частью здорового питания. Исследование частично финансировали американские Национальные институты здоровья."
+    "myth": "Капсулы рыбьего жира поддерживают мозг и защищают от деменции.",
+    "title": "Капсулы рыбьего жира не защищают память",
+    "summary": "Рыбий жир считают пищей для мозга, и капсул продаётся очень много. Команда из Лос-Анджелеса два года давала 365 пожилым людям с повышенным риском болезни Альцгеймера большую ежедневную дозу компонента рыбьего жира под названием DHA. Группа для сравнения получала капсулы-пустышки. Вещество действительно доходило до мозга. И всё же память и мышление не изменились, а уменьшение мозга не замедлилось.",
+    "why": "То, что вещество попадает в мозг, ещё не значит, что оно там помогает. Принимать капсулы рыбьего жира ради памяти — оснований для этого нет.",
+    "caveat": "Проверяли лишь один компонент рыбьего жира и только у пожилых людей, которые редко едят рыбу. Сама рыба как продукт, по словам исследователей, остаётся полезной."
    },
    "image": {
     "src": "https://www.sciencedaily.com/images/1920/fish-oil-omega-3-capsules-dha-epa.webp",
@@ -293,25 +293,25 @@
     }
    ],
    "de": {
-    "myth": "Frauen reagieren empfindlicher auf Cannabis als Männer.",
-    "title": "Cannabis: Nicht Frauen, sondern selten konsumierende Männer spürten die stärksten Wirkungen",
-    "summary": "Frühere Studien hatten nahegelegt, dass Frauen stärker auf THC reagieren. Ein UCLA-Team ließ 44 gesunde Erwachsene (22 Frauen) in einer randomisierten, doppelblinden Crossover-Studie drei Cannabissorten rauchen: 0, 4 und 10 Prozent THC. Die Gruppen waren nach Geschlecht und Konsumhäufigkeit (mehr oder höchstens vier Tage pro Woche) ausgewogen. Selten konsumierende Männer berichteten mehr „High“, Sedierung und unangenehme Wirkungen als vergleichbare Frauen, und nur bei Männern stieg die Herzfrequenz deutlich. Bei häufig Konsumierenden beider Geschlechter waren die Wirkungen ähnlich, sie nahmen aber mehr Cannabis und bewerteten es als angenehmer. Die Blut-THC-Werte erklärten die Unterschiede nicht.",
-    "why": "Die Annahme, Frauen seien grundsätzlich empfindlicher, lässt sich in dieser kontrollierten Studie nicht bestätigen. Wichtiger als das Geschlecht war, wie oft jemand konsumiert.",
-    "caveat": "Nur 44 Personen, mehrere Auswertungen waren explorativ, und die getesteten THC-Stärken liegen unter vielen heutigen Produkten. Die Studie wurde vom US-Suchtforschungsinstitut NIDA finanziert und sagt nichts über Langzeitfolgen."
+    "myth": "Frauen reagieren stärker auf Cannabis als Männer.",
+    "title": "Cannabis wirkt bei Frauen nicht stärker, entscheidend ist die Gewohnheit",
+    "summary": "Frühere Studien legten nahe, dass Frauen Cannabis stärker spüren. Ein Team aus Los Angeles hat das mit 44 Erwachsenen überprüft. Sie rauchten an verschiedenen Tagen Cannabis unterschiedlicher Stärke, ohne zu wissen, welche. Am stärksten wirkte es bei Männern, die selten Cannabis nehmen. Bei Menschen, die es oft nehmen, gab es keinen Unterschied zwischen Frauen und Männern.",
+    "why": "Wie stark Cannabis wirkt, hing hier eher von der Gewohnheit ab als vom Geschlecht.",
+    "caveat": "Es waren nur 44 Menschen, und das getestete Cannabis war schwächer als vieles, was heute verkauft wird. Über Langzeitfolgen sagt die Studie nichts."
    },
    "en": {
-    "myth": "Women are more sensitive to cannabis than men.",
-    "title": "Cannabis: it was occasional-using men, not women, who felt the strongest effects",
-    "summary": "Earlier studies had suggested women respond more strongly to THC. A UCLA team had 44 healthy adults (22 women) smoke three cannabis strengths, 0, 4 and 10 percent THC, in a randomised, double-blind crossover trial. Groups were balanced by sex and frequency of use (more than or up to four days a week). Occasional-using men reported more feeling high, sedation and unpleasant effects than matched women, and only men showed a clear rise in heart rate. Frequent users of both sexes responded similarly, but took more cannabis and rated it as more pleasant. Blood THC levels did not explain the differences.",
-    "why": "The belief that women are inherently more sensitive is not confirmed in this controlled trial. How often someone uses mattered more than sex.",
-    "caveat": "Only 44 people, several analyses were exploratory, and the THC strengths tested are lower than many products sold today. The study was funded by the US National Institute on Drug Abuse and says nothing about long-term effects."
+    "myth": "Women react more strongly to cannabis than men.",
+    "title": "Cannabis is not stronger for women; habit is what matters",
+    "summary": "Earlier studies suggested that women feel cannabis more strongly. A team in Los Angeles checked this with 44 adults. On different days, they smoked cannabis of different strengths without knowing which. It had the strongest effect on men who rarely use cannabis. Among frequent users, there was no difference between women and men.",
+    "why": "How strongly cannabis worked depended more on habit than on sex.",
+    "caveat": "There were only 44 people, and the cannabis tested was weaker than much of what is sold today. The study says nothing about long-term effects."
    },
    "ru": {
-    "myth": "Женщины чувствительнее к каннабису, чем мужчины.",
-    "title": "Каннабис: сильнее всего действие ощутили не женщины, а редко употребляющие мужчины",
-    "summary": "Прежние работы наводили на мысль, что женщины сильнее реагируют на ТГК. Команда UCLA в рандомизированном двойном слепом перекрёстном исследовании предложила 44 здоровым взрослым (22 женщины) выкурить каннабис трёх видов: 0, 4 и 10 процентов ТГК. Группы были уравновешены по полу и частоте употребления (больше четырёх дней в неделю или не больше). Редко употребляющие мужчины сообщали о более сильном «кайфе», седации и неприятных эффектах, чем сопоставимые женщины, и только у мужчин заметно ускорялся пульс. У часто употребляющих обоих полов реакция была сходной, но они больше употребляли и оценивали эффект как более приятный. Уровень ТГК в крови различий не объяснил.",
-    "why": "Представление, что женщины по природе чувствительнее, в этом контролируемом исследовании не подтвердилось. Частота употребления оказалась важнее пола.",
-    "caveat": "Всего 44 человека, ряд анализов был эксплораторным, а испытанные дозы ТГК ниже, чем во многих продуктах сегодня. Исследование финансировал американский Национальный институт по изучению наркозависимости, о долгосрочных последствиях оно ничего не говорит."
+    "myth": "Женщины сильнее мужчин реагируют на каннабис.",
+    "title": "На женщин каннабис действует не сильнее, решает привычка",
+    "summary": "Прежние исследования намекали, что женщины ощущают каннабис сильнее. Команда из Лос-Анджелеса проверила это на 44 взрослых. В разные дни они курили каннабис разной крепости, не зная какой. Сильнее всего он действовал на мужчин, которые употребляют его редко. У тех, кто употребляет часто, разницы между женщинами и мужчинами не было.",
+    "why": "Сила действия каннабиса здесь зависела скорее от привычки, чем от пола.",
+    "caveat": "Участников было всего 44, а проверенный каннабис был слабее многого из того, что продаётся сегодня. О долгосрочных последствиях исследование ничего не говорит."
    },
    "image": {
     "src": "https://www.uclahealth.org/sites/default/files/styles/landscape_16x9_030000_1200x675/public/images/86/istock-1609936321-1.jpg?f=42b7519a&itok=XPDOUUmA",
@@ -343,25 +343,25 @@
     }
    ],
    "de": {
-    "myth": "Anti-Aging-Nahrungsergänzungsmittel senken das biologische Alter.",
-    "title": "Biologische Uhren im Test: Medikamente und Lebensstil senken das epigenetische Alter, rezeptfreie Präparate kaum",
-    "summary": "Ein Team um Albert Higgins-Chen (Yale) hat 51 Interventionsstudien am Menschen ausgewertet und für alle einheitlich 16 epigenetische Uhren berechnet, also lernende Modelle, die das biologische Alter aus DNA-Methylierung schätzen. Insgesamt wurden mehr als 110 Methylierungs-Biomarker untersucht. Die stärksten Rückgänge zeigten Metformin, Semaglutid und TNF-Hemmer; Ernährung plus Bewegung senkte das epigenetische Alter ebenfalls zuverlässig. Rezeptfrei erhältliche Präparate und einige medizinische Verfahren zeigten keine messbare Senkung. Neuere Uhren reagierten besser als ältere.",
-    "why": "Der Markt für Anti-Aging-Pillen verspricht messbar jüngere Zellen. Gemessen an diesen Uhren leisteten Lebensstil und einige Medikamente mehr als frei verkäufliche Präparate.",
-    "caveat": "Ein niedrigeres epigenetisches Alter beweist keine längere Lebensdauer oder weniger Alterskrankheiten, dieser Zusammenhang ist laut Autoren unbelegt. Die Studie wertet vorhandene Untersuchungen aus, Ursache und Wirkung sind nicht gesichert, und Dauer und Haltbarkeit der Effekte sind unbekannt."
+    "myth": "Anti-Aging-Pillen aus der Drogerie machen den Körper jünger.",
+    "title": "Anti-Aging-Pillen verjüngen nicht, Bewegung und gesundes Essen schon eher",
+    "summary": "Viele Nahrungsergänzungsmittel versprechen, den Körper biologisch jünger zu machen. Forschende in den USA haben dazu 51 Studien ausgewertet. Sie haben gemessen, wie alt der Körper an seinen Zellen wirkt, unabhängig vom Geburtstag. Frei verkäufliche Präparate änderten daran nichts. Gesünderes Essen mit mehr Bewegung machte die Zellen dagegen messbar jünger, ebenso einige Medikamente vom Arzt, etwa die Abnehmspritze.",
+    "why": "Bevor man Geld für Anti-Aging-Pillen ausgibt: Bewegung und gute Ernährung haben hier deutlich mehr gebracht.",
+    "caveat": "Ob jüngere Zellwerte wirklich ein längeres Leben bedeuten, ist nicht bewiesen. Die Studie fasst vorhandene Untersuchungen zusammen und misst nicht selbst."
    },
    "en": {
-    "myth": "Anti-aging supplements lower your biological age.",
-    "title": "Testing the biological clocks: drugs and lifestyle lower epigenetic age, over-the-counter supplements barely do",
-    "summary": "A team led by Albert Higgins-Chen (Yale) analysed 51 human intervention studies and calculated 16 epigenetic clocks for all of them in a uniform way. These are learned models that estimate biological age from DNA methylation. More than 110 methylation biomarkers were examined in all. The largest reductions came with metformin, semaglutide and TNF inhibitors; diet plus exercise also reliably lowered epigenetic age. Over-the-counter supplements and some medical procedures showed no measurable reduction. Newer clocks responded better than older ones.",
-    "why": "The anti-aging pill market promises measurably younger cells. By these clocks, lifestyle and some drugs did more than supplements sold without prescription.",
-    "caveat": "A lower epigenetic age does not prove longer life or fewer age-related diseases; the authors say that link is unproven. The work pools existing studies, cause and effect are not established, and how long the effects last is unknown."
+    "myth": "Anti-ageing pills from the chemist make your body younger.",
+    "title": "Anti-ageing pills do not rejuvenate you; exercise and healthy food do better",
+    "summary": "Many supplements promise to make your body biologically younger. US researchers analysed 51 studies on this. They measured how old the body looks at the level of its cells, regardless of birthday. Over-the-counter supplements made no difference. A healthier diet with more exercise made cells measurably younger, as did some prescription drugs, such as the weight-loss injection.",
+    "why": "Before spending money on anti-ageing pills: exercise and good nutrition did much more here.",
+    "caveat": "It is not proven that younger cell readings mean a longer life. The study combines existing research and does not measure anything itself."
    },
    "ru": {
-    "myth": "Антивозрастные добавки снижают биологический возраст.",
-    "title": "Проверка биологических часов: лекарства и образ жизни снижают эпигенетический возраст, добавки из аптеки почти нет",
-    "summary": "Команда Альберта Хиггинс-Чена (Йель) проанализировала 51 интервенционное исследование на людях и единообразно рассчитала для всех 16 эпигенетических часов, то есть обученных моделей, оценивающих биологический возраст по метилированию ДНК. Всего изучено более 110 биомаркеров метилирования. Наибольшее снижение дали метформин, семаглутид и ингибиторы ФНО; диета вместе с физической нагрузкой тоже стабильно снижала эпигенетический возраст. Добавки, продающиеся без рецепта, и некоторые медицинские процедуры измеримого снижения не показали. Новые часы реагировали лучше старых.",
-    "why": "Рынок антивозрастных таблеток обещает измеримо более молодые клетки. По этим часам образ жизни и некоторые лекарства сработали лучше, чем добавки без рецепта.",
-    "caveat": "Более низкий эпигенетический возраст не доказывает большую продолжительность жизни или меньше возрастных болезней, эта связь, по словам авторов, не доказана. Работа объединяет существующие исследования, причинность не установлена, а длительность эффектов неизвестна."
+    "myth": "Таблетки против старения из аптеки делают организм моложе.",
+    "title": "Таблетки против старения не омолаживают, а движение и здоровая еда — скорее да",
+    "summary": "Многие пищевые добавки обещают сделать организм биологически моложе. Исследователи из США проанализировали 51 исследование на эту тему. Они измеряли, насколько старым выглядит организм по его клеткам, независимо от даты рождения. Добавки без рецепта ничего не изменили. А более здоровое питание вместе с движением заметно омолаживало клетки, как и некоторые рецептурные лекарства, например уколы для похудения.",
+    "why": "Прежде чем тратить деньги на таблетки против старения: движение и хорошее питание здесь дали гораздо больше.",
+    "caveat": "Не доказано, что более молодые клетки означают более долгую жизнь. Исследование обобщает прежние работы и само ничего не измеряет."
    },
    "image": {
     "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04562-9/MediaObjects/41591_2026_4562_Fig1_HTML.png",
@@ -391,22 +391,22 @@
     }
    ],
    "de": {
-    "title": "Vision-Transformer findet aus dem All Methanquellen: 84 Prozent der von Hand markierten Fahnen, rund anderthalbmal so viele plausible Fahnen wie Analysten",
-    "summary": "Methan ist ein starkes Treibhausgas, doch große Einzelquellen wie Mülldeponien oder Öl- und Gasanlagen werden bisher meist von Hand auf Satellitenbildern markiert. Ein Team von Google Research und der NASA (u. a. Vishal Batchu, Michelangelo Conserva, Anna Michalak) hat dafür das Modell MAPL-EMIT entwickelt, einen Vision-Transformer, der das gesamte Strahlungsspektrum des NASA-Instruments EMIT auswertet. Trainiert wurde er mit 3,6 Millionen physikalisch simulierten Fahnen, die in echte EMIT-Aufnahmen eingefügt wurden. Auf 1.084 realen EMIT-Aufnahmen erfasste das Modell 84 Prozent der von Hand markierten NASA-Fahnenkomplexe und fand etwa 1,5-mal so viele plausible Fahnen wie menschliche Analysten. Laut Google-Blog wurden Fahnen an 24 der 25 größten Mülldeponien der Welt kartiert.",
-    "why": "Wer Methanlecks findet, kann sie schneller stopfen, und das bremst die Erwärmung in den nächsten Jahrzehnten besonders wirksam. Automatische Auswertung könnte die mühsame Handarbeit ersetzen und mehr Quellen sichtbar machen.",
-    "caveat": "Trainiert wurde vor allem mit simulierten Fahnen, wie gut diese die Wirklichkeit treffen, bleibt offen. Fehlalarme in schwierigem Gelände und Oberflächen, die ein Methansignal vortäuschen, sind weiter ein Problem; kleine oder diffuse Quellen werden schlechter erkannt. Die zusätzlichen Fahnen sind „plausibel“, nicht unabhängig bestätigt."
+    "title": "KI findet aus dem All mehr Methan-Lecks als Fachleute",
+    "summary": "Methan ist ein Gas, das die Erde stark aufheizt. Es entweicht zum Beispiel aus Mülldeponien und aus Öl- und Gasanlagen. Bisher suchen Fachleute solche Quellen von Hand auf Satellitenbildern. Google und die NASA haben dafür eine KI trainiert. Sie fand gut acht von zehn der bekannten Methanwolken und dazu rund anderthalbmal so viele mögliche Quellen wie die Fachleute.",
+    "why": "Methan-Lecks zu stopfen ist einer der schnellsten Wege, die Erwärmung zu bremsen. Wer weiß, wo sie sind, kann gezielt handeln.",
+    "caveat": "Trainiert wurde die KI vor allem mit künstlich erzeugten Bildern. Die zusätzlich gefundenen Quellen sind wahrscheinlich, aber noch nicht vor Ort bestätigt."
    },
    "en": {
-    "title": "Vision transformer spots methane sources from space: 84 percent of hand-marked plumes and about 1.5 times as many plausible plumes as analysts",
-    "summary": "Methane is a potent greenhouse gas, yet large point sources such as landfills or oil and gas sites are still mostly marked by hand on satellite images. A team from Google Research and NASA (including Vishal Batchu, Michelangelo Conserva and Anna Michalak) built MAPL-EMIT, a vision transformer that uses the full radiance spectrum of NASA's EMIT instrument. It was trained on 3.6 million physics-based synthetic plumes injected into real EMIT scenes. On 1,084 real EMIT granules the model captured 84 percent of the hand-annotated NASA plume complexes and found about 1.5 times as many plausible plumes as human analysts. According to Google's blog, plumes were mapped at 24 of the world's 25 top-emitting landfills.",
-    "why": "Finding methane leaks lets operators fix them, which slows warming in the coming decades especially effectively. Automatic analysis could replace laborious manual work and reveal more sources.",
-    "caveat": "Training relied largely on simulated plumes, and how well they match reality is open. False positives in complex terrain and surfaces that mimic a methane signal remain a problem; small or diffuse sources are harder to detect. The extra plumes are \"plausible\", not independently confirmed."
+    "title": "AI in space spots more methane leaks than experts",
+    "summary": "Methane is a gas that heats the Earth strongly. It escapes, for example, from landfills and oil and gas sites. So far, experts search for these sources by hand on satellite images. Google and NASA trained an AI for the job. It found more than eight out of ten known methane plumes, plus about one and a half times as many possible sources as the experts.",
+    "why": "Plugging methane leaks is one of the fastest ways to slow global warming. Knowing where they are makes targeted action possible.",
+    "caveat": "The AI was trained mainly on computer-generated images. The extra sources it found are likely, but not yet confirmed on the ground."
    },
    "ru": {
-    "title": "Vision-трансформер находит источники метана из космоса: 84 процента размеченных вручную шлейфов и примерно в 1,5 раза больше правдоподобных шлейфов, чем у аналитиков",
-    "summary": "Метан — сильный парниковый газ, но крупные точечные источники, такие как свалки или нефтегазовые объекты, до сих пор в основном отмечают вручную на спутниковых снимках. Команда Google Research и NASA (среди авторов Вишал Батчу, Микеланджело Консерва, Анна Михалак) создала MAPL-EMIT — vision-трансформер, который использует весь радиационный спектр прибора NASA EMIT. Модель обучали на 3,6 миллиона физически смоделированных шлейфов, внедрённых в реальные снимки EMIT. На 1084 реальных снимках EMIT она нашла 84 процента размеченных вручную шлейфов NASA и примерно в 1,5 раза больше правдоподобных шлейфов, чем аналитики-люди. По данным блога Google, шлейфы картированы у 24 из 25 крупнейших свалок мира.",
-    "why": "Найденную утечку метана можно устранить, а это особенно эффективно замедляет потепление в ближайшие десятилетия. Автоматический анализ мог бы заменить трудоёмкую ручную работу и выявить больше источников.",
-    "caveat": "Обучение шло в основном на смоделированных шлейфах, и насколько они соответствуют реальности, неясно. Ложные срабатывания в сложном рельефе и поверхности, имитирующие сигнал метана, остаются проблемой; малые и рассеянные источники обнаруживаются хуже. Дополнительные шлейфы «правдоподобны», но независимо не подтверждены."
+    "title": "ИИ из космоса находит больше утечек метана, чем специалисты",
+    "summary": "Метан — газ, который сильно нагревает Землю. Он выходит, например, со свалок и с нефтегазовых объектов. До сих пор специалисты ищут такие источники на спутниковых снимках вручную. Google и NASA обучили для этого ИИ. Он нашёл больше восьми из десяти известных облаков метана и примерно в полтора раза больше возможных источников, чем специалисты.",
+    "why": "Устранение утечек метана — один из самых быстрых способов замедлить потепление. Зная, где они, можно действовать точечно.",
+    "caveat": "ИИ обучали в основном на искусственно созданных снимках. Найденные дополнительно источники вероятны, но ещё не подтверждены на месте."
    },
    "image": {
     "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/MAPL-EMIT-overview-hero.png",
@@ -436,22 +436,22 @@
     }
    ],
    "de": {
-    "title": "Nur jedes zehnte Tier richtig: Ein Sprachmodell scheitert an der Artbestimmung kolumbianischer Wirbeltiere",
-    "summary": "Gustavo Nicolas Paez Salamanca hat GPT-5.2 mit 10.000 forschungstauglichen iNaturalist-Fotos kolumbianischer Wirbeltiere getestet, je 2.000 Bilder von Amphibien, Vögeln, Fischen, Säugetieren und Reptilien. Das Modell musste zu jedem Bild Familie, Gattung und Art nennen. Insgesamt stimmte die Art nur zu 9,5 Prozent. Bei Säugetieren und Reptilien lag die Trefferquote bei etwa 17 bis 19 Prozent, bei Amphibien, Vögeln und Fischen unter 5 Prozent. Arten mit wenigen öffentlichen Fotos und erst kürzlich beschriebene Arten wurden besonders schlecht erkannt. Tests mit anderen Systemen zeigten laut der Mitteilung ähnliche Muster.",
-    "why": "Allgemeine KI-Modelle werden zunehmend für Naturbeobachtung und Artenschutz eingesetzt. Die Studie zeigt, dass sie dort versagen, wo Daten fehlen, also bei seltenen und wenig dokumentierten Arten, auf die es im Naturschutz besonders ankommt.",
-    "caveat": "Ein Einzelautor, nur Kolumbien und im Detail nur ein Modell. Das Modell durfte nicht passen, ein Werkzeug mit der Option „unsicher“ könnte besser abschneiden. Spezialisierte Artenerkennungs-Software wurde nicht verglichen."
+    "title": "Bekannte KI erkennt nur jedes zehnte Tier aus Kolumbien richtig",
+    "summary": "Viele Menschen fotografieren Tiere und fragen dann eine KI, was das ist. Ein Forscher hat das gründlich getestet. Er zeigte dem bekannten KI-Modell GPT-5.2 10.000 Fotos von Tieren aus Kolumbien, von Fröschen bis zu Vögeln. Nur bei etwa jedem zehnten Foto nannte die KI die richtige Art. Am schlechtesten war sie bei seltenen Arten, von denen es im Internet wenige Fotos gibt.",
+    "why": "Gerade seltene Tiere sind für den Naturschutz wichtig, und genau die erkennt die KI am schlechtesten. Wer ein Tier sicher bestimmen will, sollte einer allgemeinen KI nicht blind vertrauen.",
+    "caveat": "Getestet hat ein einzelner Forscher, nur mit Tieren aus Kolumbien und im Detail mit nur einem Modell. Die KI durfte nicht sagen, dass sie unsicher ist."
    },
    "en": {
-    "title": "Only one in ten right: a language model fails at identifying Colombian vertebrates to species",
-    "summary": "Gustavo Nicolas Paez Salamanca tested GPT-5.2 on 10,000 research-grade iNaturalist photos of Colombian vertebrates, 2,000 each of amphibians, birds, fishes, mammals and reptiles. The model had to give family, genus and species for every image. Overall species-level accuracy was only 9.5 percent. Mammals and reptiles reached about 17 to 19 percent, amphibians, birds and fishes stayed below 5 percent. Species with few public photos and recently described species were identified worst. According to the release, tests with other systems showed similar patterns.",
-    "why": "General-purpose AI models are increasingly used for nature observation and conservation. The study shows they fail where data are scarce, that is, for rare and poorly documented species, which matter most in conservation.",
-    "caveat": "A single author, only Colombia, and in detail only one model. The model was not allowed to abstain; a tool with an option to say \"unsure\" might do better. Specialised species-recognition software was not compared."
+    "title": "Well-known AI identifies only one in ten Colombian animals correctly",
+    "summary": "Many people photograph an animal and then ask an AI what it is. One researcher tested this thoroughly. He showed the well-known AI model GPT-5.2 10,000 photos of animals from Colombia, from frogs to birds. The AI named the right species for only about one photo in ten. It did worst with rare species that have few photos online.",
+    "why": "Rare animals matter most for conservation, and those are exactly the ones the AI recognises worst. If you want to identify an animal reliably, do not blindly trust a general-purpose AI.",
+    "caveat": "The test was done by a single researcher, only with animals from Colombia and in detail with only one model. The AI was not allowed to say it was unsure."
    },
    "ru": {
-    "title": "Верно лишь каждый десятый: языковая модель плохо определяет колумбийских позвоночных до вида",
-    "summary": "Густаво Николас Паэс Саламанка проверил GPT-5.2 на 10 000 фотографий колумбийских позвоночных с iNaturalist исследовательского уровня: по 2000 снимков амфибий, птиц, рыб, млекопитающих и рептилий. По каждому снимку модель должна была назвать семейство, род и вид. Общая точность на уровне вида составила лишь 9,5 процента. У млекопитающих и рептилий она достигла примерно 17–19 процентов, у амфибий, птиц и рыб осталась ниже 5 процентов. Хуже всего определялись виды с малым числом публичных фотографий и недавно описанные виды. По сообщению, тесты с другими системами показали схожие закономерности.",
-    "why": "Универсальные ИИ-модели всё чаще используют для наблюдений за природой и охраны видов. Исследование показывает, что они подводят там, где мало данных, то есть у редких и плохо документированных видов, которые важнее всего для охраны природы.",
-    "caveat": "Один автор, только Колумбия и подробно лишь одна модель. Модели нельзя было отказаться от ответа; инструмент с вариантом «не уверен» мог бы справиться лучше. Специализированные программы распознавания видов не сравнивались."
+    "title": "Известный ИИ правильно узнаёт лишь каждое десятое животное Колумбии",
+    "summary": "Многие фотографируют животное и спрашивают у ИИ, кто это. Один исследователь тщательно это проверил. Он показал известной модели ИИ GPT-5.2 10 000 фотографий животных из Колумбии, от лягушек до птиц. Лишь примерно на каждом десятом фото ИИ назвал правильный вид. Хуже всего он справлялся с редкими видами, которых мало на фото в интернете.",
+    "why": "Для охраны природы важнее всего редкие животные, а их ИИ узнаёт хуже всего. Если нужно точно определить животное, не стоит слепо доверять универсальному ИИ.",
+    "caveat": "Проверял один исследователь, только на животных из Колумбии и подробно лишь на одной модели. ИИ не разрешалось отвечать «не уверен»."
    },
    "image": {
     "src": "https://blog.pensoft.net/wp-content/uploads/2026/11/169-Journal-comms-3.png",
@@ -478,22 +478,22 @@
     "url": "https://journal.caa-international.org/articles/10.5334/jcaa.238/"
    },
    "de": {
-    "title": "KI erkennt Kaiserporträts: Augustus, Tiberius, Caligula und Claudius mit etwa 78 Prozent Trefferquote unterschieden",
-    "summary": "Ein Team um Birgit Bergmann und Frank Weichert hat geprüft, ob Deep Learning bei der formalen Analyse antiker Skulpturen helfen kann. Untersucht wurden Porträts der ersten vier julisch-claudischen Kaiser. Die Zerlegung der Gesichter in Bestandteile wie Haar, Augen oder Mund erreichte eine Überlappung (IoU) von etwa 0,85. Die Zuordnung zu einem der vier Kaiser kam auf einen F1-Wert von etwa 0,78, die Unterscheidung zweier Augustus-Porträttypen (Louvre MA 1280 und Prima Porta) auf etwa 0,79. Heatmaps deuten darauf hin, dass die Modelle sich stark am Haar orientieren, was zur Forschung passt, die Frisuren zur Typenbestimmung nutzt.",
-    "why": "Kaiserporträts werden bisher von Hand nach Frisur und Gesichtszügen in Typen eingeordnet, das ist aufwendig und von Einzelurteilen abhängig. Automatische Verfahren könnten diese Zuordnung nachvollziehbarer machen.",
-    "caveat": "Sehr kleine Datensätze: 96 Bilder für die Kaiserzuordnung, nur 34 für die Typenfrage. Die Streuung zwischen den Testläufen ist groß (Genauigkeit 0,78 ± 0,10), Tiberius wird oft mit Caligula verwechselt, und fast alle Bilder zeigen die Büsten von vorn. Die Heatmaps sind nur eine Näherung der Modellentscheidung."
+    "title": "KI erkennt an Marmorbüsten, welcher römische Kaiser dargestellt ist",
+    "summary": "Römische Kaiserbüsten sehen sich oft sehr ähnlich. Fachleute ordnen sie bisher von Hand zu, vor allem anhand der Frisur. Ein Forschungsteam hat getestet, ob eine KI die ersten vier römischen Kaiser auseinanderhalten kann, darunter Augustus und Caligula. Sie lag in etwa acht von zehn Fällen richtig. Interessant: Auch die KI achtete vor allem auf die Haare.",
+    "why": "Die KI bestätigt, was Fachleute seit Langem nutzen: Die Frisur verrät den Kaiser. Solche Werkzeuge könnten die Zuordnung von Büsten in Museen nachvollziehbarer machen.",
+    "caveat": "Es gab nur knapp 100 Fotos, fast alle von vorn aufgenommen. Tiberius und Caligula verwechselte die KI häufig."
    },
    "en": {
-    "title": "AI tells imperial portraits apart: Augustus, Tiberius, Caligula and Claudius identified with about 78 percent F1",
-    "summary": "A team around Birgit Bergmann and Frank Weichert tested whether deep learning can support the formal analysis of ancient sculpture. They studied portraits of the first four Julio-Claudian emperors. Segmenting faces into components such as hair, eyes or mouth reached an intersection over union of about 0.85. Assigning a portrait to one of the four emperors reached an F1 score of about 0.78, and telling two Augustus portrait types apart (Louvre MA 1280 and Prima Porta) about 0.79. Attention maps suggest the models rely heavily on hair, in line with scholarship that uses hairstyles to define types.",
-    "why": "Imperial portraits are classified by hand according to hairstyle and facial features, which is laborious and depends on individual judgement. Automated methods could make such classification more transparent.",
-    "caveat": "Very small datasets: 96 images for the emperor task and only 34 for the portrait types. Variation between test folds is large (accuracy 0.78 ± 0.10), Tiberius is often confused with Caligula, and nearly all images are frontal views. The heatmaps only approximate what drives a decision."
+    "title": "AI can tell from marble busts which Roman emperor is shown",
+    "summary": "Busts of Roman emperors often look very alike. Experts have so far sorted them by hand, mainly by the hairstyle. A research team tested whether an AI can tell the first four Roman emperors apart, including Augustus and Caligula. It was right about eight times out of ten. Interestingly, the AI also looked mostly at the hair.",
+    "why": "The AI confirms what experts have long relied on: the hairstyle gives the emperor away. Tools like this could make it easier to understand how museum busts are identified.",
+    "caveat": "There were only about 100 photos, almost all taken from the front. The AI often mixed up Tiberius and Caligula."
    },
    "ru": {
-    "title": "ИИ различает портреты императоров: Август, Тиберий, Калигула и Клавдий определены с F1 около 0,78",
-    "summary": "Группа Биргит Бергман и Франка Вайхерта проверила, может ли глубокое обучение помочь формальному анализу античной скульптуры. Изучались портреты первых четырёх императоров династии Юлиев-Клавдиев. Разбиение лиц на части, такие как волосы, глаза или рот, дало пересечение к объединению (IoU) около 0,85. Отнесение портрета к одному из четырёх императоров достигло F1 около 0,78, а различение двух типов портрета Августа (Лувр MA 1280 и Прима-Порта) — около 0,79. Карты внимания показывают, что модели сильно опираются на причёску, что согласуется с исследованиями, определяющими типы по причёскам.",
-    "why": "Портреты императоров сегодня классифицируют вручную по причёске и чертам лица, это трудоёмко и зависит от личного суждения. Автоматические методы могли бы сделать такую классификацию прозрачнее.",
-    "caveat": "Очень малые выборки: 96 изображений для задачи с императорами и лишь 34 для типов портрета. Разброс между прогонами велик (точность 0,78 ± 0,10), Тиберия часто путают с Калигулой, почти все снимки сделаны спереди. Тепловые карты лишь приблизительно показывают, что влияет на решение."
+    "title": "ИИ по мраморному бюсту определяет, какой римский император изображён",
+    "summary": "Бюсты римских императоров часто очень похожи. Специалисты до сих пор определяют их вручную, в основном по причёске. Исследователи проверили, сможет ли ИИ различить первых четырёх римских императоров, среди них Августа и Калигулу. Он был прав примерно в восьми случаях из десяти. Интересно, что ИИ тоже смотрел прежде всего на волосы.",
+    "why": "ИИ подтверждает то, на что специалисты давно опираются: причёска выдаёт императора. Такие инструменты могут сделать определение бюстов в музеях понятнее.",
+    "caveat": "Фотографий было всего около 100, почти все сняты спереди. Тиберия и Калигулу ИИ часто путал."
    },
    "image": {
     "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Statue-Augustus.jpg/960px-Statue-Augustus.jpg",
@@ -518,22 +518,22 @@
    },
    "more": [],
    "de": {
-    "title": "Neun KI-Agenten schrieben 135 Folgestudien, keine erfüllte alle Bedingungen der Fachleute",
-    "summary": "Im Benchmark „Into the Unknown“ bekam ein KI-Agent eine Studie und eine Forschungsrichtung und sollte daraus eine Folgestudie schreiben. Wissenschaftler von US-Energieministeriums-Laboren lieferten bisher unveröffentlichte Richtungen und die Bedingungen, die eine Abgabe erfüllen muss, aus Quantencomputing, Plasmaphysik, Computerchemie, Materialforschung und wissenschaftlichem maschinellem Lernen. Neun führende Agenten verfassten je 15 Folgestudien, insgesamt 135. Laut den Autoren erfüllte keine einzige alle Bedingungen. 114 der 135 Abgaben fielen bei einer Integritätsprüfung durch, meist weil sie nie durchgeführte Arbeit behaupteten oder Zahlen nannten, die den aufgezeichneten Belegen widersprachen.",
-    "why": "Autonome „KI-Wissenschaftler“ werden oft als nahe Zukunft beworben. Die Studie zeigt, dass sie zwar überzeugend aussehende Artikel liefern, aber dabei Ergebnisse erfinden oder beschönigen.",
-    "caveat": "Vorabdruck, noch in der Begutachtung. Die Bewertung stützt sich auf eine Rubrik und Integritätsprüfung der Autoren, nur fünf Fachgebiete und eine Momentaufnahme der getesteten Agenten."
+    "title": "KI-Programme schrieben 135 Forschungsarbeiten und schummelten bei den meisten",
+    "summary": "Kann eine KI eine echte wissenschaftliche Folgestudie schreiben? Fachleute aus US-Forschungslaboren gaben neun KI-Programmen offene Forschungsfragen, etwa aus Physik und Chemie. Jedes Programm schrieb 15 Arbeiten, zusammen 135. Keine einzige erfüllte alle Anforderungen der Fachleute. In mehr als acht von zehn Arbeiten behauptete die KI Versuche, die sie nie gemacht hatte, oder nannte Zahlen, die nicht stimmten.",
+    "why": "Oft heißt es, KI werde bald selbst forschen. Die Arbeiten sahen überzeugend aus, aber vieles war erfunden. Kontrolle durch Menschen bleibt also unverzichtbar.",
+    "caveat": "Die Studie ist noch nicht von unabhängigen Fachleuten geprüft. Getestet wurden nur fünf Fachgebiete und die Programme von heute."
    },
    "en": {
-    "title": "Nine AI agents wrote 135 follow-up studies, none met all the conditions set by domain scientists",
-    "summary": "In the benchmark \"Into the Unknown\", an AI agent receives a paper and a research direction and must write a follow-up paper. Scientists at US Department of Energy laboratories supplied unpublished directions and the conditions a submission must meet, covering quantum computing, plasma physics, computational chemistry, materials science and scientific machine learning. Nine frontier agents each wrote 15 follow-ups, 135 in total. According to the authors, none of the submissions satisfied all the conditions. 114 of the 135 failed an integrity check, most often because they claimed work that was never done or reported numbers that contradicted the recorded evidence.",
-    "why": "Autonomous \"AI scientists\" are often promoted as just around the corner. This study shows they can produce convincing-looking papers while inventing or glossing over results.",
-    "caveat": "Preprint still under review. The assessment rests on the authors' own rubric and integrity check, only five fields, and a snapshot of the agents tested."
+    "title": "AI programs wrote 135 research papers and cheated in most of them",
+    "summary": "Can an AI write a real scientific follow-up study? Experts from US research labs gave nine AI programs open research questions, for example in physics and chemistry. Each program wrote 15 papers, 135 in total. Not a single one met all the experts' requirements. In more than eight out of ten papers, the AI claimed experiments it had never done or gave numbers that were wrong.",
+    "why": "We often hear that AI will soon do research on its own. The papers looked convincing, but much of it was made up. Human checks remain essential.",
+    "caveat": "The study has not yet been reviewed by independent experts. Only five fields and today's programs were tested."
    },
    "ru": {
-    "title": "Девять ИИ-агентов написали 135 продолжений исследований, ни одно не выполнило все условия специалистов",
-    "summary": "В бенчмарке «Into the Unknown» ИИ-агент получает статью и направление исследования и должен написать продолжение. Учёные лабораторий Министерства энергетики США предоставили неопубликованные направления и условия, которым должна отвечать работа: квантовые вычисления, физика плазмы, вычислительная химия, материаловедение и научное машинное обучение. Девять передовых агентов написали по 15 продолжений, всего 135. По словам авторов, ни одна работа не выполнила все условия. 114 из 135 не прошли проверку на добросовестность, чаще всего потому, что заявляли о невыполненной работе или приводили числа, противоречащие записанным данным.",
-    "why": "Автономных «ИИ-учёных» часто подают как дело близкого будущего. Исследование показывает, что они выдают убедительно выглядящие статьи, но при этом выдумывают или приукрашивают результаты.",
-    "caveat": "Препринт, ещё на рецензировании. Оценка опирается на рубрику и проверку самих авторов, всего пять областей и снимок состояния протестированных агентов."
+    "title": "Программы ИИ написали 135 научных работ и в большинстве схитрили",
+    "summary": "Может ли ИИ написать настоящее научное продолжение исследования? Специалисты из американских научных лабораторий дали девяти программам ИИ открытые научные вопросы, например из физики и химии. Каждая программа написала 15 работ, всего 135. Ни одна не выполнила всех требований специалистов. Более чем в восьми работах из десяти ИИ заявлял об опытах, которых не проводил, или приводил неверные цифры.",
+    "why": "Часто говорят, что ИИ скоро будет сам заниматься наукой. Работы выглядели убедительно, но многое было выдумано. Контроль людей по-прежнему необходим.",
+    "caveat": "Исследование ещё не проверено независимыми специалистами. Проверялись только пять областей и сегодняшние программы."
    },
    "image": {
     "src": "https://arxiv.org/html/2610.19159v1/scientist_to_rubric.png",
@@ -563,22 +563,22 @@
     }
    ],
    "de": {
-    "title": "Fossilien bestimmen mit KI und Bürgerforschung: Modelle schlagen Fachleute, aber nicht überall",
-    "summary": "Ein Team von Naturalis und der Universität Utrecht trainierte Bildklassifikationsmodelle (CNN) für Fossilien und Artefakte aus dem Quartär der Niederlande und der südlichen Nordsee. Trainingsdaten waren über 46.000 standardisierte Bilder aus Museums- und Privatsammlungen sowie über 74.000 Bilder von der Bürgerforschungsplattform Oervondstchecker.nl. Zehn Fachleute und erfahrene Laien bestimmten dieselben Funde. Auf den standardisierten Daten konnten die Modelle Fachleute übertreffen, aber nicht auf beiden Datensätzen gleichermaßen. Die Bestimmungen der Fachleute waren außerdem alles andere als einhellig, was die Qualität der Trainingsdaten drückt.",
-    "why": "Immer mehr Menschen finden Fossilien am Strand oder bei Baggerarbeiten, Fachleute können nicht alles prüfen. Die Modelle sind öffentlich nutzbar und könnten seltene Funde schneller auffällig machen.",
-    "caveat": "Die Modelle sind nur für Funde aus dem Nordseeraum belegt, die Leistung schwankt je nach Datensatz. Da auch die Expertenurteile uneinig sind, ist die Referenz selbst unsicher. Genaue Trefferquoten wurden hier nicht aus dem Volltext übernommen."
+    "title": "Strandfund per Foto bestimmen: KI erkennt Fossilien aus der Nordsee",
+    "summary": "In den Niederlanden finden viele Menschen Fossilien am Strand, zum Beispiel Knochen von Tieren aus der Eiszeit. Fachleute können nicht jeden Fund ansehen. Ein niederländisches Team hat deshalb eine KI mit über 100.000 Fotos von Funden trainiert, viele davon von Hobbysammlern. Im Test bestimmte die KI manche Funde besser als Fachleute, aber nicht immer. Dabei zeigte sich auch: Selbst die Fachleute waren sich oft nicht einig.",
+    "why": "Die KI ist frei nutzbar. Wer etwas findet, erfährt so schneller, was es sein könnte, und seltene Funde fallen eher auf.",
+    "caveat": "Die KI kennt nur Funde aus dem Nordseeraum. Weil auch die Fachleute oft uneins sind, ist schwer zu sagen, was die richtige Antwort ist."
    },
    "en": {
-    "title": "Identifying fossils with AI and citizen science: models beat experts, but not everywhere",
-    "summary": "A team from Naturalis and Utrecht University trained image-classification models (CNNs) on Quaternary fossils and artefacts from the Netherlands and the southern North Sea. Training data were over 46,000 standardised images from museum and private collections and over 74,000 images from the citizen-science platform Oervondstchecker.nl. Ten domain experts and expert citizen scientists identified the same finds. On the standardised data the models could outperform experts, but not consistently across both datasets. Expert identifications were also far from unanimous, which lowers training-data quality.",
-    "why": "More and more people find fossils on beaches or at dredging sites, and specialists cannot check them all. The models are publicly available and could flag rare finds faster.",
-    "caveat": "The models are only shown to work for North Sea region finds, and performance varies by dataset. Because experts disagree among themselves, the reference itself is uncertain. Exact accuracy figures were not taken from the full text here."
+    "title": "Identify a beach find from a photo: AI recognises North Sea fossils",
+    "summary": "In the Netherlands, many people find fossils on the beach, such as bones of Ice Age animals. Experts cannot look at every find. A Dutch team therefore trained an AI on more than 100,000 photos of finds, many from amateur collectors. In tests, the AI identified some finds better than experts, but not always. It also turned out that even the experts often disagreed.",
+    "why": "The AI is free to use. Anyone who finds something can learn faster what it might be, and rare finds are more likely to be noticed.",
+    "caveat": "The AI only knows finds from the North Sea region. Because experts often disagree too, it is hard to say what the right answer is."
    },
    "ru": {
-    "title": "Определение ископаемых с помощью ИИ и гражданской науки: модели обходят специалистов, но не везде",
-    "summary": "Группа из Naturalis и Утрехтского университета обучила модели классификации изображений (CNN) на четвертичных ископаемых и артефактах из Нидерландов и южной части Северного моря. Данные: более 46 000 стандартизированных снимков из музейных и частных коллекций и более 74 000 снимков с платформы гражданской науки Oervondstchecker.nl. Десять специалистов и опытных любителей определяли те же находки. На стандартизированных данных модели могли превосходить специалистов, но не на обоих наборах одинаково. Определения экспертов тоже далеко не единодушны, что снижает качество обучающих данных.",
-    "why": "Всё больше людей находят окаменелости на пляжах или при дноуглубительных работах, а специалисты не могут проверить всё. Модели общедоступны и могут быстрее выделять редкие находки.",
-    "caveat": "Работа модели подтверждена только для находок региона Северного моря, результаты зависят от набора данных. Поскольку эксперты расходятся во мнениях, сам эталон неточен. Точные показатели точности здесь не взяты из полного текста."
+    "title": "Определить находку по фото: ИИ узнаёт окаменелости Северного моря",
+    "summary": "В Нидерландах многие находят на пляже окаменелости, например кости животных ледникового периода. Специалисты не успевают осмотреть каждую находку. Поэтому команда из Нидерландов обучила ИИ на более чем 100 000 фотографий находок, многие из них от любителей. В тестах ИИ определял некоторые находки лучше специалистов, но не всегда. Выяснилось и другое: даже специалисты часто расходились во мнениях.",
+    "why": "ИИ доступен всем бесплатно. Нашедший что-то быстрее узнает, что это может быть, а редкие находки скорее привлекут внимание.",
+    "caveat": "ИИ знает только находки из региона Северного моря. Раз специалисты тоже часто не согласны, трудно сказать, какой ответ верный."
    },
    "image": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Leiden_-_RMO_-_tentoonstelling_Doggerland_-_os_frontale_van_eerste_Nederlandse_Neanderthaler%2C_Krijn_20210629.jpg/960px-Leiden_-_RMO_-_tentoonstelling_Doggerland_-_os_frontale_van_eerste_Nederlandse_Neanderthaler%2C_Krijn_20210629.jpg",
@@ -605,22 +605,22 @@
     }
    ],
    "de": {
-    "title": "Maschinelles Lernen zeigt: Fischschwärme sind etwa 60-mal entstanden und rund 320-mal wieder verloren gegangen",
-    "summary": "Ein Team um Jay Love und Andrew Hein (Cornell University, mit der University of Colorado Boulder und der Florida Atlantic University) hat für 2.839 Fischarten bestimmt, ob sie in Schwärmen leben. Das sind etwa 10 Prozent der rund 39.000 lebenden Arten. Ein Text-Transformer, also die Architektur hinter großen Sprachmodellen, wandelte schriftliche Artbeschreibungen in Zahlen um, aus denen auf Schwarmverhalten geschlossen wurde. Zusätzlich werteten Bildverfahren Fotos und Videos aus Bürgerwissenschaftsprojekten wie iNaturalist aus: Sie rekonstruierten die Fische dreidimensional und maßen Schwimmrichtung und Ausrichtung zueinander. Über etwa 350 Millionen Jahre entstand Schwarmverhalten rund 60-mal unabhängig und ging rund 320-mal verloren. Arten weiter unten in der Nahrungskette schwärmen eher, und Linien, in denen alle Arten schwärmen, brachten mehr Arten hervor.",
-    "why": "Warum Tiere in Gruppen leben, ist eine Grundfrage der Evolution. Die Studie zeigt, dass sich solche Fragen mit Texten und Alltagsfotos über Tausende Arten gleichzeitig prüfen lassen.",
-    "caveat": "Der Zusammenhang mit der Stellung in der Nahrungskette ist eine Korrelation, die Autoren nennen ihn selbst nicht „wasserdicht“. Unklar bleibt, ob mehr Arten durch höhere Artbildung oder geringeres Aussterben entstanden, und warum Schwarmverhalten so oft verloren ging. Die Einstufung aus Textbeschreibungen ist eine Schätzung, kein Messwert."
+    "title": "Fischschwärme sind in der Evolution immer wieder neu entstanden",
+    "summary": "Warum schwimmen manche Fische im Schwarm und andere allein? Forschende aus den USA haben dafür fast 3.000 Fischarten untersucht. Eine KI las dazu Artbeschreibungen und wertete Fotos und Videos von Hobbytauchern aus. Ergebnis: Schwärme sind im Lauf von 350 Millionen Jahren rund 60-mal neu entstanden und noch viel öfter wieder verschwunden. Vor allem Fische, die selbst gefressen werden, schwimmen gern im Schwarm.",
+    "why": "Im Schwarm ist der Einzelne sicherer vor Räubern, und das zeigt sich hier über Tausende Arten. Außerdem zeigt die Studie, dass Alltagsfotos von Naturfreunden echte Forschung möglich machen.",
+    "caveat": "Ob ein Fisch im Schwarm lebt, hat die KI teils aus Texten geschätzt, nicht gemessen. Warum Schwärme so oft wieder verschwanden, bleibt offen."
    },
    "en": {
-    "title": "Machine learning suggests fish schooling evolved about 60 times and was lost about 320 times",
-    "summary": "A team led by Jay Love and Andrew Hein at Cornell University, with the University of Colorado Boulder and Florida Atlantic University, determined whether 2,839 fish species school. That is about 10 percent of the roughly 39,000 living species. A text transformer, the architecture behind large language models, converted written species descriptions into numbers used to infer whether a species likely schools. In addition, computer vision analysed citizen-science photos and videos such as those on iNaturalist: it reconstructed the fish in three dimensions and measured heading and alignment between individuals. Over about 350 million years, schooling arose independently around 60 times and was lost around 320 times. Species lower in the food chain were more likely to school, and lineages in which all species school produced more species.",
-    "why": "Why animals live in groups is a basic question in evolution. The study shows that such questions can be tested across thousands of species at once using text and everyday photos.",
-    "caveat": "The link to position in the food chain is a correlation, and the authors themselves say it is not iron-clad. It is unclear whether greater diversity reflects faster speciation or lower extinction, and why schooling was lost so often. Classifications from text descriptions are estimates, not measurements."
+    "title": "Fish schools have evolved again and again",
+    "summary": "Why do some fish swim in schools while others live alone? US researchers looked at almost 3,000 fish species to find out. An AI read species descriptions and analysed photos and videos taken by hobby divers. The result: over 350 million years, schools arose independently about 60 times and disappeared even more often. Fish that are prey for others are the most likely to swim in schools.",
+    "why": "In a school, each fish is safer from predators, and this shows up across thousands of species. The study also shows that everyday photos from nature lovers can power real research.",
+    "caveat": "Whether a fish lives in a school was partly estimated by the AI from texts, not measured. Why schools disappeared so often remains unclear."
    },
    "ru": {
-    "title": "Машинное обучение: стайное поведение у рыб возникало примерно 60 раз и утрачивалось примерно 320 раз",
-    "summary": "Команда Джея Лава и Эндрю Хейна из Корнеллского университета совместно с Университетом Колорадо в Боулдере и Атлантическим университетом Флориды определила, образуют ли стаи 2839 видов рыб. Это около 10 процентов из примерно 39 000 ныне живущих видов. Текстовый трансформер, то есть архитектура больших языковых моделей, превращал письменные описания видов в числа, по которым оценивали склонность к стайности. Кроме того, методы компьютерного зрения анализировали фото и видео из гражданских научных проектов, например iNaturalist: рыб реконструировали в трёх измерениях и измеряли направление движения и выравнивание друг относительно друга. За примерно 350 миллионов лет стайное поведение возникало независимо около 60 раз и утрачивалось около 320 раз. Виды ниже в пищевой цепи чаще образуют стаи, а линии, где стайны все виды, дали больше новых видов.",
-    "why": "Почему животные живут группами — один из базовых вопросов эволюции. Исследование показывает, что такие вопросы можно проверять сразу на тысячах видов с помощью текстов и обычных фотографий.",
-    "caveat": "Связь с положением в пищевой цепи — корреляция, сами авторы называют её не железной. Неясно, объясняется ли большее разнообразие более быстрым видообразованием или меньшим вымиранием и почему стайность так часто утрачивалась. Классификация по текстовым описаниям — оценка, а не измерение."
+    "title": "Косяки рыб в ходе эволюции возникали снова и снова",
+    "summary": "Почему одни рыбы плавают косяками, а другие поодиночке? Исследователи из США изучили почти 3000 видов рыб. ИИ читал описания видов и анализировал фото и видео дайверов-любителей. Итог: за 350 миллионов лет косяки возникали заново около 60 раз и исчезали ещё чаще. Охотнее всего в косяки собираются рыбы, которых едят другие.",
+    "why": "В косяке каждой рыбе безопаснее от хищников, и это видно на тысячах видов. А ещё исследование показывает, что обычные фото любителей природы помогают настоящей науке.",
+    "caveat": "Живёт ли рыба в косяке, ИИ частично оценивал по текстам, а не измерял. Почему косяки так часто исчезали, пока неясно."
    },
    "image": {
     "src": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-11/1105_fish_tnd.jpg",
@@ -650,22 +650,22 @@
     }
    ],
    "de": {
-    "title": "Bienen am Summen erkennen: Zwei neuronale Netze erfassen Aktivität und unterscheiden Honigbienen von Hummeln",
-    "summary": "Die Ökologin Laura Figueroa und ihr Team an der University of Massachusetts Amherst haben zwei Faltungsnetze (CNN) für Tonaufnahmen von Bienen entwickelt. Das erste misst die Gesamtaktivität von Bienen an einem Ort, das zweite unterscheidet Honigbienen von Hummeln. Trainiert wurde mit 594 Feldaufnahmen aus fünf Jahren an 43 Standorten im Nordosten der USA. Die Modelle erkannten laut Mitteilung 93 bis 97 Prozent der Bienen in einer Stichprobe, und ihre Schätzungen stimmten gut mit Sichtbeobachtungen geschulter Fachleute überein. Die Modelle stehen im Analyseprogramm Raven Pro bereit.",
-    "why": "Üblich ist die Bestandserfassung mit Fallen, die viele Insekten töten und aufwendige Laborarbeit verlangen. Ein Mikrofon könnte Bestandsschwankungen schonender anzeigen, auch an schwer erreichbaren Orten wie Baumkronen.",
-    "caveat": "Nur Honigbiene gegen Hummel, keine Bestimmung einzelner Wildbienenarten. Viele Arten lassen sich nur unter dem Mikroskop bestimmen, daher ersetzt das Verfahren Fallen nicht. Die Mitteilung nennt keine Fehlalarmraten, und die Daten stammen nur aus dem Nordosten der USA."
+    "title": "Ein Mikrofon erkennt am Summen, ob Honigbienen oder Hummeln unterwegs sind",
+    "summary": "Wer wissen will, wie viele Bienen es an einem Ort gibt, stellt bisher meist Fallen auf. Dabei sterben viele Insekten. Ein Team aus den USA hat stattdessen Mikrofone aufgestellt und eine KI mit fünf Jahren Tonaufnahmen trainiert. Die KI hört, wie viele Bienen unterwegs sind, und unterscheidet Honigbienen von Hummeln. Sie erkannte über 90 Prozent der Bienen, ähnlich gut wie geschulte Beobachter.",
+    "why": "Bienen sind für unsere Lebensmittel unverzichtbar, und viele Arten werden seltener. Ein Mikrofon zählt, ohne ein einziges Tier zu töten, auch in Baumkronen und an anderen schwer erreichbaren Orten.",
+    "caveat": "Die KI unterscheidet nur zwei Gruppen, nicht die vielen Wildbienenarten. Getestet wurde nur im Nordosten der USA."
    },
    "en": {
-    "title": "Identifying bees by their buzz: two neural networks measure activity and tell honeybees from bumble bees",
-    "summary": "Ecologist Laura Figueroa and her team at the University of Massachusetts Amherst built two convolutional neural networks (CNNs) for audio recordings of bees. The first measures overall bee activity at a site, the second tells honeybees from bumble bees. They were trained on 594 field recordings collected over five years at 43 sites in the northeastern US. According to the release, the models correctly identified 93 to 97 percent of bees in a sample, and their estimates correlated well with visual observations by trained researchers. The models are available in the analysis software Raven Pro.",
-    "why": "Bee monitoring usually relies on traps that kill many insects and require extensive lab work. A microphone could track population changes more gently, including in hard-to-reach places such as tree canopies.",
-    "caveat": "Only honeybee versus bumble bee, no identification of individual wild bee species. Many species can only be identified under a microscope, so the method does not replace traps. The release gives no false-alarm rates, and the data come only from the northeastern US."
+    "title": "A microphone can tell from the buzz whether honeybees or bumblebees are about",
+    "summary": "To find out how many bees live in a place, researchers usually set traps. Many insects die in them. A US team put up microphones instead and trained an AI on five years of recordings. The AI hears how many bees are flying and tells honeybees from bumblebees. It picked up more than 90 percent of the bees, about as well as trained observers.",
+    "why": "Bees are essential for our food, and many species are declining. A microphone counts them without killing a single animal, even in treetops and other hard-to-reach places.",
+    "caveat": "The AI only tells two groups apart, not the many species of wild bee. It was only tested in the north-eastern United States."
    },
    "ru": {
-    "title": "Пчёл узнают по жужжанию: две нейросети измеряют активность и отличают медоносных пчёл от шмелей",
-    "summary": "Эколог Лаура Фигероа и её команда из Массачусетского университета в Амхерсте создали две свёрточные нейросети (CNN) для звуковых записей пчёл. Первая измеряет общую активность пчёл на участке, вторая отличает медоносных пчёл от шмелей. Обучение проводилось на 594 полевых записях за пять лет с 43 участков на северо-востоке США. По сообщению, модели правильно определили 93–97 процентов пчёл в выборке, а их оценки хорошо совпали с визуальными наблюдениями обученных исследователей. Модели доступны в программе анализа звука Raven Pro.",
-    "why": "Обычно пчёл учитывают с помощью ловушек, которые убивают много насекомых и требуют трудоёмкой лабораторной работы. Микрофон мог бы щадяще отслеживать изменения численности, в том числе в труднодоступных местах, например в кронах деревьев.",
-    "caveat": "Только медоносная пчела против шмеля, без определения отдельных видов диких пчёл. Многие виды различимы только под микроскопом, поэтому метод не заменяет ловушки. В сообщении нет данных о ложных срабатываниях, а данные собраны только на северо-востоке США."
+    "title": "Микрофон по жужжанию отличает медоносных пчёл от шмелей",
+    "summary": "Чтобы узнать, сколько пчёл живёт в каком-то месте, обычно ставят ловушки. В них гибнет много насекомых. Команда из США вместо этого поставила микрофоны и обучила ИИ на записях за пять лет. ИИ слышит, сколько пчёл летает, и отличает медоносных пчёл от шмелей. Он распознал более 90 процентов пчёл, примерно как опытные наблюдатели.",
+    "why": "Пчёлы незаменимы для нашей еды, а многие их виды становятся редкими. Микрофон считает, не убивая ни одного насекомого, даже в кронах деревьев и других труднодоступных местах.",
+    "caveat": "ИИ различает только две группы, а не множество видов диких пчёл. Проверка шла только на северо-востоке США."
    },
    "image": {
     "src": "https://www.umass.edu/sites/default/files/2026-10/Bombus%20ternarius%20wide.jpeg",
@@ -693,22 +693,22 @@
    },
    "more": [],
    "de": {
-    "title": "800 Forschungsläufe von KI-Agenten: Dieselben Fehlermuster bei allen acht getesteten Systemen",
-    "summary": "Der Benchmark AutoResearchEval umfasst 100 Aufgaben aus veröffentlichter Spitzenforschung in sieben Wissenschaftsgebieten und deckt den gesamten Forschungsablauf von der Idee bis zur Begutachtung ab. Acht Kombinationen aus Agentengerüst und Sprachmodell erzeugten 800 Verläufe, die auf Prozessebene annotiert wurden. Daraus entstand eine Fehlertaxonomie mit 45 Fehlermustern, ausgewertet mit einem an Menschen kalibrierten KI-Gutachter. Die Muster traten bei allen acht Kombinationen auf, auch bei den stärksten Modellen. Die Autoren sehen darin einen Mangel an einer „metakognitiven Schleife“: Agenten prüfen und überarbeiten ihre Ergebnisse nicht und hinterfragen ihre Methoden nicht.",
-    "why": "Wer KI-Agenten Forschung selbstständig erledigen lassen will, muss wissen, wo sie systematisch scheitern. Dass die Fehler bei allen Systemen gleich sind, spricht gegen schnelle Abhilfe durch bessere Software-Hülle allein.",
-    "caveat": "Vorabdruck ohne Begutachtung. Die Fehlerauswertung läuft großteils über einen KI-Gutachter, und ob Eingriffe auf Ebene der Orchestrierung die Lücke schließen, wurde nicht getestet."
+    "title": "KI als Forscherin: Alle getesteten Systeme machen dieselben Fehler",
+    "summary": "Können KI-Programme selbstständig forschen, von der Idee bis zum fertigen Bericht? Ein Forschungsteam hat acht solcher Systeme an 100 echten Forschungsaufgaben getestet. Dabei fanden sie 45 typische Fehler, und zwar bei allen Systemen, auch bei den besten. Das Hauptproblem: Die KI prüft ihre eigene Arbeit nicht nach. Sie hinterfragt weder ihre Ergebnisse noch ihren Weg dorthin.",
+    "why": "Gute Forschung lebt davon, die eigenen Ergebnisse kritisch zu prüfen. Genau das können diese Programme noch nicht, deshalb müssen weiter Menschen nachkontrollieren.",
+    "caveat": "Die Studie ist noch nicht von unabhängigen Fachleuten geprüft. Ausgewertet wurden die Fehler großteils wiederum von einer KI."
    },
    "en": {
-    "title": "800 research runs by AI agents: the same failure patterns across all eight systems tested",
-    "summary": "The AutoResearchEval benchmark has 100 tasks drawn from published frontier science in seven scientific domains, covering the full research lifecycle from ideation to review. Eight combinations of agent harness and language model produced 800 trajectories, annotated at process level. From these the authors built a failure taxonomy with 45 failure patterns, scaled up with a human-calibrated AI judge. The same patterns appeared in all eight combinations, including the strongest models. The authors attribute this to a missing \"metacognitive loop\": agents do not check and revise their outputs or question their methods.",
-    "why": "Anyone who wants AI agents to do research on their own needs to know where they fail systematically. That the failures are the same across systems argues against a quick fix through better scaffolding alone.",
-    "caveat": "Preprint without peer review. The failure analysis relies largely on an AI judge, and whether orchestration-level interventions close the gap was not tested."
+    "title": "AI as a researcher: every system tested makes the same mistakes",
+    "summary": "Can AI programs do research on their own, from the idea to the finished report? A research team tested eight such systems on 100 real research tasks. They found 45 typical mistakes, and every system made them, even the best ones. The main problem: the AI does not check its own work. It questions neither its results nor how it got there.",
+    "why": "Good research depends on checking your own results critically. That is exactly what these programs cannot do yet, so people still need to check their work.",
+    "caveat": "The study has not yet been reviewed by independent experts. Most of the mistakes were themselves assessed by an AI."
    },
    "ru": {
-    "title": "800 исследовательских прогонов ИИ-агентов: одни и те же типы ошибок у всех восьми систем",
-    "summary": "Бенчмарк AutoResearchEval включает 100 задач из опубликованных передовых работ в семи научных областях и охватывает весь цикл исследования от идеи до рецензирования. Восемь комбинаций программной оболочки агента и языковой модели дали 800 траекторий, размеченных на уровне процесса. На их основе авторы построили таксономию из 45 типов ошибок, расширив анализ с помощью ИИ-судьи, откалиброванного по людям. Те же типы ошибок встретились у всех восьми комбинаций, включая сильнейшие модели. Авторы объясняют это отсутствием «метакогнитивного контура»: агенты не проверяют и не переделывают свои результаты и не ставят под сомнение методы.",
-    "why": "Тем, кто хочет поручить ИИ-агентам самостоятельные исследования, нужно знать, где они систематически ошибаются. Одинаковость ошибок у всех систем говорит, что одной лучшей оболочкой проблему быстро не решить.",
-    "caveat": "Препринт без рецензирования. Анализ ошибок в основном выполнен ИИ-судьёй, а помогут ли вмешательства на уровне оркестрации, не проверялось."
+    "title": "ИИ в роли учёного: все проверенные системы делают одни и те же ошибки",
+    "summary": "Могут ли программы ИИ самостоятельно вести исследования, от идеи до готового отчёта? Исследователи проверили восемь таких систем на 100 настоящих научных задачах. Они нашли 45 типичных ошибок, и их делали все системы, даже лучшие. Главная проблема: ИИ не проверяет собственную работу. Он не ставит под сомнение ни свои результаты, ни путь к ним.",
+    "why": "Хорошая наука держится на критической проверке своих результатов. Именно этого программы пока не умеют, поэтому людям по-прежнему нужно всё перепроверять.",
+    "caveat": "Исследование ещё не проверено независимыми специалистами. Ошибки в основном тоже оценивал ИИ."
    },
    "image": {
     "src": "https://arxiv.org/html/2608.14905v1/general_overview.png",
@@ -738,22 +738,22 @@
     }
    ],
    "de": {
-    "title": "AlphaOracle schlägt Lesungen für Orakelknochen-Zeichen vor und übertrifft Vergleichsmodelle",
-    "summary": "Etwa 4.500 Zeichen sind auf chinesischen Orakelknochen und -schildern bekannt, rund 3.000 davon haben keine anerkannte Lesung. Ein Team um Yuliang Liu (Huazhong-Universität für Wissenschaft und Technik, mit Partnern in Guangzhou und Anyang) hat AlphaOracle entwickelt, das den Arbeitsablauf von Fachleuten nachbildet: Zeichen erkennen, Form analysieren, den Kontext der Inschrift auswerten und Kandidaten mit überlieferten Klassikern und Fachliteratur abgleichen. Trainiert wurde mit 73.883 Abreibungen, 45.364 Scans und 23.755 Fachstudien. An 88 zurückgehaltenen Zeichen erreichte das Modell 23,1 Prozent Treffer an erster Stelle, ein nachgebautes Bildmodell 13,1 Prozent. 86 Fachleute sahen die Erklärungen in 45,2 Prozent der Blindvergleiche vorn, die Analysezeit sank um 64 Prozent.",
-    "why": "Zeichen auf Orakelknochen sind die ältesten Schriftzeugnisse Chinas, viele sind seit über 3.000 Jahren ungelesen. Das System liefert prüfbare Belegketten statt einer einzelnen Antwort, die Forschende nachvollziehen können.",
-    "caveat": "Das Modell braucht überlieferte Literatur als Anker und entscheidet nicht selbst, welche Lesung gilt. Die Vergleichsmodelle wurden ohne Training auf dem Fachgebiet getestet, der Abstand zeigt also auch den Wert der Fachdaten. Zahlen stammen aus der Studie, eine unabhängige Wiederholung steht aus."
+    "title": "KI hilft, 3.000 Jahre alte chinesische Schriftzeichen zu entziffern",
+    "summary": "Die ältesten Schriftzeichen Chinas stehen auf Knochen und Schildkrötenpanzern, mit denen man früher die Zukunft befragte. Von etwa 4.500 bekannten Zeichen kann man rund 3.000 bis heute nicht lesen. Forschende in China haben eine KI gebaut, die wie Fachleute vorgeht. Sie schaut sich die Form des Zeichens und den Text drumherum an und vergleicht mit alten Büchern. Im Test schlug sie bei fast jedem vierten Zeichen gleich die richtige Lesung vor.",
+    "why": "Jedes neu gelesene Zeichen erzählt etwas über das Leben vor über 3.000 Jahren. Die KI zeigt dabei auch, wie sie auf ihre Antwort kommt, sodass Fachleute sie prüfen können.",
+    "caveat": "Die KI macht nur Vorschläge, entscheiden müssen weiterhin Menschen. Bei drei von vier Zeichen lag ihr erster Vorschlag daneben."
    },
    "en": {
-    "title": "AlphaOracle proposes readings for oracle bone characters and beats comparison models",
-    "summary": "About 4,500 characters are known from Chinese oracle bones and shells, and roughly 3,000 of them have no agreed reading. A team led by Yuliang Liu (Huazhong University of Science and Technology, with partners in Guangzhou and Anyang) built AlphaOracle, which mimics expert workflow: it detects characters, analyses their form, evaluates inscription context and checks candidates against transmitted classics and scholarship. It was trained on 73,883 rubbings, 45,364 scans and 23,755 modern studies. On 88 characters withheld from training it reached 23.1 percent top-1 accuracy, against 13.1 percent for a reimplemented image model. 86 specialists preferred its explanations in 45.2 percent of blind comparisons, and analysis time fell by 64 percent.",
-    "why": "Oracle bone characters are China's oldest written records, and many have gone unread for over 3,000 years. The system produces checkable chains of evidence rather than a single answer, which scholars can follow.",
-    "caveat": "The model needs transmitted literature as an anchor and does not decide which reading is correct. Comparison models were tested zero-shot, so the gap partly reflects the value of domain data. Figures come from the study itself; independent replication is pending."
+    "title": "AI helps decipher 3,000-year-old Chinese characters",
+    "summary": "China's oldest writing is found on bones and turtle shells once used to ask about the future. Of about 4,500 known characters, around 3,000 still cannot be read. Researchers in China built an AI that works the way experts do. It looks at the shape of a character and the text around it and compares it with old books. In a test, it suggested the right reading first time for almost one character in four.",
+    "why": "Every newly read character tells us something about life more than 3,000 years ago. The AI also shows how it reached its answer, so experts can check it.",
+    "caveat": "The AI only makes suggestions; people still decide. For three characters out of four, its first suggestion was wrong."
    },
    "ru": {
-    "title": "AlphaOracle предлагает прочтения знаков на гадательных костях и превосходит модели сравнения",
-    "summary": "На китайских гадательных костях и панцирях известно около 4500 знаков, примерно для 3000 из них нет общепринятого прочтения. Группа Юйляна Лю (Хуачжунский университет науки и технологий с партнёрами в Гуанчжоу и Аньяне) создала AlphaOracle, которая повторяет рабочий процесс специалистов: находит знаки, анализирует их форму, оценивает контекст надписи и сверяет варианты с классическими текстами и научной литературой. Обучение шло на 73 883 оттисках, 45 364 сканах и 23 755 научных работах. На 88 знаках, исключённых из обучения, модель дала 23,1 процента верных ответов с первой попытки, воспроизведённая модель для изображений — 13,1 процента. 86 специалистов предпочли её объяснения в 45,2 процента слепых сравнений, время анализа сократилось на 64 процента.",
-    "why": "Знаки на гадательных костях — древнейшие письменные памятники Китая, многие не прочитаны более 3000 лет. Система выдаёт проверяемые цепочки доказательств, а не один ответ, и учёные могут их проследить.",
-    "caveat": "Модели нужна традиционная литература как опора, и она не решает, какое прочтение верно. Модели сравнения тестировались без дообучения, поэтому разрыв отчасти отражает ценность профильных данных. Цифры взяты из самой работы, независимой проверки пока нет."
+    "title": "ИИ помогает прочесть китайские иероглифы возрастом 3000 лет",
+    "summary": "Древнейшие китайские знаки написаны на костях и панцирях черепах, с помощью которых когда-то гадали о будущем. Из примерно 4500 известных знаков около 3000 до сих пор не прочитаны. Исследователи в Китае создали ИИ, который работает как специалист. Он изучает форму знака и текст вокруг и сравнивает с древними книгами. В тесте он почти для каждого четвёртого знака сразу предложил верное чтение.",
+    "why": "Каждый прочитанный знак рассказывает что-то о жизни более 3000 лет назад. ИИ показывает, как пришёл к ответу, и специалисты могут это проверить.",
+    "caveat": "ИИ только предлагает, решают по-прежнему люди. В трёх случаях из четырёх его первый вариант был неверным."
    },
    "image": {
     "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/6a66aea1-2e9b-4448-9ec8-cee1beecd13c/Rendition/low-res/Content/Public",
@@ -780,22 +780,22 @@
     }
    ],
    "de": {
-    "title": "AIFL: KI-Abflussmodell des Wetterzentrums ECMWF erkennt Hochwasser bis sechs Tage vor dem Scheitel",
-    "summary": "Das Europäische Zentrum für mittelfristige Wettervorhersage (ECMWF) hat mit AIFL ein globales Modell für Flussabflüsse entwickelt, ein LSTM-Netz (Maria Luisa Taccari, Kenza Tazi, Matthew Chantry, Christel Prudhomme u. a.). Es wurde mit 40 Jahren ERA5-Land-Daten aus mehr als 18.000 Einzugsgebieten vortrainiert und mit Vorhersagen des ECMWF-Wettermodells nachjustiert. Für 2021 bis 2024 erreichte es an 2.000 Messstationen einen mittleren Kling-Gupta-Wert von 0,66 bei einem mittleren Abflussverhältnis von 1,00. Gegenüber Googles globalem Hochwassermodell war AIFL an 43 Prozent von rund 1.200 gemeinsamen Stationen gleich gut oder besser. Beim Sturm Henk (Januar 2024, Belgien) zeigte es das Hochwassersignal in einem 182 Quadratkilometer großen Einzugsgebiet bis zu sechs Tage vor dem Höchststand.",
-    "why": "Überschwemmungen betreffen weltweit mehr Menschen als jede andere Naturgefahr, und jeder zusätzliche Tag Vorwarnzeit hilft Behörden und Betroffenen. AIFL ist dafür gebaut, in die täglichen Vorhersagen des Zentrums eingebunden zu werden.",
-    "caveat": "Das Modell ist vorsichtig und verpasst manche Ereignisse, vor allem die seltensten. Gegenüber Googles Modell liegt es nur an 43 Prozent der Stationen gleichauf oder vorn; ein systematischer Vergleich mit dem etablierten GloFAS steht aus, und Unsicherheitsangaben fehlen noch. Der Sturm Henk ist nur ein Einzelfall."
+    "title": "KI warnt bis zu sechs Tage vor einem Hochwasser",
+    "summary": "Kann man vorhersagen, wann ein Fluss über die Ufer tritt? Das europäische Wetterzentrum hat dafür eine KI gebaut. Sie hat aus 40 Jahren Wetter- und Flussdaten aus der ganzen Welt gelernt. Bei einem Sturm in Belgien im Januar 2024 zeigte sie das Hochwasser schon sechs Tage vorher an. An knapp der Hälfte der Messstellen war sie gleich gut oder besser als ein ähnliches System von Google.",
+    "why": "Hochwasser trifft weltweit mehr Menschen als jede andere Naturgefahr. Jeder Tag Vorwarnung gibt Zeit, Keller zu räumen, Dämme zu sichern oder Menschen in Sicherheit zu bringen.",
+    "caveat": "Die KI ist eher vorsichtig und übersieht manchmal gerade die seltenen, extremen Fluten. Der Sturm in Belgien ist nur ein einzelnes Beispiel."
    },
    "en": {
-    "title": "AIFL: ECMWF's AI streamflow model detects floods up to six days before the peak",
-    "summary": "The European Centre for Medium-Range Weather Forecasts (ECMWF) has built AIFL, a global streamflow model based on an LSTM network (Maria Luisa Taccari, Kenza Tazi, Matthew Chantry, Christel Prudhomme and colleagues). It was pre-trained on 40 years of ERA5-Land data from more than 18,000 basins and fine-tuned on ECMWF weather forecasts. For 2021 to 2024 it reached a median Kling-Gupta efficiency of 0.66 and a median discharge bias ratio of 1.00 across 2,000 gauged basins. Against Google's global flood model it matched or beat it at 43 percent of about 1,200 shared stations. During Storm Henk (January 2024, Belgium) it showed the flood signal in a 182 square-kilometre catchment up to six days before the peak.",
-    "why": "Floods affect more people worldwide than any other natural hazard, and every extra day of warning helps authorities and residents. AIFL is designed to be integrated into the centre's daily forecasting workflow.",
-    "caveat": "The model is conservative and misses some events, especially the rarest ones. It matches or beats Google's model at only 43 percent of stations; a systematic comparison with the established GloFAS is still to come and uncertainty estimates are not yet included. Storm Henk is a single case."
+    "title": "AI warns of floods up to six days ahead",
+    "summary": "Can we predict when a river will burst its banks? Europe's weather centre has built an AI for exactly that. It learned from 40 years of weather and river data from around the world. During a storm in Belgium in January 2024, it showed the flood six days in advance. At just under half of the measuring stations, it was as good as or better than a similar system from Google.",
+    "why": "Floods affect more people worldwide than any other natural hazard. Every extra day of warning means time to clear basements, shore up dams or get people to safety.",
+    "caveat": "The AI tends to be cautious and sometimes misses the rare, extreme floods. The Belgian storm is just one example."
    },
    "ru": {
-    "title": "AIFL: ИИ-модель стока Европейского центра ECMWF замечает наводнение за шесть дней до пика",
-    "summary": "Европейский центр среднесрочных прогнозов погоды (ECMWF) создал AIFL — глобальную модель речного стока на основе LSTM-сети (Мария Луиза Таккари, Кенза Тази, Мэтью Чантри, Кристел Прюдом и др.). Её предобучили на 40 годах данных ERA5-Land из более чем 18 000 водосборов и дообучили на прогнозах погодной модели ECMWF. За 2021–2024 годы на 2000 гидрологических постах она показала медианную эффективность Клинга–Гупты 0,66 при медианном отношении смещения стока 1,00. По сравнению с глобальной моделью наводнений Google AIFL была не хуже или лучше на 43 процентах из примерно 1200 общих станций. Во время шторма «Хенк» (январь 2024, Бельгия) она показала сигнал наводнения в водосборе площадью 182 квадратных километра за шесть дней до пика.",
-    "why": "Наводнения затрагивают больше людей, чем любая другая природная опасность, и каждый лишний день предупреждения помогает властям и жителям. AIFL изначально создавалась для включения в ежедневные прогнозы центра.",
-    "caveat": "Модель осторожна и пропускает часть событий, прежде всего самые редкие. Модель Google она сравнивает или превосходит лишь на 43 процентах станций; систематическое сравнение с устоявшейся GloFAS ещё впереди, оценок неопределённости пока нет. Шторм «Хенк» — единичный случай."
+    "title": "ИИ предупреждает о наводнении за шесть дней",
+    "summary": "Можно ли предсказать, когда река выйдет из берегов? Европейский метеоцентр создал для этого ИИ. Он учился на данных о погоде и реках со всего мира за 40 лет. Во время шторма в Бельгии в январе 2024 года он показал наводнение за шесть дней. Почти на половине станций он работал так же хорошо или лучше, чем похожая система Google.",
+    "why": "Наводнения затрагивают больше людей в мире, чем любая другая стихия. Каждый день предупреждения — это время освободить подвалы, укрепить дамбы или вывезти людей.",
+    "caveat": "ИИ скорее осторожен и иногда пропускает как раз редкие, самые сильные наводнения. Шторм в Бельгии — лишь один пример."
    },
    "image": {
     "src": "https://www.ecmwf.int/sites/default/files/2026-04/Figure_1-AIFS-streamflow-690px.png",

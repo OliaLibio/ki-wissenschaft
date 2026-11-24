@@ -14,22 +14,22 @@
  },
  "more": [],
  "de": {
-  "title": "800 Forschungsläufe von KI-Agenten: Dieselben Fehlermuster bei allen acht getesteten Systemen",
-  "summary": "Der Benchmark AutoResearchEval umfasst 100 Aufgaben aus veröffentlichter Spitzenforschung in sieben Wissenschaftsgebieten und deckt den gesamten Forschungsablauf von der Idee bis zur Begutachtung ab. Acht Kombinationen aus Agentengerüst und Sprachmodell erzeugten 800 Verläufe, die auf Prozessebene annotiert wurden. Daraus entstand eine Fehlertaxonomie mit 45 Fehlermustern, ausgewertet mit einem an Menschen kalibrierten KI-Gutachter. Die Muster traten bei allen acht Kombinationen auf, auch bei den stärksten Modellen. Die Autoren sehen darin einen Mangel an einer „metakognitiven Schleife“: Agenten prüfen und überarbeiten ihre Ergebnisse nicht und hinterfragen ihre Methoden nicht.",
-  "why": "Wer KI-Agenten Forschung selbstständig erledigen lassen will, muss wissen, wo sie systematisch scheitern. Dass die Fehler bei allen Systemen gleich sind, spricht gegen schnelle Abhilfe durch bessere Software-Hülle allein.",
-  "caveat": "Vorabdruck ohne Begutachtung. Die Fehlerauswertung läuft großteils über einen KI-Gutachter, und ob Eingriffe auf Ebene der Orchestrierung die Lücke schließen, wurde nicht getestet."
+  "title": "KI als Forscherin: Alle getesteten Systeme machen dieselben Fehler",
+  "summary": "Können KI-Programme selbstständig forschen, von der Idee bis zum fertigen Bericht? Ein Forschungsteam hat acht solcher Systeme an 100 echten Forschungsaufgaben getestet. Dabei fanden sie 45 typische Fehler, und zwar bei allen Systemen, auch bei den besten. Das Hauptproblem: Die KI prüft ihre eigene Arbeit nicht nach. Sie hinterfragt weder ihre Ergebnisse noch ihren Weg dorthin.",
+  "why": "Gute Forschung lebt davon, die eigenen Ergebnisse kritisch zu prüfen. Genau das können diese Programme noch nicht, deshalb müssen weiter Menschen nachkontrollieren.",
+  "caveat": "Die Studie ist noch nicht von unabhängigen Fachleuten geprüft. Ausgewertet wurden die Fehler großteils wiederum von einer KI."
  },
  "en": {
-  "title": "800 research runs by AI agents: the same failure patterns across all eight systems tested",
-  "summary": "The AutoResearchEval benchmark has 100 tasks drawn from published frontier science in seven scientific domains, covering the full research lifecycle from ideation to review. Eight combinations of agent harness and language model produced 800 trajectories, annotated at process level. From these the authors built a failure taxonomy with 45 failure patterns, scaled up with a human-calibrated AI judge. The same patterns appeared in all eight combinations, including the strongest models. The authors attribute this to a missing \"metacognitive loop\": agents do not check and revise their outputs or question their methods.",
-  "why": "Anyone who wants AI agents to do research on their own needs to know where they fail systematically. That the failures are the same across systems argues against a quick fix through better scaffolding alone.",
-  "caveat": "Preprint without peer review. The failure analysis relies largely on an AI judge, and whether orchestration-level interventions close the gap was not tested."
+  "title": "AI as a researcher: every system tested makes the same mistakes",
+  "summary": "Can AI programs do research on their own, from the idea to the finished report? A research team tested eight such systems on 100 real research tasks. They found 45 typical mistakes, and every system made them, even the best ones. The main problem: the AI does not check its own work. It questions neither its results nor how it got there.",
+  "why": "Good research depends on checking your own results critically. That is exactly what these programs cannot do yet, so people still need to check their work.",
+  "caveat": "The study has not yet been reviewed by independent experts. Most of the mistakes were themselves assessed by an AI."
  },
  "ru": {
-  "title": "800 исследовательских прогонов ИИ-агентов: одни и те же типы ошибок у всех восьми систем",
-  "summary": "Бенчмарк AutoResearchEval включает 100 задач из опубликованных передовых работ в семи научных областях и охватывает весь цикл исследования от идеи до рецензирования. Восемь комбинаций программной оболочки агента и языковой модели дали 800 траекторий, размеченных на уровне процесса. На их основе авторы построили таксономию из 45 типов ошибок, расширив анализ с помощью ИИ-судьи, откалиброванного по людям. Те же типы ошибок встретились у всех восьми комбинаций, включая сильнейшие модели. Авторы объясняют это отсутствием «метакогнитивного контура»: агенты не проверяют и не переделывают свои результаты и не ставят под сомнение методы.",
-  "why": "Тем, кто хочет поручить ИИ-агентам самостоятельные исследования, нужно знать, где они систематически ошибаются. Одинаковость ошибок у всех систем говорит, что одной лучшей оболочкой проблему быстро не решить.",
-  "caveat": "Препринт без рецензирования. Анализ ошибок в основном выполнен ИИ-судьёй, а помогут ли вмешательства на уровне оркестрации, не проверялось."
+  "title": "ИИ в роли учёного: все проверенные системы делают одни и те же ошибки",
+  "summary": "Могут ли программы ИИ самостоятельно вести исследования, от идеи до готового отчёта? Исследователи проверили восемь таких систем на 100 настоящих научных задачах. Они нашли 45 типичных ошибок, и их делали все системы, даже лучшие. Главная проблема: ИИ не проверяет собственную работу. Он не ставит под сомнение ни свои результаты, ни путь к ним.",
+  "why": "Хорошая наука держится на критической проверке своих результатов. Именно этого программы пока не умеют, поэтому людям по-прежнему нужно всё перепроверять.",
+  "caveat": "Исследование ещё не проверено независимыми специалистами. Ошибки в основном тоже оценивал ИИ."
  },
  "image": {
   "src": "https://arxiv.org/html/2608.14905v1/general_overview.png",

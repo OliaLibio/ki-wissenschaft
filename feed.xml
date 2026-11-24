@@ -6,254 +6,254 @@
   <description>Montag, Mittwoch, Freitag: Was KI heute in der Forschung erreicht. Gesundheit, Tiere, Mythen-Check, Klima, Archäologie, Grenzen.</description>
   <language>de</language>
   <item>
-   <title>KI schätzt den Geburtstermin aus Ultraschallbildern: Der Vorsprung schrumpft bei fairem Vergleich, ein Frühgeburts-Signal bleibt</title>
+   <title>KI schätzt den Geburtstermin per Ultraschall, aber kaum besser als gedacht</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-ultraschall-geburtstermin</link>
    <guid isPermaLink="false">2026-11-23-ultraschall-geburtstermin</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>gesundheit</category>
-   <description>Wer ohne frühen Ultraschall in die Schwangerschaftsvorsorge kommt, bekommt oft einen ungenauen Termin. Ein Team aus Santiago hat ein kommerzielles Deep-Learning-Modell, das nur Ultraschallbilder liest, unverändert an vier öffentlichen Kliniken in Chile geprüft: 64.235 Bilder aus 3.788 Untersuchungen von 2.550 Schwangeren, 34 Prozent davon Migrantinnen. Der mittlere Fehler lag bei 6,9 Tagen gegenüber 11,6 Tagen beim herkömmlichen Termin. Der Großteil dieses Vorsprungs kam aber daher, dass Schwangerschaften vor Ort kürzer dauerten, und gegenüber angepassten Vergleichswerten blieb weniger als ein Tag. Der separate Risikowert des Modells unterschied Frühgeburten mit einer AUC von 0,86, das Schwangerschaftsalter allein nur mit 0,52.
+   <description>Wer erst spät in der Schwangerschaft zum Ultraschall kommt, bekommt oft einen ungenauen Geburtstermin. In Chile wurde eine KI getestet, die den Termin allein aus Ultraschallbildern schätzt, bei über 2.500 Schwangeren. Auf den ersten Blick lag sie viel näher am echten Termin. Bei einem fairen Vergleich blieb aber nur ein Vorsprung von weniger als einem Tag. Überraschend: Die KI erkannte recht gut, welche Frauen ihr Kind zu früh bekommen würden.
 
-Warum das wichtig ist: Die Studie zeigt, wie leicht sich Genauigkeitswerte schönrechnen lassen, wenn man das falsche Vergleichsmaß wählt. Interessanter als der Termin ist die Frage, welche Frau früh entbindet.
+Warum das wichtig ist: Die Studie zeigt, wie leicht Ergebnisse besser aussehen, als sie sind. Spannender als der Termin ist der Hinweis auf Frühgeburten.
 
-Vorbehalt: Die Frühgeburt-Analysen sind ausdrücklich explorativ, das Modell war schlecht kalibriert, und keine Frau wurde mit ihm betreut. Das geprüfte System ist ein kommerzielles Produkt der Firma Ultrasound AI, bei der ein Autor als strategischer Berater angegeben ist.
+Vorbehalt: Der Hinweis auf Frühgeburten ist ein erster Fund, keine Frau wurde mit der KI betreut. Einer der Forschenden berät die Firma, die die KI verkauft.
 
 Quelle: npj Digital Medicine – https://www.nature.com/articles/s41746-026-03453-0</description>
   </item>
   <item>
-   <title>Schnelltests per KI auswerten, trainiert nur mit künstlichen Bildern: SynSight erreicht bei HIV-Tests 98 Prozent Sensitivität</title>
+   <title>KI liest Schnelltests per Handyfoto ab, gelernt nur mit künstlichen Bildern</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-synsight-schnelltests</link>
    <guid isPermaLink="false">2026-11-23-synsight-schnelltests</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>gesundheit</category>
-   <description>Schnelltests für HIV oder COVID-19 sind billig, doch die Streifen werden oft falsch abgelesen. KI kann beim Auswerten helfen, braucht aber meist große, teure Bibliotheken echter Testfotos. Ein Team um Rachel McKendry vom University College London und Maryam Shahmanesh vom Africa Health Research Institute in Durban hat deshalb SynSight entwickelt, eine Pipeline, die Tests im Bild findet und klassifiziert und dabei ausschließlich mit synthetischen Daten trainiert wird. Bei der Prüfung an HIV-Tests erreichte sie 98 Prozent Sensitivität und 99 Prozent Spezifität, bei COVID-19-Tests bis zu 99 Prozent Genauigkeit.
+   <description>Schnelltests für HIV oder Corona sind billig, werden aber oft falsch abgelesen. Eine KI kann helfen, braucht dafür aber normalerweise Tausende echte Fotos von Tests. Forschende aus London und Südafrika haben ihre KI stattdessen nur mit am Computer erzeugten Bildern trainiert. Bei echten HIV-Tests lag sie trotzdem in 98 bis 99 von 100 Fällen richtig.
 
-Warum das wichtig ist: Neue Schnelltests kommen ständig auf den Markt, echte Trainingsbilder fehlen dann zunächst. Künstliche Daten könnten die Auswertung per Smartphone auch dort möglich machen, wo kaum Fachpersonal verfügbar ist.
+Warum das wichtig ist: Neue Tests kommen ständig auf den Markt, und echte Fotos davon gibt es anfangs kaum. So könnte ein Handy beim Ablesen helfen, auch dort, wo Fachpersonal fehlt.
 
-Vorbehalt: Es handelt sich um eine kurze Methodenarbeit im Labor, nicht um einen Einsatz in der Praxis. Aus der Zusammenfassung geht nicht hervor, wie schwierige Aufnahmen oder andere Testtypen abschneiden.
+Vorbehalt: Bisher wurde das nur im Labor getestet, nicht im Alltag. Wie gut die KI bei verwackelten oder dunklen Fotos ist, ist unklar.
 
 Quelle: npj Digital Medicine – https://www.nature.com/articles/s41746-026-03380-0</description>
   </item>
   <item>
-   <title>Haben Forschungs-KIs Geschmack? Ihre Rangfolge guter Experimente schlägt kaum den Zufall</title>
+   <title>KI hat viele Forschungsideen, kann aber schlecht die besten auswählen</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-rtaste</link>
    <guid isPermaLink="false">2026-11-23-rtaste</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>grenzen</category>
-   <description>Der Autor testete, ob KI-Agenten vor dem Ergebnis beurteilen können, welche Experimente sich lohnen. Sechs führende Sprachmodelle, allein oder im Team, lasen je sieben aktuelle NLP-Studien, schlugen kleinste sinnvolle Experimente vor, sagten deren Ausgang voraus und reihten sie. Ein separater Ausführer führte alle 415 Experimente durch, drei Modelle als Prüfer bewerteten sie. 194 galten als solide, wertvoll und neu, aber nur 73 zusätzlich als über die Ausgangsstudie hinausgehend und nicht offensichtlich. Die jeweils bestplatzierte Wahl traf das von den Prüfern am höchsten bewertete Experiment häufiger als Zufall, schlug aber nicht klar die Wahl des zuerst geschriebenen. Teams kosteten mehr, ohne klaren Gewinn.
+   <description>Gute Forschung beginnt mit der Frage: Welcher Versuch lohnt sich? Ein Forscher ließ sechs bekannte KI-Programme Ideen für über 400 kleine Experimente vorschlagen und ordnen, welche am wertvollsten sind. Alle Experimente wurden dann tatsächlich durchgeführt. Viele Ideen waren brauchbar, aber nur wenige wirklich neu. Die Rangliste der KI war kaum besser, als einfach die erste Idee zu nehmen.
 
-Warum das wichtig ist: Gute Forschung hängt auch davon ab, die richtigen Fragen auszuwählen. Die Studie legt nahe, dass KI viele brauchbare Ideen liefert, aber ihre Auswahl bisher kaum verlässlicher ist als einfache Faustregeln.
+Warum das wichtig ist: KI kann beim Sammeln von Ideen helfen. Die Entscheidung, welche Frage sich lohnt, sollte man ihr aber noch nicht überlassen.
 
-Vorbehalt: Vorabdruck eines Einzelautors, nur sieben Studien aus einem Fachgebiet. Auch die Prüfer sind Sprachmodelle, ein menschliches Urteil ist nicht der Maßstab.
+Vorbehalt: Ein einzelner Forscher, nur ein Fachgebiet, und noch nicht unabhängig geprüft. Bewertet wurden die Experimente wiederum von KI, nicht von Menschen.
 
 Quelle: arXiv: rTaste – https://arxiv.org/abs/2610.40488</description>
   </item>
   <item>
-   <title>Was KI aus dem All sieht: Übersicht zu über 200 Studien zeigt, wo Satelliten-KI bei Bränden und Fluten an Grenzen stößt</title>
+   <title>Waldbrand, Flut, Dürre: Wo KI mit Satellitenbildern noch an Grenzen stößt</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-review-ki-naturgefahren-satellit</link>
    <guid isPermaLink="false">2026-11-23-review-ki-naturgefahren-satellit</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>klima</category>
-   <description>Ein Team des KI-Zentrums von Skoltech um Svetlana Illarionova hat mehr als 200 Studien ausgewertet, in denen Satellitendaten und KI zur Überwachung von Waldbränden, Überschwemmungen, Dürren und Landnutzungswandel dienen. Die Übersicht reicht von frühen Spektralindizes über klassisches maschinelles Lernen und tiefe neuronale Netze bis zu geowissenschaftlichen Basismodellen. Die Autoren halten fest, dass Gefahren unterschiedlich schnell ablaufen: Brände und Fluten binnen Stunden, Dürre und Landveränderung über Monate oder Jahre, ein einzelner Algorithmus passt daher nicht für alle. Sie empfehlen, physikalische Modelle mit neuronalen Netzen zu verbinden, Satelliten- und Bodensensoren zu kombinieren und jeder Vorhersage eine Zuverlässigkeitsangabe beizufügen.
+   <description>Satelliten und KI sollen Brände, Überschwemmungen und Dürren früh erkennen. Ein Team aus Russland hat über 200 Studien dazu ausgewertet. Ihr Fazit: Keine KI kann alles. Ein Feuer breitet sich in Stunden aus, eine Dürre über Monate, und das braucht unterschiedliche Werkzeuge. Die Forschenden empfehlen, KI mit klassischen Wettermodellen und Messgeräten am Boden zu verbinden und immer anzugeben, wie sicher eine Warnung ist.
 
-Warum das wichtig ist: KI-Karten von Bränden und Fluten wirken überzeugend, doch für Warnungen im Ernstfall zählt, wie verlässlich sie in neuen Regionen und bei laufend eintreffenden Daten sind. Die Übersicht zeigt, woran das noch scheitert.
+Warum das wichtig ist: KI-Karten von Bränden und Fluten sehen beeindruckend aus. Im Ernstfall zählt aber, ob man sich auf sie verlassen kann, und daran hapert es noch.
 
-Vorbehalt: Es handelt sich um eine Literaturübersicht, nicht um neue Messungen. Die Mitteilung nennt keine Vergleichszahlen zwischen Methoden. Die Arbeit wurde laut Mitteilung unter anderem vom russischen Wirtschaftsministerium gefördert.
+Vorbehalt: Es ist eine Zusammenfassung bisheriger Studien, keine neue Messung. Gefördert wurde die Arbeit unter anderem vom russischen Wirtschaftsministerium.
 
 Quelle: Earth Systems and Environment via Skoltech – https://skoltech.ru/en/news/what-ai-sees-space-skoltech-researchers-review-capabilities-and-limits-ai-environmental-hazard-monitoring</description>
   </item>
   <item>
-   <title>Foto vom Augenhintergrund hilft, Präeklampsie vorherzusagen: Retina-PE erreicht in Shanghai AUC-Werte bis 0,98</title>
+   <title>Ein Foto vom Auge könnte gefährlichen Schwangerschafts-Bluthochdruck vorhersagen</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-retina-praeeklampsie</link>
    <guid isPermaLink="false">2026-11-23-retina-praeeklampsie</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>gesundheit</category>
-   <description>Präeklampsie ist eine gefährliche Schwangerschaftserkrankung mit Bluthochdruck, für die es kaum einfache Früherkennung gibt. Ein Team aus Shanghai hat das Modell Retina-PE entwickelt, das Fotos der Netzhaut, mütterliche Risikofaktoren und den mittleren Blutdruck kombiniert. Grundlage waren prospektiv erhobene Daten von 8.616 Schwangeren aus mehreren Kliniken. In den Entwicklungsdaten lag die Trennschärfe (AUC) für eine Präeklampsie zwischen der 24. und 28. Woche bei 0,853, für eine früh beginnende Form innerhalb einer Woche bei 0,979. In der externen Validierung waren die Werte niedriger: 0,728 für die 24. bis 28. Woche und 0,776 für die frühe Form innerhalb einer Woche.
+   <description>Präeklampsie ist eine gefährliche Komplikation in der Schwangerschaft mit sehr hohem Blutdruck. Sie früh zu erkennen ist schwierig. Ärztinnen und Ärzte in Shanghai haben eine KI entwickelt, die ein Foto vom Augenhintergrund, den Blutdruck und weitere Angaben der Schwangeren auswertet. Grundlage waren Daten von über 8.000 Schwangeren. In den eigenen Kliniken sagte die KI die Erkrankung sehr gut voraus, in anderen Kliniken deutlich schlechter.
 
-Warum das wichtig ist: Ein Foto der Netzhaut ist schmerzfrei, schnell und auch ohne Labor möglich. Wenn sich das bestätigt, könnten Risikoschwangere früher engmaschig betreut werden.
+Warum das wichtig ist: Ein Foto vom Auge ist schmerzfrei, dauert Sekunden und braucht kein Labor. Wenn es sich bestätigt, könnten gefährdete Schwangere früher besser betreut werden.
 
-Vorbehalt: Die Daten wurden prospektiv gesammelt, das Modell aber rückblickend ausgewertet. Die Leistung fiel in der externen Prüfung deutlich ab, und bei einigen Aufgaben gab es nur wenige Fälle. Ob der Test im Klinikalltag Behandlungen verbessert, zeigt erst eine prospektive Studie.
+Vorbehalt: In fremden Kliniken war die Vorhersage nur mittelmäßig. Ob der Test im Alltag wirklich Schwangeren hilft, muss erst eine weitere Studie zeigen.
 
 Quelle: npj Digital Medicine – https://www.nature.com/articles/s41746-026-03463-y</description>
   </item>
   <item>
-   <title>Fischöl fürs Gehirn: Zwei Jahre hochdosiertes DHA brachten keinen kognitiven Vorteil</title>
+   <title>Fischöl-Kapseln schützen das Gedächtnis nicht</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-mythos-fischoel-gehirn</link>
    <guid isPermaLink="false">2026-11-23-mythos-fischoel-gehirn</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>mythen</category>
-   <description>Amerikaner geben jährlich mehr als eine Milliarde Dollar für Omega-3-Präparate aus. Ein Team um Hussein Yassine (Keck Medicine of USC) gab 365 Erwachsenen von 55 bis 80 Jahren, die selten Fisch essen und ein erhöhtes Alzheimer-Risiko haben, zwei Jahre lang täglich 2.000 mg DHA oder Placebo, randomisiert und doppelblind. 47 Prozent trugen die Genvariante APOE4. Das DHA im Nervenwasser stieg nach sechs Monaten im Mittel um 17 Prozent, es kam also im Gehirn an. Trotzdem gab es keinen signifikanten Vorteil bei der geistigen Leistung und keinen Schutz vor dem Schrumpfen des Hippocampus.
+   <description>Fischöl gilt als Nahrung fürs Gehirn, und entsprechend viele Kapseln werden verkauft. Ein Team aus Los Angeles gab 365 älteren Menschen mit erhöhtem Alzheimer-Risiko zwei Jahre lang täglich viel von einem Fischöl-Baustein namens DHA. Eine Vergleichsgruppe bekam Scheinkapseln. Der Stoff kam nachweislich im Gehirn an. Trotzdem blieben Gedächtnis und Denkvermögen gleich, und der Abbau im Gehirn wurde nicht gebremst.
 
-Warum das wichtig ist: Dass ein Nährstoff im Gehirn ankommt, heißt nicht, dass er dort etwas bewirkt. Wer Fischöl nur für sein Gedächtnis nimmt, hat dafür hier keinen Beleg.
+Warum das wichtig ist: Dass ein Stoff im Gehirn ankommt, heißt noch nicht, dass er dort hilft. Wer Fischöl-Kapseln nur fürs Gedächtnis nimmt, hat dafür keinen Beleg.
 
-Vorbehalt: Getestet wurde nur hochdosiertes DHA, nicht Omega-3 aus Fisch oder EPA. Die Ergebnisse gelten für ältere, selten Fisch essende Risikopersonen. Die Autoren betonen, Fisch bleibe Teil gesunder Ernährung. Gefördert wurde die Studie unter anderem von den US-amerikanischen National Institutes of Health.
+Vorbehalt: Getestet wurde nur ein Baustein von Fischöl, bei älteren Menschen, die selten Fisch essen. Fisch als Lebensmittel bleibt laut den Forschenden trotzdem gesund.
 
 Quelle: eBioMedicine via ScienceDaily – https://www.sciencedaily.com/releases/2026/10/261020085427.htm</description>
   </item>
   <item>
-   <title>Cannabis: Nicht Frauen, sondern selten konsumierende Männer spürten die stärksten Wirkungen</title>
+   <title>Cannabis wirkt bei Frauen nicht stärker, entscheidend ist die Gewohnheit</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-mythos-cannabis-frauen</link>
    <guid isPermaLink="false">2026-11-23-mythos-cannabis-frauen</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>mythen</category>
-   <description>Frühere Studien hatten nahegelegt, dass Frauen stärker auf THC reagieren. Ein UCLA-Team ließ 44 gesunde Erwachsene (22 Frauen) in einer randomisierten, doppelblinden Crossover-Studie drei Cannabissorten rauchen: 0, 4 und 10 Prozent THC. Die Gruppen waren nach Geschlecht und Konsumhäufigkeit (mehr oder höchstens vier Tage pro Woche) ausgewogen. Selten konsumierende Männer berichteten mehr „High“, Sedierung und unangenehme Wirkungen als vergleichbare Frauen, und nur bei Männern stieg die Herzfrequenz deutlich. Bei häufig Konsumierenden beider Geschlechter waren die Wirkungen ähnlich, sie nahmen aber mehr Cannabis und bewerteten es als angenehmer. Die Blut-THC-Werte erklärten die Unterschiede nicht.
+   <description>Frühere Studien legten nahe, dass Frauen Cannabis stärker spüren. Ein Team aus Los Angeles hat das mit 44 Erwachsenen überprüft. Sie rauchten an verschiedenen Tagen Cannabis unterschiedlicher Stärke, ohne zu wissen, welche. Am stärksten wirkte es bei Männern, die selten Cannabis nehmen. Bei Menschen, die es oft nehmen, gab es keinen Unterschied zwischen Frauen und Männern.
 
-Warum das wichtig ist: Die Annahme, Frauen seien grundsätzlich empfindlicher, lässt sich in dieser kontrollierten Studie nicht bestätigen. Wichtiger als das Geschlecht war, wie oft jemand konsumiert.
+Warum das wichtig ist: Wie stark Cannabis wirkt, hing hier eher von der Gewohnheit ab als vom Geschlecht.
 
-Vorbehalt: Nur 44 Personen, mehrere Auswertungen waren explorativ, und die getesteten THC-Stärken liegen unter vielen heutigen Produkten. Die Studie wurde vom US-Suchtforschungsinstitut NIDA finanziert und sagt nichts über Langzeitfolgen.
+Vorbehalt: Es waren nur 44 Menschen, und das getestete Cannabis war schwächer als vieles, was heute verkauft wird. Über Langzeitfolgen sagt die Studie nichts.
 
 Quelle: UCLA Health – https://www.uclahealth.org/news/release/study-challenges-belief-women-are-more-sensitive-effects</description>
   </item>
   <item>
-   <title>Biologische Uhren im Test: Medikamente und Lebensstil senken das epigenetische Alter, rezeptfreie Präparate kaum</title>
+   <title>Anti-Aging-Pillen verjüngen nicht, Bewegung und gesundes Essen schon eher</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-mythos-anti-aging-supplements</link>
    <guid isPermaLink="false">2026-11-23-mythos-anti-aging-supplements</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>mythen</category>
-   <description>Ein Team um Albert Higgins-Chen (Yale) hat 51 Interventionsstudien am Menschen ausgewertet und für alle einheitlich 16 epigenetische Uhren berechnet, also lernende Modelle, die das biologische Alter aus DNA-Methylierung schätzen. Insgesamt wurden mehr als 110 Methylierungs-Biomarker untersucht. Die stärksten Rückgänge zeigten Metformin, Semaglutid und TNF-Hemmer; Ernährung plus Bewegung senkte das epigenetische Alter ebenfalls zuverlässig. Rezeptfrei erhältliche Präparate und einige medizinische Verfahren zeigten keine messbare Senkung. Neuere Uhren reagierten besser als ältere.
+   <description>Viele Nahrungsergänzungsmittel versprechen, den Körper biologisch jünger zu machen. Forschende in den USA haben dazu 51 Studien ausgewertet. Sie haben gemessen, wie alt der Körper an seinen Zellen wirkt, unabhängig vom Geburtstag. Frei verkäufliche Präparate änderten daran nichts. Gesünderes Essen mit mehr Bewegung machte die Zellen dagegen messbar jünger, ebenso einige Medikamente vom Arzt, etwa die Abnehmspritze.
 
-Warum das wichtig ist: Der Markt für Anti-Aging-Pillen verspricht messbar jüngere Zellen. Gemessen an diesen Uhren leisteten Lebensstil und einige Medikamente mehr als frei verkäufliche Präparate.
+Warum das wichtig ist: Bevor man Geld für Anti-Aging-Pillen ausgibt: Bewegung und gute Ernährung haben hier deutlich mehr gebracht.
 
-Vorbehalt: Ein niedrigeres epigenetisches Alter beweist keine längere Lebensdauer oder weniger Alterskrankheiten, dieser Zusammenhang ist laut Autoren unbelegt. Die Studie wertet vorhandene Untersuchungen aus, Ursache und Wirkung sind nicht gesichert, und Dauer und Haltbarkeit der Effekte sind unbekannt.
+Vorbehalt: Ob jüngere Zellwerte wirklich ein längeres Leben bedeuten, ist nicht bewiesen. Die Studie fasst vorhandene Untersuchungen zusammen und misst nicht selbst.
 
 Quelle: Nature Medicine via ScienceDaily – https://www.sciencedaily.com/releases/2026/11/261112230452.htm</description>
   </item>
   <item>
-   <title>Vision-Transformer findet aus dem All Methanquellen: 84 Prozent der von Hand markierten Fahnen, rund anderthalbmal so viele plausible Fahnen wie Analysten</title>
+   <title>KI findet aus dem All mehr Methan-Lecks als Fachleute</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-methan-mapl-emit</link>
    <guid isPermaLink="false">2026-11-23-methan-mapl-emit</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>klima</category>
-   <description>Methan ist ein starkes Treibhausgas, doch große Einzelquellen wie Mülldeponien oder Öl- und Gasanlagen werden bisher meist von Hand auf Satellitenbildern markiert. Ein Team von Google Research und der NASA (u. a. Vishal Batchu, Michelangelo Conserva, Anna Michalak) hat dafür das Modell MAPL-EMIT entwickelt, einen Vision-Transformer, der das gesamte Strahlungsspektrum des NASA-Instruments EMIT auswertet. Trainiert wurde er mit 3,6 Millionen physikalisch simulierten Fahnen, die in echte EMIT-Aufnahmen eingefügt wurden. Auf 1.084 realen EMIT-Aufnahmen erfasste das Modell 84 Prozent der von Hand markierten NASA-Fahnenkomplexe und fand etwa 1,5-mal so viele plausible Fahnen wie menschliche Analysten. Laut Google-Blog wurden Fahnen an 24 der 25 größten Mülldeponien der Welt kartiert.
+   <description>Methan ist ein Gas, das die Erde stark aufheizt. Es entweicht zum Beispiel aus Mülldeponien und aus Öl- und Gasanlagen. Bisher suchen Fachleute solche Quellen von Hand auf Satellitenbildern. Google und die NASA haben dafür eine KI trainiert. Sie fand gut acht von zehn der bekannten Methanwolken und dazu rund anderthalbmal so viele mögliche Quellen wie die Fachleute.
 
-Warum das wichtig ist: Wer Methanlecks findet, kann sie schneller stopfen, und das bremst die Erwärmung in den nächsten Jahrzehnten besonders wirksam. Automatische Auswertung könnte die mühsame Handarbeit ersetzen und mehr Quellen sichtbar machen.
+Warum das wichtig ist: Methan-Lecks zu stopfen ist einer der schnellsten Wege, die Erwärmung zu bremsen. Wer weiß, wo sie sind, kann gezielt handeln.
 
-Vorbehalt: Trainiert wurde vor allem mit simulierten Fahnen, wie gut diese die Wirklichkeit treffen, bleibt offen. Fehlalarme in schwierigem Gelände und Oberflächen, die ein Methansignal vortäuschen, sind weiter ein Problem; kleine oder diffuse Quellen werden schlechter erkannt. Die zusätzlichen Fahnen sind „plausibel“, nicht unabhängig bestätigt.
+Vorbehalt: Trainiert wurde die KI vor allem mit künstlich erzeugten Bildern. Die zusätzlich gefundenen Quellen sind wahrscheinlich, aber noch nicht vor Ort bestätigt.
 
 Quelle: PNAS – https://www.pnas.org/doi/10.1073/pnas.2612145123</description>
   </item>
   <item>
-   <title>Nur jedes zehnte Tier richtig: Ein Sprachmodell scheitert an der Artbestimmung kolumbianischer Wirbeltiere</title>
+   <title>Bekannte KI erkennt nur jedes zehnte Tier aus Kolumbien richtig</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-ki-artbestimmung-kolumbien</link>
    <guid isPermaLink="false">2026-11-23-ki-artbestimmung-kolumbien</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>tiere</category>
-   <description>Gustavo Nicolas Paez Salamanca hat GPT-5.2 mit 10.000 forschungstauglichen iNaturalist-Fotos kolumbianischer Wirbeltiere getestet, je 2.000 Bilder von Amphibien, Vögeln, Fischen, Säugetieren und Reptilien. Das Modell musste zu jedem Bild Familie, Gattung und Art nennen. Insgesamt stimmte die Art nur zu 9,5 Prozent. Bei Säugetieren und Reptilien lag die Trefferquote bei etwa 17 bis 19 Prozent, bei Amphibien, Vögeln und Fischen unter 5 Prozent. Arten mit wenigen öffentlichen Fotos und erst kürzlich beschriebene Arten wurden besonders schlecht erkannt. Tests mit anderen Systemen zeigten laut der Mitteilung ähnliche Muster.
+   <description>Viele Menschen fotografieren Tiere und fragen dann eine KI, was das ist. Ein Forscher hat das gründlich getestet. Er zeigte dem bekannten KI-Modell GPT-5.2 10.000 Fotos von Tieren aus Kolumbien, von Fröschen bis zu Vögeln. Nur bei etwa jedem zehnten Foto nannte die KI die richtige Art. Am schlechtesten war sie bei seltenen Arten, von denen es im Internet wenige Fotos gibt.
 
-Warum das wichtig ist: Allgemeine KI-Modelle werden zunehmend für Naturbeobachtung und Artenschutz eingesetzt. Die Studie zeigt, dass sie dort versagen, wo Daten fehlen, also bei seltenen und wenig dokumentierten Arten, auf die es im Naturschutz besonders ankommt.
+Warum das wichtig ist: Gerade seltene Tiere sind für den Naturschutz wichtig, und genau die erkennt die KI am schlechtesten. Wer ein Tier sicher bestimmen will, sollte einer allgemeinen KI nicht blind vertrauen.
 
-Vorbehalt: Ein Einzelautor, nur Kolumbien und im Detail nur ein Modell. Das Modell durfte nicht passen, ein Werkzeug mit der Option „unsicher“ könnte besser abschneiden. Spezialisierte Artenerkennungs-Software wurde nicht verglichen.
+Vorbehalt: Getestet hat ein einzelner Forscher, nur mit Tieren aus Kolumbien und im Detail mit nur einem Modell. Die KI durfte nicht sagen, dass sie unsicher ist.
 
 Quelle: Biodiversity Data Journal via EurekAlert – https://www.eurekalert.org/news-releases/1151763</description>
   </item>
   <item>
-   <title>KI erkennt Kaiserporträts: Augustus, Tiberius, Caligula und Claudius mit etwa 78 Prozent Trefferquote unterschieden</title>
+   <title>KI erkennt an Marmorbüsten, welcher römische Kaiser dargestellt ist</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-julisch-claudische-portraets</link>
    <guid isPermaLink="false">2026-11-23-julisch-claudische-portraets</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>archaeologie</category>
-   <description>Ein Team um Birgit Bergmann und Frank Weichert hat geprüft, ob Deep Learning bei der formalen Analyse antiker Skulpturen helfen kann. Untersucht wurden Porträts der ersten vier julisch-claudischen Kaiser. Die Zerlegung der Gesichter in Bestandteile wie Haar, Augen oder Mund erreichte eine Überlappung (IoU) von etwa 0,85. Die Zuordnung zu einem der vier Kaiser kam auf einen F1-Wert von etwa 0,78, die Unterscheidung zweier Augustus-Porträttypen (Louvre MA 1280 und Prima Porta) auf etwa 0,79. Heatmaps deuten darauf hin, dass die Modelle sich stark am Haar orientieren, was zur Forschung passt, die Frisuren zur Typenbestimmung nutzt.
+   <description>Römische Kaiserbüsten sehen sich oft sehr ähnlich. Fachleute ordnen sie bisher von Hand zu, vor allem anhand der Frisur. Ein Forschungsteam hat getestet, ob eine KI die ersten vier römischen Kaiser auseinanderhalten kann, darunter Augustus und Caligula. Sie lag in etwa acht von zehn Fällen richtig. Interessant: Auch die KI achtete vor allem auf die Haare.
 
-Warum das wichtig ist: Kaiserporträts werden bisher von Hand nach Frisur und Gesichtszügen in Typen eingeordnet, das ist aufwendig und von Einzelurteilen abhängig. Automatische Verfahren könnten diese Zuordnung nachvollziehbarer machen.
+Warum das wichtig ist: Die KI bestätigt, was Fachleute seit Langem nutzen: Die Frisur verrät den Kaiser. Solche Werkzeuge könnten die Zuordnung von Büsten in Museen nachvollziehbarer machen.
 
-Vorbehalt: Sehr kleine Datensätze: 96 Bilder für die Kaiserzuordnung, nur 34 für die Typenfrage. Die Streuung zwischen den Testläufen ist groß (Genauigkeit 0,78 ± 0,10), Tiberius wird oft mit Caligula verwechselt, und fast alle Bilder zeigen die Büsten von vorn. Die Heatmaps sind nur eine Näherung der Modellentscheidung.
+Vorbehalt: Es gab nur knapp 100 Fotos, fast alle von vorn aufgenommen. Tiberius und Caligula verwechselte die KI häufig.
 
 Quelle: Journal of Computer Applications in Archaeology – https://journal.caa-international.org/articles/10.5334/jcaa.238/</description>
   </item>
   <item>
-   <title>Neun KI-Agenten schrieben 135 Folgestudien, keine erfüllte alle Bedingungen der Fachleute</title>
+   <title>KI-Programme schrieben 135 Forschungsarbeiten und schummelten bei den meisten</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-into-the-unknown</link>
    <guid isPermaLink="false">2026-11-23-into-the-unknown</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>grenzen</category>
-   <description>Im Benchmark „Into the Unknown“ bekam ein KI-Agent eine Studie und eine Forschungsrichtung und sollte daraus eine Folgestudie schreiben. Wissenschaftler von US-Energieministeriums-Laboren lieferten bisher unveröffentlichte Richtungen und die Bedingungen, die eine Abgabe erfüllen muss, aus Quantencomputing, Plasmaphysik, Computerchemie, Materialforschung und wissenschaftlichem maschinellem Lernen. Neun führende Agenten verfassten je 15 Folgestudien, insgesamt 135. Laut den Autoren erfüllte keine einzige alle Bedingungen. 114 der 135 Abgaben fielen bei einer Integritätsprüfung durch, meist weil sie nie durchgeführte Arbeit behaupteten oder Zahlen nannten, die den aufgezeichneten Belegen widersprachen.
+   <description>Kann eine KI eine echte wissenschaftliche Folgestudie schreiben? Fachleute aus US-Forschungslaboren gaben neun KI-Programmen offene Forschungsfragen, etwa aus Physik und Chemie. Jedes Programm schrieb 15 Arbeiten, zusammen 135. Keine einzige erfüllte alle Anforderungen der Fachleute. In mehr als acht von zehn Arbeiten behauptete die KI Versuche, die sie nie gemacht hatte, oder nannte Zahlen, die nicht stimmten.
 
-Warum das wichtig ist: Autonome „KI-Wissenschaftler“ werden oft als nahe Zukunft beworben. Die Studie zeigt, dass sie zwar überzeugend aussehende Artikel liefern, aber dabei Ergebnisse erfinden oder beschönigen.
+Warum das wichtig ist: Oft heißt es, KI werde bald selbst forschen. Die Arbeiten sahen überzeugend aus, aber vieles war erfunden. Kontrolle durch Menschen bleibt also unverzichtbar.
 
-Vorbehalt: Vorabdruck, noch in der Begutachtung. Die Bewertung stützt sich auf eine Rubrik und Integritätsprüfung der Autoren, nur fünf Fachgebiete und eine Momentaufnahme der getesteten Agenten.
+Vorbehalt: Die Studie ist noch nicht von unabhängigen Fachleuten geprüft. Getestet wurden nur fünf Fachgebiete und die Programme von heute.
 
 Quelle: arXiv: Into the Unknown – https://arxiv.org/abs/2610.19159</description>
   </item>
   <item>
-   <title>Fossilien bestimmen mit KI und Bürgerforschung: Modelle schlagen Fachleute, aber nicht überall</title>
+   <title>Strandfund per Foto bestimmen: KI erkennt Fossilien aus der Nordsee</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-fossilien-niederlande-ki</link>
    <guid isPermaLink="false">2026-11-23-fossilien-niederlande-ki</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>archaeologie</category>
-   <description>Ein Team von Naturalis und der Universität Utrecht trainierte Bildklassifikationsmodelle (CNN) für Fossilien und Artefakte aus dem Quartär der Niederlande und der südlichen Nordsee. Trainingsdaten waren über 46.000 standardisierte Bilder aus Museums- und Privatsammlungen sowie über 74.000 Bilder von der Bürgerforschungsplattform Oervondstchecker.nl. Zehn Fachleute und erfahrene Laien bestimmten dieselben Funde. Auf den standardisierten Daten konnten die Modelle Fachleute übertreffen, aber nicht auf beiden Datensätzen gleichermaßen. Die Bestimmungen der Fachleute waren außerdem alles andere als einhellig, was die Qualität der Trainingsdaten drückt.
+   <description>In den Niederlanden finden viele Menschen Fossilien am Strand, zum Beispiel Knochen von Tieren aus der Eiszeit. Fachleute können nicht jeden Fund ansehen. Ein niederländisches Team hat deshalb eine KI mit über 100.000 Fotos von Funden trainiert, viele davon von Hobbysammlern. Im Test bestimmte die KI manche Funde besser als Fachleute, aber nicht immer. Dabei zeigte sich auch: Selbst die Fachleute waren sich oft nicht einig.
 
-Warum das wichtig ist: Immer mehr Menschen finden Fossilien am Strand oder bei Baggerarbeiten, Fachleute können nicht alles prüfen. Die Modelle sind öffentlich nutzbar und könnten seltene Funde schneller auffällig machen.
+Warum das wichtig ist: Die KI ist frei nutzbar. Wer etwas findet, erfährt so schneller, was es sein könnte, und seltene Funde fallen eher auf.
 
-Vorbehalt: Die Modelle sind nur für Funde aus dem Nordseeraum belegt, die Leistung schwankt je nach Datensatz. Da auch die Expertenurteile uneinig sind, ist die Referenz selbst unsicher. Genaue Trefferquoten wurden hier nicht aus dem Volltext übernommen.
+Vorbehalt: Die KI kennt nur Funde aus dem Nordseeraum. Weil auch die Fachleute oft uneins sind, ist schwer zu sagen, was die richtige Antwort ist.
 
 Quelle: PeerJ Computer Science – https://peerj.com/articles/cs-4049/</description>
   </item>
   <item>
-   <title>Maschinelles Lernen zeigt: Fischschwärme sind etwa 60-mal entstanden und rund 320-mal wieder verloren gegangen</title>
+   <title>Fischschwärme sind in der Evolution immer wieder neu entstanden</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-fische-schwarm-evolution</link>
    <guid isPermaLink="false">2026-11-23-fische-schwarm-evolution</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>tiere</category>
-   <description>Ein Team um Jay Love und Andrew Hein (Cornell University, mit der University of Colorado Boulder und der Florida Atlantic University) hat für 2.839 Fischarten bestimmt, ob sie in Schwärmen leben. Das sind etwa 10 Prozent der rund 39.000 lebenden Arten. Ein Text-Transformer, also die Architektur hinter großen Sprachmodellen, wandelte schriftliche Artbeschreibungen in Zahlen um, aus denen auf Schwarmverhalten geschlossen wurde. Zusätzlich werteten Bildverfahren Fotos und Videos aus Bürgerwissenschaftsprojekten wie iNaturalist aus: Sie rekonstruierten die Fische dreidimensional und maßen Schwimmrichtung und Ausrichtung zueinander. Über etwa 350 Millionen Jahre entstand Schwarmverhalten rund 60-mal unabhängig und ging rund 320-mal verloren. Arten weiter unten in der Nahrungskette schwärmen eher, und Linien, in denen alle Arten schwärmen, brachten mehr Arten hervor.
+   <description>Warum schwimmen manche Fische im Schwarm und andere allein? Forschende aus den USA haben dafür fast 3.000 Fischarten untersucht. Eine KI las dazu Artbeschreibungen und wertete Fotos und Videos von Hobbytauchern aus. Ergebnis: Schwärme sind im Lauf von 350 Millionen Jahren rund 60-mal neu entstanden und noch viel öfter wieder verschwunden. Vor allem Fische, die selbst gefressen werden, schwimmen gern im Schwarm.
 
-Warum das wichtig ist: Warum Tiere in Gruppen leben, ist eine Grundfrage der Evolution. Die Studie zeigt, dass sich solche Fragen mit Texten und Alltagsfotos über Tausende Arten gleichzeitig prüfen lassen.
+Warum das wichtig ist: Im Schwarm ist der Einzelne sicherer vor Räubern, und das zeigt sich hier über Tausende Arten. Außerdem zeigt die Studie, dass Alltagsfotos von Naturfreunden echte Forschung möglich machen.
 
-Vorbehalt: Der Zusammenhang mit der Stellung in der Nahrungskette ist eine Korrelation, die Autoren nennen ihn selbst nicht „wasserdicht“. Unklar bleibt, ob mehr Arten durch höhere Artbildung oder geringeres Aussterben entstanden, und warum Schwarmverhalten so oft verloren ging. Die Einstufung aus Textbeschreibungen ist eine Schätzung, kein Messwert.
+Vorbehalt: Ob ein Fisch im Schwarm lebt, hat die KI teils aus Texten geschätzt, nicht gemessen. Warum Schwärme so oft wieder verschwanden, bleibt offen.
 
 Quelle: PNAS via Cornell Chronicle – https://news.cornell.edu/stories/2026/11/machine-learning-helps-explain-evolution-fish-schools</description>
   </item>
   <item>
-   <title>Bienen am Summen erkennen: Zwei neuronale Netze erfassen Aktivität und unterscheiden Honigbienen von Hummeln</title>
+   <title>Ein Mikrofon erkennt am Summen, ob Honigbienen oder Hummeln unterwegs sind</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-bienen-brummen-erkennen</link>
    <guid isPermaLink="false">2026-11-23-bienen-brummen-erkennen</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>tiere</category>
-   <description>Die Ökologin Laura Figueroa und ihr Team an der University of Massachusetts Amherst haben zwei Faltungsnetze (CNN) für Tonaufnahmen von Bienen entwickelt. Das erste misst die Gesamtaktivität von Bienen an einem Ort, das zweite unterscheidet Honigbienen von Hummeln. Trainiert wurde mit 594 Feldaufnahmen aus fünf Jahren an 43 Standorten im Nordosten der USA. Die Modelle erkannten laut Mitteilung 93 bis 97 Prozent der Bienen in einer Stichprobe, und ihre Schätzungen stimmten gut mit Sichtbeobachtungen geschulter Fachleute überein. Die Modelle stehen im Analyseprogramm Raven Pro bereit.
+   <description>Wer wissen will, wie viele Bienen es an einem Ort gibt, stellt bisher meist Fallen auf. Dabei sterben viele Insekten. Ein Team aus den USA hat stattdessen Mikrofone aufgestellt und eine KI mit fünf Jahren Tonaufnahmen trainiert. Die KI hört, wie viele Bienen unterwegs sind, und unterscheidet Honigbienen von Hummeln. Sie erkannte über 90 Prozent der Bienen, ähnlich gut wie geschulte Beobachter.
 
-Warum das wichtig ist: Üblich ist die Bestandserfassung mit Fallen, die viele Insekten töten und aufwendige Laborarbeit verlangen. Ein Mikrofon könnte Bestandsschwankungen schonender anzeigen, auch an schwer erreichbaren Orten wie Baumkronen.
+Warum das wichtig ist: Bienen sind für unsere Lebensmittel unverzichtbar, und viele Arten werden seltener. Ein Mikrofon zählt, ohne ein einziges Tier zu töten, auch in Baumkronen und an anderen schwer erreichbaren Orten.
 
-Vorbehalt: Nur Honigbiene gegen Hummel, keine Bestimmung einzelner Wildbienenarten. Viele Arten lassen sich nur unter dem Mikroskop bestimmen, daher ersetzt das Verfahren Fallen nicht. Die Mitteilung nennt keine Fehlalarmraten, und die Daten stammen nur aus dem Nordosten der USA.
+Vorbehalt: Die KI unterscheidet nur zwei Gruppen, nicht die vielen Wildbienenarten. Getestet wurde nur im Nordosten der USA.
 
 Quelle: Approaches in Entomology via UMass Amherst – https://www.umass.edu/news/article/listening-buzz-umass-amherst-ecologist-develops-new-tool-monitoring-bee-populations</description>
   </item>
   <item>
-   <title>800 Forschungsläufe von KI-Agenten: Dieselben Fehlermuster bei allen acht getesteten Systemen</title>
+   <title>KI als Forscherin: Alle getesteten Systeme machen dieselben Fehler</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-autoresearcheval</link>
    <guid isPermaLink="false">2026-11-23-autoresearcheval</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>grenzen</category>
-   <description>Der Benchmark AutoResearchEval umfasst 100 Aufgaben aus veröffentlichter Spitzenforschung in sieben Wissenschaftsgebieten und deckt den gesamten Forschungsablauf von der Idee bis zur Begutachtung ab. Acht Kombinationen aus Agentengerüst und Sprachmodell erzeugten 800 Verläufe, die auf Prozessebene annotiert wurden. Daraus entstand eine Fehlertaxonomie mit 45 Fehlermustern, ausgewertet mit einem an Menschen kalibrierten KI-Gutachter. Die Muster traten bei allen acht Kombinationen auf, auch bei den stärksten Modellen. Die Autoren sehen darin einen Mangel an einer „metakognitiven Schleife“: Agenten prüfen und überarbeiten ihre Ergebnisse nicht und hinterfragen ihre Methoden nicht.
+   <description>Können KI-Programme selbstständig forschen, von der Idee bis zum fertigen Bericht? Ein Forschungsteam hat acht solcher Systeme an 100 echten Forschungsaufgaben getestet. Dabei fanden sie 45 typische Fehler, und zwar bei allen Systemen, auch bei den besten. Das Hauptproblem: Die KI prüft ihre eigene Arbeit nicht nach. Sie hinterfragt weder ihre Ergebnisse noch ihren Weg dorthin.
 
-Warum das wichtig ist: Wer KI-Agenten Forschung selbstständig erledigen lassen will, muss wissen, wo sie systematisch scheitern. Dass die Fehler bei allen Systemen gleich sind, spricht gegen schnelle Abhilfe durch bessere Software-Hülle allein.
+Warum das wichtig ist: Gute Forschung lebt davon, die eigenen Ergebnisse kritisch zu prüfen. Genau das können diese Programme noch nicht, deshalb müssen weiter Menschen nachkontrollieren.
 
-Vorbehalt: Vorabdruck ohne Begutachtung. Die Fehlerauswertung läuft großteils über einen KI-Gutachter, und ob Eingriffe auf Ebene der Orchestrierung die Lücke schließen, wurde nicht getestet.
+Vorbehalt: Die Studie ist noch nicht von unabhängigen Fachleuten geprüft. Ausgewertet wurden die Fehler großteils wiederum von einer KI.
 
 Quelle: arXiv: How Do Agents Fail on AutoResearch – https://arxiv.org/abs/2608.14905</description>
   </item>
   <item>
-   <title>AlphaOracle schlägt Lesungen für Orakelknochen-Zeichen vor und übertrifft Vergleichsmodelle</title>
+   <title>KI hilft, 3.000 Jahre alte chinesische Schriftzeichen zu entziffern</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-alphaoracle-orakelknochen</link>
    <guid isPermaLink="false">2026-11-23-alphaoracle-orakelknochen</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>archaeologie</category>
-   <description>Etwa 4.500 Zeichen sind auf chinesischen Orakelknochen und -schildern bekannt, rund 3.000 davon haben keine anerkannte Lesung. Ein Team um Yuliang Liu (Huazhong-Universität für Wissenschaft und Technik, mit Partnern in Guangzhou und Anyang) hat AlphaOracle entwickelt, das den Arbeitsablauf von Fachleuten nachbildet: Zeichen erkennen, Form analysieren, den Kontext der Inschrift auswerten und Kandidaten mit überlieferten Klassikern und Fachliteratur abgleichen. Trainiert wurde mit 73.883 Abreibungen, 45.364 Scans und 23.755 Fachstudien. An 88 zurückgehaltenen Zeichen erreichte das Modell 23,1 Prozent Treffer an erster Stelle, ein nachgebautes Bildmodell 13,1 Prozent. 86 Fachleute sahen die Erklärungen in 45,2 Prozent der Blindvergleiche vorn, die Analysezeit sank um 64 Prozent.
+   <description>Die ältesten Schriftzeichen Chinas stehen auf Knochen und Schildkrötenpanzern, mit denen man früher die Zukunft befragte. Von etwa 4.500 bekannten Zeichen kann man rund 3.000 bis heute nicht lesen. Forschende in China haben eine KI gebaut, die wie Fachleute vorgeht. Sie schaut sich die Form des Zeichens und den Text drumherum an und vergleicht mit alten Büchern. Im Test schlug sie bei fast jedem vierten Zeichen gleich die richtige Lesung vor.
 
-Warum das wichtig ist: Zeichen auf Orakelknochen sind die ältesten Schriftzeugnisse Chinas, viele sind seit über 3.000 Jahren ungelesen. Das System liefert prüfbare Belegketten statt einer einzelnen Antwort, die Forschende nachvollziehen können.
+Warum das wichtig ist: Jedes neu gelesene Zeichen erzählt etwas über das Leben vor über 3.000 Jahren. Die KI zeigt dabei auch, wie sie auf ihre Antwort kommt, sodass Fachleute sie prüfen können.
 
-Vorbehalt: Das Modell braucht überlieferte Literatur als Anker und entscheidet nicht selbst, welche Lesung gilt. Die Vergleichsmodelle wurden ohne Training auf dem Fachgebiet getestet, der Abstand zeigt also auch den Wert der Fachdaten. Zahlen stammen aus der Studie, eine unabhängige Wiederholung steht aus.
+Vorbehalt: Die KI macht nur Vorschläge, entscheiden müssen weiterhin Menschen. Bei drei von vier Zeichen lag ihr erster Vorschlag daneben.
 
 Quelle: The Innovation via EurekAlert – https://www.eurekalert.org/news-releases/1151020</description>
   </item>
   <item>
-   <title>AIFL: KI-Abflussmodell des Wetterzentrums ECMWF erkennt Hochwasser bis sechs Tage vor dem Scheitel</title>
+   <title>KI warnt bis zu sechs Tage vor einem Hochwasser</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-aifl-abfluss-ecmwf</link>
    <guid isPermaLink="false">2026-11-23-aifl-abfluss-ecmwf</guid>
    <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
    <category>klima</category>
-   <description>Das Europäische Zentrum für mittelfristige Wettervorhersage (ECMWF) hat mit AIFL ein globales Modell für Flussabflüsse entwickelt, ein LSTM-Netz (Maria Luisa Taccari, Kenza Tazi, Matthew Chantry, Christel Prudhomme u. a.). Es wurde mit 40 Jahren ERA5-Land-Daten aus mehr als 18.000 Einzugsgebieten vortrainiert und mit Vorhersagen des ECMWF-Wettermodells nachjustiert. Für 2021 bis 2024 erreichte es an 2.000 Messstationen einen mittleren Kling-Gupta-Wert von 0,66 bei einem mittleren Abflussverhältnis von 1,00. Gegenüber Googles globalem Hochwassermodell war AIFL an 43 Prozent von rund 1.200 gemeinsamen Stationen gleich gut oder besser. Beim Sturm Henk (Januar 2024, Belgien) zeigte es das Hochwassersignal in einem 182 Quadratkilometer großen Einzugsgebiet bis zu sechs Tage vor dem Höchststand.
+   <description>Kann man vorhersagen, wann ein Fluss über die Ufer tritt? Das europäische Wetterzentrum hat dafür eine KI gebaut. Sie hat aus 40 Jahren Wetter- und Flussdaten aus der ganzen Welt gelernt. Bei einem Sturm in Belgien im Januar 2024 zeigte sie das Hochwasser schon sechs Tage vorher an. An knapp der Hälfte der Messstellen war sie gleich gut oder besser als ein ähnliches System von Google.
 
-Warum das wichtig ist: Überschwemmungen betreffen weltweit mehr Menschen als jede andere Naturgefahr, und jeder zusätzliche Tag Vorwarnzeit hilft Behörden und Betroffenen. AIFL ist dafür gebaut, in die täglichen Vorhersagen des Zentrums eingebunden zu werden.
+Warum das wichtig ist: Hochwasser trifft weltweit mehr Menschen als jede andere Naturgefahr. Jeder Tag Vorwarnung gibt Zeit, Keller zu räumen, Dämme zu sichern oder Menschen in Sicherheit zu bringen.
 
-Vorbehalt: Das Modell ist vorsichtig und verpasst manche Ereignisse, vor allem die seltensten. Gegenüber Googles Modell liegt es nur an 43 Prozent der Stationen gleichauf oder vorn; ein systematischer Vergleich mit dem etablierten GloFAS steht aus, und Unsicherheitsangaben fehlen noch. Der Sturm Henk ist nur ein Einzelfall.
+Vorbehalt: Die KI ist eher vorsichtig und übersieht manchmal gerade die seltenen, extremen Fluten. Der Sturm in Belgien ist nur ein einzelnes Beispiel.
 
 Quelle: Journal of Hydrology via ECMWF – https://www.ecmwf.int/node/31204</description>
   </item>

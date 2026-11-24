@@ -18,25 +18,25 @@
   }
  ],
  "de": {
-  "myth": "Anti-Aging-Nahrungsergänzungsmittel senken das biologische Alter.",
-  "title": "Biologische Uhren im Test: Medikamente und Lebensstil senken das epigenetische Alter, rezeptfreie Präparate kaum",
-  "summary": "Ein Team um Albert Higgins-Chen (Yale) hat 51 Interventionsstudien am Menschen ausgewertet und für alle einheitlich 16 epigenetische Uhren berechnet, also lernende Modelle, die das biologische Alter aus DNA-Methylierung schätzen. Insgesamt wurden mehr als 110 Methylierungs-Biomarker untersucht. Die stärksten Rückgänge zeigten Metformin, Semaglutid und TNF-Hemmer; Ernährung plus Bewegung senkte das epigenetische Alter ebenfalls zuverlässig. Rezeptfrei erhältliche Präparate und einige medizinische Verfahren zeigten keine messbare Senkung. Neuere Uhren reagierten besser als ältere.",
-  "why": "Der Markt für Anti-Aging-Pillen verspricht messbar jüngere Zellen. Gemessen an diesen Uhren leisteten Lebensstil und einige Medikamente mehr als frei verkäufliche Präparate.",
-  "caveat": "Ein niedrigeres epigenetisches Alter beweist keine längere Lebensdauer oder weniger Alterskrankheiten, dieser Zusammenhang ist laut Autoren unbelegt. Die Studie wertet vorhandene Untersuchungen aus, Ursache und Wirkung sind nicht gesichert, und Dauer und Haltbarkeit der Effekte sind unbekannt."
+  "myth": "Anti-Aging-Pillen aus der Drogerie machen den Körper jünger.",
+  "title": "Anti-Aging-Pillen verjüngen nicht, Bewegung und gesundes Essen schon eher",
+  "summary": "Viele Nahrungsergänzungsmittel versprechen, den Körper biologisch jünger zu machen. Forschende in den USA haben dazu 51 Studien ausgewertet. Sie haben gemessen, wie alt der Körper an seinen Zellen wirkt, unabhängig vom Geburtstag. Frei verkäufliche Präparate änderten daran nichts. Gesünderes Essen mit mehr Bewegung machte die Zellen dagegen messbar jünger, ebenso einige Medikamente vom Arzt, etwa die Abnehmspritze.",
+  "why": "Bevor man Geld für Anti-Aging-Pillen ausgibt: Bewegung und gute Ernährung haben hier deutlich mehr gebracht.",
+  "caveat": "Ob jüngere Zellwerte wirklich ein längeres Leben bedeuten, ist nicht bewiesen. Die Studie fasst vorhandene Untersuchungen zusammen und misst nicht selbst."
  },
  "en": {
-  "myth": "Anti-aging supplements lower your biological age.",
-  "title": "Testing the biological clocks: drugs and lifestyle lower epigenetic age, over-the-counter supplements barely do",
-  "summary": "A team led by Albert Higgins-Chen (Yale) analysed 51 human intervention studies and calculated 16 epigenetic clocks for all of them in a uniform way. These are learned models that estimate biological age from DNA methylation. More than 110 methylation biomarkers were examined in all. The largest reductions came with metformin, semaglutide and TNF inhibitors; diet plus exercise also reliably lowered epigenetic age. Over-the-counter supplements and some medical procedures showed no measurable reduction. Newer clocks responded better than older ones.",
-  "why": "The anti-aging pill market promises measurably younger cells. By these clocks, lifestyle and some drugs did more than supplements sold without prescription.",
-  "caveat": "A lower epigenetic age does not prove longer life or fewer age-related diseases; the authors say that link is unproven. The work pools existing studies, cause and effect are not established, and how long the effects last is unknown."
+  "myth": "Anti-ageing pills from the chemist make your body younger.",
+  "title": "Anti-ageing pills do not rejuvenate you; exercise and healthy food do better",
+  "summary": "Many supplements promise to make your body biologically younger. US researchers analysed 51 studies on this. They measured how old the body looks at the level of its cells, regardless of birthday. Over-the-counter supplements made no difference. A healthier diet with more exercise made cells measurably younger, as did some prescription drugs, such as the weight-loss injection.",
+  "why": "Before spending money on anti-ageing pills: exercise and good nutrition did much more here.",
+  "caveat": "It is not proven that younger cell readings mean a longer life. The study combines existing research and does not measure anything itself."
  },
  "ru": {
-  "myth": "Антивозрастные добавки снижают биологический возраст.",
-  "title": "Проверка биологических часов: лекарства и образ жизни снижают эпигенетический возраст, добавки из аптеки почти нет",
-  "summary": "Команда Альберта Хиггинс-Чена (Йель) проанализировала 51 интервенционное исследование на людях и единообразно рассчитала для всех 16 эпигенетических часов, то есть обученных моделей, оценивающих биологический возраст по метилированию ДНК. Всего изучено более 110 биомаркеров метилирования. Наибольшее снижение дали метформин, семаглутид и ингибиторы ФНО; диета вместе с физической нагрузкой тоже стабильно снижала эпигенетический возраст. Добавки, продающиеся без рецепта, и некоторые медицинские процедуры измеримого снижения не показали. Новые часы реагировали лучше старых.",
-  "why": "Рынок антивозрастных таблеток обещает измеримо более молодые клетки. По этим часам образ жизни и некоторые лекарства сработали лучше, чем добавки без рецепта.",
-  "caveat": "Более низкий эпигенетический возраст не доказывает большую продолжительность жизни или меньше возрастных болезней, эта связь, по словам авторов, не доказана. Работа объединяет существующие исследования, причинность не установлена, а длительность эффектов неизвестна."
+  "myth": "Таблетки против старения из аптеки делают организм моложе.",
+  "title": "Таблетки против старения не омолаживают, а движение и здоровая еда — скорее да",
+  "summary": "Многие пищевые добавки обещают сделать организм биологически моложе. Исследователи из США проанализировали 51 исследование на эту тему. Они измеряли, насколько старым выглядит организм по его клеткам, независимо от даты рождения. Добавки без рецепта ничего не изменили. А более здоровое питание вместе с движением заметно омолаживало клетки, как и некоторые рецептурные лекарства, например уколы для похудения.",
+  "why": "Прежде чем тратить деньги на таблетки против старения: движение и хорошее питание здесь дали гораздо больше.",
+  "caveat": "Не доказано, что более молодые клетки означают более долгую жизнь. Исследование обобщает прежние работы и само ничего не измеряет."
  },
  "image": {
   "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04562-9/MediaObjects/41591_2026_4562_Fig1_HTML.png",

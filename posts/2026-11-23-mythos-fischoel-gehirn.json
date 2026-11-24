@@ -18,25 +18,25 @@
   }
  ],
  "de": {
-  "myth": "Fischöl-Kapseln schützen das Gehirn und beugen Demenz vor.",
-  "title": "Fischöl fürs Gehirn: Zwei Jahre hochdosiertes DHA brachten keinen kognitiven Vorteil",
-  "summary": "Amerikaner geben jährlich mehr als eine Milliarde Dollar für Omega-3-Präparate aus. Ein Team um Hussein Yassine (Keck Medicine of USC) gab 365 Erwachsenen von 55 bis 80 Jahren, die selten Fisch essen und ein erhöhtes Alzheimer-Risiko haben, zwei Jahre lang täglich 2.000 mg DHA oder Placebo, randomisiert und doppelblind. 47 Prozent trugen die Genvariante APOE4. Das DHA im Nervenwasser stieg nach sechs Monaten im Mittel um 17 Prozent, es kam also im Gehirn an. Trotzdem gab es keinen signifikanten Vorteil bei der geistigen Leistung und keinen Schutz vor dem Schrumpfen des Hippocampus.",
-  "why": "Dass ein Nährstoff im Gehirn ankommt, heißt nicht, dass er dort etwas bewirkt. Wer Fischöl nur für sein Gedächtnis nimmt, hat dafür hier keinen Beleg.",
-  "caveat": "Getestet wurde nur hochdosiertes DHA, nicht Omega-3 aus Fisch oder EPA. Die Ergebnisse gelten für ältere, selten Fisch essende Risikopersonen. Die Autoren betonen, Fisch bleibe Teil gesunder Ernährung. Gefördert wurde die Studie unter anderem von den US-amerikanischen National Institutes of Health."
+  "myth": "Fischöl-Kapseln halten das Gehirn fit und schützen vor Demenz.",
+  "title": "Fischöl-Kapseln schützen das Gedächtnis nicht",
+  "summary": "Fischöl gilt als Nahrung fürs Gehirn, und entsprechend viele Kapseln werden verkauft. Ein Team aus Los Angeles gab 365 älteren Menschen mit erhöhtem Alzheimer-Risiko zwei Jahre lang täglich viel von einem Fischöl-Baustein namens DHA. Eine Vergleichsgruppe bekam Scheinkapseln. Der Stoff kam nachweislich im Gehirn an. Trotzdem blieben Gedächtnis und Denkvermögen gleich, und der Abbau im Gehirn wurde nicht gebremst.",
+  "why": "Dass ein Stoff im Gehirn ankommt, heißt noch nicht, dass er dort hilft. Wer Fischöl-Kapseln nur fürs Gedächtnis nimmt, hat dafür keinen Beleg.",
+  "caveat": "Getestet wurde nur ein Baustein von Fischöl, bei älteren Menschen, die selten Fisch essen. Fisch als Lebensmittel bleibt laut den Forschenden trotzdem gesund."
  },
  "en": {
-  "myth": "Fish oil capsules protect the brain and prevent dementia.",
-  "title": "Fish oil for the brain: two years of high-dose DHA gave no cognitive benefit",
-  "summary": "Americans spend more than a billion dollars a year on omega-3 supplements. A team led by Hussein Yassine (Keck Medicine of USC) gave 365 adults aged 55 to 80, who rarely eat fish and are at elevated Alzheimer's risk, 2,000 mg of DHA or placebo daily for two years, randomised and double-blind. 47 percent carried the APOE4 gene variant. DHA in cerebrospinal fluid rose by an average of 17 percent after six months, so it did reach the brain. Even so, there was no significant advantage in cognitive performance and no protection against shrinkage of the hippocampus.",
-  "why": "A nutrient reaching the brain does not mean it does anything there. Anyone taking fish oil only for memory has no evidence for it here.",
-  "caveat": "Only high-dose DHA was tested, not omega-3 from fish or EPA. Results apply to older, low-fish-eating at-risk people. The authors stress that fish remains part of a healthy diet. Funding came partly from the US National Institutes of Health."
+  "myth": "Fish-oil capsules keep your brain fit and protect against dementia.",
+  "title": "Fish-oil capsules do not protect memory",
+  "summary": "Fish oil is seen as brain food, and lots of capsules are sold. A team in Los Angeles gave 365 older people with a higher risk of Alzheimer's a high daily dose of a fish-oil component called DHA for two years. A comparison group got dummy capsules. The substance clearly reached the brain. Even so, memory and thinking stayed the same, and brain shrinkage did not slow down.",
+  "why": "Just because a substance reaches the brain does not mean it helps there. If you take fish-oil capsules only for your memory, there is no evidence for it.",
+  "caveat": "Only one component of fish oil was tested, in older people who rarely eat fish. According to the researchers, fish as a food is still healthy."
  },
  "ru": {
-  "myth": "Капсулы с рыбьим жиром защищают мозг и предотвращают деменцию.",
-  "title": "Рыбий жир для мозга: два года высоких доз DHA не дали когнитивной пользы",
-  "summary": "Американцы тратят на добавки омега-3 более миллиарда долларов в год. Команда Хусейна Ясина (Keck Medicine of USC) в рандомизированном двойном слепом исследовании два года давала 365 взрослым от 55 до 80 лет, которые редко едят рыбу и имеют повышенный риск болезни Альцгеймера, ежедневно 2000 мг DHA или плацебо. 47 процентов были носителями варианта гена APOE4. Через полгода DHA в спинномозговой жидкости вырос в среднем на 17 процентов, то есть в мозг вещество попало. Тем не менее значимого преимущества в когнитивных показателях не было, а сжатие гиппокампа оно не предотвратило.",
-  "why": "То, что вещество попадает в мозг, не значит, что оно там что-то делает. Тот, кто принимает рыбий жир ради памяти, подтверждения этому здесь не получает.",
-  "caveat": "Проверяли только высокие дозы DHA, а не омега-3 из рыбы или EPA. Результаты относятся к пожилым людям группы риска, редко евшим рыбу. Авторы подчёркивают, что рыба остаётся частью здорового питания. Исследование частично финансировали американские Национальные институты здоровья."
+  "myth": "Капсулы рыбьего жира поддерживают мозг и защищают от деменции.",
+  "title": "Капсулы рыбьего жира не защищают память",
+  "summary": "Рыбий жир считают пищей для мозга, и капсул продаётся очень много. Команда из Лос-Анджелеса два года давала 365 пожилым людям с повышенным риском болезни Альцгеймера большую ежедневную дозу компонента рыбьего жира под названием DHA. Группа для сравнения получала капсулы-пустышки. Вещество действительно доходило до мозга. И всё же память и мышление не изменились, а уменьшение мозга не замедлилось.",
+  "why": "То, что вещество попадает в мозг, ещё не значит, что оно там помогает. Принимать капсулы рыбьего жира ради памяти — оснований для этого нет.",
+  "caveat": "Проверяли лишь один компонент рыбьего жира и только у пожилых людей, которые редко едят рыбу. Сама рыба как продукт, по словам исследователей, остаётся полезной."
  },
  "image": {
   "src": "https://www.sciencedaily.com/images/1920/fish-oil-omega-3-capsules-dha-epa.webp",

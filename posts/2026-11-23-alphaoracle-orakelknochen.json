@@ -19,22 +19,22 @@
   }
  ],
  "de": {
-  "title": "AlphaOracle schlägt Lesungen für Orakelknochen-Zeichen vor und übertrifft Vergleichsmodelle",
-  "summary": "Etwa 4.500 Zeichen sind auf chinesischen Orakelknochen und -schildern bekannt, rund 3.000 davon haben keine anerkannte Lesung. Ein Team um Yuliang Liu (Huazhong-Universität für Wissenschaft und Technik, mit Partnern in Guangzhou und Anyang) hat AlphaOracle entwickelt, das den Arbeitsablauf von Fachleuten nachbildet: Zeichen erkennen, Form analysieren, den Kontext der Inschrift auswerten und Kandidaten mit überlieferten Klassikern und Fachliteratur abgleichen. Trainiert wurde mit 73.883 Abreibungen, 45.364 Scans und 23.755 Fachstudien. An 88 zurückgehaltenen Zeichen erreichte das Modell 23,1 Prozent Treffer an erster Stelle, ein nachgebautes Bildmodell 13,1 Prozent. 86 Fachleute sahen die Erklärungen in 45,2 Prozent der Blindvergleiche vorn, die Analysezeit sank um 64 Prozent.",
-  "why": "Zeichen auf Orakelknochen sind die ältesten Schriftzeugnisse Chinas, viele sind seit über 3.000 Jahren ungelesen. Das System liefert prüfbare Belegketten statt einer einzelnen Antwort, die Forschende nachvollziehen können.",
-  "caveat": "Das Modell braucht überlieferte Literatur als Anker und entscheidet nicht selbst, welche Lesung gilt. Die Vergleichsmodelle wurden ohne Training auf dem Fachgebiet getestet, der Abstand zeigt also auch den Wert der Fachdaten. Zahlen stammen aus der Studie, eine unabhängige Wiederholung steht aus."
+  "title": "KI hilft, 3.000 Jahre alte chinesische Schriftzeichen zu entziffern",
+  "summary": "Die ältesten Schriftzeichen Chinas stehen auf Knochen und Schildkrötenpanzern, mit denen man früher die Zukunft befragte. Von etwa 4.500 bekannten Zeichen kann man rund 3.000 bis heute nicht lesen. Forschende in China haben eine KI gebaut, die wie Fachleute vorgeht. Sie schaut sich die Form des Zeichens und den Text drumherum an und vergleicht mit alten Büchern. Im Test schlug sie bei fast jedem vierten Zeichen gleich die richtige Lesung vor.",
+  "why": "Jedes neu gelesene Zeichen erzählt etwas über das Leben vor über 3.000 Jahren. Die KI zeigt dabei auch, wie sie auf ihre Antwort kommt, sodass Fachleute sie prüfen können.",
+  "caveat": "Die KI macht nur Vorschläge, entscheiden müssen weiterhin Menschen. Bei drei von vier Zeichen lag ihr erster Vorschlag daneben."
  },
  "en": {
-  "title": "AlphaOracle proposes readings for oracle bone characters and beats comparison models",
-  "summary": "About 4,500 characters are known from Chinese oracle bones and shells, and roughly 3,000 of them have no agreed reading. A team led by Yuliang Liu (Huazhong University of Science and Technology, with partners in Guangzhou and Anyang) built AlphaOracle, which mimics expert workflow: it detects characters, analyses their form, evaluates inscription context and checks candidates against transmitted classics and scholarship. It was trained on 73,883 rubbings, 45,364 scans and 23,755 modern studies. On 88 characters withheld from training it reached 23.1 percent top-1 accuracy, against 13.1 percent for a reimplemented image model. 86 specialists preferred its explanations in 45.2 percent of blind comparisons, and analysis time fell by 64 percent.",
-  "why": "Oracle bone characters are China's oldest written records, and many have gone unread for over 3,000 years. The system produces checkable chains of evidence rather than a single answer, which scholars can follow.",
-  "caveat": "The model needs transmitted literature as an anchor and does not decide which reading is correct. Comparison models were tested zero-shot, so the gap partly reflects the value of domain data. Figures come from the study itself; independent replication is pending."
+  "title": "AI helps decipher 3,000-year-old Chinese characters",
+  "summary": "China's oldest writing is found on bones and turtle shells once used to ask about the future. Of about 4,500 known characters, around 3,000 still cannot be read. Researchers in China built an AI that works the way experts do. It looks at the shape of a character and the text around it and compares it with old books. In a test, it suggested the right reading first time for almost one character in four.",
+  "why": "Every newly read character tells us something about life more than 3,000 years ago. The AI also shows how it reached its answer, so experts can check it.",
+  "caveat": "The AI only makes suggestions; people still decide. For three characters out of four, its first suggestion was wrong."
  },
  "ru": {
-  "title": "AlphaOracle предлагает прочтения знаков на гадательных костях и превосходит модели сравнения",
-  "summary": "На китайских гадательных костях и панцирях известно около 4500 знаков, примерно для 3000 из них нет общепринятого прочтения. Группа Юйляна Лю (Хуачжунский университет науки и технологий с партнёрами в Гуанчжоу и Аньяне) создала AlphaOracle, которая повторяет рабочий процесс специалистов: находит знаки, анализирует их форму, оценивает контекст надписи и сверяет варианты с классическими текстами и научной литературой. Обучение шло на 73 883 оттисках, 45 364 сканах и 23 755 научных работах. На 88 знаках, исключённых из обучения, модель дала 23,1 процента верных ответов с первой попытки, воспроизведённая модель для изображений — 13,1 процента. 86 специалистов предпочли её объяснения в 45,2 процента слепых сравнений, время анализа сократилось на 64 процента.",
-  "why": "Знаки на гадательных костях — древнейшие письменные памятники Китая, многие не прочитаны более 3000 лет. Система выдаёт проверяемые цепочки доказательств, а не один ответ, и учёные могут их проследить.",
-  "caveat": "Модели нужна традиционная литература как опора, и она не решает, какое прочтение верно. Модели сравнения тестировались без дообучения, поэтому разрыв отчасти отражает ценность профильных данных. Цифры взяты из самой работы, независимой проверки пока нет."
+  "title": "ИИ помогает прочесть китайские иероглифы возрастом 3000 лет",
+  "summary": "Древнейшие китайские знаки написаны на костях и панцирях черепах, с помощью которых когда-то гадали о будущем. Из примерно 4500 известных знаков около 3000 до сих пор не прочитаны. Исследователи в Китае создали ИИ, который работает как специалист. Он изучает форму знака и текст вокруг и сравнивает с древними книгами. В тесте он почти для каждого четвёртого знака сразу предложил верное чтение.",
+  "why": "Каждый прочитанный знак рассказывает что-то о жизни более 3000 лет назад. ИИ показывает, как пришёл к ответу, и специалисты могут это проверить.",
+  "caveat": "ИИ только предлагает, решают по-прежнему люди. В трёх случаях из четырёх его первый вариант был неверным."
  },
  "image": {
   "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/6a66aea1-2e9b-4448-9ec8-cee1beecd13c/Rendition/low-res/Content/Public",

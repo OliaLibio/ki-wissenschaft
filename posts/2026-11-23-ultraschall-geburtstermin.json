@@ -19,22 +19,22 @@
   }
  ],
  "de": {
-  "title": "KI schätzt den Geburtstermin aus Ultraschallbildern: Der Vorsprung schrumpft bei fairem Vergleich, ein Frühgeburts-Signal bleibt",
-  "summary": "Wer ohne frühen Ultraschall in die Schwangerschaftsvorsorge kommt, bekommt oft einen ungenauen Termin. Ein Team aus Santiago hat ein kommerzielles Deep-Learning-Modell, das nur Ultraschallbilder liest, unverändert an vier öffentlichen Kliniken in Chile geprüft: 64.235 Bilder aus 3.788 Untersuchungen von 2.550 Schwangeren, 34 Prozent davon Migrantinnen. Der mittlere Fehler lag bei 6,9 Tagen gegenüber 11,6 Tagen beim herkömmlichen Termin. Der Großteil dieses Vorsprungs kam aber daher, dass Schwangerschaften vor Ort kürzer dauerten, und gegenüber angepassten Vergleichswerten blieb weniger als ein Tag. Der separate Risikowert des Modells unterschied Frühgeburten mit einer AUC von 0,86, das Schwangerschaftsalter allein nur mit 0,52.",
-  "why": "Die Studie zeigt, wie leicht sich Genauigkeitswerte schönrechnen lassen, wenn man das falsche Vergleichsmaß wählt. Interessanter als der Termin ist die Frage, welche Frau früh entbindet.",
-  "caveat": "Die Frühgeburt-Analysen sind ausdrücklich explorativ, das Modell war schlecht kalibriert, und keine Frau wurde mit ihm betreut. Das geprüfte System ist ein kommerzielles Produkt der Firma Ultrasound AI, bei der ein Autor als strategischer Berater angegeben ist."
+  "title": "KI schätzt den Geburtstermin per Ultraschall, aber kaum besser als gedacht",
+  "summary": "Wer erst spät in der Schwangerschaft zum Ultraschall kommt, bekommt oft einen ungenauen Geburtstermin. In Chile wurde eine KI getestet, die den Termin allein aus Ultraschallbildern schätzt, bei über 2.500 Schwangeren. Auf den ersten Blick lag sie viel näher am echten Termin. Bei einem fairen Vergleich blieb aber nur ein Vorsprung von weniger als einem Tag. Überraschend: Die KI erkannte recht gut, welche Frauen ihr Kind zu früh bekommen würden.",
+  "why": "Die Studie zeigt, wie leicht Ergebnisse besser aussehen, als sie sind. Spannender als der Termin ist der Hinweis auf Frühgeburten.",
+  "caveat": "Der Hinweis auf Frühgeburten ist ein erster Fund, keine Frau wurde mit der KI betreut. Einer der Forschenden berät die Firma, die die KI verkauft."
  },
  "en": {
-  "title": "AI estimates the due date from ultrasound images: the lead shrinks under a fair comparison, a preterm-birth signal remains",
-  "summary": "Women who arrive for antenatal care without an early scan often get an imprecise due date. A team in Santiago externally validated a commercial deep-learning model that reads ultrasound images only, applied unmodified at four public hospitals in Chile: 64,235 frames from 3,788 examinations of 2,550 pregnancies, 34 percent of them in migrant women. Mean absolute error was 6.9 days versus 11.6 days for the conventional due date. Most of that gain, however, reflected shorter local gestations, and against recentred comparators it fell below one day. The model's separate risk score discriminated preterm birth with an AUC of 0.86, against 0.52 for gestational age alone.",
-  "why": "The study shows how easily accuracy figures flatter a model when the wrong yardstick is used. More interesting than the date is the question of who will deliver early.",
-  "caveat": "The preterm-birth analyses are explicitly exploratory, the model was miscalibrated, and no woman was managed with it. The evaluated system is a commercial product of Ultrasound AI, Inc., to which one author is listed as a strategic advisor."
+  "title": "AI estimates due dates from ultrasound, but barely better than it seemed",
+  "summary": "Women who have their first ultrasound late in pregnancy often get an inaccurate due date. In Chile, an AI that estimates the due date from ultrasound images alone was tested on more than 2,500 pregnant women. At first glance, it was much closer to the real date. In a fair comparison, though, its lead shrank to less than a day. A surprise: the AI was fairly good at spotting which women would give birth too early.",
+  "why": "The study shows how easily results can look better than they are. More exciting than the due date is the hint about premature births.",
+  "caveat": "The premature-birth hint is a first finding; no woman was cared for using the AI. One of the researchers advises the company that sells it."
  },
  "ru": {
-  "title": "ИИ оценивает срок родов по снимкам УЗИ: при честном сравнении преимущество тает, но сигнал о преждевременных родах остаётся",
-  "summary": "Женщины, пришедшие на наблюдение без раннего УЗИ, часто получают неточный срок родов. Команда из Сантьяго проверила коммерческую модель глубокого обучения, которая читает только снимки УЗИ, без доработки в четырёх государственных клиниках Чили: 64 235 кадров из 3788 обследований 2550 беременностей, 34 процента — у мигранток. Средняя абсолютная ошибка составила 6,9 дня против 11,6 дня у обычного срока. Но большая часть выигрыша объяснялась более короткой местной длительностью беременности, и по сравнению с пересчитанными эталонами разница была меньше одного дня. Отдельная оценка риска модели различала преждевременные роды с AUC 0,86, а один гестационный возраст — только 0,52.",
-  "why": "Исследование показывает, как легко показатели точности приукрашивают модель при неверной мерке. Интереснее самой даты вопрос, кто родит раньше срока.",
-  "caveat": "Анализы преждевременных родов прямо названы поисковыми, модель была плохо откалибрована, и ни одну женщину не вели с её помощью. Проверенная система — коммерческий продукт компании Ultrasound AI, Inc., у которой один из авторов указан стратегическим консультантом."
+  "title": "ИИ определяет дату родов по УЗИ, но почти не лучше, чем казалось",
+  "summary": "Те, кто впервые приходит на УЗИ поздно, часто получают неточную дату родов. В Чили проверили ИИ, который определяет дату только по снимкам УЗИ, на более чем 2500 беременных. На первый взгляд он был гораздо ближе к настоящей дате. Но при честном сравнении преимущество сократилось до меньше чем одного дня. Неожиданно ИИ довольно хорошо распознавал, кто из женщин родит раньше срока.",
+  "why": "Исследование показывает, как легко результаты выглядят лучше, чем есть. Интереснее даты родов — подсказка о преждевременных родах.",
+  "caveat": "Подсказка о преждевременных родах — лишь первая находка, никого из женщин с помощью ИИ не наблюдали. Один из исследователей консультирует компанию, которая продаёт этот ИИ."
  },
  "image": {
   "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-026-03453-0/MediaObjects/41746_2026_3453_Fig1_HTML.png",

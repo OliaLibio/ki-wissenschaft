@@ -13,22 +13,22 @@
   "url": "https://journal.caa-international.org/articles/10.5334/jcaa.238/"
  },
  "de": {
-  "title": "KI erkennt Kaiserporträts: Augustus, Tiberius, Caligula und Claudius mit etwa 78 Prozent Trefferquote unterschieden",
-  "summary": "Ein Team um Birgit Bergmann und Frank Weichert hat geprüft, ob Deep Learning bei der formalen Analyse antiker Skulpturen helfen kann. Untersucht wurden Porträts der ersten vier julisch-claudischen Kaiser. Die Zerlegung der Gesichter in Bestandteile wie Haar, Augen oder Mund erreichte eine Überlappung (IoU) von etwa 0,85. Die Zuordnung zu einem der vier Kaiser kam auf einen F1-Wert von etwa 0,78, die Unterscheidung zweier Augustus-Porträttypen (Louvre MA 1280 und Prima Porta) auf etwa 0,79. Heatmaps deuten darauf hin, dass die Modelle sich stark am Haar orientieren, was zur Forschung passt, die Frisuren zur Typenbestimmung nutzt.",
-  "why": "Kaiserporträts werden bisher von Hand nach Frisur und Gesichtszügen in Typen eingeordnet, das ist aufwendig und von Einzelurteilen abhängig. Automatische Verfahren könnten diese Zuordnung nachvollziehbarer machen.",
-  "caveat": "Sehr kleine Datensätze: 96 Bilder für die Kaiserzuordnung, nur 34 für die Typenfrage. Die Streuung zwischen den Testläufen ist groß (Genauigkeit 0,78 ± 0,10), Tiberius wird oft mit Caligula verwechselt, und fast alle Bilder zeigen die Büsten von vorn. Die Heatmaps sind nur eine Näherung der Modellentscheidung."
+  "title": "KI erkennt an Marmorbüsten, welcher römische Kaiser dargestellt ist",
+  "summary": "Römische Kaiserbüsten sehen sich oft sehr ähnlich. Fachleute ordnen sie bisher von Hand zu, vor allem anhand der Frisur. Ein Forschungsteam hat getestet, ob eine KI die ersten vier römischen Kaiser auseinanderhalten kann, darunter Augustus und Caligula. Sie lag in etwa acht von zehn Fällen richtig. Interessant: Auch die KI achtete vor allem auf die Haare.",
+  "why": "Die KI bestätigt, was Fachleute seit Langem nutzen: Die Frisur verrät den Kaiser. Solche Werkzeuge könnten die Zuordnung von Büsten in Museen nachvollziehbarer machen.",
+  "caveat": "Es gab nur knapp 100 Fotos, fast alle von vorn aufgenommen. Tiberius und Caligula verwechselte die KI häufig."
  },
  "en": {
-  "title": "AI tells imperial portraits apart: Augustus, Tiberius, Caligula and Claudius identified with about 78 percent F1",
-  "summary": "A team around Birgit Bergmann and Frank Weichert tested whether deep learning can support the formal analysis of ancient sculpture. They studied portraits of the first four Julio-Claudian emperors. Segmenting faces into components such as hair, eyes or mouth reached an intersection over union of about 0.85. Assigning a portrait to one of the four emperors reached an F1 score of about 0.78, and telling two Augustus portrait types apart (Louvre MA 1280 and Prima Porta) about 0.79. Attention maps suggest the models rely heavily on hair, in line with scholarship that uses hairstyles to define types.",
-  "why": "Imperial portraits are classified by hand according to hairstyle and facial features, which is laborious and depends on individual judgement. Automated methods could make such classification more transparent.",
-  "caveat": "Very small datasets: 96 images for the emperor task and only 34 for the portrait types. Variation between test folds is large (accuracy 0.78 ± 0.10), Tiberius is often confused with Caligula, and nearly all images are frontal views. The heatmaps only approximate what drives a decision."
+  "title": "AI can tell from marble busts which Roman emperor is shown",
+  "summary": "Busts of Roman emperors often look very alike. Experts have so far sorted them by hand, mainly by the hairstyle. A research team tested whether an AI can tell the first four Roman emperors apart, including Augustus and Caligula. It was right about eight times out of ten. Interestingly, the AI also looked mostly at the hair.",
+  "why": "The AI confirms what experts have long relied on: the hairstyle gives the emperor away. Tools like this could make it easier to understand how museum busts are identified.",
+  "caveat": "There were only about 100 photos, almost all taken from the front. The AI often mixed up Tiberius and Caligula."
  },
  "ru": {
-  "title": "ИИ различает портреты императоров: Август, Тиберий, Калигула и Клавдий определены с F1 около 0,78",
-  "summary": "Группа Биргит Бергман и Франка Вайхерта проверила, может ли глубокое обучение помочь формальному анализу античной скульптуры. Изучались портреты первых четырёх императоров династии Юлиев-Клавдиев. Разбиение лиц на части, такие как волосы, глаза или рот, дало пересечение к объединению (IoU) около 0,85. Отнесение портрета к одному из четырёх императоров достигло F1 около 0,78, а различение двух типов портрета Августа (Лувр MA 1280 и Прима-Порта) — около 0,79. Карты внимания показывают, что модели сильно опираются на причёску, что согласуется с исследованиями, определяющими типы по причёскам.",
-  "why": "Портреты императоров сегодня классифицируют вручную по причёске и чертам лица, это трудоёмко и зависит от личного суждения. Автоматические методы могли бы сделать такую классификацию прозрачнее.",
-  "caveat": "Очень малые выборки: 96 изображений для задачи с императорами и лишь 34 для типов портрета. Разброс между прогонами велик (точность 0,78 ± 0,10), Тиберия часто путают с Калигулой, почти все снимки сделаны спереди. Тепловые карты лишь приблизительно показывают, что влияет на решение."
+  "title": "ИИ по мраморному бюсту определяет, какой римский император изображён",
+  "summary": "Бюсты римских императоров часто очень похожи. Специалисты до сих пор определяют их вручную, в основном по причёске. Исследователи проверили, сможет ли ИИ различить первых четырёх римских императоров, среди них Августа и Калигулу. Он был прав примерно в восьми случаях из десяти. Интересно, что ИИ тоже смотрел прежде всего на волосы.",
+  "why": "ИИ подтверждает то, на что специалисты давно опираются: причёска выдаёт императора. Такие инструменты могут сделать определение бюстов в музеях понятнее.",
+  "caveat": "Фотографий было всего около 100, почти все сняты спереди. Тиберия и Калигулу ИИ часто путал."
  },
  "image": {
   "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Statue-Augustus.jpg/960px-Statue-Augustus.jpg",

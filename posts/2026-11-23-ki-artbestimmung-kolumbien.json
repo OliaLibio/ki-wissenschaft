@@ -16,22 +16,22 @@
   }
  ],
  "de": {
-  "title": "Nur jedes zehnte Tier richtig: Ein Sprachmodell scheitert an der Artbestimmung kolumbianischer Wirbeltiere",
-  "summary": "Gustavo Nicolas Paez Salamanca hat GPT-5.2 mit 10.000 forschungstauglichen iNaturalist-Fotos kolumbianischer Wirbeltiere getestet, je 2.000 Bilder von Amphibien, Vögeln, Fischen, Säugetieren und Reptilien. Das Modell musste zu jedem Bild Familie, Gattung und Art nennen. Insgesamt stimmte die Art nur zu 9,5 Prozent. Bei Säugetieren und Reptilien lag die Trefferquote bei etwa 17 bis 19 Prozent, bei Amphibien, Vögeln und Fischen unter 5 Prozent. Arten mit wenigen öffentlichen Fotos und erst kürzlich beschriebene Arten wurden besonders schlecht erkannt. Tests mit anderen Systemen zeigten laut der Mitteilung ähnliche Muster.",
-  "why": "Allgemeine KI-Modelle werden zunehmend für Naturbeobachtung und Artenschutz eingesetzt. Die Studie zeigt, dass sie dort versagen, wo Daten fehlen, also bei seltenen und wenig dokumentierten Arten, auf die es im Naturschutz besonders ankommt.",
-  "caveat": "Ein Einzelautor, nur Kolumbien und im Detail nur ein Modell. Das Modell durfte nicht passen, ein Werkzeug mit der Option „unsicher“ könnte besser abschneiden. Spezialisierte Artenerkennungs-Software wurde nicht verglichen."
+  "title": "Bekannte KI erkennt nur jedes zehnte Tier aus Kolumbien richtig",
+  "summary": "Viele Menschen fotografieren Tiere und fragen dann eine KI, was das ist. Ein Forscher hat das gründlich getestet. Er zeigte dem bekannten KI-Modell GPT-5.2 10.000 Fotos von Tieren aus Kolumbien, von Fröschen bis zu Vögeln. Nur bei etwa jedem zehnten Foto nannte die KI die richtige Art. Am schlechtesten war sie bei seltenen Arten, von denen es im Internet wenige Fotos gibt.",
+  "why": "Gerade seltene Tiere sind für den Naturschutz wichtig, und genau die erkennt die KI am schlechtesten. Wer ein Tier sicher bestimmen will, sollte einer allgemeinen KI nicht blind vertrauen.",
+  "caveat": "Getestet hat ein einzelner Forscher, nur mit Tieren aus Kolumbien und im Detail mit nur einem Modell. Die KI durfte nicht sagen, dass sie unsicher ist."
  },
  "en": {
-  "title": "Only one in ten right: a language model fails at identifying Colombian vertebrates to species",
-  "summary": "Gustavo Nicolas Paez Salamanca tested GPT-5.2 on 10,000 research-grade iNaturalist photos of Colombian vertebrates, 2,000 each of amphibians, birds, fishes, mammals and reptiles. The model had to give family, genus and species for every image. Overall species-level accuracy was only 9.5 percent. Mammals and reptiles reached about 17 to 19 percent, amphibians, birds and fishes stayed below 5 percent. Species with few public photos and recently described species were identified worst. According to the release, tests with other systems showed similar patterns.",
-  "why": "General-purpose AI models are increasingly used for nature observation and conservation. The study shows they fail where data are scarce, that is, for rare and poorly documented species, which matter most in conservation.",
-  "caveat": "A single author, only Colombia, and in detail only one model. The model was not allowed to abstain; a tool with an option to say \"unsure\" might do better. Specialised species-recognition software was not compared."
+  "title": "Well-known AI identifies only one in ten Colombian animals correctly",
+  "summary": "Many people photograph an animal and then ask an AI what it is. One researcher tested this thoroughly. He showed the well-known AI model GPT-5.2 10,000 photos of animals from Colombia, from frogs to birds. The AI named the right species for only about one photo in ten. It did worst with rare species that have few photos online.",
+  "why": "Rare animals matter most for conservation, and those are exactly the ones the AI recognises worst. If you want to identify an animal reliably, do not blindly trust a general-purpose AI.",
+  "caveat": "The test was done by a single researcher, only with animals from Colombia and in detail with only one model. The AI was not allowed to say it was unsure."
  },
  "ru": {
-  "title": "Верно лишь каждый десятый: языковая модель плохо определяет колумбийских позвоночных до вида",
-  "summary": "Густаво Николас Паэс Саламанка проверил GPT-5.2 на 10 000 фотографий колумбийских позвоночных с iNaturalist исследовательского уровня: по 2000 снимков амфибий, птиц, рыб, млекопитающих и рептилий. По каждому снимку модель должна была назвать семейство, род и вид. Общая точность на уровне вида составила лишь 9,5 процента. У млекопитающих и рептилий она достигла примерно 17–19 процентов, у амфибий, птиц и рыб осталась ниже 5 процентов. Хуже всего определялись виды с малым числом публичных фотографий и недавно описанные виды. По сообщению, тесты с другими системами показали схожие закономерности.",
-  "why": "Универсальные ИИ-модели всё чаще используют для наблюдений за природой и охраны видов. Исследование показывает, что они подводят там, где мало данных, то есть у редких и плохо документированных видов, которые важнее всего для охраны природы.",
-  "caveat": "Один автор, только Колумбия и подробно лишь одна модель. Модели нельзя было отказаться от ответа; инструмент с вариантом «не уверен» мог бы справиться лучше. Специализированные программы распознавания видов не сравнивались."
+  "title": "Известный ИИ правильно узнаёт лишь каждое десятое животное Колумбии",
+  "summary": "Многие фотографируют животное и спрашивают у ИИ, кто это. Один исследователь тщательно это проверил. Он показал известной модели ИИ GPT-5.2 10 000 фотографий животных из Колумбии, от лягушек до птиц. Лишь примерно на каждом десятом фото ИИ назвал правильный вид. Хуже всего он справлялся с редкими видами, которых мало на фото в интернете.",
+  "why": "Для охраны природы важнее всего редкие животные, а их ИИ узнаёт хуже всего. Если нужно точно определить животное, не стоит слепо доверять универсальному ИИ.",
+  "caveat": "Проверял один исследователь, только на животных из Колумбии и подробно лишь на одной модели. ИИ не разрешалось отвечать «не уверен»."
  },
  "image": {
   "src": "https://blog.pensoft.net/wp-content/uploads/2026/11/169-Journal-comms-3.png",
