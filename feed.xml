@@ -48,6 +48,20 @@ Vorbehalt: Es ist ein Vorabdruck, den noch niemand unabhängig begutachtet hat. 
 Quelle: arXiv: RoSci: Exploring Robustness in Science VLMs – https://arxiv.org/abs/2611.27750</description>
   </item>
   <item>
+   <title>Computer sortiert alte römische Münzen nach ihren Prägestempeln – in einem Bruchteil der Zeit</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-muenzen-stempel-ki</link>
+   <guid isPermaLink="false">2026-11-25-muenzen-stempel-ki</guid>
+   <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Römische Münzen wurden früher mit Metallstempeln geprägt. Wer herausfinden will, wie viele Münzen eine Münzstätte herstellte, muss erkennen, welche Münzen vom selben Stempel stammen. Das machen Fachleute bisher von Hand, indem sie Münze für Münze vergleichen, und das dauert bei großen Funden Jahre. Forschende aus Australien, Singapur und Großbritannien haben dafür ein Rechenverfahren entwickelt, das ohne Vorgaben von Menschen auskommt: Es sucht auf den Münzbildern markante Punkte und gruppiert Münzen, die einander besonders ähnlich sehen. Getestet haben sie es an 1.135 römischen Silbermünzen aus den Jahren 64 bis 66 nach Christus. Viele davon sind stark abgenutzt. Das Verfahren kam damit gut zurecht und spart nach Angaben der Autoren um Größenordnungen an Zeit.
+
+Warum das wichtig ist: Aus der Zahl der Stempel lässt sich abschätzen, wie viel Geld ein Staat damals herstellte. So hilft das Verfahren, die Wirtschaft der Antike besser zu verstehen, ohne dass jemand Jahre über Münzen gebeugt sitzen muss.
+
+Vorbehalt: Veröffentlicht ist bisher eine vorläufige Fassung der Studie. Getestet wurde nur an einer Münzgruppe aus drei Jahren, und die Autoren geben im Kurzbericht keine genaue Trefferquote an.
+
+Quelle: npj Heritage Science (Nature Portfolio) – https://www.nature.com/articles/s40494-026-03087-1</description>
+  </item>
+  <item>
    <title>Viele medizinische KI-Studien lassen sich bald nicht mehr nachprüfen, weil die Programme abgeschaltet werden</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-modell-abschaltung-reproduzierbarkeit</link>
    <guid isPermaLink="false">2026-11-25-modell-abschaltung-reproduzierbarkeit</guid>
@@ -144,6 +158,34 @@ Warum das wichtig ist: Die Studie zeigt, dass ein KI-Assistent in der Praxis sic
 Vorbehalt: Schwere Verläufe wie Klinikeinweisungen oder Todesfälle sind in Hausarztpraxen selten, deshalb bräuchte man für einen kleinen Vorteil womöglich über 100.000 Patienten. Beobachtet wurden nur die ersten 14 Tage. Ob das Ergebnis auf reiche Länder mit ohnehin guter Versorgung übertragbar ist, ist offen.
 
 Quelle: Nature Medicine via Universität Birmingham – https://www.eurekalert.org/news-releases/1133583</description>
+  </item>
+  <item>
+   <title>Historiker können mit einer KI über griechische und lateinische Inschriften „plaudern“</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-inschriften-ki-assistent-durham</link>
+   <guid isPermaLink="false">2026-11-25-inschriften-ki-assistent-durham</guid>
+   <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Auf Steinen, Altären und Holztäfelchen der Antike stehen Texte, die oft beschädigt sind: Es fehlen Buchstaben, und niemand weiß genau, wo und wann sie entstanden. Forschende der Universität Durham und von Google DeepMind haben dafür ein Werkzeug gebaut, das man wie einen Chat bedient. Man stellt Fragen in normaler Sprache, ganz ohne Programmieren. Die KI kann fehlenden Text ergänzen, Ort und Zeit der Entstehung einschätzen und Muster in Tausenden Inschriften sichtbar machen. Sie baut auf zwei früheren KI-Modellen derselben Gruppe auf. Ausprobiert wurde sie an einer lateinischen Tafel aus Bath, einem Altar aus Mainz und beschädigten Tafeln aus Dodona in Griechenland.
+
+Warum das wichtig ist: Wer sich für Geschichte interessiert, aber nicht programmieren kann, bekommt so ein Werkzeug, das bisher Spezialisten vorbehalten war. Das kann das Lesen alter Texte beschleunigen.
+
+Vorbehalt: Die Mitteilung nennt keine Trefferquoten und sagt nicht, wie die Antworten der KI geprüft wurden. Die Fallbeispiele sind Vorführungen, kein unabhängiger Test. Ergänzungen der KI bleiben Vorschläge.
+
+Quelle: Durham University, Pressemitteilung – https://dur.ac.uk/news-events/latest-news/2026/07/google-deepmind-partnership/</description>
+  </item>
+  <item>
+   <title>KI liest 100.000 Seiten alter Handschrift und zeigt, wohin Englands Schiffe vor 400 Jahren fuhren</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-hafenbuecher-handschrift-ki</link>
+   <guid isPermaLink="false">2026-11-25-hafenbuecher-handschrift-ki</guid>
+   <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Im 16. und 17. Jahrhundert schrieben Zollbeamte in britischen Häfen auf, welche Schiffe wann mit welcher Ladung kamen und gingen. Diese Hafenbücher sind in den Nationalarchiven erhalten, aber so handschriftlich und unterschiedlich, dass kaum jemand sie im Ganzen auswerten konnte. Historikerinnen und Historiker der Universität Southampton haben etwa 100.000 Seiten eingescannt und eine Software eingesetzt, die die Handschriften liest. Sie lernte die Schrift vieler Beamter kennen und auch, wie sich die Schreibweise von Wörtern über die Jahrzehnte änderte. Heraus kam eine Datenbank mit Hunderttausenden Schiffsreisen ab 1565, mehr als 3.000 Häfen und den Waren, die darin umgeschlagen wurden. Erste Auswertungen zeigen etwa, dass im Jahr 1696/97 rund vier Fünftel des erfassten Warenwerts im englischen Überseehandel auf Europa entfielen. Alles ist auf einer frei zugänglichen Karte im Netz zu sehen.
+
+Warum das wichtig ist: Aus Handschriften, die früher niemand ganz lesen konnte, wird eine Karte, auf der man Handelswege und Waren Jahr für Jahr nachverfolgen kann. Die Technik lässt sich auch auf andere Archive übertragen.
+
+Vorbehalt: Die Ergebnisse der KI mussten laut dem Leiter des Projekts noch von Hand nachgeprüft werden, eine Fehlerquote wird nicht genannt. Die Auswertungen zum Handel sind erste Eindrücke und noch nicht von anderen Fachleuten geprüft.
+
+Quelle: University of Southampton, Pressemitteilung – https://www.southampton.ac.uk/news/2026/10/ai-reads-centuriesold-handwriting-to-reveal-britains-vast-historic-shipping-trade.page</description>
   </item>
   <item>
    <title>Wenn zwei Antidepressiva nicht wirken: Warum KI bei der Wahl der Behandlung bisher nur wenig hilft</title>
@@ -802,48 +844,6 @@ Warum das wichtig ist: Die Episode zeigt beides. Handelsübliche KI-Agenten kön
 Vorbehalt: Kein Archäologe hat die Stätte vor Ort geprüft, dafür wäre eine INAH-Genehmigung nötig. Alle Merkmalsbeschreibungen sind Schlussfolgerungen aus den Agenten-Dialogen. Fachleute warnen zudem, dass öffentliche Fundmeldungen Plünderer anlocken können.
 
 Quelle: TechRadar – https://techradar.com/ai-platforms-assistants/google-researcher-discovers-unmapped-maya-site-in-mexico-using-48-ai-agents-project-takes-less-than-72-hours-after-agents-scour-nasa-lidar-data</description>
-  </item>
-  <item>
-   <title>69 Länder, 24 Jahre: KI macht Wirtschaften effizienter, aber nicht klimafreundlicher</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-16-ki-effizienz-luecke</link>
-   <guid isPermaLink="false">2026-11-16-ki-effizienz-luecke</guid>
-   <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
-   <category>grenzen</category>
-   <description>Ein chinesisch-japanisches Team hat für 69 Länder von 2000 bis 2023 einen KI-Index aus Patenten, Industrierobotern, Publikationen, digitaler Infrastruktur und Forschungspersonal gebildet und ihn mit sieben UN-Nachhaltigkeitszielen verknüpft, ausgewertet mit Double Machine Learning. Stabile positive Zusammenhänge fanden sich bei Bildung, sauberer Energie und industrieller Innovation. Bei verantwortungsvollem Konsum und Klimaschutz gab es dagegen keinen belastbaren Effekt. Die Autoren nennen das die Effizienz-Transformations-Lücke: KI wirkt dort, wo Daten reichlich und leicht zu kodieren sind, ändert aber von sich aus weder Konsummuster noch Regulierungsehrgeiz noch das Tempo der Dekarbonisierung. Kurzfristig bremste KI-Einsatz sogar grüne Innovation. Länder mit niedrigem Entwicklungsstand profitierten am stärksten. Szenarien bis 2100 zeigen die besten Ergebnisse nur, wenn hohe KI-Entwicklung mit einem nachhaltigkeitsorientierten Pfad zusammenkommt.
-
-Warum das wichtig ist: Das Versprechen, KI werde den Klimaschutz quasi automatisch voranbringen, findet in den Länderdaten keine Stütze. KI ist laut Studie ein bedingter Beschleuniger, dessen Nutzen von Politik, Strommix und Governance abhängt.
-
-Vorbehalt: Zusammenhänge auf Länderebene, keine Kausalbeweise. Die Mitteilung nennt weder Effektgrößen noch Konfidenzintervalle. Der KI-Index misst Ausstattung, nicht tatsächliche Nutzung.
-
-Quelle: Environmental Science and Ecotechnology via Newswise – https://www.newswise.com/articles/ai-boosts-operational-efficiency-but-not-systemic-climate-action-global-study-finds2</description>
-  </item>
-  <item>
-   <title>Deep Learning entschlüsselt die Spielregeln des tödlichsten Hirntumors</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-16-glioblastom-scdori</link>
-   <guid isPermaLink="false">2026-11-16-glioblastom-scdori</guid>
-   <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
-   <category>gesundheit</category>
-   <description>Glioblastom-Zellen wechseln ständig ihren molekularen Zustand und entziehen sich so der Therapie. Bisher galt dieses Wechseln als weitgehend zufällig. Zwei Nature-Studien von EMBL, DKFZ und Sanger Institute zeigen das Gegenteil: Die Zellen folgen wiederkehrenden Pfaden, und jeder Zustand sitzt an einem festen Ort im Tumor. Grundlage ist der bisher größte molekulare Atlas der Krankheit aus Tumoren von zwölf Patienten. Das Deep-Learning-Verfahren scDORI des Teams um Oliver Stegle rekonstruierte aus über einer Million Einzelzellen die Regulationsnetzwerke und fand Schutzregulatoren, die Zellen in einem wenig wandelbaren Zustand festhalten. Als die Forschenden einen davon, MYT1L, in Patientenzellen verstärkten, wurden die Tumoren weniger aggressiv, und Mäuse mit solchen Tumoren überlebten länger.
-
-Warum das wichtig ist: Glioblastom tötet jährlich über 100.000 Menschen und ist fast immer unheilbar. Wer die Wechselregeln der Zellen kennt, kann versuchen, den Tumor in einem harmlosen Zustand einzusperren, statt ihn nur anzugreifen.
-
-Vorbehalt: Alles präklinisch: Patientenzellen, Organoide und Mäuse. Die Zahl der Mäuse und Überlebensdaten nennt die Mitteilung nicht. Die Autoren selbst sagen, dass klinische Anwendungen noch entfernt sind.
-
-Quelle: Nature via EMBL – https://www.embl.org/news/?p=85927</description>
-  </item>
-  <item>
-   <title>Tierzählung aus der Luft: Menschen übersahen ein Drittel der Elefanten, die KI zählt in Stunden</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-16-elefanten-kenia-zaehlung</link>
-   <guid isPermaLink="false">2026-11-16-elefanten-kenia-zaehlung</guid>
-   <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
-   <category>tiere</category>
-   <description>Eine Luftbildzählung in Kenias größtem Schutzgebiet lieferte 2025 rund 200.000 Fotos. Neun Fachleute brauchten neun Monate, um sie von Hand auszuwerten. Trainierte Bildmodelle erledigen dieselbe Analyse laut Save the Elephants inzwischen in Stunden. Der Vergleich mit den KI-Auswertungen zeigte, wie lückenhaft die klassischen Zählungen waren: Etwa ein Drittel der Elefanten, rund die Hälfte der Zebras und Giraffen und drei Viertel der Oryx-Antilopen waren übersehen worden. Geschäftsführer Frank Pope sagt, KI mache Natur messbar und damit finanzierbar. Das Jane-Goodall-Institut digitalisiert parallel jahrzehntelange handschriftliche Schimpansen-Beobachtungen aus dem Gombe-Nationalpark in Tansania. Statt 13 bis 15 Jahren soll die Aufarbeitung mit einem Werkzeug von Amazon Web Services rund zwei Jahre dauern.
-
-Warum das wichtig ist: Falsche Tierzahlen führen zu falschen Schutzentscheidungen und fehlgeleitetem Geld. Wenn Bestände systematisch unterschätzt wurden, müssen viele Artenschutz-Bilanzen neu gerechnet werden.
-
-Vorbehalt: Die Zahlen stammen aus einer Reuters-Recherche und Aussagen der Organisation, nicht aus einer begutachteten Studie. Dieselbe Recherche hält fest, dass alle 15 befragten Umweltorganisationen den Strom- und Wasserbedarf der Rechenzentren hinter dieser KI als Problem sehen.
-
-Quelle: Reuters via US News – https://www.usnews.com/news/top-news/articles/2026-11-07/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts</description>
   </item>
  </channel>
 </rss>

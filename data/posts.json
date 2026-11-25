@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-25T05:09:00Z",
- "count": 82,
+ "generated": "2026-11-25T05:09:23Z",
+ "count": 85,
  "posts": [
   {
    "published": "2026-08-06",
@@ -119,6 +119,53 @@
     "kind": "figure",
     "credit": "Abbildung der Studie, arXiv",
     "link": "https://arxiv.org/abs/2611.27750"
+   }
+  },
+  {
+   "id": "2026-11-25-muenzen-stempel-ki",
+   "date": "2026-11-25",
+   "published": "2026-11-17",
+   "category": "archaeologie",
+   "countries": [
+    "AU",
+    "SG",
+    "GB"
+   ],
+   "institution": "University of Newcastle (Australien), National University of Singapore, University of Oxford",
+   "maturity": "study",
+   "source": {
+    "name": "npj Heritage Science (Nature Portfolio)",
+    "url": "https://www.nature.com/articles/s40494-026-03087-1"
+   },
+   "more": [
+    {
+     "name": "DOI",
+     "url": "https://doi.org/10.1038/s40494-026-03087-1"
+    }
+   ],
+   "de": {
+    "title": "Computer sortiert alte römische Münzen nach ihren Prägestempeln – in einem Bruchteil der Zeit",
+    "summary": "Römische Münzen wurden früher mit Metallstempeln geprägt. Wer herausfinden will, wie viele Münzen eine Münzstätte herstellte, muss erkennen, welche Münzen vom selben Stempel stammen. Das machen Fachleute bisher von Hand, indem sie Münze für Münze vergleichen, und das dauert bei großen Funden Jahre. Forschende aus Australien, Singapur und Großbritannien haben dafür ein Rechenverfahren entwickelt, das ohne Vorgaben von Menschen auskommt: Es sucht auf den Münzbildern markante Punkte und gruppiert Münzen, die einander besonders ähnlich sehen. Getestet haben sie es an 1.135 römischen Silbermünzen aus den Jahren 64 bis 66 nach Christus. Viele davon sind stark abgenutzt. Das Verfahren kam damit gut zurecht und spart nach Angaben der Autoren um Größenordnungen an Zeit.",
+    "why": "Aus der Zahl der Stempel lässt sich abschätzen, wie viel Geld ein Staat damals herstellte. So hilft das Verfahren, die Wirtschaft der Antike besser zu verstehen, ohne dass jemand Jahre über Münzen gebeugt sitzen muss.",
+    "caveat": "Veröffentlicht ist bisher eine vorläufige Fassung der Studie. Getestet wurde nur an einer Münzgruppe aus drei Jahren, und die Autoren geben im Kurzbericht keine genaue Trefferquote an."
+   },
+   "en": {
+    "title": "Computer sorts ancient Roman coins by the dies that struck them, in a fraction of the time",
+    "summary": "Roman coins were struck with metal dies. To work out how many coins a mint produced, experts must tell which coins came from the same die. So far they do this by hand, comparing coin after coin, which can take years for a large hoard. Researchers from Australia, Singapore and the UK built a computer method that needs no human labels: it finds distinctive points in the coin images and groups coins that look most alike. They tested it on 1,135 Roman silver coins from the years 64 to 66 CE, many badly worn. The method coped well and, according to the authors, saves time by orders of magnitude.",
+    "why": "The number of dies helps estimate how much money a state made back then. The method could help us understand the ancient economy without anyone spending years bent over coins.",
+    "caveat": "Only a preliminary version of the paper is published so far. It was tested on one group of coins from three years, and the short summary gives no exact success rate."
+   },
+   "ru": {
+    "title": "Компьютер сортирует древнеримские монеты по штемпелям, которыми их чеканили, в разы быстрее",
+    "summary": "Римские монеты чеканили металлическими штемпелями. Чтобы понять, сколько монет выпустил монетный двор, нужно определить, какие монеты сделаны одним штемпелем. Пока специалисты делают это вручную, сравнивая монету за монетой, и на большой клад уходят годы. Исследователи из Австралии, Сингапура и Великобритании создали компьютерный метод, которому не нужна разметка от человека: он находит на снимках характерные точки и объединяет монеты, которые больше всего похожи. Метод проверили на 1135 римских серебряных монетах 64–66 годов н. э., многие из которых сильно стёрты. Он справился хорошо и, по словам авторов, экономит время на порядки.",
+    "why": "По числу штемпелей можно прикинуть, сколько денег выпускало государство. Метод помогает лучше понять экономику древнего мира, и никому не придётся годами сидеть над монетами.",
+    "caveat": "Пока опубликована только предварительная версия статьи. Метод проверили на одной группе монет за три года, а точной доли верных ответов в кратком описании нет."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs40494-026-03087-1/MediaObjects/40494_2026_3087_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, npj Heritage Science",
+    "link": "https://www.nature.com/articles/s40494-026-03087-1"
    }
   },
   {
@@ -425,6 +472,96 @@
     "kind": "figure",
     "credit": "Abbildung 1 der Studie, Nature Medicine",
     "link": "https://www.nature.com/articles/s41591-026-04503-6"
+   }
+  },
+  {
+   "id": "2026-11-25-inschriften-ki-assistent-durham",
+   "date": "2026-11-25",
+   "published": "2026-07-08",
+   "category": "archaeologie",
+   "countries": [
+    "GB"
+   ],
+   "institution": "Durham University, Google DeepMind",
+   "maturity": "deployed",
+   "source": {
+    "name": "Durham University, Pressemitteilung",
+    "url": "https://dur.ac.uk/news-events/latest-news/2026/07/google-deepmind-partnership/"
+   },
+   "more": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/science/workflows/conversing-with-antiquity/"
+    }
+   ],
+   "de": {
+    "title": "Historiker können mit einer KI über griechische und lateinische Inschriften „plaudern“",
+    "summary": "Auf Steinen, Altären und Holztäfelchen der Antike stehen Texte, die oft beschädigt sind: Es fehlen Buchstaben, und niemand weiß genau, wo und wann sie entstanden. Forschende der Universität Durham und von Google DeepMind haben dafür ein Werkzeug gebaut, das man wie einen Chat bedient. Man stellt Fragen in normaler Sprache, ganz ohne Programmieren. Die KI kann fehlenden Text ergänzen, Ort und Zeit der Entstehung einschätzen und Muster in Tausenden Inschriften sichtbar machen. Sie baut auf zwei früheren KI-Modellen derselben Gruppe auf. Ausprobiert wurde sie an einer lateinischen Tafel aus Bath, einem Altar aus Mainz und beschädigten Tafeln aus Dodona in Griechenland.",
+    "why": "Wer sich für Geschichte interessiert, aber nicht programmieren kann, bekommt so ein Werkzeug, das bisher Spezialisten vorbehalten war. Das kann das Lesen alter Texte beschleunigen.",
+    "caveat": "Die Mitteilung nennt keine Trefferquoten und sagt nicht, wie die Antworten der KI geprüft wurden. Die Fallbeispiele sind Vorführungen, kein unabhängiger Test. Ergänzungen der KI bleiben Vorschläge."
+   },
+   "en": {
+    "title": "Historians can \"chat\" with an AI about Greek and Latin inscriptions",
+    "summary": "Ancient stones, altars and wooden tablets carry texts that are often damaged: letters are missing and nobody knows exactly where or when they were made. Researchers at Durham University and Google DeepMind built a tool for this that works like a chat. You ask questions in plain language, with no programming. The AI can fill in missing text, estimate where and when an inscription was made, and show patterns across thousands of inscriptions. It builds on two earlier AI models from the same group. It was tried on a Latin tablet from Bath, an altar from Mainz and damaged tablets from Dodona in Greece.",
+    "why": "Anyone interested in history who cannot code gets a tool that used to be for specialists only. It could speed up the reading of old texts.",
+    "caveat": "The announcement gives no success rates and does not say how the AI's answers were checked. The examples are demonstrations, not an independent test. The AI's restorations remain suggestions."
+   },
+   "ru": {
+    "title": "Историки могут «беседовать» с ИИ о греческих и латинских надписях",
+    "summary": "На камнях, алтарях и деревянных табличках древности тексты часто повреждены: не хватает букв, и неясно, где и когда они созданы. Исследователи Даремского университета и Google DeepMind создали для этого инструмент, которым пользуются как чатом. Вопросы задают обычным языком, программировать не нужно. ИИ может восполнять недостающий текст, оценивать место и время создания надписи и показывать закономерности в тысячах надписей. Он опирается на две более ранние модели той же группы. Инструмент опробовали на латинской табличке из Бата, алтаре из Майнца и повреждённых табличках из Додоны в Греции.",
+    "why": "Тот, кто интересуется историей, но не умеет программировать, получает инструмент, раньше доступный только специалистам. Он может ускорить чтение древних текстов.",
+    "caveat": "В сообщении нет данных о доле верных ответов и не сказано, как проверяли ответы ИИ. Примеры — это демонстрации, а не независимая проверка. Восстановленный ИИ текст остаётся лишь предположением."
+   },
+   "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Remains_of_capital_with_Latin_inscription_in_Alba_Fucens.jpg/960px-Remains_of_capital_with_Latin_inscription_in_Alba_Fucens.jpg",
+    "kind": "photo",
+    "credit": "Foto: PaestumPaestum, CC BY 4.0, Wikimedia Commons (lateinische Inschrift, Alba Fucens)",
+    "link": "https://commons.wikimedia.org/wiki/File:Remains_of_capital_with_Latin_inscription_in_Alba_Fucens.jpg"
+   }
+  },
+  {
+   "id": "2026-11-25-hafenbuecher-handschrift-ki",
+   "date": "2026-11-25",
+   "published": "2026-10-19",
+   "category": "archaeologie",
+   "countries": [
+    "GB"
+   ],
+   "institution": "University of Southampton",
+   "maturity": "study",
+   "source": {
+    "name": "University of Southampton, Pressemitteilung",
+    "url": "https://www.southampton.ac.uk/news/2026/10/ai-reads-centuriesold-handwriting-to-reveal-britains-vast-historic-shipping-trade.page"
+   },
+   "more": [
+    {
+     "name": "Phys.org",
+     "url": "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html"
+    }
+   ],
+   "de": {
+    "title": "KI liest 100.000 Seiten alter Handschrift und zeigt, wohin Englands Schiffe vor 400 Jahren fuhren",
+    "summary": "Im 16. und 17. Jahrhundert schrieben Zollbeamte in britischen Häfen auf, welche Schiffe wann mit welcher Ladung kamen und gingen. Diese Hafenbücher sind in den Nationalarchiven erhalten, aber so handschriftlich und unterschiedlich, dass kaum jemand sie im Ganzen auswerten konnte. Historikerinnen und Historiker der Universität Southampton haben etwa 100.000 Seiten eingescannt und eine Software eingesetzt, die die Handschriften liest. Sie lernte die Schrift vieler Beamter kennen und auch, wie sich die Schreibweise von Wörtern über die Jahrzehnte änderte. Heraus kam eine Datenbank mit Hunderttausenden Schiffsreisen ab 1565, mehr als 3.000 Häfen und den Waren, die darin umgeschlagen wurden. Erste Auswertungen zeigen etwa, dass im Jahr 1696/97 rund vier Fünftel des erfassten Warenwerts im englischen Überseehandel auf Europa entfielen. Alles ist auf einer frei zugänglichen Karte im Netz zu sehen.",
+    "why": "Aus Handschriften, die früher niemand ganz lesen konnte, wird eine Karte, auf der man Handelswege und Waren Jahr für Jahr nachverfolgen kann. Die Technik lässt sich auch auf andere Archive übertragen.",
+    "caveat": "Die Ergebnisse der KI mussten laut dem Leiter des Projekts noch von Hand nachgeprüft werden, eine Fehlerquote wird nicht genannt. Die Auswertungen zum Handel sind erste Eindrücke und noch nicht von anderen Fachleuten geprüft."
+   },
+   "en": {
+    "title": "AI reads 100,000 pages of old handwriting and shows where England's ships sailed 400 years ago",
+    "summary": "In the 16th and 17th centuries, customs officers in British ports wrote down which ships came and went, and with what cargo. These port books survive in the National Archives, but they are so handwritten and varied that hardly anyone could study them as a whole. Historians at the University of Southampton scanned about 100,000 pages and used software that reads handwriting. It learned the writing of many officials and how the spelling of words changed over the decades. The result is a database of hundreds of thousands of ship voyages from 1565 onwards, more than 3,000 ports and the goods handled there. First analyses show, for example, that in 1696/97 about four fifths of the recorded value of England's overseas trade was with Europe. Everything can be explored on a free online map.",
+    "why": "Handwriting that nobody could read in full has become a map where you can follow trade routes and goods year by year. The technique could work for other archives too.",
+    "caveat": "According to the project lead, the AI's output still had to be checked by hand, and no error rate is given. The trade findings are first impressions and have not yet been reviewed by other experts."
+   },
+   "ru": {
+    "title": "ИИ прочитал 100 000 страниц старых рукописей и показал, куда ходили английские корабли 400 лет назад",
+    "summary": "В XVI–XVII веках таможенные чиновники в британских портах записывали, какие корабли приходили и уходили и с каким грузом. Эти портовые книги хранятся в Национальном архиве, но написаны от руки так по-разному, что целиком их почти никто не мог изучить. Историки Саутгемптонского университета отсканировали около 100 000 страниц и применили программу, которая читает рукописный текст. Она научилась почерку многих чиновников и тому, как с годами менялось написание слов. Получилась база данных с сотнями тысяч рейсов начиная с 1565 года, более чем 3000 портов и товарами. Первый анализ показывает, например, что в 1696–1697 годах около четырёх пятых учтённой стоимости заморской торговли Англии приходилось на Европу. Всё можно посмотреть на открытой интерактивной карте.",
+    "why": "Рукописи, которые никто не мог прочитать целиком, превратились в карту, где можно год за годом проследить торговые пути и товары. Этот приём подойдёт и для других архивов.",
+    "caveat": "По словам руководителя проекта, результаты ИИ пришлось проверять вручную, доля ошибок не названа. Выводы о торговле пока предварительные и другими специалистами не проверены."
+   },
+   "image": {
+    "src": "https://www.southampton.ac.uk/leaf_content/uploads/a_port_book_being_digitally_transferred_at_the_national_archives_in_kew_cropped_alt-(1).jpg",
+    "kind": "press",
+    "credit": "Bild: University of Southampton",
+    "link": "https://www.southampton.ac.uk/news/2026/10/ai-reads-centuriesold-handwriting-to-reveal-britains-vast-historic-shipping-trade.page"
    }
   },
   {
