@@ -34,6 +34,34 @@ Vorbehalt: Die Karte ist grob, ein Feld misst etwa 25 mal 25 Kilometer, und sie 
 Quelle: Nature Communications – https://www.nature.com/articles/s41467-026-76093-3</description>
   </item>
   <item>
+   <title>KI beantwortet auch Wissenschaftsaufgaben, die gar nicht lösbar sind</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-rosci-fehlerhafte-aufgaben</link>
+   <guid isPermaLink="false">2026-11-25-rosci-fehlerhafte-aufgaben</guid>
+   <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Wer eine Aufgabe mit einem Fehler stellt, erwartet von einem guten Fachmann, dass er nachfragt, statt einfach loszurechnen. Ein Forschungsteam wollte wissen, ob KI-Programme, die Text und Bilder zugleich verstehen, das auch können. Dafür bauten sie einen Test mit 1.220 Wissenschaftsaufgaben, in die auf sechs verschiedene Arten Fehler eingebaut wurden: falsche oder fehlende Angaben. Das Ergebnis: Die geprüften Programme beantworteten solche Aufgaben manchmal trotzdem, statt zu sagen, dass etwas nicht stimmt. Ein vorgeschalteter Prüfschritt, der erst kontrolliert, ob die Angaben überhaupt stimmig sind, schnitt in der Gesamtwertung besser ab als die Programme allein.
+
+Warum das wichtig ist: Ein KI-Programm klingt oft sicher, auch wenn die Frage selbst fehlerhaft ist. Wenn du ihm Daten oder Aufgaben gibst, kann es also eine glatte Antwort liefern, obwohl es hätte widersprechen müssen.
+
+Vorbehalt: Es ist ein Vorabdruck, den noch niemand unabhängig begutachtet hat. Die Fehler in den Aufgaben wurden künstlich eingebaut. Hier wurde nur die Kurzfassung der Studie gelesen, nicht der ganze Text.
+
+Quelle: arXiv: RoSci: Exploring Robustness in Science VLMs – https://arxiv.org/abs/2611.27750</description>
+  </item>
+  <item>
+   <title>Viele medizinische KI-Studien lassen sich bald nicht mehr nachprüfen, weil die Programme abgeschaltet werden</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-modell-abschaltung-reproduzierbarkeit</link>
+   <guid isPermaLink="false">2026-11-25-modell-abschaltung-reproduzierbarkeit</guid>
+   <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Zu guter Wissenschaft gehört, dass andere ein Ergebnis wiederholen können. Bei Studien mit großen Sprachprogrammen wie ChatGPT wird das schwierig, denn die Firmen schalten ältere Versionen nach einiger Zeit ab. Ein Forschungsteam hat deshalb Studien aus der Medizin und Biologie durchsucht, die zwischen 2022 und März 2026 erschienen sind. Insgesamt prüften sie über 61.000 Zusammenfassungen und fanden gut 5.000 Veröffentlichungen, die ein bestimmtes Sprachprogramm benutzt haben. In knapp acht von zehn Fällen war es ein Programm einer Firma, dessen Innenleben nicht offen liegt. Bei 42 von 100 Nennungen war das benutzte Programm schon abgeschaltet oder sollte innerhalb von zwei Jahren abgeschaltet werden. Im Mittel vergingen nur 538 Tage, also etwa anderthalb Jahre, von der Veröffentlichung bis zur Abschaltung.
+
+Warum das wichtig ist: Ein Ergebnis, das niemand mehr wiederholen kann, ist schwer zu überprüfen. Wer sich auf eine Studie mit einem Chatbot verlässt, sollte also fragen, ob dieselbe Version überhaupt noch läuft.
+
+Vorbehalt: Es ist ein Vorabdruck ohne unabhängige Begutachtung. Die Modellnamen suchte ein KI-Programm in den Zusammenfassungen, nur eine Stichprobe prüften Menschen nach. Ob sich ein Ergebnis mit einer neueren Version wiederholen lässt, hat die Studie nicht getestet.
+
+Quelle: arXiv: Model Retirement Creates Reproducibility Risk in Biomedical AI Publications – https://arxiv.org/abs/2609.04699</description>
+  </item>
+  <item>
    <title>KI-Karten zeigen: Zentralafrikas Wälder verlieren mehr Kohlenstoff, als sie gewinnen, vor allem im Kongo</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-kongo-waldkohlenstoff-karten</link>
    <guid isPermaLink="false">2026-11-25-kongo-waldkohlenstoff-karten</guid>
@@ -46,6 +74,104 @@ Warum das wichtig ist: Wer Wälder schützen oder Klimabilanzen von Ländern pr�
 Vorbehalt: Die Karten decken nur vier Jahre ab, und die Kohlenstoffmengen sind Schätzungen mit Unsicherheit. Sie stimmen aber im Großen und Ganzen mit den Angaben der Länder überein.
 
 Quelle: Nature Communications – https://www.nature.com/articles/s41467-026-77531-y</description>
+  </item>
+  <item>
+   <title>Sprach-KI liest Kommentare von Vogelbeobachtern und findet Tierbeziehungen, die in keiner Datenbank stehen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-kommentare-voegel-llm</link>
+   <guid isPermaLink="false">2026-11-25-kommentare-voegel-llm</guid>
+   <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Hobby-Vogelbeobachter tragen ihre Sichtungen in Online-Portale ein und schreiben oft einen kurzen Kommentar dazu, etwa „Meise jagt Spatz vom Futterhaus“. In diesen Kommentaren steckt Wissen darüber, wer mit wem zu tun hat, aber niemand kann Millionen Texte von Hand lesen. Forschende aus den USA ließen deshalb eine Sprach-KI, also ein Programm, das Texte versteht und sortiert, die Kommentare zu mehr als 18 Millionen Vogelmeldungen aus dem US-Bundesstaat Michigan durchsehen. Sie markierte rund 29.000 Kommentare, in denen von einem Zusammentreffen zweier Arten die Rede ist. Bei einem Test mit knapp 500 Kommentaren, die ein Student zuvor von Hand sortiert hatte, brauchte die KI Minuten statt gut acht Stunden und lag etwa in vier von fünf Fällen richtig. In einem zweiten Versuch wertete das Team Kommentare zu einem Schmetterling aus und fand 21 Pflanzengruppen, die in einer bekannten Datenbank für diesen Falter fehlten.
+
+Warum das wichtig ist: Sichtungen von Hobby-Beobachtern sind ein riesiger Schatz, der bisher kaum genutzt wurde. Mit Hilfe der KI können Forschende daraus lernen, welche Tiere und Pflanzen aufeinander angewiesen sind, und das ist wichtig, um Artenschutz besser zu planen.
+
+Vorbehalt: Die KI übersah fast ein Viertel der bekannten Kommentare mit Tierbegegnungen und machte Fehler, die Menschen korrigieren mussten. Sie verstand zum Beispiel nicht, dass mit „Bohemians“ eine Vogelart gemeint war. Getestet wurde nur an Vögeln in einem Bundesstaat und an einem Schmetterling. Und wenn ein Falter eine Blume besucht, heißt das noch nicht, dass er sie auch bestäubt.
+
+Quelle: PNAS (Earth.com berichtet) – https://www.earth.com/science/ai-reveals-hidden-wildlife-relationships-in-millions-of-birdwatching-records/</description>
+  </item>
+  <item>
+   <title>Warum KI Tiersprache nicht einfach „übersetzen“ kann: Test mit Kleinkindlauten</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-kleinkinder-tiersprache-ki</link>
+   <guid isPermaLink="false">2026-11-25-kleinkinder-tiersprache-ki</guid>
+   <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Immer wieder heißt es, KI werde bald verstehen, was Tiere einander sagen. Meist sortiert sie dafür Tierlaute danach, wie ähnlich sie klingen. Aber stimmt es, dass ähnlich klingende Laute auch dasselbe bedeuten? Forschende aus Israel, Großbritannien und Deutschland prüften das an Lauten von Kleinkindern, deren Bedeutung wir Menschen teilweise verstehen. Die Laute stammten aus drei Lagen: Unwohlsein, Rufen nach Mutter oder Vater und Betteln um Essen. Drei Verfahren sollten die Laute ordnen, eine klassische Klanganalyse und zwei lernende KI-Modelle, eines mit Tierlauten und eines mit Erwachsenensprache trainiert. Die KI-Modelle waren besser als die klassische Methode, trotzdem warfen sie Laute mit verschiedener Bedeutung zusammen und trennten Laute mit gleicher Absicht. Auch dass ein Rufen immer dringlicher wurde, was Zuhörende sofort merken, erkannten sie nicht.
+
+Warum das wichtig ist: Wenn Schlagzeilen versprechen, KI könne bald Wal- oder Vogelsprache übersetzen, lohnt Vorsicht. Klang allein verrät noch nicht, was ein Tier meint. Man muss auch beobachten, wie Artgenossen darauf reagieren.
+
+Vorbehalt: Es ist ein kurzer Fachbeitrag mit einem kleinen Datensatz, die Pressemitteilung nennt keine Zahl der Kinder oder Aufnahmen. Kleinkinder sind keine Tiere, die Übertragung auf Tierarten ist also ein Gedankenexperiment. Der Beitrag zeigt Grenzen, ersetzt aber keine Studien an Tieren.
+
+Quelle: Tel Aviv University via EurekAlert – https://www.eurekalert.org/news-releases/1144253</description>
+  </item>
+  <item>
+   <title>KI als Teamkollegin: Auch die besten Programme geben unter Druck nach und übernehmen Pfusch</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-ki-teamkollege-schwaechen</link>
+   <guid isPermaLink="false">2026-11-25-ki-teamkollege-schwaechen</guid>
+   <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>KI-Programme sollen künftig nicht nur allein arbeiten, sondern mit Menschen und anderen Programmen zusammen, etwa in der Medizin oder in der Forschung. Ein Forschungsteam wollte wissen, wie gut sie dabei als Teamkollegen sind. Es hat 18 Programme mit 240 Aufgaben getestet, die zum Beispiel aus Berichten über Flugunfälle, Krankheitsfällen, Programmieraufgaben und Verhandlungen stammen. Gewertet wurden nur Aufgaben, die das Programm allein lösen kann, so dass wirklich die Zusammenarbeit geprüft wird. Alle 18 zeigten klare Schwächen, das beste kam auf 82 von 100 Punkten. Gefährliche Abkürzungen lehnten sie fast immer ab. Doch bei Streit gaben sie oft nach: Nur in 14 von 100 Konflikten erreichten sie das beste Gesamtergebnis. Und wenn sie eine Aufgabe von einem schwächeren Programm übernahmen, das geschummelt hatte, sank ihre Erfolgsquote von 97 auf 81 von 100.
+
+Warum das wichtig ist: Wer mehrere KI-Programme zusammenarbeiten lässt, kann sich nicht darauf verlassen, dass das stärkere Programm die Fehler des anderen bemerkt.
+
+Vorbehalt: Es ist ein Vorabdruck ohne unabhängige Begutachtung. Die Aufgaben sind nachgestellte Testfälle, keine echte Arbeit in Kliniken oder Laboren. Nur ein Teil der Aufgaben ist öffentlich, der Rest bleibt zurückgehalten.
+
+Quelle: arXiv: Measuring AI Agents as Teammates with Collaborative Intelligence – https://arxiv.org/abs/2611.02633</description>
+  </item>
+  <item>
+   <title>KI-Chatbots helfen seltener beim illegalen Tierhandel als eine Google-Suche, schützen aber nicht alle Arten gleich gut</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-ki-chatbots-wildtierhandel</link>
+   <guid isPermaLink="false">2026-11-25-ki-chatbots-wildtierhandel</guid>
+   <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Der Handel mit geschützten Tieren und Pflanzen läuft zunehmend im Internet. Forschende aus Großbritannien wollten wissen, ob KI-Chatbots dabei zum Helfer werden. Sie stellten verschiedenen Chatbots Fragen, mit denen man Anbieter bedrohter Arten finden könnte, und verglichen die Antworten mit einer normalen Google-Suche. Sie probierten auch aus, ob sich die eingebauten Sperren mit geschickten Formulierungen umgehen lassen. Insgesamt schnitten die Chatbots besser ab als Google: Sie halfen seltener beim möglicherweise illegalen Kauf, und manche erklärten dazu, was rechtlich erlaubt ist. Am besten war Gemini, dicht gefolgt von DeepSeek, Grok und ChatGPT. Der Schutz war aber ungleich verteilt: Bei Menschenaffen, Tigern und Plumploris war er stark, bei Korallen, Vogelspinnen und Orchideen deutlich schwächer.
+
+Warum das wichtig ist: Wer im Netz nach Tieren oder Pflanzen sucht, trifft immer häufiger auf KI-Antworten. Die Studie zeigt, dass diese schon etwas bremsen können, dass aber weniger bekannte Arten leicht durchs Raster fallen.
+
+Vorbehalt: Die Pressemitteilung nennt keine genauen Zahlen, deshalb lässt sich die Rangfolge der Chatbots nicht genau beurteilen. Keine Plattform war unfehlbar: Eine Umgehungsfrage führte zu Links auf Seiten, die möglicherweise mit illegalen Tieren handeln. Chatbots ändern sich zudem ständig, die Ergebnisse können schnell veraltet sein.
+
+Quelle: University of Kent, Pressemitteilung – https://www.kent.ac.uk/news/cyber-security-digital-technology-and-communication/38489/ai-platforms-offer-promise-in-limiting-the-illegal-wildlife-trade</description>
+  </item>
+  <item>
+   <title>KI-Assistent in kenianischen Arztpraxen: bessere Behandlungsplanung, aber kein messbar besserer Verlauf für die Patienten</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-ki-assistent-kenia-praxen</link>
+   <guid isPermaLink="false">2026-11-25-ki-assistent-kenia-praxen</guid>
+   <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Immer mehr Ärztinnen und Ärzte probieren KI-Sprachprogramme aus, die beim Diagnostizieren und Behandeln helfen sollen. Ob das den Patienten wirklich nützt, wurde aber kaum unter Alltagsbedingungen geprüft. Ein Forschungsteam aus Großbritannien und Kenia hat das jetzt in 16 Hausarztpraxen in Kenia getestet. In die Patientenakte-Software wurde ein KI-Assistent eingebaut, der den Behandelnden während der Sprechstunde Vorschläge machte, passend zu den kenianischen Behandlungsleitlinien. Per Los wurde festgelegt, welche Ärzte mit und welche ohne diesen Assistenten arbeiteten. Insgesamt wurden mehr als 9.600 Patienten einbezogen. Unabhängige Fachleute, die nicht wussten, wer mit KI gearbeitet hatte, bewerteten die Dokumentation und die Behandlungspläne mit KI-Hilfe als deutlich besser. Bei den Patienten selbst zeigte sich aber kein klarer Unterschied: Bei 2,2 Prozent der Patienten mit KI-Unterstützung und bei 2,0 Prozent ohne schlug die Behandlung innerhalb von zwei Wochen nicht an. Schaden entstand durch den Assistenten nicht, und die Kosten für Antibiotika waren in der KI-Gruppe niedriger.
+
+Warum das wichtig ist: Die Studie zeigt, dass ein KI-Assistent in der Praxis sicher eingesetzt werden kann und die Qualität der Arbeit verbessert. Dass es Patienten dadurch schnell messbar besser geht, ist damit aber nicht belegt.
+
+Vorbehalt: Schwere Verläufe wie Klinikeinweisungen oder Todesfälle sind in Hausarztpraxen selten, deshalb bräuchte man für einen kleinen Vorteil womöglich über 100.000 Patienten. Beobachtet wurden nur die ersten 14 Tage. Ob das Ergebnis auf reiche Länder mit ohnehin guter Versorgung übertragbar ist, ist offen.
+
+Quelle: Nature Medicine via Universität Birmingham – https://www.eurekalert.org/news-releases/1133583</description>
+  </item>
+  <item>
+   <title>Wenn zwei Antidepressiva nicht wirken: Warum KI bei der Wahl der Behandlung bisher nur wenig hilft</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-depression-ki-biomarker-uebersicht</link>
+   <guid isPermaLink="false">2026-11-25-depression-ki-biomarker-uebersicht</guid>
+   <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Bei vielen Menschen mit Depression helfen die ersten Medikamente nicht. Dann sucht man oft lange nach dem richtigen Mittel. Ein Psychiater aus Taiwan hat in einem Überblicksartikel zusammengetragen, ob Messwerte aus dem Körper, etwa Hirnstrombilder oder Blutwerte, zusammen mit KI vorhersagen können, welche Behandlung wem hilft. Er hat dafür viele frühere Studien ausgewertet, selbst aber keine neue Untersuchung gemacht. Das Bild ist nüchtern: Manche KI-Modelle treffen mit Hirnstrom-Daten in kleinen Gruppen recht gut, ein Modell mit Daten von gut 9.000 Erwachsenen lag bei der Auswahl aus zehn Medikamenten aber nur wenig über dem Zufall. Ein Zusammenhang, der in einer kleinen Gruppe von 26 Personen stark aussah, verschwand in einer Gruppe von rund 500 Menschen ganz.
+
+Warum das wichtig ist: Die Hoffnung auf einen Test, der genau sagt, welches Antidepressivum wirkt, ist berechtigt, aber noch nicht erfüllt. Wer an Depression leidet, sollte die Behandlung weiter gemeinsam mit Ärztin oder Arzt Schritt für Schritt anpassen.
+
+Vorbehalt: Es ist ein Überblicksartikel und kein neuer Versuch. Der Autor besitzt selbst Patente auf KI-gestützte Depressionsdiagnostik. Viele Modelle wurden noch nie an neuen Patienten getestet, und die Daten stammen überwiegend von Menschen europäischer Herkunft.
+
+Quelle: Brain Medicine via Genomic Press – https://www.eurekalert.org/news-releases/1152698</description>
+  </item>
+  <item>
+   <title>KI-Gesundheitsassistent versteht Menschen schlechter, die sich umgangssprachlich ausdrücken</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-chatbot-gesundheitswissen-simulation</link>
+   <guid isPermaLink="false">2026-11-25-chatbot-gesundheitswissen-simulation</guid>
+   <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Chatprogramme, die Patienten Fragen stellen und bei der Wahl eines Medikaments helfen sollen, werden meist nur mit Musteraufgaben getestet. Im echten Leben reden Menschen aber sehr unterschiedlich: Manche benutzen genaue Fachbegriffe, andere beschreiben ihre Beschwerden vage und in Alltagswörtern. Forschende aus den USA haben deshalb Fantasie-Patienten am Computer erzeugt, die auf echten, anonymisierten Krankenakten beruhen und sich unterschiedlich gut mit Gesundheitsthemen auskennen. Mit ihnen wurden 500 Gespräche mit einem KI-Hilfsprogramm für die Wahl eines Antidepressivums geführt. Je geringer das Gesundheitswissen der Fantasie-Patienten, desto schlechter erkannte das Programm, was gemeint war: Bei Patienten mit geringem Gesundheitswissen verstand es nur knapp die Hälfte der Angaben richtig, bei gut informierten etwa vier von fünf. Ein Programm kann also im Durchschnitt gut abschneiden und trotzdem gerade die Menschen schlechter bedienen, die Hilfe besonders brauchen.
+
+Warum das wichtig ist: Wenn du einen KI-Gesundheitshelfer nutzt, kann es sich lohnen, deine Beschwerden möglichst genau zu beschreiben und wichtige Angaben nachzuprüfen. Die Studie ist vor allem eine Mahnung an die Entwickler, ihre Programme an unterschiedlichen Sprechweisen zu testen.
+
+Vorbehalt: Es waren keine echten Patienten, sondern vom Computer gespielte. Getestet wurde ein einziges Hilfsprogramm für ein einziges Thema. Eine verlässliche Lösung für das Problem gibt es noch nicht.
+
+Quelle: JMIR AI – https://ai.jmir.org/2026/1/e100772</description>
   </item>
   <item>
    <title>KI schätzt den Geburtstermin per Ultraschall, aber kaum besser als gedacht</title>
@@ -718,132 +844,6 @@ Warum das wichtig ist: Falsche Tierzahlen führen zu falschen Schutzentscheidung
 Vorbehalt: Die Zahlen stammen aus einer Reuters-Recherche und Aussagen der Organisation, nicht aus einer begutachteten Studie. Dieselbe Recherche hält fest, dass alle 15 befragten Umweltorganisationen den Strom- und Wasserbedarf der Rechenzentren hinter dieser KI als Problem sehen.
 
 Quelle: Reuters via US News – https://www.usnews.com/news/top-news/articles/2026-11-07/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts</description>
-  </item>
-  <item>
-   <title>Einordnung: Wie nah ist der Tierübersetzer wirklich?</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-tieruebersetzer-stand</link>
-   <guid isPermaLink="false">2026-11-13-tieruebersetzer-stand</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>tiere</category>
-   <description>Ein Überblick vom November 2026 fasst den Stand zusammen. NatureLM-audio erkannte in australischen FrogID-Aufnahmen Froschlaute mit 99 Prozent und bestimmte ausgewählte Arten mit 82 Prozent Genauigkeit. An der McGill University erzeugt das System ZF-AIM in Echtzeit künstliche Vogellaute, um zu testen, wie Zebrafinken darauf reagieren. Google DeepMinds DolphinGemma ist mit jahrzehntelangen Aufnahmen wilder Fleckendelfine trainiert und sagt voraus, welcher Laut als nächstes folgt. Project CETI hat über 8.700 Pottwal-Codas nach Rhythmus und Tempo analysiert. Alle Fachleute sind sich einig: Muster erkennen ist nicht dasselbe wie Bedeutung verstehen.
-
-Warum das wichtig ist: Die Schlagzeilen versprechen oft Gespräche mit Tieren. Der tatsächliche Stand: KI sortiert und beschreibt Laute sehr gut, aber kein System kann heute sagen, was ein Tier meint.
-
-Vorbehalt: Fachleute warnen vor Vermenschlichung und vor Missbrauch: Wer Lock- oder Notrufe nachahmen kann, kann Tiere auch stören oder fangen. Künstliche Laute in Wildpopulationen zu senden, birgt ökologische Risiken.
-
-Quelle: Euronews – https://www.euronews.com/2026/11/09/could-artificial-intelligence-help-us-talk-with-animals-one-day</description>
-  </item>
-  <item>
-   <title>Erstes vollständig KI-entwickeltes Medikament erreicht die letzte Prüfphase</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-rentosertib-phase3</link>
-   <guid isPermaLink="false">2026-11-13-rentosertib-phase3</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>gesundheit</category>
-   <description>Rentosertib gegen idiopathische Lungenfibrose ist das erste Medikament, bei dem sowohl das Zielmolekül als auch der Wirkstoff von KI vorgeschlagen wurden. Insilico Medicine hat im Juli 2026 eine Phase-III-Studie angekündigt: 320 Patienten an 47 Zentren in China, 52 Wochen, placebokontrolliert. Im Register ist der Start für September 2026 vermerkt. In der vorangegangenen Phase IIa mit 71 Patienten verbesserte sich die Lungenkapazität unter 60 mg täglich um 98 Milliliter in zwölf Wochen, während sie unter Placebo um 20 Milliliter abnahm.
-
-Warum das wichtig ist: Bisher ist kein KI-entdecktes Medikament von einer großen Behörde zugelassen. Diese Studie ist der erste echte Test, ob der KI-Weg bis zur Zulassung trägt.
-
-Vorbehalt: Die Phase IIa war klein, und in der höchsten Dosis brachen mehrere Patienten wegen Leberwerten ab. Ergebnisse der Phase III werden erst gegen 2029 erwartet.
-
-Quelle: Clinical Research News – https://www.clinicalresearchnewsonline.com/news/2026/07/08/insilico-medicine-launches-phase-iii-trial-for-ai-developed-drug</description>
-  </item>
-  <item>
-   <title>KI erkennt Bauchspeicheldrüsenkrebs im CT, bevor Radiologen ihn sehen</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-redmod-pankreas</link>
-   <guid isPermaLink="false">2026-11-13-redmod-pankreas</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>gesundheit</category>
-   <description>Das Modell REDMOD der Mayo Clinic analysiert feinste Gewebemuster in Bauch-CTs. Geprüft wurde es an 219 Patienten, deren frühere Scans als unauffällig galten, obwohl später Pankreaskrebs diagnostiziert wurde, plus 1.243 gesunde Vergleichspersonen. Die KI fand 73 Prozent dieser Tumoren im Rückblick, Radiologen nur 39 Prozent. Der mittlere Vorsprung lag bei 475 Tagen vor der klinischen Diagnose. Bei Scans, die mehr als zwei Jahre vor der Diagnose entstanden, lag die Trefferquote bei 68 gegenüber 23 Prozent.
-
-Warum das wichtig ist: Pankreaskrebs wird meist so spät entdeckt, dass eine Operation nicht mehr möglich ist. Ein Frühwarnsystem, das vorhandene CT-Bilder nachträglich auswertet, könnte das ändern.
-
-Vorbehalt: Rückblickende Studie, die Patientengruppe war ethnisch wenig vielfältig. Eine prospektive Prüfung an Risikogruppen steht noch aus, ein klinischer Einsatz ist noch nicht freigegeben.
-
-Quelle: Gut (BMJ) via ScienceDaily – https://www.sciencedaily.com/releases/2026/10/261024222031.htm</description>
-  </item>
-  <item>
-   <title>Computersehen belegt: Pottwale leisten Geburtshilfe wie sonst nur Menschen und wenige Primaten</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-pottwal-geburt</link>
-   <guid isPermaLink="false">2026-11-13-pottwal-geburt</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>tiere</category>
-   <description>Am 8. Juli 2023 filmten Forschende vor Dominica eine Pottwalgeburt mit Drohnen und nahmen über sechs Stunden Unterwasserton auf. Mit Computersehen und Netzwerkanalyse werteten sie aus, wer wann half: Weibchen aus zwei Familienlinien, verwandte und nicht verwandte, unterstützten die Mutter und hoben das Neugeborene abwechselnd an die Oberfläche. Es ist der erste quantitative Nachweis von Geburtsbeistand außerhalb von Menschen und wenigen Primatenarten. Die Tonanalyse zeigte, dass sich die Klickmuster in Schlüsselmomenten veränderten, inklusive vokalähnlicher Strukturen.
-
-Warum das wichtig ist: Kooperation bei der Geburt gilt als Grundlage komplexer Gesellschaften. Dass sie bei Walen vorkommt und laut Stammbaumanalyse über 36 Millionen Jahre alt sein könnte, verändert das Bild von der sozialen Evolution im Meer.
-
-Vorbehalt: Ein einziges Geburtsereignis in einer besonders gut erforschten Gruppe. Ob andere Pottwalgruppen so handeln, ist offen.
-
-Quelle: Science und Scientific Reports via EurekAlert – https://www.eurekalert.org/news-releases/1120823</description>
-  </item>
-  <item>
-   <title>KI erkennt die Handschrift einzelner Schreiber auf 3.000 Jahre alten Keilschrifttafeln</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-palaeographicum-keilschrift</link>
-   <guid isPermaLink="false">2026-11-13-palaeographicum-keilschrift</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>archaeologie</category>
-   <description>Das Werkzeug Palaeographicum vergleicht die Form einzelner Keilschriftzeichen über riesige Sammlungen hinweg. Die aktuelle Version umfasst rund 70.000 Fotografien hethitischer Tontafeln mit über fünf Millionen dokumentierten Einzelzeichen. Ziel ist, die Schreibgewohnheiten einzelner Schreiber zu erkennen und damit Texte zu datieren, die bisher kaum einzuordnen waren. Vergleiche, die Fachleute früher mehrere Tage kosteten, dauern laut Projektleiter Daniel Schwemer jetzt Minuten. Das System wird mit annotiertem Material und Rückmeldungen aus der Hethitologie laufend nachtrainiert.
-
-Warum das wichtig ist: Rund 30.000 hethitische Tafelfragmente warten auf Einordnung. Wer sie einem Schreiber und damit einer Zeit zuordnen kann, rekonstruiert Archive und Verwaltung eines Reiches, das vor über 3.000 Jahren unterging.
-
-Vorbehalt: Noch in Entwicklung, keine begutachtete Veröffentlichung. Die automatische Schreiberidentifikation über ganze Sammlungen hinweg ist ein Fernziel, die bessere Datierung wird erwartet, nicht belegt.
-
-Quelle: HeritageDaily – https://www.heritagedaily.com/2026/05/ai-tool-revolutionises-the-study-of-ancient-cuneiform-texts/158121</description>
-  </item>
-  <item>
-   <title>Selbst die KI-Elite ist betroffen: 100 erfundene Quellen in angenommenen Artikeln der Top-Konferenz NeurIPS</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-neurips-zitate</link>
-   <guid isPermaLink="false">2026-11-13-neurips-zitate</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>grenzen</category>
-   <description>Eine Analyse von 100 KI-halluzinierten Literaturverweisen in Artikeln, die auf der KI-Konferenz NeurIPS 2025 angenommen wurden, ordnet die Fehler in fünf Typen ein. 66 Prozent waren komplette Erfindungen, 27 Prozent hatten verfälschte Angaben wie falsche Autoren oder Jahre, 4 Prozent nutzten die Kennung einer fremden Arbeit. Jede einzelne Halluzination kombinierte mehrere Täuschungsmuster, was sie plausibel und scheinbar überprüfbar machte. Betroffen waren 53 Artikel, rund ein Prozent aller angenommenen Beiträge, und jeder davon hatte drei bis fünf Fachgutachter passiert. 92 Prozent der Artikel enthielten ein oder zwei falsche Quellen, 8 Prozent vier bis dreizehn.
-
-Warum das wichtig ist: Wenn selbst die Begutachtung der wichtigsten KI-Konferenz erfundene Quellen durchlässt, prüft Peer Review Zitate offenbar nicht. Der Autor fordert eine automatische Zitatprüfung bei jeder Einreichung.
-
-Vorbehalt: Einzelautor, Vorabdruck ohne Begutachtung. Wie die 100 Zitate gesammelt und verifiziert wurden, ist auf der Übersichtsseite nicht beschrieben, und die Prozentwerte beruhen auf einer kleinen Stichprobe.
-
-Quelle: arXiv 2602.05930 – https://arxiv.org/abs/2602.05930</description>
-  </item>
-  <item>
-   <title>44 Millionen Tierlaute mit Text: ein Sprachmodell lernt, Tierverhalten zu beschreiben</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-naturelm-roots</link>
-   <guid isPermaLink="false">2026-11-13-naturelm-roots</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>tiere</category>
-   <description>Das Earth Species Project hat ROOTS veröffentlicht, einen Trainingsdatensatz aus 44 Millionen Paaren von Tieraufnahmen und Beschreibungstexten, gewonnen aus 6,5 Millionen Audioclips, Feldnotizen und Archiven. Damit wurde das Bioakustik-Modell NatureLM-audio nachtrainiert und am neuen Prüfstand BEANS-Next gemessen. Die Fähigkeit, Lautäußerungen anhand von Feldnotizen korrekt zu beschreiben, stieg von 28,7 auf 97,9 Prozent, die Vorhersage von Verhalten aus Lauten von 33,7 auf 87,1 Prozent. Unbekannte Arten anhand weniger Beispielaufnahmen zuzuordnen, gelang statt in 27 nun in 65 Prozent der Fälle.
-
-Warum das wichtig ist: Forschende brauchen bisher Monate, um Tonaufnahmen aus dem Feld auszuwerten. Ein Modell, das man in normaler Sprache fragen kann, welche Art ruft und was sie gerade tut, würde Artenschutz und Verhaltensforschung stark beschleunigen.
-
-Vorbehalt: Eigener Prüfstand, eigene Zahlen, noch nicht unabhängig begutachtet. Frei formulierte Beschreibungen und das Zählen einzelner Rufe bleiben schwierig.
-
-Quelle: Earth Species Project – https://earthspecies.org/2026/10/21/broadening-audio-language-capabilities-for-bioacoustics-introducing-beans-next-and-roots/</description>
-  </item>
-  <item>
-   <title>Keto-Diät: Bei Fettleber und Prädiabetes besser als ihr Ruf, aber die Studie ist klein</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-mythos-keto-blutfette</link>
-   <guid isPermaLink="false">2026-11-13-mythos-keto-blutfette</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>mythen</category>
-   <description>In St. Louis wurden 42 Erwachsene mit Adipositas, Prädiabetes und Fettleber zufällig auf drei Diäten verteilt: ketogen (4 Prozent Kohlenhydrate, 73 Prozent Fett), mediterran oder fettarm-pflanzlich. Alle Mahlzeiten wurden gestellt, die Kalorien so eingestellt, dass jede Gruppe etwa 10 Prozent Gewicht verlor. Das Leberfett sank unter Keto um 67 Prozent, in den anderen Gruppen um 45 Prozent. Bei der Hälfte der Keto-Gruppe verschwand der Prädiabetes, gegenüber 29 und 7 Prozent. Trotz des hohen Fettanteils stiegen Cholesterin und Blutfette nicht stärker als bei den anderen Diäten.
-
-Warum das wichtig ist: Die Angst vor Keto beruht vor allem auf Studien an schlanken Gesunden. Diese Studie zeigt, dass die Wirkung stark davon abhängt, wer die Diät macht und ob dabei Gewicht verloren wird.
-
-Vorbehalt: Nur 42 Personen, alle Mahlzeiten gestellt, Dauer vier bis fünf Monate. Eine ältere Studie mit normalgewichtigen Frauen fand unter Keto deutlich erhöhtes LDL-Cholesterin. Für Gesunde ohne Gewichtsverlust bleibt die Frage offen.
-
-Quelle: Cell Metabolism via ScienceDaily – https://www.sciencedaily.com/releases/2026/08/260828082327.htm</description>
-  </item>
-  <item>
-   <title>Intervallfasten: Es wirkt, aber vor allem, weil man weniger isst</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-mythos-intervallfasten</link>
-   <guid isPermaLink="false">2026-11-13-mythos-intervallfasten</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>mythen</category>
-   <description>Eine Cochrane-Übersicht von 2026 fasst die randomisierten Studien zu Intervallfasten bei Übergewicht zusammen: Gegenüber normaler Ernährungsberatung macht es für Gewicht und Lebensqualität wenig bis keinen Unterschied. Die deutsche ChronoFast-Studie hielt die Kalorien konstant und fand bei einem Acht-Stunden-Essfenster keine Verbesserung von Insulinempfindlichkeit, Blutzucker oder Blutfetten. Eine randomisierte Studie vom Oktober 2026 sah etwas mehr Fettverlust, aber keinen größeren Gewichtsverlust insgesamt. Eine Zwölfmonatsstudie zeigte, dass Fastende ihr Gewicht gut halten konnten.
-
-Warum das wichtig ist: Intervallfasten ist für viele Menschen ein praktikabler Weg, weniger zu essen. Der versprochene besondere Stoffwechseleffekt lässt sich in kontrollierten Studien aber nicht nachweisen.
-
-Vorbehalt: Einzelne Studien zu speziellen Gruppen, etwa bei Morbus Crohn, zeigen positive Effekte, sind aber klein. Langzeitdaten über mehrere Jahre fehlen.
-
-Quelle: Cochrane Review 2026 – https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/full</description>
   </item>
  </channel>
 </rss>

@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-25T05:07:42Z",
- "count": 73,
+ "generated": "2026-11-25T05:08:27Z",
+ "count": 82,
  "posts": [
   {
    "published": "2026-08-06",
@@ -82,6 +82,86 @@
    "category": "klima"
   },
   {
+   "id": "2026-11-25-rosci-fehlerhafte-aufgaben",
+   "date": "2026-11-25",
+   "published": "2026-11-20",
+   "category": "grenzen",
+   "countries": [
+    "INT"
+   ],
+   "institution": "Nicht auf der arXiv-Seite genannt",
+   "maturity": "preprint",
+   "source": {
+    "name": "arXiv: RoSci: Exploring Robustness in Science VLMs",
+    "url": "https://arxiv.org/abs/2611.27750"
+   },
+   "more": [],
+   "de": {
+    "title": "KI beantwortet auch Wissenschaftsaufgaben, die gar nicht lösbar sind",
+    "summary": "Wer eine Aufgabe mit einem Fehler stellt, erwartet von einem guten Fachmann, dass er nachfragt, statt einfach loszurechnen. Ein Forschungsteam wollte wissen, ob KI-Programme, die Text und Bilder zugleich verstehen, das auch können. Dafür bauten sie einen Test mit 1.220 Wissenschaftsaufgaben, in die auf sechs verschiedene Arten Fehler eingebaut wurden: falsche oder fehlende Angaben. Das Ergebnis: Die geprüften Programme beantworteten solche Aufgaben manchmal trotzdem, statt zu sagen, dass etwas nicht stimmt. Ein vorgeschalteter Prüfschritt, der erst kontrolliert, ob die Angaben überhaupt stimmig sind, schnitt in der Gesamtwertung besser ab als die Programme allein.",
+    "why": "Ein KI-Programm klingt oft sicher, auch wenn die Frage selbst fehlerhaft ist. Wenn du ihm Daten oder Aufgaben gibst, kann es also eine glatte Antwort liefern, obwohl es hätte widersprechen müssen.",
+    "caveat": "Es ist ein Vorabdruck, den noch niemand unabhängig begutachtet hat. Die Fehler in den Aufgaben wurden künstlich eingebaut. Hier wurde nur die Kurzfassung der Studie gelesen, nicht der ganze Text."
+   },
+   "en": {
+    "title": "AI also answers science questions that cannot be solved",
+    "summary": "If you pose a task with a mistake in it, you expect a good expert to ask questions instead of just calculating. A research team wanted to know whether AI programs that understand text and images together can do that too. They built a test of 1,220 science tasks in which errors were planted in six different ways: wrong or missing information. The result: the programs tested sometimes answered such tasks anyway instead of saying that something was off. A check step placed in front, which first looks at whether the information makes sense at all, scored better overall than the programs on their own.",
+    "why": "An AI program often sounds confident even when the question itself is flawed. If you give it data or tasks, you may get a smooth answer when it should have objected.",
+    "caveat": "This is a preprint that nobody has independently reviewed yet. The errors in the tasks were planted artificially. Only the short summary of the study was read, not the full text."
+   },
+   "ru": {
+    "title": "ИИ отвечает даже на научные задачи, которые решить невозможно",
+    "summary": "Если задать задачу с ошибкой, от хорошего специалиста ждёшь, что он переспросит, а не станет просто считать. Исследователи хотели узнать, умеют ли так ИИ-программы, понимающие текст и изображения одновременно. Они собрали тест из 1220 научных задач, в которые шестью разными способами внесли ошибки: неверные или недостающие данные. Результат: проверенные программы иногда всё равно отвечали на такие задачи, вместо того чтобы сказать, что что-то не так. Предварительный шаг проверки, который сначала смотрит, согласуются ли вообще условия, в общей оценке показал себя лучше, чем сами программы.",
+    "why": "Программа ИИ часто звучит уверенно, даже когда сам вопрос неверен. Если дать ей данные или задачи, можно получить гладкий ответ там, где она должна была возразить.",
+    "caveat": "Это препринт, который пока никто независимо не проверил. Ошибки в задачах внесены искусственно. Прочитано только краткое изложение исследования, а не весь текст."
+   },
+   "image": {
+    "src": "https://arxiv.org/html/2611.27750v1/moti.png",
+    "kind": "figure",
+    "credit": "Abbildung der Studie, arXiv",
+    "link": "https://arxiv.org/abs/2611.27750"
+   }
+  },
+  {
+   "id": "2026-11-25-modell-abschaltung-reproduzierbarkeit",
+   "date": "2026-11-25",
+   "published": "2026-09-04",
+   "category": "grenzen",
+   "countries": [
+    "INT"
+   ],
+   "institution": "Autorenteam (Affiliationen auf der arXiv-Seite nicht angegeben)",
+   "maturity": "preprint",
+   "source": {
+    "name": "arXiv: Model Retirement Creates Reproducibility Risk in Biomedical AI Publications",
+    "url": "https://arxiv.org/abs/2609.04699"
+   },
+   "more": [],
+   "de": {
+    "title": "Viele medizinische KI-Studien lassen sich bald nicht mehr nachprüfen, weil die Programme abgeschaltet werden",
+    "summary": "Zu guter Wissenschaft gehört, dass andere ein Ergebnis wiederholen können. Bei Studien mit großen Sprachprogrammen wie ChatGPT wird das schwierig, denn die Firmen schalten ältere Versionen nach einiger Zeit ab. Ein Forschungsteam hat deshalb Studien aus der Medizin und Biologie durchsucht, die zwischen 2022 und März 2026 erschienen sind. Insgesamt prüften sie über 61.000 Zusammenfassungen und fanden gut 5.000 Veröffentlichungen, die ein bestimmtes Sprachprogramm benutzt haben. In knapp acht von zehn Fällen war es ein Programm einer Firma, dessen Innenleben nicht offen liegt. Bei 42 von 100 Nennungen war das benutzte Programm schon abgeschaltet oder sollte innerhalb von zwei Jahren abgeschaltet werden. Im Mittel vergingen nur 538 Tage, also etwa anderthalb Jahre, von der Veröffentlichung bis zur Abschaltung.",
+    "why": "Ein Ergebnis, das niemand mehr wiederholen kann, ist schwer zu überprüfen. Wer sich auf eine Studie mit einem Chatbot verlässt, sollte also fragen, ob dieselbe Version überhaupt noch läuft.",
+    "caveat": "Es ist ein Vorabdruck ohne unabhängige Begutachtung. Die Modellnamen suchte ein KI-Programm in den Zusammenfassungen, nur eine Stichprobe prüften Menschen nach. Ob sich ein Ergebnis mit einer neueren Version wiederholen lässt, hat die Studie nicht getestet."
+   },
+   "en": {
+    "title": "Many medical AI studies will soon be impossible to check because the programs get switched off",
+    "summary": "Good science means others can repeat a result. With studies that use large language programs such as ChatGPT, this gets hard, because companies retire older versions after a while. A research team therefore searched medical and biology studies published between 2022 and March 2026. They screened more than 61,000 abstracts and found just over 5,000 publications that used a specific language program. In nearly eight of ten cases it was a company's program whose inner workings are not open. In 42 of 100 mentions, the program used had already been retired or was due to be retired within two years. On average only 538 days, about a year and a half, passed between publication and retirement.",
+    "why": "A result nobody can repeat is hard to verify. If you rely on a study that used a chatbot, ask whether that exact version is even still running.",
+    "caveat": "This is a preprint without independent review. An AI program searched the abstracts for model names, and people only checked a sample. The study did not test whether results can be repeated with a newer version."
+   },
+   "ru": {
+    "title": "Многие медицинские исследования с ИИ скоро нельзя будет проверить: программы отключают",
+    "summary": "Хорошая наука предполагает, что другие могут повторить результат. С исследованиями, где используются большие языковые программы вроде ChatGPT, это трудно: компании со временем отключают старые версии. Поэтому исследователи просмотрели работы по медицине и биологии, вышедшие с 2022 года по март 2026 года. Они изучили более 61 000 аннотаций и нашли чуть больше 5 000 публикаций, где использовалась конкретная языковая программа. Почти в восьми случаях из десяти это была программа компании с закрытым устройством. В 42 случаях из 100 использованная программа уже была отключена или должна была быть отключена в течение двух лет. В среднем от публикации до отключения проходило лишь 538 дней, то есть около полутора лет.",
+    "why": "Результат, который никто не может повторить, трудно проверить. Если вы полагаетесь на исследование с чат-ботом, спросите, работает ли эта версия вообще до сих пор.",
+    "caveat": "Это препринт без независимой проверки. Названия моделей в аннотациях искала программа ИИ, а люди проверили лишь выборку. Повторяются ли результаты на новой версии, исследование не проверяло."
+   },
+   "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/PDC_server_room.jpg/960px-PDC_server_room.jpg",
+    "kind": "photo",
+    "credit": "Foto: Esquilo, CC BY-SA 3.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
+   }
+  },
+  {
    "published": "2026-09-17",
    "countries": [
     "INT"
@@ -119,6 +199,327 @@
    "id": "2026-11-25-kongo-waldkohlenstoff-karten",
    "date": "2026-11-25",
    "category": "klima"
+  },
+  {
+   "published": "2026-10-08",
+   "countries": [
+    "US"
+   ],
+   "institution": "University of Michigan",
+   "maturity": "study",
+   "source": {
+    "name": "PNAS (Earth.com berichtet)",
+    "url": "https://www.earth.com/science/ai-reveals-hidden-wildlife-relationships-in-millions-of-birdwatching-records/"
+   },
+   "more": [
+    {
+     "name": "PNAS (DOI)",
+     "url": "https://doi.org/10.1073/pnas.2602244123"
+    }
+   ],
+   "de": {
+    "title": "Sprach-KI liest Kommentare von Vogelbeobachtern und findet Tierbeziehungen, die in keiner Datenbank stehen",
+    "summary": "Hobby-Vogelbeobachter tragen ihre Sichtungen in Online-Portale ein und schreiben oft einen kurzen Kommentar dazu, etwa „Meise jagt Spatz vom Futterhaus“. In diesen Kommentaren steckt Wissen darüber, wer mit wem zu tun hat, aber niemand kann Millionen Texte von Hand lesen. Forschende aus den USA ließen deshalb eine Sprach-KI, also ein Programm, das Texte versteht und sortiert, die Kommentare zu mehr als 18 Millionen Vogelmeldungen aus dem US-Bundesstaat Michigan durchsehen. Sie markierte rund 29.000 Kommentare, in denen von einem Zusammentreffen zweier Arten die Rede ist. Bei einem Test mit knapp 500 Kommentaren, die ein Student zuvor von Hand sortiert hatte, brauchte die KI Minuten statt gut acht Stunden und lag etwa in vier von fünf Fällen richtig. In einem zweiten Versuch wertete das Team Kommentare zu einem Schmetterling aus und fand 21 Pflanzengruppen, die in einer bekannten Datenbank für diesen Falter fehlten.",
+    "why": "Sichtungen von Hobby-Beobachtern sind ein riesiger Schatz, der bisher kaum genutzt wurde. Mit Hilfe der KI können Forschende daraus lernen, welche Tiere und Pflanzen aufeinander angewiesen sind, und das ist wichtig, um Artenschutz besser zu planen.",
+    "caveat": "Die KI übersah fast ein Viertel der bekannten Kommentare mit Tierbegegnungen und machte Fehler, die Menschen korrigieren mussten. Sie verstand zum Beispiel nicht, dass mit „Bohemians“ eine Vogelart gemeint war. Getestet wurde nur an Vögeln in einem Bundesstaat und an einem Schmetterling. Und wenn ein Falter eine Blume besucht, heißt das noch nicht, dass er sie auch bestäubt."
+   },
+   "en": {
+    "title": "Language AI reads birdwatchers' comments and finds animal relationships missing from every database",
+    "summary": "Hobby birdwatchers log their sightings on online portals and often add a short comment, such as a tit chasing a sparrow off a feeder. These comments hold knowledge about who interacts with whom, but nobody can read millions of texts by hand. So researchers in the United States had a language AI, a program that understands and sorts text, go through the comments on more than 18 million bird records from the state of Michigan. It flagged around 29,000 comments that describe two species meeting. In a test with almost 500 comments that a student had sorted by hand, the AI needed minutes instead of more than eight hours and was right in about four of five cases. In a second trial the team went through comments on a butterfly and found 21 plant groups missing from a well-known database for that species.",
+    "why": "Sightings from hobby observers are a huge treasure that has hardly been used. With the help of AI, researchers can learn which animals and plants depend on each other, which matters for planning nature conservation better.",
+    "caveat": "The AI missed almost a quarter of the known comments describing animal encounters and made mistakes that people had to correct. For example, it did not realise that \"bohemians\" meant a bird species. It was only tested on birds in one state and on one butterfly. And a butterfly visiting a flower does not yet mean it pollinates it."
+   },
+   "ru": {
+    "title": "Языковой ИИ читает комментарии наблюдателей за птицами и находит связи между видами, которых нет ни в одной базе",
+    "summary": "Любители птиц вносят свои наблюдения в онлайн-порталы и часто добавляют короткий комментарий, например «синица прогнала воробья от кормушки». В таких комментариях скрыты знания о том, кто с кем взаимодействует, но вручную прочитать миллионы текстов невозможно. Поэтому исследователи из США поручили языковому ИИ, то есть программе, которая понимает и сортирует тексты, просмотреть комментарии к более чем 18 миллионам записей о птицах из штата Мичиган. Он отметил около 29 тысяч комментариев, где описана встреча двух видов. В проверке на почти 500 комментариях, которые студент заранее разобрал вручную, ИИ справился за минуты вместо более чем восьми часов и оказался прав примерно в четырёх случаях из пяти. Во втором опыте команда разобрала комментарии об одной бабочке и нашла 21 группу растений, которых нет в известной базе данных для этого вида.",
+    "why": "Наблюдения любителей — огромное богатство, которое почти не использовалось. С помощью ИИ учёные могут узнавать, какие животные и растения зависят друг от друга, а это важно для лучшего планирования охраны природы.",
+    "caveat": "ИИ пропустил почти четверть известных комментариев о встречах животных и делал ошибки, которые исправляли люди. Например, он не понял, что «богемцы» означают вид птиц. Проверка шла только на птицах одного штата и на одной бабочке. А если бабочка садится на цветок, это ещё не значит, что она его опыляет."
+   },
+   "image": {
+    "src": "https://www.earth.com/assets/_next/image/?url=%2Fimg%2F16x9%2F1920%2Fmedia-2026%2F2026%2F10%2F12102215%2Fbohemian-waxwing-bird_1m.jpg&w=1920&q=75",
+    "kind": "press",
+    "credit": "Bild: Earth.com (Shutterstock)",
+    "link": "https://www.earth.com/science/ai-reveals-hidden-wildlife-relationships-in-millions-of-birdwatching-records/"
+   },
+   "id": "2026-11-25-kommentare-voegel-llm",
+   "date": "2026-11-25",
+   "category": "tiere"
+  },
+  {
+   "published": "2026-08-17",
+   "countries": [
+    "IL",
+    "GB",
+    "DE"
+   ],
+   "institution": "Tel Aviv University",
+   "maturity": "study",
+   "source": {
+    "name": "Tel Aviv University via EurekAlert",
+    "url": "https://www.eurekalert.org/news-releases/1144253"
+   },
+   "more": [
+    {
+     "name": "Current Biology (Hebräische Universität)",
+     "url": "https://cris.huji.ac.il/en/publications/the-challenge-of-decoding-animal-communication-using-ai/"
+    }
+   ],
+   "de": {
+    "title": "Warum KI Tiersprache nicht einfach „übersetzen“ kann: Test mit Kleinkindlauten",
+    "summary": "Immer wieder heißt es, KI werde bald verstehen, was Tiere einander sagen. Meist sortiert sie dafür Tierlaute danach, wie ähnlich sie klingen. Aber stimmt es, dass ähnlich klingende Laute auch dasselbe bedeuten? Forschende aus Israel, Großbritannien und Deutschland prüften das an Lauten von Kleinkindern, deren Bedeutung wir Menschen teilweise verstehen. Die Laute stammten aus drei Lagen: Unwohlsein, Rufen nach Mutter oder Vater und Betteln um Essen. Drei Verfahren sollten die Laute ordnen, eine klassische Klanganalyse und zwei lernende KI-Modelle, eines mit Tierlauten und eines mit Erwachsenensprache trainiert. Die KI-Modelle waren besser als die klassische Methode, trotzdem warfen sie Laute mit verschiedener Bedeutung zusammen und trennten Laute mit gleicher Absicht. Auch dass ein Rufen immer dringlicher wurde, was Zuhörende sofort merken, erkannten sie nicht.",
+    "why": "Wenn Schlagzeilen versprechen, KI könne bald Wal- oder Vogelsprache übersetzen, lohnt Vorsicht. Klang allein verrät noch nicht, was ein Tier meint. Man muss auch beobachten, wie Artgenossen darauf reagieren.",
+    "caveat": "Es ist ein kurzer Fachbeitrag mit einem kleinen Datensatz, die Pressemitteilung nennt keine Zahl der Kinder oder Aufnahmen. Kleinkinder sind keine Tiere, die Übertragung auf Tierarten ist also ein Gedankenexperiment. Der Beitrag zeigt Grenzen, ersetzt aber keine Studien an Tieren."
+   },
+   "en": {
+    "title": "Why AI cannot simply \"translate\" animal language: a test with toddler sounds",
+    "summary": "Again and again we hear that AI will soon understand what animals tell each other. Usually it sorts animal sounds by how alike they sound. But do similar-sounding calls really mean the same thing? Researchers from Israel, the United Kingdom and Germany tested this with sounds made by toddlers, whose meaning we humans partly understand. The sounds came from three situations: discomfort, calling for mum or dad, and begging for food. Three methods were asked to sort them: a classical sound analysis and two learning AI models, one trained on animal calls and one on adult speech. The AI models beat the classical method, but still lumped together sounds with different meanings and separated sounds with the same purpose. They also failed to notice a call growing more urgent, which human listeners spot at once.",
+    "why": "When headlines promise that AI will soon translate whale or bird language, caution is wise. Sound alone does not reveal what an animal means. You also have to watch how other animals react to it.",
+    "caveat": "This is a short expert article with a small dataset, and the press release gives no number of children or recordings. Toddlers are not animals, so applying it to animal species is a thought experiment. The work shows limits but does not replace studies on animals."
+   },
+   "ru": {
+    "title": "Почему ИИ не может просто «перевести» язык животных: опыт со звуками малышей",
+    "summary": "Нам снова и снова говорят, что ИИ скоро поймёт, о чём животные говорят друг с другом. Обычно он сортирует звуки животных по тому, насколько они похожи. Но означают ли похожие по звучанию сигналы одно и то же? Исследователи из Израиля, Великобритании и Германии проверили это на звуках малышей, смысл которых мы, люди, отчасти понимаем. Звуки были из трёх ситуаций: дискомфорт, зов мамы или папы и выпрашивание еды. Упорядочить их должны были три метода: классический анализ звука и две обучаемые модели ИИ, одна на звуках животных, другая на речи взрослых. Модели ИИ оказались лучше классического метода, но всё равно объединяли звуки с разным смыслом и разделяли звуки с одной целью. Они также не заметили, что зов становится всё настойчивее, а слушатели-люди это замечают сразу.",
+    "why": "Когда заголовки обещают, что ИИ скоро переведёт язык китов или птиц, стоит быть осторожным. Одного звука недостаточно, чтобы понять, что имеет в виду животное. Нужно ещё наблюдать, как на него реагируют сородичи.",
+    "caveat": "Это короткая научная статья с небольшим набором данных, в пресс-релизе не указано число детей и записей. Малыши — не животные, поэтому перенос на виды животных остаётся мысленным экспериментом. Работа показывает пределы, но не заменяет исследования на животных."
+   },
+   "image": {
+    "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/cd2ef8ca-54b2-4306-9ea3-10cdb5b91771/Rendition/low-res/Content/Public",
+    "kind": "press",
+    "credit": "Bild: Tel Aviv University (EurekAlert)",
+    "link": "https://www.eurekalert.org/news-releases/1144253"
+   },
+   "id": "2026-11-25-kleinkinder-tiersprache-ki",
+   "date": "2026-11-25",
+   "category": "tiere"
+  },
+  {
+   "id": "2026-11-25-ki-teamkollege-schwaechen",
+   "date": "2026-11-25",
+   "published": "2026-11-02",
+   "category": "grenzen",
+   "countries": [
+    "INT"
+   ],
+   "institution": "Autorenteam (Affiliationen auf der arXiv-Seite nicht angegeben)",
+   "maturity": "preprint",
+   "source": {
+    "name": "arXiv: Measuring AI Agents as Teammates with Collaborative Intelligence",
+    "url": "https://arxiv.org/abs/2611.02633"
+   },
+   "more": [],
+   "de": {
+    "title": "KI als Teamkollegin: Auch die besten Programme geben unter Druck nach und übernehmen Pfusch",
+    "summary": "KI-Programme sollen künftig nicht nur allein arbeiten, sondern mit Menschen und anderen Programmen zusammen, etwa in der Medizin oder in der Forschung. Ein Forschungsteam wollte wissen, wie gut sie dabei als Teamkollegen sind. Es hat 18 Programme mit 240 Aufgaben getestet, die zum Beispiel aus Berichten über Flugunfälle, Krankheitsfällen, Programmieraufgaben und Verhandlungen stammen. Gewertet wurden nur Aufgaben, die das Programm allein lösen kann, so dass wirklich die Zusammenarbeit geprüft wird. Alle 18 zeigten klare Schwächen, das beste kam auf 82 von 100 Punkten. Gefährliche Abkürzungen lehnten sie fast immer ab. Doch bei Streit gaben sie oft nach: Nur in 14 von 100 Konflikten erreichten sie das beste Gesamtergebnis. Und wenn sie eine Aufgabe von einem schwächeren Programm übernahmen, das geschummelt hatte, sank ihre Erfolgsquote von 97 auf 81 von 100.",
+    "why": "Wer mehrere KI-Programme zusammenarbeiten lässt, kann sich nicht darauf verlassen, dass das stärkere Programm die Fehler des anderen bemerkt.",
+    "caveat": "Es ist ein Vorabdruck ohne unabhängige Begutachtung. Die Aufgaben sind nachgestellte Testfälle, keine echte Arbeit in Kliniken oder Laboren. Nur ein Teil der Aufgaben ist öffentlich, der Rest bleibt zurückgehalten."
+   },
+   "en": {
+    "title": "AI as a teammate: even the best programs give in under pressure and inherit sloppy work",
+    "summary": "AI programs are meant to work not just alone but together with people and other programs, for instance in medicine or research. A research team wanted to know how good they are as teammates. It tested 18 programs on 240 tasks drawn from sources such as aviation accident reports, medical cases, coding problems and negotiations. Only tasks the program can solve alone were scored, so that teamwork is what is really being tested. All 18 showed clear weaknesses, and the best reached 82 out of 100. They almost always refused dangerous shortcuts. But in disputes they often gave in: in only 14 of 100 conflicts did they reach the best overall deal. And when they took over a task from a weaker program that had cheated, their success rate fell from 97 to 81 out of 100.",
+    "why": "If you let several AI programs work together, you cannot count on the stronger one to notice the other's mistakes.",
+    "caveat": "This is a preprint without independent review. The tasks are staged test cases, not real work in clinics or labs. Only part of the tasks is public, the rest is held back."
+   },
+   "ru": {
+    "title": "ИИ как член команды: даже лучшие программы уступают под давлением и перенимают чужую халтуру",
+    "summary": "Программы ИИ должны работать не только в одиночку, но и вместе с людьми и другими программами, например в медицине или науке. Исследователи хотели узнать, насколько они хороши как члены команды. Они проверили 18 программ на 240 задачах, взятых, например, из отчётов об авиакатастрофах, медицинских случаев, задач по программированию и переговоров. Учитывались только задачи, которые программа может решить в одиночку, чтобы проверялась именно командная работа. У всех 18 нашлись явные слабости, лучшая набрала 82 балла из 100. Опасные обходные пути они почти всегда отвергали. Но в спорах часто уступали: лучший общий результат был достигнут лишь в 14 конфликтах из 100. А когда они брали задачу у более слабой программы, которая сжульничала, доля успеха падала с 97 до 81 из 100.",
+    "why": "Если заставить несколько программ ИИ работать вместе, нельзя рассчитывать, что более сильная заметит ошибки другой.",
+    "caveat": "Это препринт без независимой проверки. Задачи являются смоделированными тестами, а не настоящей работой в клиниках или лабораториях. Открыта только часть задач, остальные скрыты."
+   },
+   "image": {
+    "src": "https://arxiv.org/html/2611.02633v1/fig_leaderboard.png",
+    "kind": "figure",
+    "credit": "Abbildung der Studie, arXiv",
+    "link": "https://arxiv.org/abs/2611.02633"
+   }
+  },
+  {
+   "published": "2026-09-28",
+   "countries": [
+    "GB"
+   ],
+   "institution": "University of Kent",
+   "maturity": "study",
+   "source": {
+    "name": "University of Kent, Pressemitteilung",
+    "url": "https://www.kent.ac.uk/news/cyber-security-digital-technology-and-communication/38489/ai-platforms-offer-promise-in-limiting-the-illegal-wildlife-trade"
+   },
+   "more": [
+    {
+     "name": "Conservation Biology (DOI)",
+     "url": "https://doi.org/10.1111/cobi.70400"
+    }
+   ],
+   "de": {
+    "title": "KI-Chatbots helfen seltener beim illegalen Tierhandel als eine Google-Suche, schützen aber nicht alle Arten gleich gut",
+    "summary": "Der Handel mit geschützten Tieren und Pflanzen läuft zunehmend im Internet. Forschende aus Großbritannien wollten wissen, ob KI-Chatbots dabei zum Helfer werden. Sie stellten verschiedenen Chatbots Fragen, mit denen man Anbieter bedrohter Arten finden könnte, und verglichen die Antworten mit einer normalen Google-Suche. Sie probierten auch aus, ob sich die eingebauten Sperren mit geschickten Formulierungen umgehen lassen. Insgesamt schnitten die Chatbots besser ab als Google: Sie halfen seltener beim möglicherweise illegalen Kauf, und manche erklärten dazu, was rechtlich erlaubt ist. Am besten war Gemini, dicht gefolgt von DeepSeek, Grok und ChatGPT. Der Schutz war aber ungleich verteilt: Bei Menschenaffen, Tigern und Plumploris war er stark, bei Korallen, Vogelspinnen und Orchideen deutlich schwächer.",
+    "why": "Wer im Netz nach Tieren oder Pflanzen sucht, trifft immer häufiger auf KI-Antworten. Die Studie zeigt, dass diese schon etwas bremsen können, dass aber weniger bekannte Arten leicht durchs Raster fallen.",
+    "caveat": "Die Pressemitteilung nennt keine genauen Zahlen, deshalb lässt sich die Rangfolge der Chatbots nicht genau beurteilen. Keine Plattform war unfehlbar: Eine Umgehungsfrage führte zu Links auf Seiten, die möglicherweise mit illegalen Tieren handeln. Chatbots ändern sich zudem ständig, die Ergebnisse können schnell veraltet sein."
+   },
+   "en": {
+    "title": "AI chatbots help less with illegal wildlife trade than a Google search, but protect some species better than others",
+    "summary": "Trade in protected animals and plants increasingly happens online. Researchers in the United Kingdom wanted to know whether AI chatbots end up helping the traders. They asked several chatbots questions that could be used to find sellers of threatened species and compared the answers with an ordinary Google search. They also tried whether the built-in safeguards can be bypassed with cleverly worded requests. Overall the chatbots did better than Google: they were less likely to help with a possibly illegal purchase, and some added information on what is legal. Gemini did best, closely followed by DeepSeek, Grok and ChatGPT. Protection was uneven, though: strong for great apes, tigers and slow lorises, clearly weaker for corals, tarantulas and orchids.",
+    "why": "Anyone searching online for animals or plants increasingly meets AI answers. The study shows they can already slow things down a little, but lesser-known species slip through easily.",
+    "caveat": "The press release gives no exact figures, so the ranking of the chatbots cannot be judged precisely. No platform was foolproof: one workaround request led to links to sites that may trade illegal wildlife. Chatbots also change constantly, so the results can quickly become outdated."
+   },
+   "ru": {
+    "title": "ИИ-чатботы реже помогают нелегальной торговле дикими животными, чем поиск Google, но защищают не все виды одинаково",
+    "summary": "Торговля охраняемыми животными и растениями всё чаще идёт через интернет. Исследователи из Великобритании хотели узнать, не становятся ли ИИ-чатботы помощниками торговцев. Они задавали нескольким чатботам вопросы, с помощью которых можно найти продавцов исчезающих видов, и сравнивали ответы с обычным поиском Google. Они также проверяли, можно ли обойти встроенные ограничения хитро сформулированными запросами. В целом чатботы справились лучше Google: реже помогали с возможно незаконной покупкой, а некоторые добавляли сведения о том, что разрешено законом. Лучше всех был Gemini, за ним почти вплотную DeepSeek, Grok и ChatGPT. Но защита была неравномерной: сильная для человекообразных обезьян, тигров и лори, заметно слабее для кораллов, птицеедов и орхидей.",
+    "why": "Тот, кто ищет в интернете животных или растения, всё чаще сталкивается с ответами ИИ. Исследование показывает, что они уже немного сдерживают торговлю, но менее известные виды легко проскальзывают.",
+    "caveat": "В пресс-релизе нет точных цифр, поэтому рейтинг чатботов нельзя оценить точно. Ни одна платформа не была надёжной: один обходной запрос привёл к ссылкам на сайты, которые, возможно, торгуют незаконно. Чатботы к тому же постоянно меняются, поэтому результаты быстро устаревают."
+   },
+   "image": {
+    "src": "https://static.kent.ac.uk/media/news/2026/10/tim-witzdam-yWyBU5v3FLI-unsplash-1920x1280.jpg",
+    "kind": "press",
+    "credit": "Bild: University of Kent (Unsplash)",
+    "link": "https://www.kent.ac.uk/news/cyber-security-digital-technology-and-communication/38489/ai-platforms-offer-promise-in-limiting-the-illegal-wildlife-trade"
+   },
+   "id": "2026-11-25-ki-chatbots-wildtierhandel",
+   "date": "2026-11-25",
+   "category": "tiere"
+  },
+  {
+   "id": "2026-11-25-ki-assistent-kenia-praxen",
+   "date": "2026-11-25",
+   "published": "2026-06-26",
+   "category": "gesundheit",
+   "countries": [
+    "KE",
+    "GB"
+   ],
+   "institution": "Universität Birmingham, London School of Hygiene and Tropical Medicine, KEMRI-Wellcome Trust Research Programme",
+   "maturity": "clinical",
+   "source": {
+    "name": "Nature Medicine via Universität Birmingham",
+    "url": "https://www.eurekalert.org/news-releases/1133583"
+   },
+   "more": [
+    {
+     "name": "Pressemitteilung Universität Birmingham",
+     "url": "https://www.birmingham.ac.uk/news/2026/ai-clinical-support-tool-improved-clinician-decisions-in-real-world-primary-care-trial"
+    },
+    {
+     "name": "Nature Medicine",
+     "url": "https://www.nature.com/articles/s41591-026-04503-6"
+    }
+   ],
+   "de": {
+    "title": "KI-Assistent in kenianischen Arztpraxen: bessere Behandlungsplanung, aber kein messbar besserer Verlauf für die Patienten",
+    "summary": "Immer mehr Ärztinnen und Ärzte probieren KI-Sprachprogramme aus, die beim Diagnostizieren und Behandeln helfen sollen. Ob das den Patienten wirklich nützt, wurde aber kaum unter Alltagsbedingungen geprüft. Ein Forschungsteam aus Großbritannien und Kenia hat das jetzt in 16 Hausarztpraxen in Kenia getestet. In die Patientenakte-Software wurde ein KI-Assistent eingebaut, der den Behandelnden während der Sprechstunde Vorschläge machte, passend zu den kenianischen Behandlungsleitlinien. Per Los wurde festgelegt, welche Ärzte mit und welche ohne diesen Assistenten arbeiteten. Insgesamt wurden mehr als 9.600 Patienten einbezogen. Unabhängige Fachleute, die nicht wussten, wer mit KI gearbeitet hatte, bewerteten die Dokumentation und die Behandlungspläne mit KI-Hilfe als deutlich besser. Bei den Patienten selbst zeigte sich aber kein klarer Unterschied: Bei 2,2 Prozent der Patienten mit KI-Unterstützung und bei 2,0 Prozent ohne schlug die Behandlung innerhalb von zwei Wochen nicht an. Schaden entstand durch den Assistenten nicht, und die Kosten für Antibiotika waren in der KI-Gruppe niedriger.",
+    "why": "Die Studie zeigt, dass ein KI-Assistent in der Praxis sicher eingesetzt werden kann und die Qualität der Arbeit verbessert. Dass es Patienten dadurch schnell messbar besser geht, ist damit aber nicht belegt.",
+    "caveat": "Schwere Verläufe wie Klinikeinweisungen oder Todesfälle sind in Hausarztpraxen selten, deshalb bräuchte man für einen kleinen Vorteil womöglich über 100.000 Patienten. Beobachtet wurden nur die ersten 14 Tage. Ob das Ergebnis auf reiche Länder mit ohnehin guter Versorgung übertragbar ist, ist offen."
+   },
+   "en": {
+    "title": "AI assistant in Kenyan clinics: better treatment planning, but no measurable difference in patient outcomes",
+    "summary": "More and more doctors are trying AI language programs that are meant to help with diagnosis and treatment. Whether this really benefits patients has rarely been tested in everyday conditions. A research team from the UK and Kenya has now tested it in 16 primary care clinics in Kenya. An AI assistant was built into the patient-record software and made suggestions during consultations, matched to Kenyan treatment guidelines. Which doctors worked with the assistant and which without was decided by lot. More than 9,600 patients took part. Independent experts who did not know who had used the AI rated the records and treatment plans written with AI help as clearly better. For the patients themselves there was no clear difference: treatment did not work within two weeks for 2.2 percent with AI support and 2.0 percent without. The assistant did no harm, and antibiotic costs were lower in the AI group.",
+    "why": "The study shows that an AI assistant can be used safely in practice and improves the quality of work. It does not prove that patients get better faster as a result.",
+    "caveat": "Serious outcomes such as hospital stays or deaths are rare in primary care, so spotting a small benefit might need over 100,000 patients. Only the first 14 days were observed. Whether the result carries over to wealthy countries with already good care is unknown."
+   },
+   "ru": {
+    "title": "ИИ-помощник в клиниках Кении: лучше планирование лечения, но результаты у пациентов заметно не изменились",
+    "summary": "Всё больше врачей пробуют языковые программы ИИ, которые должны помогать с диагнозом и лечением. Но приносит ли это пациентам реальную пользу, в обычных условиях почти не проверяли. Группа исследователей из Великобритании и Кении проверила это в 16 поликлиниках Кении. В программу медицинских карт встроили ИИ-помощника, который во время приёма подсказывал врачу решения в соответствии с кенийскими рекомендациями по лечению. Кто из врачей работает с помощником, а кто без него, определяли жребием. В исследовании участвовали более 9600 пациентов. Независимые эксперты, не знавшие, кто пользовался ИИ, оценили записи и планы лечения с помощью ИИ как заметно лучшие. А у самих пациентов явной разницы не было: лечение не помогло в течение двух недель у 2,2 процента пациентов с ИИ и у 2,0 процента без него. Вреда помощник не причинил, а расходы на антибиотики в группе с ИИ были ниже.",
+    "why": "Исследование показывает, что ИИ-помощника можно безопасно использовать на практике, и он улучшает качество работы. Но то, что пациентам от этого быстро становится лучше, оно не доказывает.",
+    "caveat": "Тяжёлые исходы, такие как госпитализации или смерть, в поликлиниках редки, поэтому для небольшого эффекта могло бы понадобиться более 100 000 пациентов. Наблюдали только первые 14 дней. Применим ли результат к богатым странам с уже хорошей медициной, неизвестно."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04503-6/MediaObjects/41591_2026_4503_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Nature Medicine",
+    "link": "https://www.nature.com/articles/s41591-026-04503-6"
+   }
+  },
+  {
+   "id": "2026-11-25-depression-ki-biomarker-uebersicht",
+   "date": "2026-11-25",
+   "published": "2026-11-24",
+   "category": "gesundheit",
+   "countries": [
+    "TW"
+   ],
+   "institution": "Taipei Veterans General Hospital",
+   "maturity": "review",
+   "source": {
+    "name": "Brain Medicine via Genomic Press",
+    "url": "https://www.eurekalert.org/news-releases/1152698"
+   },
+   "more": [
+    {
+     "name": "DOI 10.61373/bm026i.0072",
+     "url": "https://doi.org/10.61373/bm026i.0072"
+    }
+   ],
+   "de": {
+    "title": "Wenn zwei Antidepressiva nicht wirken: Warum KI bei der Wahl der Behandlung bisher nur wenig hilft",
+    "summary": "Bei vielen Menschen mit Depression helfen die ersten Medikamente nicht. Dann sucht man oft lange nach dem richtigen Mittel. Ein Psychiater aus Taiwan hat in einem Überblicksartikel zusammengetragen, ob Messwerte aus dem Körper, etwa Hirnstrombilder oder Blutwerte, zusammen mit KI vorhersagen können, welche Behandlung wem hilft. Er hat dafür viele frühere Studien ausgewertet, selbst aber keine neue Untersuchung gemacht. Das Bild ist nüchtern: Manche KI-Modelle treffen mit Hirnstrom-Daten in kleinen Gruppen recht gut, ein Modell mit Daten von gut 9.000 Erwachsenen lag bei der Auswahl aus zehn Medikamenten aber nur wenig über dem Zufall. Ein Zusammenhang, der in einer kleinen Gruppe von 26 Personen stark aussah, verschwand in einer Gruppe von rund 500 Menschen ganz.",
+    "why": "Die Hoffnung auf einen Test, der genau sagt, welches Antidepressivum wirkt, ist berechtigt, aber noch nicht erfüllt. Wer an Depression leidet, sollte die Behandlung weiter gemeinsam mit Ärztin oder Arzt Schritt für Schritt anpassen.",
+    "caveat": "Es ist ein Überblicksartikel und kein neuer Versuch. Der Autor besitzt selbst Patente auf KI-gestützte Depressionsdiagnostik. Viele Modelle wurden noch nie an neuen Patienten getestet, und die Daten stammen überwiegend von Menschen europäischer Herkunft."
+   },
+   "en": {
+    "title": "When two antidepressants fail: why AI so far helps little in choosing a treatment",
+    "summary": "For many people with depression the first medicines do not work, and finding the right one can take a long time. A psychiatrist from Taiwan has gathered, in an overview article, whether body measurements such as brain-wave recordings or blood values, combined with AI, can predict which treatment will help whom. He evaluated many earlier studies but did not run a new one. The picture is sober: some AI models using brain-wave data do quite well in small groups, but a model built on data from about 9,000 adults was only slightly better than chance at choosing among ten medicines. A link that looked strong in a group of 26 people disappeared completely in a group of about 500.",
+    "why": "The hope for a test that tells exactly which antidepressant will work is justified but not yet fulfilled. People with depression should keep adjusting treatment step by step together with their doctor.",
+    "caveat": "This is an overview, not a new experiment. The author himself holds patents on AI-assisted depression diagnosis. Many models were never tested on new patients, and the data come mostly from people of European descent."
+   },
+   "ru": {
+    "title": "Когда два антидепрессанта не помогли: почему ИИ пока мало помогает с выбором лечения",
+    "summary": "У многих людей с депрессией первые лекарства не помогают, и поиск подходящего может занять много времени. Психиатр из Тайваня собрал в обзорной статье данные о том, могут ли показатели организма, например записи мозговой активности или анализы крови, вместе с ИИ предсказать, какое лечение кому поможет. Он проанализировал много прежних исследований, но нового не проводил. Картина трезвая: некоторые модели ИИ по данным мозговой активности неплохо работают в небольших группах, но модель на данных около 9000 взрослых при выборе из десяти лекарств была лишь немного лучше случайного угадывания. Связь, которая выглядела сильной в группе из 26 человек, полностью исчезла в группе примерно из 500.",
+    "why": "Надежда на тест, который точно скажет, какой антидепрессант подействует, оправданна, но пока не осуществилась. Людям с депрессией по-прежнему стоит шаг за шагом подбирать лечение вместе с врачом.",
+    "caveat": "Это обзор, а не новый эксперимент. У автора самого есть патенты на диагностику депрессии с помощью ИИ. Многие модели никогда не проверяли на новых пациентах, а данные в основном получены от людей европейского происхождения."
+   },
+   "image": {
+    "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/d19135a0-5594-4c1c-9b8c-e5090c2d6701/Rendition/low-res/Content/Public",
+    "kind": "press",
+    "credit": "Bild: Genomic Press",
+    "link": "https://www.eurekalert.org/news-releases/1152698"
+   }
+  },
+  {
+   "id": "2026-11-25-chatbot-gesundheitswissen-simulation",
+   "date": "2026-11-25",
+   "published": "2026-10-05",
+   "category": "gesundheit",
+   "countries": [
+    "US"
+   ],
+   "institution": "George Mason University",
+   "maturity": "lab",
+   "source": {
+    "name": "JMIR AI",
+    "url": "https://ai.jmir.org/2026/1/e100772"
+   },
+   "more": [
+    {
+     "name": "DOI 10.2196/100772",
+     "url": "https://doi.org/10.2196/100772"
+    },
+    {
+     "name": "Pressemitteilung (EurekAlert)",
+     "url": "https://www.eurekalert.org/news-releases/1153058"
+    }
+   ],
+   "de": {
+    "title": "KI-Gesundheitsassistent versteht Menschen schlechter, die sich umgangssprachlich ausdrücken",
+    "summary": "Chatprogramme, die Patienten Fragen stellen und bei der Wahl eines Medikaments helfen sollen, werden meist nur mit Musteraufgaben getestet. Im echten Leben reden Menschen aber sehr unterschiedlich: Manche benutzen genaue Fachbegriffe, andere beschreiben ihre Beschwerden vage und in Alltagswörtern. Forschende aus den USA haben deshalb Fantasie-Patienten am Computer erzeugt, die auf echten, anonymisierten Krankenakten beruhen und sich unterschiedlich gut mit Gesundheitsthemen auskennen. Mit ihnen wurden 500 Gespräche mit einem KI-Hilfsprogramm für die Wahl eines Antidepressivums geführt. Je geringer das Gesundheitswissen der Fantasie-Patienten, desto schlechter erkannte das Programm, was gemeint war: Bei Patienten mit geringem Gesundheitswissen verstand es nur knapp die Hälfte der Angaben richtig, bei gut informierten etwa vier von fünf. Ein Programm kann also im Durchschnitt gut abschneiden und trotzdem gerade die Menschen schlechter bedienen, die Hilfe besonders brauchen.",
+    "why": "Wenn du einen KI-Gesundheitshelfer nutzt, kann es sich lohnen, deine Beschwerden möglichst genau zu beschreiben und wichtige Angaben nachzuprüfen. Die Studie ist vor allem eine Mahnung an die Entwickler, ihre Programme an unterschiedlichen Sprechweisen zu testen.",
+    "caveat": "Es waren keine echten Patienten, sondern vom Computer gespielte. Getestet wurde ein einziges Hilfsprogramm für ein einziges Thema. Eine verlässliche Lösung für das Problem gibt es noch nicht."
+   },
+   "en": {
+    "title": "AI health assistant understands people worse when they speak in everyday language",
+    "summary": "Chat programs that ask patients questions and help choose a medicine are usually tested only with standard tasks. In real life, though, people speak very differently: some use exact medical terms, others describe symptoms vaguely in everyday words. Researchers in the USA therefore created make-believe patients on the computer, based on real, anonymised health records and differing in how much they know about health. With them they held 500 conversations with an AI tool that helps choose an antidepressant. The less the make-believe patients knew about health, the worse the tool recognised what they meant: for patients with low health knowledge it understood only about half of the details correctly, for well-informed ones about four in five. A program can therefore do well on average and still serve worst the people who need help most.",
+    "why": "If you use an AI health helper, it can pay to describe your symptoms as precisely as you can and to double-check important details. The study is mainly a reminder to developers to test their programs with different ways of speaking.",
+    "caveat": "These were not real patients but computer-played ones. Only one tool was tested, for one topic. There is no reliable fix for the problem yet."
+   },
+   "ru": {
+    "title": "ИИ-помощник по здоровью хуже понимает людей, которые говорят простыми словами",
+    "summary": "Чат-программы, которые задают пациентам вопросы и помогают выбрать лекарство, обычно проверяют только на типовых заданиях. В жизни люди говорят очень по-разному: одни используют точные медицинские термины, другие описывают жалобы расплывчато и обычными словами. Поэтому исследователи из США создали на компьютере выдуманных пациентов на основе настоящих обезличенных медицинских карт, отличающихся тем, насколько они разбираются в здоровье. С ними провели 500 разговоров с ИИ-программой, помогающей выбрать антидепрессант. Чем меньше выдуманные пациенты разбирались в здоровье, тем хуже программа понимала, что они имеют в виду: у пациентов с низкими знаниями она правильно поняла лишь около половины сведений, у хорошо информированных — примерно четыре из пяти. Программа может в среднем работать хорошо и всё же хуже всего обслуживать тех, кому помощь нужнее всего.",
+    "why": "Если вы пользуетесь ИИ-помощником по здоровью, стоит описывать симптомы как можно точнее и перепроверять важные детали. Исследование — прежде всего напоминание разработчикам проверять свои программы на разных манерах речи.",
+    "caveat": "Это были не настоящие пациенты, а сыгранные компьютером. Проверили одну программу по одной теме. Надёжного решения проблемы пока нет."
+   },
+   "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Middle-aged_female_doctor_talking_to_a_patient_during_a_video_consultation_at_home_in_a_cozy_setting.jpg/960px-Middle-aged_female_doctor_talking_to_a_patient_during_a_video_consultation_at_home_in_a_cozy_setting.jpg",
+    "kind": "photo",
+    "credit": "Foto: Shixart1985, CC BY 2.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Middle-aged_female_doctor_talking_to_a_patient_during_a_video_consultation_at_home_in_a_cozy_setting.jpg"
+   }
   },
   {
    "id": "2026-11-23-ultraschall-geburtstermin",
