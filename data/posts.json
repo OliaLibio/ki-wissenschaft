@@ -1,7 +1,125 @@
 {
- "generated": "2026-11-24T19:04:06Z",
- "count": 70,
+ "generated": "2026-11-25T05:07:42Z",
+ "count": 73,
  "posts": [
+  {
+   "published": "2026-08-06",
+   "countries": [
+    "US",
+    "GB"
+   ],
+   "institution": "Google DeepMind / Google Research mit US-Hurrikanzentrum, Colorado State University, UK Met Office",
+   "maturity": "deployed",
+   "source": {
+    "name": "Nature",
+    "url": "https://www.nature.com/articles/s41586-026-10953-2"
+   },
+   "de": {
+    "title": "KI sagt Wirbelstürme etwa einen Tag früher so genau voraus wie die besten bisherigen Wettermodelle",
+    "summary": "Tropische Wirbelstürme sind schwer vorherzusagen: Wohin sie ziehen, wie stark sie werden und wie weit ihre Sturmwinde reichen, hängt von sehr vielen Faktoren ab. Ein Team von Google mit Fachleuten des US-Hurrikanzentrums, einer US-Universität und des britischen Wetterdienstes hat dafür eine KI trainiert. Sie lernte aus Wetterdaten der ganzen Welt und aus Aufzeichnungen früherer Wirbelstürme. Statt einer einzigen Vorhersage rechnet sie sehr viele mögliche Verläufe durch, bis zu 15 Tage voraus. Als die Forschenden sie an Stürmen der Jahre 2023 bis 2025 prüften, lag ihre Vorhersage von Zugbahn, Stärke und Größe im Schnitt einen Tag oder mehr vor den führenden Wettermodellen, das heißt: Was die anderen erst zwei Tage vorher gut trafen, traf sie schon drei Tage vorher. Überraschend: Die KI bekam nur recht grobe Wetterdaten und kam trotzdem auf gute Stärkevorhersagen.",
+    "why": "Ein Tag mehr Vorwarnzeit kann bei einem Sturm entscheiden, ob eine Küstenregion rechtzeitig geräumt wird. Die Studie zeigt auch, dass für gute Sturmvorhersagen nicht immer die feinsten Daten nötig sind.",
+    "caveat": "Geprüft wurde an Stürmen der Vergangenheit; die Forschenden selbst sagen, dass sie noch nicht genau verstehen, warum grobe Daten ausreichen. Es handelt sich um eine Studie von Google selbst. Offizielle Warnungen kommen weiterhin von den staatlichen Wetterdiensten."
+   },
+   "en": {
+    "title": "AI predicts hurricanes about a day earlier than the best previous weather models can at the same accuracy",
+    "summary": "Tropical cyclones are hard to forecast: where they go, how strong they get and how far their winds reach depends on a great many factors. A Google team, together with experts from the US National Hurricane Center, a US university and the UK Met Office, trained an AI for this. It learned from weather data of the whole world and from records of past storms. Instead of one forecast, it calculates a very large number of possible developments, up to 15 days ahead. When the researchers tested it on storms from 2023 to 2025, its forecasts of track, strength and size were on average a day or more ahead of the leading weather models. In other words, what the others got right only two days before, it got right three days before. Surprisingly, the AI was given only fairly coarse weather data and still forecast storm strength well.",
+    "why": "One more day of warning can decide whether a coastal region is evacuated in time. The study also shows that good storm forecasts do not always need the finest data.",
+    "caveat": "It was tested on past storms, and the researchers themselves say they do not yet fully understand why coarse data are enough. The study comes from Google itself. Official warnings still come from national weather services."
+   },
+   "ru": {
+    "title": "ИИ предсказывает ураганы примерно на день раньше, чем лучшие прежние модели погоды при той же точности",
+    "summary": "Тропические циклоны трудно прогнозировать: куда они двинутся, насколько усилятся и как далеко достанет ветер, зависит от множества факторов. Команда Google вместе со специалистами Национального центра ураганов США, одного американского университета и британской метеослужбы обучила для этого ИИ. Он учился на данных о погоде со всего мира и на записях прошлых бурь. Вместо одного прогноза он просчитывает очень много возможных вариантов развития на срок до 15 дней. Когда исследователи проверили его на бурях 2023–2025 годов, его прогнозы траектории, силы и размера в среднем опережали ведущие модели погоды на день и больше: то, что другие хорошо угадывали за два дня, он угадывал уже за три. Неожиданно, что ИИ получал лишь довольно грубые данные о погоде и всё равно хорошо предсказывал силу бури.",
+    "why": "Лишний день на предупреждение может решить, успеют ли эвакуировать прибрежный регион. Исследование также показывает, что для хороших прогнозов бурь не всегда нужны самые подробные данные.",
+    "caveat": "Проверка шла на прошлых бурях, и сами исследователи говорят, что пока не до конца понимают, почему хватает грубых данных. Исследование сделано самой компанией Google. Официальные предупреждения по-прежнему выдают государственные метеослужбы."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10953-2/MediaObjects/41586_2026_10953_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Nature",
+    "link": "https://www.nature.com/articles/s41586-026-10953-2"
+   },
+   "id": "2026-11-25-zyklon-ki-prognose",
+   "date": "2026-11-25",
+   "category": "klima"
+  },
+  {
+   "published": "2026-07-30",
+   "countries": [
+    "DE"
+   ],
+   "institution": "Technische Universität München / Potsdam-Institut für Klimafolgenforschung",
+   "maturity": "study",
+   "source": {
+    "name": "Nature Communications",
+    "url": "https://www.nature.com/articles/s41467-026-76093-3"
+   },
+   "de": {
+    "title": "KI und Satelliten zeigen: Tropen- und Nordwälder speichern seit etwa 2000 immer weniger Kohlenstoff",
+    "summary": "Wälder nehmen Kohlenstoff aus der Luft auf und bremsen so die Erwärmung. Aber wie sich dieser Speicher über die Jahrzehnte entwickelt hat, war bisher unsicher, weil keine einzelne Satellitenmessung so weit zurückreicht. Ein Team aus Deutschland hat deshalb Daten vieler verschiedener Satelliten mit einem lernenden Computerprogramm verbunden, das auch angibt, wie sicher seine Schätzung ist. So entstand eine einheitliche Weltkarte des in Bäumen gespeicherten Kohlenstoffs für die Jahre 1988 bis 2021. Das Ergebnis: Die feuchten Tropenwälder und die nördlichen Nadelwälder haben sich seit Anfang der 2000er Jahre Schritt für Schritt von Kohlenstoffspeichern zu Kohlenstoffquellen entwickelt. Im brasilianischen Amazonasgebiet stammten die jährlichen Schwankungen der Verluste in den 1990ern zu einem Drittel aus unberührtem Wald, in den 2010ern schon zu gut drei Vierteln.",
+    "why": "Wir rechnen oft damit, dass Wälder uns einen Teil der Abgase abnehmen. Die Studie zeigt, dass dieser Puffer in wichtigen Regionen schwächer wird, und liefert einen Maßstab, an dem man künftige Veränderungen messen kann.",
+    "caveat": "Die Karte ist grob, ein Feld misst etwa 25 mal 25 Kilometer, und sie beruht auf Schätzungen aus Satellitendaten, nicht auf Messungen jedes einzelnen Baumes. Sie endet im Jahr 2021."
+   },
+   "en": {
+    "title": "AI and satellites show tropical and northern forests have stored less and less carbon since about 2000",
+    "summary": "Forests take carbon out of the air and so slow warming. But how this store has changed over the decades was uncertain, because no single satellite measurement goes back that far. A team from Germany therefore combined data from many different satellites with a learning computer program that also states how certain its estimate is. The result is one consistent world map of the carbon stored in trees for the years 1988 to 2021. The finding: since the early 2000s, the moist tropical forests and the northern conifer forests have step by step turned from carbon stores into carbon sources. In the Brazilian Amazon, year-to-year swings in losses came about one third from untouched forest in the 1990s, but by the 2010s more than three quarters.",
+    "why": "We often count on forests to take up part of our emissions. The study shows this buffer is weakening in important regions, and gives a yardstick against which future changes can be measured.",
+    "caveat": "The map is coarse, with each cell about 25 by 25 kilometres, and it rests on estimates from satellite data, not on measuring each tree. It ends in 2021."
+   },
+   "ru": {
+    "title": "ИИ и спутники показывают: тропические и северные леса примерно с 2000 года хранят всё меньше углерода",
+    "summary": "Леса забирают углерод из воздуха и тем замедляют потепление. Но как это хранилище менялось за десятилетия, было неясно, потому что ни одно спутниковое измерение не уходит так далеко в прошлое. Поэтому команда из Германии объединила данные многих спутников с обучающейся компьютерной программой, которая ещё и указывает, насколько надёжна её оценка. Так получилась единая карта мира с углеродом, запасённым в деревьях, за 1988–2021 годы. Результат: с начала 2000-х влажные тропические леса и северные хвойные леса шаг за шагом превратились из хранилищ углерода в его источники. В бразильской Амазонии годовые колебания потерь в 1990-е примерно на треть шли за счёт нетронутого леса, а в 2010-е уже больше чем на три четверти.",
+    "why": "Мы часто рассчитываем, что леса поглотят часть наших выбросов. Исследование показывает, что этот буфер в важных регионах слабеет, и даёт мерку, по которой можно измерять будущие изменения.",
+    "caveat": "Карта грубая: одна ячейка — примерно 25 на 25 километров, и она основана на оценках по спутниковым данным, а не на измерении каждого дерева. Данные заканчиваются 2021 годом."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-76093-3/MediaObjects/41467_2026_76093_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Nature Communications",
+    "link": "https://www.nature.com/articles/s41467-026-76093-3"
+   },
+   "id": "2026-11-25-waldkohlenstoff-quelle-senke",
+   "date": "2026-11-25",
+   "category": "klima"
+  },
+  {
+   "published": "2026-09-17",
+   "countries": [
+    "INT"
+   ],
+   "institution": "Tsinghua-Universität, Universität Lüttich, INRAE und weitere",
+   "maturity": "study",
+   "source": {
+    "name": "Nature Communications",
+    "url": "https://www.nature.com/articles/s41467-026-77531-y"
+   },
+   "de": {
+    "title": "KI-Karten zeigen: Zentralafrikas Wälder verlieren mehr Kohlenstoff, als sie gewinnen, vor allem im Kongo",
+    "summary": "Im Regenwald Zentralafrikas steckt sehr viel Kohlenstoff. Weil dort oft nur kleine Flecken Wald verloren gehen, etwa durch Holzeinschlag oder Felder, sind sie auf Satellitenbildern schwer zu erkennen. Ein internationales Team hat deshalb ein lernendes Programm mit Laserhöhenmessungen aus dem All und Bildern zweier Satelliten trainiert. Es zeichnet Karten der Baumhöhe, die jedes Stück von zehn mal zehn Metern zeigen, und daraus, wie sich der Kohlenstoff in den Bäumen zwischen 2019 und 2022 verändert hat. Fast neun von zehn Störungen waren kleiner als ein Hektar, also kleiner als etwa eineinhalb Fußballfelder. Unterm Strich verlor der Wald Kohlenstoff: Der Verlust war fast doppelt so groß wie der Zuwachs in nachwachsendem Wald. Besonders betroffen war die Demokratische Republik Kongo, auf die rund vier Fünftel des Nettoverlusts entfielen, vor allem durch geschädigte, aber nicht komplett gerodete Wälder.",
+    "why": "Wer Wälder schützen oder Klimabilanzen von Ländern prüfen will, muss wissen, wo und wie viel Wald verloren geht. Solche genauen Karten machen das auch für schwer zugängliche Regionen möglich.",
+    "caveat": "Die Karten decken nur vier Jahre ab, und die Kohlenstoffmengen sind Schätzungen mit Unsicherheit. Sie stimmen aber im Großen und Ganzen mit den Angaben der Länder überein."
+   },
+   "en": {
+    "title": "AI maps show Central Africa's forests lose more carbon than they gain, mostly in Congo",
+    "summary": "The rainforest of Central Africa holds a great deal of carbon. Because often only small patches of forest are lost there, for example to logging or fields, they are hard to spot on satellite images. An international team therefore trained a learning program with laser height measurements from space and images from two satellites. It draws maps of tree height showing every ten-by-ten-metre square, and from them how the carbon in the trees changed between 2019 and 2022. Almost nine out of ten disturbances were smaller than one hectare, about one and a half football pitches. On balance the forest lost carbon: the losses were almost twice the gains in regrowing forest. The Democratic Republic of the Congo was hit hardest, with about four fifths of the net loss, mainly from damaged but not completely cleared forest.",
+    "why": "Anyone who wants to protect forests or check countries' climate accounts needs to know where and how much forest is lost. Such precise maps make that possible even in hard-to-reach regions.",
+    "caveat": "The maps cover only four years, and the carbon amounts are estimates with uncertainty. They do roughly agree with the figures reported by the countries."
+   },
+   "ru": {
+    "title": "Карты на основе ИИ: леса Центральной Африки теряют больше углерода, чем накапливают, в основном в Конго",
+    "summary": "В тропических лесах Центральной Африки хранится очень много углерода. Поскольку там часто пропадают лишь небольшие участки леса, например из-за вырубки или полей, их трудно заметить на спутниковых снимках. Поэтому международная команда обучила программу лазерными измерениями высоты из космоса и снимками двух спутников. Она рисует карты высоты деревьев с участками десять на десять метров и по ним определяет, как менялся углерод в деревьях в 2019–2022 годах. Почти девять из десяти нарушений оказались меньше одного гектара, то есть меньше полутора футбольных полей. В итоге лес терял углерод: потери были почти вдвое больше прироста в восстанавливающемся лесу. Сильнее всего пострадала Демократическая Республика Конго, на неё пришлось около четырёх пятых чистых потерь, главным образом из-за повреждённых, но не полностью вырубленных лесов.",
+    "why": "Тому, кто хочет защищать леса или проверять климатическую отчётность стран, нужно знать, где и сколько леса теряется. Такие точные карты делают это возможным и в труднодоступных регионах.",
+    "caveat": "Карты охватывают только четыре года, а количества углерода — это оценки с погрешностью. В целом они согласуются с данными самих стран."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-77531-y/MediaObjects/41467_2026_77531_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Nature Communications",
+    "link": "https://www.nature.com/articles/s41467-026-77531-y"
+   },
+   "id": "2026-11-25-kongo-waldkohlenstoff-karten",
+   "date": "2026-11-25",
+   "category": "klima"
+  },
   {
    "id": "2026-11-23-ultraschall-geburtstermin",
    "date": "2026-11-23",

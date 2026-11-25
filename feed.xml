@@ -6,6 +6,48 @@
   <description>Montag, Mittwoch, Freitag: Was KI heute in der Forschung erreicht. Gesundheit, Tiere, Mythen-Check, Klima, Archäologie, Grenzen.</description>
   <language>de</language>
   <item>
+   <title>KI sagt Wirbelstürme etwa einen Tag früher so genau voraus wie die besten bisherigen Wettermodelle</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-zyklon-ki-prognose</link>
+   <guid isPermaLink="false">2026-11-25-zyklon-ki-prognose</guid>
+   <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Tropische Wirbelstürme sind schwer vorherzusagen: Wohin sie ziehen, wie stark sie werden und wie weit ihre Sturmwinde reichen, hängt von sehr vielen Faktoren ab. Ein Team von Google mit Fachleuten des US-Hurrikanzentrums, einer US-Universität und des britischen Wetterdienstes hat dafür eine KI trainiert. Sie lernte aus Wetterdaten der ganzen Welt und aus Aufzeichnungen früherer Wirbelstürme. Statt einer einzigen Vorhersage rechnet sie sehr viele mögliche Verläufe durch, bis zu 15 Tage voraus. Als die Forschenden sie an Stürmen der Jahre 2023 bis 2025 prüften, lag ihre Vorhersage von Zugbahn, Stärke und Größe im Schnitt einen Tag oder mehr vor den führenden Wettermodellen, das heißt: Was die anderen erst zwei Tage vorher gut trafen, traf sie schon drei Tage vorher. Überraschend: Die KI bekam nur recht grobe Wetterdaten und kam trotzdem auf gute Stärkevorhersagen.
+
+Warum das wichtig ist: Ein Tag mehr Vorwarnzeit kann bei einem Sturm entscheiden, ob eine Küstenregion rechtzeitig geräumt wird. Die Studie zeigt auch, dass für gute Sturmvorhersagen nicht immer die feinsten Daten nötig sind.
+
+Vorbehalt: Geprüft wurde an Stürmen der Vergangenheit; die Forschenden selbst sagen, dass sie noch nicht genau verstehen, warum grobe Daten ausreichen. Es handelt sich um eine Studie von Google selbst. Offizielle Warnungen kommen weiterhin von den staatlichen Wetterdiensten.
+
+Quelle: Nature – https://www.nature.com/articles/s41586-026-10953-2</description>
+  </item>
+  <item>
+   <title>KI und Satelliten zeigen: Tropen- und Nordwälder speichern seit etwa 2000 immer weniger Kohlenstoff</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-waldkohlenstoff-quelle-senke</link>
+   <guid isPermaLink="false">2026-11-25-waldkohlenstoff-quelle-senke</guid>
+   <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Wälder nehmen Kohlenstoff aus der Luft auf und bremsen so die Erwärmung. Aber wie sich dieser Speicher über die Jahrzehnte entwickelt hat, war bisher unsicher, weil keine einzelne Satellitenmessung so weit zurückreicht. Ein Team aus Deutschland hat deshalb Daten vieler verschiedener Satelliten mit einem lernenden Computerprogramm verbunden, das auch angibt, wie sicher seine Schätzung ist. So entstand eine einheitliche Weltkarte des in Bäumen gespeicherten Kohlenstoffs für die Jahre 1988 bis 2021. Das Ergebnis: Die feuchten Tropenwälder und die nördlichen Nadelwälder haben sich seit Anfang der 2000er Jahre Schritt für Schritt von Kohlenstoffspeichern zu Kohlenstoffquellen entwickelt. Im brasilianischen Amazonasgebiet stammten die jährlichen Schwankungen der Verluste in den 1990ern zu einem Drittel aus unberührtem Wald, in den 2010ern schon zu gut drei Vierteln.
+
+Warum das wichtig ist: Wir rechnen oft damit, dass Wälder uns einen Teil der Abgase abnehmen. Die Studie zeigt, dass dieser Puffer in wichtigen Regionen schwächer wird, und liefert einen Maßstab, an dem man künftige Veränderungen messen kann.
+
+Vorbehalt: Die Karte ist grob, ein Feld misst etwa 25 mal 25 Kilometer, und sie beruht auf Schätzungen aus Satellitendaten, nicht auf Messungen jedes einzelnen Baumes. Sie endet im Jahr 2021.
+
+Quelle: Nature Communications – https://www.nature.com/articles/s41467-026-76093-3</description>
+  </item>
+  <item>
+   <title>KI-Karten zeigen: Zentralafrikas Wälder verlieren mehr Kohlenstoff, als sie gewinnen, vor allem im Kongo</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-kongo-waldkohlenstoff-karten</link>
+   <guid isPermaLink="false">2026-11-25-kongo-waldkohlenstoff-karten</guid>
+   <pubDate>Wed, 25 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Im Regenwald Zentralafrikas steckt sehr viel Kohlenstoff. Weil dort oft nur kleine Flecken Wald verloren gehen, etwa durch Holzeinschlag oder Felder, sind sie auf Satellitenbildern schwer zu erkennen. Ein internationales Team hat deshalb ein lernendes Programm mit Laserhöhenmessungen aus dem All und Bildern zweier Satelliten trainiert. Es zeichnet Karten der Baumhöhe, die jedes Stück von zehn mal zehn Metern zeigen, und daraus, wie sich der Kohlenstoff in den Bäumen zwischen 2019 und 2022 verändert hat. Fast neun von zehn Störungen waren kleiner als ein Hektar, also kleiner als etwa eineinhalb Fußballfelder. Unterm Strich verlor der Wald Kohlenstoff: Der Verlust war fast doppelt so groß wie der Zuwachs in nachwachsendem Wald. Besonders betroffen war die Demokratische Republik Kongo, auf die rund vier Fünftel des Nettoverlusts entfielen, vor allem durch geschädigte, aber nicht komplett gerodete Wälder.
+
+Warum das wichtig ist: Wer Wälder schützen oder Klimabilanzen von Ländern prüfen will, muss wissen, wo und wie viel Wald verloren geht. Solche genauen Karten machen das auch für schwer zugängliche Regionen möglich.
+
+Vorbehalt: Die Karten decken nur vier Jahre ab, und die Kohlenstoffmengen sind Schätzungen mit Unsicherheit. Sie stimmen aber im Großen und Ganzen mit den Angaben der Länder überein.
+
+Quelle: Nature Communications – https://www.nature.com/articles/s41467-026-77531-y</description>
+  </item>
+  <item>
    <title>KI schätzt den Geburtstermin per Ultraschall, aber kaum besser als gedacht</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-23-ultraschall-geburtstermin</link>
    <guid isPermaLink="false">2026-11-23-ultraschall-geburtstermin</guid>
@@ -802,48 +844,6 @@ Warum das wichtig ist: Intervallfasten ist für viele Menschen ein praktikabler 
 Vorbehalt: Einzelne Studien zu speziellen Gruppen, etwa bei Morbus Crohn, zeigen positive Effekte, sind aber klein. Langzeitdaten über mehrere Jahre fehlen.
 
 Quelle: Cochrane Review 2026 – https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015610.pub2/full</description>
-  </item>
-  <item>
-   <title>Eisbaden: Fünf Minuten heben die Stimmung messbar, für Immunsystem und Depression fehlen Belege</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-mythos-eisbaden</link>
-   <guid isPermaLink="false">2026-11-13-mythos-eisbaden</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>mythen</category>
-   <description>Forschende aus Chichester teilten Freiwillige zufällig auf vier Gruppen auf: keine Kälte oder 5, 10 beziehungsweise 20 Minuten im 13,6 Grad kalten Meer. Alle Kältegruppen berichteten danach deutlich weniger Stimmungsstörung, und fünf Minuten brachten fast denselben Effekt wie zwanzig. Eine Meta-Analyse aus dem Februar 2026 mit 30 Studien fand für die Muskelerholung nach Sport nur kleine Effekte auf Muskelkater und Muskelschäden. Für die beliebten Versprechen zum Immunsystem und zur Behandlung von Depressionen gibt es bislang keine große randomisierte Studie.
-
-Warum das wichtig ist: Die kurzfristige Stimmungsaufhellung ist real und gut belegt, dafür reichen wenige Minuten. Alles darüber hinaus ist bisher Erfahrungsbericht, keine Evidenz.
-
-Vorbehalt: Kleine Studien mit Fragebögen zur Tagesstimmung, nicht zu klinischer Depression. Kaltwasser birgt Risiken für Herz und Kreislauf, besonders für Ungeübte.
-
-Quelle: Lifestyle Medicine (Wiley) – https://eprints.chi.ac.uk/id/eprint/8538/</description>
-  </item>
-  <item>
-   <title>Mythos Rotwein: Genetische Daten finden keinen Herzschutz, der entscheidende Versuch fehlt noch</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-mythos-alkohol-herz</link>
-   <guid isPermaLink="false">2026-11-13-mythos-alkohol-herz</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>mythen</category>
-   <description>Jahrzehntelang zeigten Beobachtungsstudien eine J-Kurve: Moderate Trinker lebten länger als Abstinente. Studien mit Mendel-Randomisierung, die genetische Varianten des Alkoholabbaus als natürlichen Zufallsversuch nutzen, finden diesen Schutz nicht und sehen Risiken schon bei geringen Mengen. Ein Aufsatz vom Juli 2026 stellt deshalb die UNATI-Studie vor: die erste große randomisierte Studie, die Abstinenz direkt mit moderatem Trinken vergleicht und harte Endpunkte wie Herzinfarkt und Tod misst. Die US-Ernährungsrichtlinien 2026 bis 2030 raten inzwischen nur noch, weniger zu trinken, ohne eine sichere Menge zu nennen.
-
-Warum das wichtig ist: Die J-Kurve gilt heute weitgehend als Artefakt: Viele Abstinente hatten aus gesundheitlichen Gründen aufgehört zu trinken, was die Vergleichsgruppe kränker machte. Der Mythos lebt trotzdem weiter.
-
-Vorbehalt: Kritiker wenden ein, dass die genetische Methode kleine Mengen schlecht erfasst. Bis UNATI Ergebnisse liefert, bleibt ein Rest Unsicherheit.
-
-Quelle: European Journal of Epidemiology – https://link.springer.com/article/10.1007/s10654-025-01330-w</description>
-  </item>
-  <item>
-   <title>Mythos 10.000 Schritte: Das Tempo zählt mehr als die magische Zahl</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-13-mythos-10000-schritte</link>
-   <guid isPermaLink="false">2026-11-13-mythos-10000-schritte</guid>
-   <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
-   <category>mythen</category>
-   <description>Forschende der University of Sydney haben Schrittdaten von rund 104.000 Teilnehmern der britischen UK Biobank ausgewertet, gemessen mit Armband-Sensoren und mit Sterbedaten verknüpft. Ohne Berücksichtigung des Tempos lag das geringste Sterberisiko bei 7.500 bis 10.000 Schritten. Entscheidender war aber die Intensität: Wer in seinen 30 aktivsten Minuten des Tages rund 90 bis 100 Schritte pro Minute schaffte, hatte in jeder Schrittgruppe ein niedrigeres Risiko. Selbst bei unter 5.000 Schritten brachte zügiges Gehen einen Nutzen, vergleichbar mit 5.000 bis 7.500 langsamen Schritten.
-
-Warum das wichtig ist: Die Zahl 10.000 stammt aus einer japanischen Werbekampagne der 1960er Jahre, nicht aus der Forschung. Die Daten zeigen, dass der Nutzen schon weit darunter beginnt und das Tempo einen eigenen Beitrag leistet.
-
-Vorbehalt: Beobachtungsstudie, also Zusammenhang statt Beweis. Armbandsensoren zählen manche Bewegungen falsch, und die Schritte wurden nur in einem Teilzeitraum gemessen.
-
-Quelle: British Journal of Sports Medicine via News-Medical – https://www.news-medical.net/news/20260910/You-may-not-need-10000-steps-if-some-of-them-are-taken-at-a-faster-pace.aspx</description>
   </item>
  </channel>
 </rss>
