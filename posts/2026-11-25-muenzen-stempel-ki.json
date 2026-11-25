@@ -1,0 +1,47 @@
+{
+ "id": "2026-11-25-muenzen-stempel-ki",
+ "date": "2026-11-25",
+ "published": "2026-11-17",
+ "category": "archaeologie",
+ "countries": [
+  "AU",
+  "SG",
+  "GB"
+ ],
+ "institution": "University of Newcastle (Australien), National University of Singapore, University of Oxford",
+ "maturity": "study",
+ "source": {
+  "name": "npj Heritage Science (Nature Portfolio)",
+  "url": "https://www.nature.com/articles/s40494-026-03087-1"
+ },
+ "more": [
+  {
+   "name": "DOI",
+   "url": "https://doi.org/10.1038/s40494-026-03087-1"
+  }
+ ],
+ "de": {
+  "title": "Computer sortiert alte römische Münzen nach ihren Prägestempeln – in einem Bruchteil der Zeit",
+  "summary": "Römische Münzen wurden früher mit Metallstempeln geprägt. Wer herausfinden will, wie viele Münzen eine Münzstätte herstellte, muss erkennen, welche Münzen vom selben Stempel stammen. Das machen Fachleute bisher von Hand, indem sie Münze für Münze vergleichen, und das dauert bei großen Funden Jahre. Forschende aus Australien, Singapur und Großbritannien haben dafür ein Rechenverfahren entwickelt, das ohne Vorgaben von Menschen auskommt: Es sucht auf den Münzbildern markante Punkte und gruppiert Münzen, die einander besonders ähnlich sehen. Getestet haben sie es an 1.135 römischen Silbermünzen aus den Jahren 64 bis 66 nach Christus. Viele davon sind stark abgenutzt. Das Verfahren kam damit gut zurecht und spart nach Angaben der Autoren um Größenordnungen an Zeit.",
+  "why": "Aus der Zahl der Stempel lässt sich abschätzen, wie viel Geld ein Staat damals herstellte. So hilft das Verfahren, die Wirtschaft der Antike besser zu verstehen, ohne dass jemand Jahre über Münzen gebeugt sitzen muss.",
+  "caveat": "Veröffentlicht ist bisher eine vorläufige Fassung der Studie. Getestet wurde nur an einer Münzgruppe aus drei Jahren, und die Autoren geben im Kurzbericht keine genaue Trefferquote an."
+ },
+ "en": {
+  "title": "Computer sorts ancient Roman coins by the dies that struck them, in a fraction of the time",
+  "summary": "Roman coins were struck with metal dies. To work out how many coins a mint produced, experts must tell which coins came from the same die. So far they do this by hand, comparing coin after coin, which can take years for a large hoard. Researchers from Australia, Singapore and the UK built a computer method that needs no human labels: it finds distinctive points in the coin images and groups coins that look most alike. They tested it on 1,135 Roman silver coins from the years 64 to 66 CE, many badly worn. The method coped well and, according to the authors, saves time by orders of magnitude.",
+  "why": "The number of dies helps estimate how much money a state made back then. The method could help us understand the ancient economy without anyone spending years bent over coins.",
+  "caveat": "Only a preliminary version of the paper is published so far. It was tested on one group of coins from three years, and the short summary gives no exact success rate."
+ },
+ "ru": {
+  "title": "Компьютер сортирует древнеримские монеты по штемпелям, которыми их чеканили, в разы быстрее",
+  "summary": "Римские монеты чеканили металлическими штемпелями. Чтобы понять, сколько монет выпустил монетный двор, нужно определить, какие монеты сделаны одним штемпелем. Пока специалисты делают это вручную, сравнивая монету за монетой, и на большой клад уходят годы. Исследователи из Австралии, Сингапура и Великобритании создали компьютерный метод, которому не нужна разметка от человека: он находит на снимках характерные точки и объединяет монеты, которые больше всего похожи. Метод проверили на 1135 римских серебряных монетах 64–66 годов н. э., многие из которых сильно стёрты. Он справился хорошо и, по словам авторов, экономит время на порядки.",
+  "why": "По числу штемпелей можно прикинуть, сколько денег выпускало государство. Метод помогает лучше понять экономику древнего мира, и никому не придётся годами сидеть над монетами.",
+  "caveat": "Пока опубликована только предварительная версия статьи. Метод проверили на одной группе монет за три года, а точной доли верных ответов в кратком описании нет."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs40494-026-03087-1/MediaObjects/40494_2026_3087_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, npj Heritage Science",
+  "link": "https://www.nature.com/articles/s40494-026-03087-1"
+ }
+}

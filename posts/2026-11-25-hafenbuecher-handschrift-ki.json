@@ -1,0 +1,45 @@
+{
+ "id": "2026-11-25-hafenbuecher-handschrift-ki",
+ "date": "2026-11-25",
+ "published": "2026-10-19",
+ "category": "archaeologie",
+ "countries": [
+  "GB"
+ ],
+ "institution": "University of Southampton",
+ "maturity": "study",
+ "source": {
+  "name": "University of Southampton, Pressemitteilung",
+  "url": "https://www.southampton.ac.uk/news/2026/10/ai-reads-centuriesold-handwriting-to-reveal-britains-vast-historic-shipping-trade.page"
+ },
+ "more": [
+  {
+   "name": "Phys.org",
+   "url": "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html"
+  }
+ ],
+ "de": {
+  "title": "KI liest 100.000 Seiten alter Handschrift und zeigt, wohin Englands Schiffe vor 400 Jahren fuhren",
+  "summary": "Im 16. und 17. Jahrhundert schrieben Zollbeamte in britischen Häfen auf, welche Schiffe wann mit welcher Ladung kamen und gingen. Diese Hafenbücher sind in den Nationalarchiven erhalten, aber so handschriftlich und unterschiedlich, dass kaum jemand sie im Ganzen auswerten konnte. Historikerinnen und Historiker der Universität Southampton haben etwa 100.000 Seiten eingescannt und eine Software eingesetzt, die die Handschriften liest. Sie lernte die Schrift vieler Beamter kennen und auch, wie sich die Schreibweise von Wörtern über die Jahrzehnte änderte. Heraus kam eine Datenbank mit Hunderttausenden Schiffsreisen ab 1565, mehr als 3.000 Häfen und den Waren, die darin umgeschlagen wurden. Erste Auswertungen zeigen etwa, dass im Jahr 1696/97 rund vier Fünftel des erfassten Warenwerts im englischen Überseehandel auf Europa entfielen. Alles ist auf einer frei zugänglichen Karte im Netz zu sehen.",
+  "why": "Aus Handschriften, die früher niemand ganz lesen konnte, wird eine Karte, auf der man Handelswege und Waren Jahr für Jahr nachverfolgen kann. Die Technik lässt sich auch auf andere Archive übertragen.",
+  "caveat": "Die Ergebnisse der KI mussten laut dem Leiter des Projekts noch von Hand nachgeprüft werden, eine Fehlerquote wird nicht genannt. Die Auswertungen zum Handel sind erste Eindrücke und noch nicht von anderen Fachleuten geprüft."
+ },
+ "en": {
+  "title": "AI reads 100,000 pages of old handwriting and shows where England's ships sailed 400 years ago",
+  "summary": "In the 16th and 17th centuries, customs officers in British ports wrote down which ships came and went, and with what cargo. These port books survive in the National Archives, but they are so handwritten and varied that hardly anyone could study them as a whole. Historians at the University of Southampton scanned about 100,000 pages and used software that reads handwriting. It learned the writing of many officials and how the spelling of words changed over the decades. The result is a database of hundreds of thousands of ship voyages from 1565 onwards, more than 3,000 ports and the goods handled there. First analyses show, for example, that in 1696/97 about four fifths of the recorded value of England's overseas trade was with Europe. Everything can be explored on a free online map.",
+  "why": "Handwriting that nobody could read in full has become a map where you can follow trade routes and goods year by year. The technique could work for other archives too.",
+  "caveat": "According to the project lead, the AI's output still had to be checked by hand, and no error rate is given. The trade findings are first impressions and have not yet been reviewed by other experts."
+ },
+ "ru": {
+  "title": "ИИ прочитал 100 000 страниц старых рукописей и показал, куда ходили английские корабли 400 лет назад",
+  "summary": "В XVI–XVII веках таможенные чиновники в британских портах записывали, какие корабли приходили и уходили и с каким грузом. Эти портовые книги хранятся в Национальном архиве, но написаны от руки так по-разному, что целиком их почти никто не мог изучить. Историки Саутгемптонского университета отсканировали около 100 000 страниц и применили программу, которая читает рукописный текст. Она научилась почерку многих чиновников и тому, как с годами менялось написание слов. Получилась база данных с сотнями тысяч рейсов начиная с 1565 года, более чем 3000 портов и товарами. Первый анализ показывает, например, что в 1696–1697 годах около четырёх пятых учтённой стоимости заморской торговли Англии приходилось на Европу. Всё можно посмотреть на открытой интерактивной карте.",
+  "why": "Рукописи, которые никто не мог прочитать целиком, превратились в карту, где можно год за годом проследить торговые пути и товары. Этот приём подойдёт и для других архивов.",
+  "caveat": "По словам руководителя проекта, результаты ИИ пришлось проверять вручную, доля ошибок не названа. Выводы о торговле пока предварительные и другими специалистами не проверены."
+ },
+ "image": {
+  "src": "https://www.southampton.ac.uk/leaf_content/uploads/a_port_book_being_digitally_transferred_at_the_national_archives_in_kew_cropped_alt-(1).jpg",
+  "kind": "press",
+  "credit": "Bild: University of Southampton",
+  "link": "https://www.southampton.ac.uk/news/2026/10/ai-reads-centuriesold-handwriting-to-reveal-britains-vast-historic-shipping-trade.page"
+ }
+}

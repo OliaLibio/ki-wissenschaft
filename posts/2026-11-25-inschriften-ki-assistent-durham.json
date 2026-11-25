@@ -1,0 +1,45 @@
+{
+ "id": "2026-11-25-inschriften-ki-assistent-durham",
+ "date": "2026-11-25",
+ "published": "2026-07-08",
+ "category": "archaeologie",
+ "countries": [
+  "GB"
+ ],
+ "institution": "Durham University, Google DeepMind",
+ "maturity": "deployed",
+ "source": {
+  "name": "Durham University, Pressemitteilung",
+  "url": "https://dur.ac.uk/news-events/latest-news/2026/07/google-deepmind-partnership/"
+ },
+ "more": [
+  {
+   "name": "Google DeepMind",
+   "url": "https://deepmind.google/science/workflows/conversing-with-antiquity/"
+  }
+ ],
+ "de": {
+  "title": "Historiker können mit einer KI über griechische und lateinische Inschriften „plaudern“",
+  "summary": "Auf Steinen, Altären und Holztäfelchen der Antike stehen Texte, die oft beschädigt sind: Es fehlen Buchstaben, und niemand weiß genau, wo und wann sie entstanden. Forschende der Universität Durham und von Google DeepMind haben dafür ein Werkzeug gebaut, das man wie einen Chat bedient. Man stellt Fragen in normaler Sprache, ganz ohne Programmieren. Die KI kann fehlenden Text ergänzen, Ort und Zeit der Entstehung einschätzen und Muster in Tausenden Inschriften sichtbar machen. Sie baut auf zwei früheren KI-Modellen derselben Gruppe auf. Ausprobiert wurde sie an einer lateinischen Tafel aus Bath, einem Altar aus Mainz und beschädigten Tafeln aus Dodona in Griechenland.",
+  "why": "Wer sich für Geschichte interessiert, aber nicht programmieren kann, bekommt so ein Werkzeug, das bisher Spezialisten vorbehalten war. Das kann das Lesen alter Texte beschleunigen.",
+  "caveat": "Die Mitteilung nennt keine Trefferquoten und sagt nicht, wie die Antworten der KI geprüft wurden. Die Fallbeispiele sind Vorführungen, kein unabhängiger Test. Ergänzungen der KI bleiben Vorschläge."
+ },
+ "en": {
+  "title": "Historians can \"chat\" with an AI about Greek and Latin inscriptions",
+  "summary": "Ancient stones, altars and wooden tablets carry texts that are often damaged: letters are missing and nobody knows exactly where or when they were made. Researchers at Durham University and Google DeepMind built a tool for this that works like a chat. You ask questions in plain language, with no programming. The AI can fill in missing text, estimate where and when an inscription was made, and show patterns across thousands of inscriptions. It builds on two earlier AI models from the same group. It was tried on a Latin tablet from Bath, an altar from Mainz and damaged tablets from Dodona in Greece.",
+  "why": "Anyone interested in history who cannot code gets a tool that used to be for specialists only. It could speed up the reading of old texts.",
+  "caveat": "The announcement gives no success rates and does not say how the AI's answers were checked. The examples are demonstrations, not an independent test. The AI's restorations remain suggestions."
+ },
+ "ru": {
+  "title": "Историки могут «беседовать» с ИИ о греческих и латинских надписях",
+  "summary": "На камнях, алтарях и деревянных табличках древности тексты часто повреждены: не хватает букв, и неясно, где и когда они созданы. Исследователи Даремского университета и Google DeepMind создали для этого инструмент, которым пользуются как чатом. Вопросы задают обычным языком, программировать не нужно. ИИ может восполнять недостающий текст, оценивать место и время создания надписи и показывать закономерности в тысячах надписей. Он опирается на две более ранние модели той же группы. Инструмент опробовали на латинской табличке из Бата, алтаре из Майнца и повреждённых табличках из Додоны в Греции.",
+  "why": "Тот, кто интересуется историей, но не умеет программировать, получает инструмент, раньше доступный только специалистам. Он может ускорить чтение древних текстов.",
+  "caveat": "В сообщении нет данных о доле верных ответов и не сказано, как проверяли ответы ИИ. Примеры — это демонстрации, а не независимая проверка. Восстановленный ИИ текст остаётся лишь предположением."
+ },
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Remains_of_capital_with_Latin_inscription_in_Alba_Fucens.jpg/960px-Remains_of_capital_with_Latin_inscription_in_Alba_Fucens.jpg",
+  "kind": "photo",
+  "credit": "Foto: PaestumPaestum, CC BY 4.0, Wikimedia Commons (lateinische Inschrift, Alba Fucens)",
+  "link": "https://commons.wikimedia.org/wiki/File:Remains_of_capital_with_Latin_inscription_in_Alba_Fucens.jpg"
+ }
+}
