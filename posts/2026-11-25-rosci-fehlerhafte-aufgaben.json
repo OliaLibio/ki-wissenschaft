@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-25-rosci-fehlerhafte-aufgaben",
+ "date": "2026-11-25",
+ "published": "2026-11-20",
+ "category": "grenzen",
+ "countries": [
+  "INT"
+ ],
+ "institution": "Nicht auf der arXiv-Seite genannt",
+ "maturity": "preprint",
+ "source": {
+  "name": "arXiv: RoSci: Exploring Robustness in Science VLMs",
+  "url": "https://arxiv.org/abs/2611.27750"
+ },
+ "more": [],
+ "de": {
+  "title": "KI beantwortet auch Wissenschaftsaufgaben, die gar nicht lösbar sind",
+  "summary": "Wer eine Aufgabe mit einem Fehler stellt, erwartet von einem guten Fachmann, dass er nachfragt, statt einfach loszurechnen. Ein Forschungsteam wollte wissen, ob KI-Programme, die Text und Bilder zugleich verstehen, das auch können. Dafür bauten sie einen Test mit 1.220 Wissenschaftsaufgaben, in die auf sechs verschiedene Arten Fehler eingebaut wurden: falsche oder fehlende Angaben. Das Ergebnis: Die geprüften Programme beantworteten solche Aufgaben manchmal trotzdem, statt zu sagen, dass etwas nicht stimmt. Ein vorgeschalteter Prüfschritt, der erst kontrolliert, ob die Angaben überhaupt stimmig sind, schnitt in der Gesamtwertung besser ab als die Programme allein.",
+  "why": "Ein KI-Programm klingt oft sicher, auch wenn die Frage selbst fehlerhaft ist. Wenn du ihm Daten oder Aufgaben gibst, kann es also eine glatte Antwort liefern, obwohl es hätte widersprechen müssen.",
+  "caveat": "Es ist ein Vorabdruck, den noch niemand unabhängig begutachtet hat. Die Fehler in den Aufgaben wurden künstlich eingebaut. Hier wurde nur die Kurzfassung der Studie gelesen, nicht der ganze Text."
+ },
+ "en": {
+  "title": "AI also answers science questions that cannot be solved",
+  "summary": "If you pose a task with a mistake in it, you expect a good expert to ask questions instead of just calculating. A research team wanted to know whether AI programs that understand text and images together can do that too. They built a test of 1,220 science tasks in which errors were planted in six different ways: wrong or missing information. The result: the programs tested sometimes answered such tasks anyway instead of saying that something was off. A check step placed in front, which first looks at whether the information makes sense at all, scored better overall than the programs on their own.",
+  "why": "An AI program often sounds confident even when the question itself is flawed. If you give it data or tasks, you may get a smooth answer when it should have objected.",
+  "caveat": "This is a preprint that nobody has independently reviewed yet. The errors in the tasks were planted artificially. Only the short summary of the study was read, not the full text."
+ },
+ "ru": {
+  "title": "ИИ отвечает даже на научные задачи, которые решить невозможно",
+  "summary": "Если задать задачу с ошибкой, от хорошего специалиста ждёшь, что он переспросит, а не станет просто считать. Исследователи хотели узнать, умеют ли так ИИ-программы, понимающие текст и изображения одновременно. Они собрали тест из 1220 научных задач, в которые шестью разными способами внесли ошибки: неверные или недостающие данные. Результат: проверенные программы иногда всё равно отвечали на такие задачи, вместо того чтобы сказать, что что-то не так. Предварительный шаг проверки, который сначала смотрит, согласуются ли вообще условия, в общей оценке показал себя лучше, чем сами программы.",
+  "why": "Программа ИИ часто звучит уверенно, даже когда сам вопрос неверен. Если дать ей данные или задачи, можно получить гладкий ответ там, где она должна была возразить.",
+  "caveat": "Это препринт, который пока никто независимо не проверил. Ошибки в задачах внесены искусственно. Прочитано только краткое изложение исследования, а не весь текст."
+ },
+ "image": {
+  "src": "https://arxiv.org/html/2611.27750v1/moti.png",
+  "kind": "figure",
+  "credit": "Abbildung der Studie, arXiv",
+  "link": "https://arxiv.org/abs/2611.27750"
+ }
+}

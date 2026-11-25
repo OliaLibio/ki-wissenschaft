@@ -1,0 +1,38 @@
+{
+  "id": "2026-11-25-modell-abschaltung-reproduzierbarkeit",
+  "date": "2026-11-25",
+  "published": "2026-09-04",
+  "category": "grenzen",
+  "countries": ["INT"],
+  "institution": "Autorenteam (Affiliationen auf der arXiv-Seite nicht angegeben)",
+  "maturity": "preprint",
+  "source": {
+    "name": "arXiv: Model Retirement Creates Reproducibility Risk in Biomedical AI Publications",
+    "url": "https://arxiv.org/abs/2609.04699"
+  },
+  "more": [],
+  "de": {
+    "title": "Viele medizinische KI-Studien lassen sich bald nicht mehr nachprüfen, weil die Programme abgeschaltet werden",
+    "summary": "Zu guter Wissenschaft gehört, dass andere ein Ergebnis wiederholen können. Bei Studien mit großen Sprachprogrammen wie ChatGPT wird das schwierig, denn die Firmen schalten ältere Versionen nach einiger Zeit ab. Ein Forschungsteam hat deshalb Studien aus der Medizin und Biologie durchsucht, die zwischen 2022 und März 2026 erschienen sind. Insgesamt prüften sie über 61.000 Zusammenfassungen und fanden gut 5.000 Veröffentlichungen, die ein bestimmtes Sprachprogramm benutzt haben. In knapp acht von zehn Fällen war es ein Programm einer Firma, dessen Innenleben nicht offen liegt. Bei 42 von 100 Nennungen war das benutzte Programm schon abgeschaltet oder sollte innerhalb von zwei Jahren abgeschaltet werden. Im Mittel vergingen nur 538 Tage, also etwa anderthalb Jahre, von der Veröffentlichung bis zur Abschaltung.",
+    "why": "Ein Ergebnis, das niemand mehr wiederholen kann, ist schwer zu überprüfen. Wer sich auf eine Studie mit einem Chatbot verlässt, sollte also fragen, ob dieselbe Version überhaupt noch läuft.",
+    "caveat": "Es ist ein Vorabdruck ohne unabhängige Begutachtung. Die Modellnamen suchte ein KI-Programm in den Zusammenfassungen, nur eine Stichprobe prüften Menschen nach. Ob sich ein Ergebnis mit einer neueren Version wiederholen lässt, hat die Studie nicht getestet."
+  },
+  "en": {
+    "title": "Many medical AI studies will soon be impossible to check because the programs get switched off",
+    "summary": "Good science means others can repeat a result. With studies that use large language programs such as ChatGPT, this gets hard, because companies retire older versions after a while. A research team therefore searched medical and biology studies published between 2022 and March 2026. They screened more than 61,000 abstracts and found just over 5,000 publications that used a specific language program. In nearly eight of ten cases it was a company's program whose inner workings are not open. In 42 of 100 mentions, the program used had already been retired or was due to be retired within two years. On average only 538 days, about a year and a half, passed between publication and retirement.",
+    "why": "A result nobody can repeat is hard to verify. If you rely on a study that used a chatbot, ask whether that exact version is even still running.",
+    "caveat": "This is a preprint without independent review. An AI program searched the abstracts for model names, and people only checked a sample. The study did not test whether results can be repeated with a newer version."
+  },
+  "ru": {
+    "title": "Многие медицинские исследования с ИИ скоро нельзя будет проверить: программы отключают",
+    "summary": "Хорошая наука предполагает, что другие могут повторить результат. С исследованиями, где используются большие языковые программы вроде ChatGPT, это трудно: компании со временем отключают старые версии. Поэтому исследователи просмотрели работы по медицине и биологии, вышедшие с 2022 года по март 2026 года. Они изучили более 61 000 аннотаций и нашли чуть больше 5 000 публикаций, где использовалась конкретная языковая программа. Почти в восьми случаях из десяти это была программа компании с закрытым устройством. В 42 случаях из 100 использованная программа уже была отключена или должна была быть отключена в течение двух лет. В среднем от публикации до отключения проходило лишь 538 дней, то есть около полутора лет.",
+    "why": "Результат, который никто не может повторить, трудно проверить. Если вы полагаетесь на исследование с чат-ботом, спросите, работает ли эта версия вообще до сих пор.",
+    "caveat": "Это препринт без независимой проверки. Названия моделей в аннотациях искала программа ИИ, а люди проверили лишь выборку. Повторяются ли результаты на новой версии, исследование не проверяло."
+  },
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/PDC_server_room.jpg/960px-PDC_server_room.jpg",
+    "kind": "photo",
+    "credit": "Foto: Esquilo, CC BY-SA 3.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg"
+  }
+}

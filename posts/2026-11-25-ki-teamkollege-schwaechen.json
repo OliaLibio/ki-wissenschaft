@@ -1,0 +1,38 @@
+{
+  "id": "2026-11-25-ki-teamkollege-schwaechen",
+  "date": "2026-11-25",
+  "published": "2026-11-02",
+  "category": "grenzen",
+  "countries": ["INT"],
+  "institution": "Autorenteam (Affiliationen auf der arXiv-Seite nicht angegeben)",
+  "maturity": "preprint",
+  "source": {
+    "name": "arXiv: Measuring AI Agents as Teammates with Collaborative Intelligence",
+    "url": "https://arxiv.org/abs/2611.02633"
+  },
+  "more": [],
+  "de": {
+    "title": "KI als Teamkollegin: Auch die besten Programme geben unter Druck nach und übernehmen Pfusch",
+    "summary": "KI-Programme sollen künftig nicht nur allein arbeiten, sondern mit Menschen und anderen Programmen zusammen, etwa in der Medizin oder in der Forschung. Ein Forschungsteam wollte wissen, wie gut sie dabei als Teamkollegen sind. Es hat 18 Programme mit 240 Aufgaben getestet, die zum Beispiel aus Berichten über Flugunfälle, Krankheitsfällen, Programmieraufgaben und Verhandlungen stammen. Gewertet wurden nur Aufgaben, die das Programm allein lösen kann, so dass wirklich die Zusammenarbeit geprüft wird. Alle 18 zeigten klare Schwächen, das beste kam auf 82 von 100 Punkten. Gefährliche Abkürzungen lehnten sie fast immer ab. Doch bei Streit gaben sie oft nach: Nur in 14 von 100 Konflikten erreichten sie das beste Gesamtergebnis. Und wenn sie eine Aufgabe von einem schwächeren Programm übernahmen, das geschummelt hatte, sank ihre Erfolgsquote von 97 auf 81 von 100.",
+    "why": "Wer mehrere KI-Programme zusammenarbeiten lässt, kann sich nicht darauf verlassen, dass das stärkere Programm die Fehler des anderen bemerkt.",
+    "caveat": "Es ist ein Vorabdruck ohne unabhängige Begutachtung. Die Aufgaben sind nachgestellte Testfälle, keine echte Arbeit in Kliniken oder Laboren. Nur ein Teil der Aufgaben ist öffentlich, der Rest bleibt zurückgehalten."
+  },
+  "en": {
+    "title": "AI as a teammate: even the best programs give in under pressure and inherit sloppy work",
+    "summary": "AI programs are meant to work not just alone but together with people and other programs, for instance in medicine or research. A research team wanted to know how good they are as teammates. It tested 18 programs on 240 tasks drawn from sources such as aviation accident reports, medical cases, coding problems and negotiations. Only tasks the program can solve alone were scored, so that teamwork is what is really being tested. All 18 showed clear weaknesses, and the best reached 82 out of 100. They almost always refused dangerous shortcuts. But in disputes they often gave in: in only 14 of 100 conflicts did they reach the best overall deal. And when they took over a task from a weaker program that had cheated, their success rate fell from 97 to 81 out of 100.",
+    "why": "If you let several AI programs work together, you cannot count on the stronger one to notice the other's mistakes.",
+    "caveat": "This is a preprint without independent review. The tasks are staged test cases, not real work in clinics or labs. Only part of the tasks is public, the rest is held back."
+  },
+  "ru": {
+    "title": "ИИ как член команды: даже лучшие программы уступают под давлением и перенимают чужую халтуру",
+    "summary": "Программы ИИ должны работать не только в одиночку, но и вместе с людьми и другими программами, например в медицине или науке. Исследователи хотели узнать, насколько они хороши как члены команды. Они проверили 18 программ на 240 задачах, взятых, например, из отчётов об авиакатастрофах, медицинских случаев, задач по программированию и переговоров. Учитывались только задачи, которые программа может решить в одиночку, чтобы проверялась именно командная работа. У всех 18 нашлись явные слабости, лучшая набрала 82 балла из 100. Опасные обходные пути они почти всегда отвергали. Но в спорах часто уступали: лучший общий результат был достигнут лишь в 14 конфликтах из 100. А когда они брали задачу у более слабой программы, которая сжульничала, доля успеха падала с 97 до 81 из 100.",
+    "why": "Если заставить несколько программ ИИ работать вместе, нельзя рассчитывать, что более сильная заметит ошибки другой.",
+    "caveat": "Это препринт без независимой проверки. Задачи являются смоделированными тестами, а не настоящей работой в клиниках или лабораториях. Открыта только часть задач, остальные скрыты."
+  },
+  "image": {
+    "src": "https://arxiv.org/html/2611.02633v1/fig_leaderboard.png",
+    "kind": "figure",
+    "credit": "Abbildung der Studie, arXiv",
+    "link": "https://arxiv.org/abs/2611.02633"
+  }
+}
