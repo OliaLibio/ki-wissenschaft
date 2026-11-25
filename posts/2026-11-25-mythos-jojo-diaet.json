@@ -1,0 +1,51 @@
+{
+  "id": "2026-11-25-mythos-jojo-diaet",
+  "date": "2026-11-25",
+  "published": "2026-05-15",
+  "category": "mythen",
+  "countries": [
+    "DK",
+    "DE"
+  ],
+  "institution": "University of Copenhagen; Universitätsklinikum Tübingen",
+  "maturity": "review",
+  "evidence": "review",
+  "verdict": "partly",
+  "source": {
+    "name": "The Lancet Diabetes & Endocrinology via ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260515233331.htm"
+  },
+  "more": [
+    {
+      "name": "DOI 10.1016/S2213-8587(26)00037-9",
+      "url": "https://doi.org/10.1016/S2213-8587(26)00037-9"
+    }
+  ],
+  "de": {
+    "myth": "Jojo-Diäten, also wiederholtes Abnehmen und Zunehmen, schaden dem Körper dauerhaft mehr, als wenn man gar nicht abnimmt.",
+    "title": "Jojo-Effekt: Kein überzeugender Beleg, dass wiederholtes Abnehmen dauerhaft schadet",
+    "summary": "Viele Menschen mit Übergewicht trauen sich nicht abzunehmen, weil sie fürchten, danach noch dicker zu werden und den Stoffwechsel für immer zu verlangsamen. Zwei Forschende aus Dänemark und Deutschland haben dazu Beobachtungsstudien, Versuche mit Menschen und Tierversuche aus mehreren Jahrzehnten gesichtet. Sie fanden keine überzeugenden Belege, dass das Auf und Ab des Gewichts an sich langfristig schadet. Auch ein dauerhaft verlangsamter Stoffwechsel oder ein übermäßiger Verlust an Muskeln zeigte sich nicht durchgehend. Nimmt man wieder zu, gehen die Verbesserungen bei Blutzucker, Blutdruck und Cholesterin zwar zurück, aber nur auf den Ausgangswert, nicht darüber hinaus. Entscheidend war das überschüssige Körperfett.",
+    "why": "Die Angst vor dem Jojo-Effekt ist kein guter Grund, Abnehmen gar nicht erst zu versuchen. Wer abnimmt und wieder zunimmt, ist danach etwa dort, wo er vorher war.",
+    "caveat": "Das ist ein Übersichtsartikel in Form eines Meinungsbeitrags, keine neue Untersuchung, und er nennt keine genauen Zahlen. Ob Schäden verschwinden, hängt davon ab, wie andere Einflüsse wie Alter oder Vorerkrankungen herausgerechnet wurden. Er erschien kurz vor der Sechs-Monats-Grenze (Mitte Mai 2026). Wiederzunehmen bleibt schlecht, weil die Vorteile verloren gehen."
+  },
+  "en": {
+    "myth": "Yo-yo dieting, losing and regaining weight again and again, harms the body permanently more than not losing weight at all.",
+    "title": "Yo-yo dieting: no convincing proof that repeated weight loss does lasting harm",
+    "summary": "Many people with overweight hold back from losing weight because they fear ending up even heavier and slowing their metabolism for good. Two researchers from Denmark and Germany went through observational studies, trials in people and animal experiments from several decades. They found no convincing proof that the ups and downs of weight cause lasting harm in themselves. A permanently slowed metabolism or excessive loss of muscle did not show up consistently either. If you regain weight, the improvements in blood sugar, blood pressure and cholesterol fade, but only back to the starting point, not beyond it. What mattered most was the excess body fat.",
+    "why": "Fear of the yo-yo effect is not a good reason to avoid trying to lose weight. If you lose weight and regain it, you end up roughly where you started.",
+    "caveat": "This is a review written as an opinion piece, not a new study, and it gives no exact numbers. Whether harms disappear depends on how other factors such as age or existing illness were accounted for. It came out just before the six-month limit (mid-May 2026). Regaining weight is still bad, because the benefits are lost."
+  },
+  "ru": {
+    "myth": "Йо-йо диеты, то есть повторяющееся похудение и набор веса, вредят организму навсегда сильнее, чем если вообще не худеть.",
+    "title": "Эффект йо-йо: нет убедительных доказательств, что повторное похудение вредит надолго",
+    "summary": "Многие люди с лишним весом боятся худеть, опасаясь потом поправиться ещё сильнее и навсегда замедлить обмен веществ. Двое исследователей из Дании и Германии изучили наблюдательные исследования, опыты с людьми и опыты на животных за несколько десятилетий. Убедительных доказательств того, что сами колебания веса приносят долгосрочный вред, они не нашли. Постоянно замедленный обмен веществ или чрезмерная потеря мышц тоже проявлялись не везде. При наборе веса улучшения сахара в крови, давления и холестерина исчезают, но лишь до исходного уровня, а не ниже. Решающим был избыток жира в теле.",
+    "why": "Страх перед эффектом йо-йо — плохая причина не пытаться худеть. Тот, кто похудел и снова поправился, оказывается примерно там, где был.",
+    "caveat": "Это обзор в формате авторской статьи, а не новое исследование, и точных цифр в нём нет. Исчезает ли вред, зависит от того, как учитывали другие факторы, например возраст или болезни. Статья вышла незадолго до границы в полгода (середина мая 2026). Набирать вес снова всё равно плохо, потому что польза теряется."
+  },
+  "image": {
+    "src": "https://www.sciencedaily.com/images/1920/thumbs-up-happy-attractive-slender-woman-weight-loss-success.webp",
+    "kind": "press",
+    "credit": "Bild: ScienceDaily",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260515233331.htm"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2026-11-25-mythos-vitamin-d-knochen",
+  "date": "2026-11-25",
+  "published": "2022-07-28",
+  "category": "mythen",
+  "countries": [
+    "US"
+  ],
+  "institution": "Brigham and Women's Hospital, Harvard Medical School",
+  "maturity": "clinical",
+  "evidence": "rct",
+  "verdict": "busted",
+  "source": {
+    "name": "New England Journal of Medicine",
+    "url": "https://doi.org/10.1056/NEJMoa2202106"
+  },
+  "more": [
+    {
+      "name": "Europe PMC: Abstract der Studie",
+      "url": "https://europepmc.org/article/MED/35939577"
+    },
+    {
+      "name": "Neuere Vitamin-D-Studie (VIVID, COVID): Pressemitteilung Mass General Brigham via EurekAlert",
+      "url": "https://www.eurekalert.org/news-releases/1119304"
+    }
+  ],
+  "de": {
+    "myth": "Vitamin-D-Tabletten schützen vor Knochenbrüchen.",
+    "title": "Vitamin-D-Tabletten verhindern bei Gesunden keine Knochenbrüche",
+    "summary": "Vitamin D gilt als Knochenvitamin, und viele Menschen schlucken es vorsorglich, damit sie sich im Alter weniger leicht etwas brechen. Forschende aus den USA haben das in einer sehr großen Studie überprüft: Fast 26.000 gesunde Frauen und Männer ab 50 bzw. 55 Jahren bekamen per Los entweder jeden Tag Vitamin-D-Kapseln oder Scheinkapseln ohne Wirkstoff. Weder die Teilnehmenden noch die Ärzte wussten, wer was bekam. Nach gut fünf Jahren zeigte sich: In beiden Gruppen brachen sich praktisch gleich viele Menschen einen Knochen, auch die Hüfte. Vitamin D änderte nichts, auch nicht bei Menschen, deren Blutwerte zu Beginn niedrig waren.",
+    "why": "Wer gesund ist und keinen nachgewiesenen Mangel hat, braucht Vitamin D nicht als Knochenschutz zu schlucken. Das Geld lässt sich besser für Bewegung und Krafttraining ausgeben. Das heißt nicht, dass Vitamin D unwichtig ist: Bei einem festgestellten Mangel oder bei Osteoporose entscheidet die Ärztin, was nötig ist.",
+    "caveat": "Die Studie wurde 2022 veröffentlicht, ist also nicht neu, gilt aber als maßgeblich. Untersucht wurden gesunde Menschen ohne Vitamin-D-Mangel und ohne Osteoporose (Knochenschwund). Für Pflegeheimbewohner oder Menschen mit sehr niedrigen Werten sagt sie wenig aus. Eine neue Studie aus dem März 2026 mit fast 1.750 an Covid-19 Erkrankten zeigte übrigens auch keinen Nutzen von Vitamin D gegen schwere Verläufe."
+  },
+  "en": {
+    "myth": "Vitamin D pills protect against broken bones.",
+    "title": "Vitamin D pills do not prevent fractures in healthy people",
+    "summary": "Vitamin D is known as the bone vitamin, and many people take it as a precaution so they are less likely to break something in old age. Researchers in the US tested this in a very large study. Almost 26,000 healthy men and women, aged 50 and over (men) or 55 and over (women), were assigned by lot to take either vitamin D capsules or dummy capsules every day. Neither the participants nor the doctors knew who got which. After more than five years, practically the same number of people in both groups had broken a bone, hips included. Vitamin D made no difference, not even for people whose blood levels were low at the start.",
+    "why": "If you are healthy and have no proven deficiency, you do not need to take vitamin D to protect your bones. The money is better spent on exercise and strength training. That does not make vitamin D unimportant: with a diagnosed deficiency or osteoporosis (bone loss), your doctor decides what you need.",
+    "caveat": "The study came out in 2022, so it is not new, but it is considered authoritative. It looked at healthy people without vitamin D deficiency or osteoporosis, so it says little about nursing home residents or people with very low levels. A newer study from March 2026 with almost 1,750 people sick with Covid-19 also found no benefit from vitamin D against severe illness."
+  },
+  "ru": {
+    "myth": "Таблетки с витамином D защищают от переломов.",
+    "title": "Таблетки с витамином D не предотвращают переломы у здоровых людей",
+    "summary": "Витамин D считают витамином для костей, и многие пьют его для профилактики, чтобы в старости реже ломать кости. Исследователи из США проверили это в очень большом исследовании. Почти 26 000 здоровых мужчин и женщин (мужчины от 50 лет, женщины от 55) по жребию получали каждый день либо капсулы с витамином D, либо пустышки. Ни участники, ни врачи не знали, кто что получает. Спустя больше пяти лет в обеих группах практически одинаковое число людей сломало кость, в том числе бедро. Витамин D ничего не изменил, даже у тех, у кого в начале анализы показывали низкий уровень.",
+    "why": "Если вы здоровы и у вас нет доказанной нехватки витамина D, пить его ради защиты костей не нужно. Деньги лучше потратить на движение и силовые тренировки. Это не значит, что витамин D неважен: при установленном дефиците или остеопорозе (потере костной массы) решение принимает врач.",
+    "caveat": "Исследование опубликовано в 2022 году, оно не новое, но считается основополагающим. Участвовали здоровые люди без дефицита витамина D и без остеопороза, поэтому о жителях домов престарелых и людях с очень низким уровнем оно говорит мало. Новое исследование от марта 2026 года почти с 1750 больными Covid-19 тоже не показало пользы витамина D против тяжёлого течения."
+  },
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bottle_of_Super-D_oil_capsules%2C_London%2C_England%2C_1940-1945_Wellcome_L0057855.jpg/960px-Bottle_of_Super-D_oil_capsules%2C_London%2C_England%2C_1940-1945_Wellcome_L0057855.jpg",
+    "kind": "photo",
+    "credit": "Foto: Wellcome Collection, CC BY 4.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Bottle_of_Super-D_oil_capsules,_London,_England,_1940-1945_Wellcome_L0057855.jpg"
+  }
+}

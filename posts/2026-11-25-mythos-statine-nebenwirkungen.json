@@ -1,0 +1,54 @@
+{
+  "id": "2026-11-25-mythos-statine-nebenwirkungen",
+  "date": "2026-11-25",
+  "published": "2026-02-06",
+  "category": "mythen",
+  "countries": [
+    "GB"
+  ],
+  "institution": "University of Oxford",
+  "maturity": "clinical",
+  "evidence": "meta",
+  "verdict": "partly",
+  "source": {
+    "name": "The Lancet via British Heart Foundation",
+    "url": "https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2026/february/study-finds-that-statins-do-not-cause-the-majority-of-side-effects-listed-in-package-leaflets"
+  },
+  "more": [
+    {
+      "name": "DOI 10.1016/S0140-6736(25)01578-8",
+      "url": "https://doi.org/10.1016/S0140-6736(25)01578-8"
+    },
+    {
+      "name": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260212025550.htm"
+    }
+  ],
+  "de": {
+    "myth": "Cholesterinsenker (Statine) verursachen viele der Nebenwirkungen, die im Beipackzettel stehen, etwa Gedächtnisprobleme.",
+    "title": "Die meisten Beipackzettel-Nebenwirkungen von Statinen kommen nicht von den Tabletten",
+    "summary": "Statine sind Tabletten, die das Cholesterin senken und Herzinfarkte verhindern sollen. Viele Menschen nehmen sie nicht oder setzen sie ab, weil sie Nebenwirkungen fürchten. Forschende aus Großbritannien haben die Ergebnisse von 23 großen Studien zusammengeführt, in denen Teilnehmende per Los Statine oder Scheintabletten bekamen, ohne zu wissen, was sie schlucken. Insgesamt waren es rund 155.000 Menschen, die im Schnitt fast fünf Jahre begleitet wurden. Von 66 Nebenwirkungen, die auf Beipackzetteln genannt werden, hingen nur vier mit den Statinen zusammen. Gedächtnisprobleme traten mit und ohne Statin gleich oft auf, nämlich bei etwa 2 von 1.000 Menschen pro Jahr. Die Leberwerte im Blut stiegen leicht an, aber Lebererkrankungen wurden nicht häufiger.",
+    "why": "Wer Statine vom Arzt verordnet bekommen hat, sollte sie nicht vorschnell wegen Beschwerden absetzen, die vermutlich gar nicht von den Tabletten kommen. Sprich bei Beschwerden mit der Ärztin, statt allein aufzuhören.",
+    "caveat": "Ganz ohne Nebenwirkungen sind Statine nicht: Vier der Beschwerden hingen tatsächlich mit ihnen zusammen, und Muskelschmerzen können bei etwa einem von hundert Menschen im ersten Jahr durch die Tabletten entstehen. Die Studie ist von Anfang Februar 2026, also älter als sechs Monate. Sehr seltene Nebenwirkungen können in solchen Studien untergehen, und Kritiker bemängeln, dass die Rohdaten nicht frei zugänglich sind."
+  },
+  "en": {
+    "myth": "Cholesterol-lowering pills (statins) cause many of the side effects listed on the leaflet, such as memory problems.",
+    "title": "Most side effects listed on statin leaflets are not caused by the pills",
+    "summary": "Statins are pills that lower cholesterol and help prevent heart attacks. Many people do not take them, or stop, because they fear side effects. Researchers in the UK combined the results of 23 large studies in which people were assigned by lot to take either statins or dummy pills without knowing which. In total, about 155,000 people were followed for almost five years on average. Of the 66 side effects named on package leaflets, only four were linked to the statins. Memory problems were just as common with and without a statin, about 2 in 1,000 people per year. Liver values in the blood rose slightly, but liver disease did not become more common.",
+    "why": "If your doctor has prescribed statins, do not rush to stop them because of complaints that probably do not come from the pills. If you have symptoms, talk to your doctor instead of stopping on your own.",
+    "caveat": "Statins are not free of side effects: four of the complaints were really linked to them, and muscle pain can be caused by the pills in about one in a hundred people in the first year. The study dates from early February 2026, so it is older than six months. Very rare side effects can get lost in such studies, and critics point out that the raw data are not openly available."
+  },
+  "ru": {
+    "myth": "Статины (таблетки от холестерина) вызывают многие побочные эффекты из инструкции, например проблемы с памятью.",
+    "title": "Большинство побочных эффектов из инструкции к статинам вызваны не таблетками",
+    "summary": "Статины — это таблетки, которые снижают холестерин и помогают предотвращать инфаркты. Многие не принимают их или бросают из-за страха перед побочными эффектами. Исследователи из Великобритании объединили результаты 23 крупных исследований, где люди по жребию получали статины или таблетки-пустышки и не знали, что именно пьют. Всего это около 155 000 человек, за которыми наблюдали в среднем почти пять лет. Из 66 побочных эффектов, названных в инструкциях, со статинами были связаны только четыре. Проблемы с памятью встречались одинаково часто со статином и без него, примерно у 2 человек из 1000 в год. Показатели печени в крови немного выросли, но болезни печени не стали встречаться чаще.",
+    "why": "Если врач назначил вам статины, не бросайте их поспешно из-за жалоб, которые, скорее всего, не связаны с таблетками. При жалобах поговорите с врачом, а не прекращайте приём сами.",
+    "caveat": "Без побочных эффектов статины не бывают: четыре жалобы действительно были с ними связаны, а мышечные боли могут возникать от таблеток примерно у одного из ста в первый год. Исследование вышло в начале февраля 2026 года, то есть ему больше полугода. Очень редкие побочные эффекты в таких исследованиях могут затеряться, а критики отмечают, что исходные данные недоступны открыто."
+  },
+  "image": {
+    "src": "https://www.sciencedaily.com/images/1920/prescription-medicine-colorful-pills-side-effects.webp",
+    "kind": "press",
+    "credit": "Bild: ScienceDaily",
+    "link": "https://www.sciencedaily.com/releases/2026/02/260212025550.htm"
+  }
+}

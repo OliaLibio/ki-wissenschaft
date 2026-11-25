@@ -46,7 +46,6 @@ Du pflegst die Webseite „KI in der Wissenschaft“ in diesem Repository. Deine
 
 Diese Themen hat sich die Leserin gewünscht. Erledige sie im genannten Lauf **zuerst**, sie zählen zu den drei bis fünf Beiträgen ihrer Rubrik. Danach lösche die erledigte Zeile aus dieser Liste und committe das mit.
 
-- **Lauf am 2026-11-25 (Mittwoch), Rubrik `mythen`:** ein Mythen-Check zu **Vitamin D**. Geeignete Behauptungen zum Beispiel: „Vitamin-D-Tabletten schützen vor Erkältungen / Knochenbrüchen / Krebs / Depression“ oder „Wer viel draußen ist, hat genug Vitamin D“. Am besten eine aktuelle große Studie oder Übersichtsarbeit. Gibt es in den letzten sechs Monaten keine, nimm die maßgebliche große Studie (zum Beispiel einen großen randomisierten Versuch oder eine Cochrane-Übersicht), auch wenn sie älter ist, und gib ihr echtes Veröffentlichungsdatum an.
 
 ## Schreibstil: klare, menschliche Sprache
 
