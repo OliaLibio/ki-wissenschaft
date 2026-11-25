@@ -1,0 +1,45 @@
+{
+ "id": "2026-11-25-depression-ki-biomarker-uebersicht",
+ "date": "2026-11-25",
+ "published": "2026-11-24",
+ "category": "gesundheit",
+ "countries": [
+  "TW"
+ ],
+ "institution": "Taipei Veterans General Hospital",
+ "maturity": "review",
+ "source": {
+  "name": "Brain Medicine via Genomic Press",
+  "url": "https://www.eurekalert.org/news-releases/1152698"
+ },
+ "more": [
+  {
+   "name": "DOI 10.61373/bm026i.0072",
+   "url": "https://doi.org/10.61373/bm026i.0072"
+  }
+ ],
+ "de": {
+  "title": "Wenn zwei Antidepressiva nicht wirken: Warum KI bei der Wahl der Behandlung bisher nur wenig hilft",
+  "summary": "Bei vielen Menschen mit Depression helfen die ersten Medikamente nicht. Dann sucht man oft lange nach dem richtigen Mittel. Ein Psychiater aus Taiwan hat in einem Überblicksartikel zusammengetragen, ob Messwerte aus dem Körper, etwa Hirnstrombilder oder Blutwerte, zusammen mit KI vorhersagen können, welche Behandlung wem hilft. Er hat dafür viele frühere Studien ausgewertet, selbst aber keine neue Untersuchung gemacht. Das Bild ist nüchtern: Manche KI-Modelle treffen mit Hirnstrom-Daten in kleinen Gruppen recht gut, ein Modell mit Daten von gut 9.000 Erwachsenen lag bei der Auswahl aus zehn Medikamenten aber nur wenig über dem Zufall. Ein Zusammenhang, der in einer kleinen Gruppe von 26 Personen stark aussah, verschwand in einer Gruppe von rund 500 Menschen ganz.",
+  "why": "Die Hoffnung auf einen Test, der genau sagt, welches Antidepressivum wirkt, ist berechtigt, aber noch nicht erfüllt. Wer an Depression leidet, sollte die Behandlung weiter gemeinsam mit Ärztin oder Arzt Schritt für Schritt anpassen.",
+  "caveat": "Es ist ein Überblicksartikel und kein neuer Versuch. Der Autor besitzt selbst Patente auf KI-gestützte Depressionsdiagnostik. Viele Modelle wurden noch nie an neuen Patienten getestet, und die Daten stammen überwiegend von Menschen europäischer Herkunft."
+ },
+ "en": {
+  "title": "When two antidepressants fail: why AI so far helps little in choosing a treatment",
+  "summary": "For many people with depression the first medicines do not work, and finding the right one can take a long time. A psychiatrist from Taiwan has gathered, in an overview article, whether body measurements such as brain-wave recordings or blood values, combined with AI, can predict which treatment will help whom. He evaluated many earlier studies but did not run a new one. The picture is sober: some AI models using brain-wave data do quite well in small groups, but a model built on data from about 9,000 adults was only slightly better than chance at choosing among ten medicines. A link that looked strong in a group of 26 people disappeared completely in a group of about 500.",
+  "why": "The hope for a test that tells exactly which antidepressant will work is justified but not yet fulfilled. People with depression should keep adjusting treatment step by step together with their doctor.",
+  "caveat": "This is an overview, not a new experiment. The author himself holds patents on AI-assisted depression diagnosis. Many models were never tested on new patients, and the data come mostly from people of European descent."
+ },
+ "ru": {
+  "title": "Когда два антидепрессанта не помогли: почему ИИ пока мало помогает с выбором лечения",
+  "summary": "У многих людей с депрессией первые лекарства не помогают, и поиск подходящего может занять много времени. Психиатр из Тайваня собрал в обзорной статье данные о том, могут ли показатели организма, например записи мозговой активности или анализы крови, вместе с ИИ предсказать, какое лечение кому поможет. Он проанализировал много прежних исследований, но нового не проводил. Картина трезвая: некоторые модели ИИ по данным мозговой активности неплохо работают в небольших группах, но модель на данных около 9000 взрослых при выборе из десяти лекарств была лишь немного лучше случайного угадывания. Связь, которая выглядела сильной в группе из 26 человек, полностью исчезла в группе примерно из 500.",
+  "why": "Надежда на тест, который точно скажет, какой антидепрессант подействует, оправданна, но пока не осуществилась. Людям с депрессией по-прежнему стоит шаг за шагом подбирать лечение вместе с врачом.",
+  "caveat": "Это обзор, а не новый эксперимент. У автора самого есть патенты на диагностику депрессии с помощью ИИ. Многие модели никогда не проверяли на новых пациентах, а данные в основном получены от людей европейского происхождения."
+ },
+ "image": {
+  "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/d19135a0-5594-4c1c-9b8c-e5090c2d6701/Rendition/low-res/Content/Public",
+  "kind": "press",
+  "credit": "Bild: Genomic Press",
+  "link": "https://www.eurekalert.org/news-releases/1152698"
+ }
+}

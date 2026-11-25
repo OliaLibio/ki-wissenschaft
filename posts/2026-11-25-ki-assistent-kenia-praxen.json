@@ -1,0 +1,50 @@
+{
+ "id": "2026-11-25-ki-assistent-kenia-praxen",
+ "date": "2026-11-25",
+ "published": "2026-06-26",
+ "category": "gesundheit",
+ "countries": [
+  "KE",
+  "GB"
+ ],
+ "institution": "Universität Birmingham, London School of Hygiene and Tropical Medicine, KEMRI-Wellcome Trust Research Programme",
+ "maturity": "clinical",
+ "source": {
+  "name": "Nature Medicine via Universität Birmingham",
+  "url": "https://www.eurekalert.org/news-releases/1133583"
+ },
+ "more": [
+  {
+   "name": "Pressemitteilung Universität Birmingham",
+   "url": "https://www.birmingham.ac.uk/news/2026/ai-clinical-support-tool-improved-clinician-decisions-in-real-world-primary-care-trial"
+  },
+  {
+   "name": "Nature Medicine",
+   "url": "https://www.nature.com/articles/s41591-026-04503-6"
+  }
+ ],
+ "de": {
+  "title": "KI-Assistent in kenianischen Arztpraxen: bessere Behandlungsplanung, aber kein messbar besserer Verlauf für die Patienten",
+  "summary": "Immer mehr Ärztinnen und Ärzte probieren KI-Sprachprogramme aus, die beim Diagnostizieren und Behandeln helfen sollen. Ob das den Patienten wirklich nützt, wurde aber kaum unter Alltagsbedingungen geprüft. Ein Forschungsteam aus Großbritannien und Kenia hat das jetzt in 16 Hausarztpraxen in Kenia getestet. In die Patientenakte-Software wurde ein KI-Assistent eingebaut, der den Behandelnden während der Sprechstunde Vorschläge machte, passend zu den kenianischen Behandlungsleitlinien. Per Los wurde festgelegt, welche Ärzte mit und welche ohne diesen Assistenten arbeiteten. Insgesamt wurden mehr als 9.600 Patienten einbezogen. Unabhängige Fachleute, die nicht wussten, wer mit KI gearbeitet hatte, bewerteten die Dokumentation und die Behandlungspläne mit KI-Hilfe als deutlich besser. Bei den Patienten selbst zeigte sich aber kein klarer Unterschied: Bei 2,2 Prozent der Patienten mit KI-Unterstützung und bei 2,0 Prozent ohne schlug die Behandlung innerhalb von zwei Wochen nicht an. Schaden entstand durch den Assistenten nicht, und die Kosten für Antibiotika waren in der KI-Gruppe niedriger.",
+  "why": "Die Studie zeigt, dass ein KI-Assistent in der Praxis sicher eingesetzt werden kann und die Qualität der Arbeit verbessert. Dass es Patienten dadurch schnell messbar besser geht, ist damit aber nicht belegt.",
+  "caveat": "Schwere Verläufe wie Klinikeinweisungen oder Todesfälle sind in Hausarztpraxen selten, deshalb bräuchte man für einen kleinen Vorteil womöglich über 100.000 Patienten. Beobachtet wurden nur die ersten 14 Tage. Ob das Ergebnis auf reiche Länder mit ohnehin guter Versorgung übertragbar ist, ist offen."
+ },
+ "en": {
+  "title": "AI assistant in Kenyan clinics: better treatment planning, but no measurable difference in patient outcomes",
+  "summary": "More and more doctors are trying AI language programs that are meant to help with diagnosis and treatment. Whether this really benefits patients has rarely been tested in everyday conditions. A research team from the UK and Kenya has now tested it in 16 primary care clinics in Kenya. An AI assistant was built into the patient-record software and made suggestions during consultations, matched to Kenyan treatment guidelines. Which doctors worked with the assistant and which without was decided by lot. More than 9,600 patients took part. Independent experts who did not know who had used the AI rated the records and treatment plans written with AI help as clearly better. For the patients themselves there was no clear difference: treatment did not work within two weeks for 2.2 percent with AI support and 2.0 percent without. The assistant did no harm, and antibiotic costs were lower in the AI group.",
+  "why": "The study shows that an AI assistant can be used safely in practice and improves the quality of work. It does not prove that patients get better faster as a result.",
+  "caveat": "Serious outcomes such as hospital stays or deaths are rare in primary care, so spotting a small benefit might need over 100,000 patients. Only the first 14 days were observed. Whether the result carries over to wealthy countries with already good care is unknown."
+ },
+ "ru": {
+  "title": "ИИ-помощник в клиниках Кении: лучше планирование лечения, но результаты у пациентов заметно не изменились",
+  "summary": "Всё больше врачей пробуют языковые программы ИИ, которые должны помогать с диагнозом и лечением. Но приносит ли это пациентам реальную пользу, в обычных условиях почти не проверяли. Группа исследователей из Великобритании и Кении проверила это в 16 поликлиниках Кении. В программу медицинских карт встроили ИИ-помощника, который во время приёма подсказывал врачу решения в соответствии с кенийскими рекомендациями по лечению. Кто из врачей работает с помощником, а кто без него, определяли жребием. В исследовании участвовали более 9600 пациентов. Независимые эксперты, не знавшие, кто пользовался ИИ, оценили записи и планы лечения с помощью ИИ как заметно лучшие. А у самих пациентов явной разницы не было: лечение не помогло в течение двух недель у 2,2 процента пациентов с ИИ и у 2,0 процента без него. Вреда помощник не причинил, а расходы на антибиотики в группе с ИИ были ниже.",
+  "why": "Исследование показывает, что ИИ-помощника можно безопасно использовать на практике, и он улучшает качество работы. Но то, что пациентам от этого быстро становится лучше, оно не доказывает.",
+  "caveat": "Тяжёлые исходы, такие как госпитализации или смерть, в поликлиниках редки, поэтому для небольшого эффекта могло бы понадобиться более 100 000 пациентов. Наблюдали только первые 14 дней. Применим ли результат к богатым странам с уже хорошей медициной, неизвестно."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04503-6/MediaObjects/41591_2026_4503_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Nature Medicine",
+  "link": "https://www.nature.com/articles/s41591-026-04503-6"
+ }
+}

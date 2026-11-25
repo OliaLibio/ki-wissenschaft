@@ -1,0 +1,49 @@
+{
+ "id": "2026-11-25-chatbot-gesundheitswissen-simulation",
+ "date": "2026-11-25",
+ "published": "2026-10-05",
+ "category": "gesundheit",
+ "countries": [
+  "US"
+ ],
+ "institution": "George Mason University",
+ "maturity": "lab",
+ "source": {
+  "name": "JMIR AI",
+  "url": "https://ai.jmir.org/2026/1/e100772"
+ },
+ "more": [
+  {
+   "name": "DOI 10.2196/100772",
+   "url": "https://doi.org/10.2196/100772"
+  },
+  {
+   "name": "Pressemitteilung (EurekAlert)",
+   "url": "https://www.eurekalert.org/news-releases/1153058"
+  }
+ ],
+ "de": {
+  "title": "KI-Gesundheitsassistent versteht Menschen schlechter, die sich umgangssprachlich ausdrücken",
+  "summary": "Chatprogramme, die Patienten Fragen stellen und bei der Wahl eines Medikaments helfen sollen, werden meist nur mit Musteraufgaben getestet. Im echten Leben reden Menschen aber sehr unterschiedlich: Manche benutzen genaue Fachbegriffe, andere beschreiben ihre Beschwerden vage und in Alltagswörtern. Forschende aus den USA haben deshalb Fantasie-Patienten am Computer erzeugt, die auf echten, anonymisierten Krankenakten beruhen und sich unterschiedlich gut mit Gesundheitsthemen auskennen. Mit ihnen wurden 500 Gespräche mit einem KI-Hilfsprogramm für die Wahl eines Antidepressivums geführt. Je geringer das Gesundheitswissen der Fantasie-Patienten, desto schlechter erkannte das Programm, was gemeint war: Bei Patienten mit geringem Gesundheitswissen verstand es nur knapp die Hälfte der Angaben richtig, bei gut informierten etwa vier von fünf. Ein Programm kann also im Durchschnitt gut abschneiden und trotzdem gerade die Menschen schlechter bedienen, die Hilfe besonders brauchen.",
+  "why": "Wenn du einen KI-Gesundheitshelfer nutzt, kann es sich lohnen, deine Beschwerden möglichst genau zu beschreiben und wichtige Angaben nachzuprüfen. Die Studie ist vor allem eine Mahnung an die Entwickler, ihre Programme an unterschiedlichen Sprechweisen zu testen.",
+  "caveat": "Es waren keine echten Patienten, sondern vom Computer gespielte. Getestet wurde ein einziges Hilfsprogramm für ein einziges Thema. Eine verlässliche Lösung für das Problem gibt es noch nicht."
+ },
+ "en": {
+  "title": "AI health assistant understands people worse when they speak in everyday language",
+  "summary": "Chat programs that ask patients questions and help choose a medicine are usually tested only with standard tasks. In real life, though, people speak very differently: some use exact medical terms, others describe symptoms vaguely in everyday words. Researchers in the USA therefore created make-believe patients on the computer, based on real, anonymised health records and differing in how much they know about health. With them they held 500 conversations with an AI tool that helps choose an antidepressant. The less the make-believe patients knew about health, the worse the tool recognised what they meant: for patients with low health knowledge it understood only about half of the details correctly, for well-informed ones about four in five. A program can therefore do well on average and still serve worst the people who need help most.",
+  "why": "If you use an AI health helper, it can pay to describe your symptoms as precisely as you can and to double-check important details. The study is mainly a reminder to developers to test their programs with different ways of speaking.",
+  "caveat": "These were not real patients but computer-played ones. Only one tool was tested, for one topic. There is no reliable fix for the problem yet."
+ },
+ "ru": {
+  "title": "ИИ-помощник по здоровью хуже понимает людей, которые говорят простыми словами",
+  "summary": "Чат-программы, которые задают пациентам вопросы и помогают выбрать лекарство, обычно проверяют только на типовых заданиях. В жизни люди говорят очень по-разному: одни используют точные медицинские термины, другие описывают жалобы расплывчато и обычными словами. Поэтому исследователи из США создали на компьютере выдуманных пациентов на основе настоящих обезличенных медицинских карт, отличающихся тем, насколько они разбираются в здоровье. С ними провели 500 разговоров с ИИ-программой, помогающей выбрать антидепрессант. Чем меньше выдуманные пациенты разбирались в здоровье, тем хуже программа понимала, что они имеют в виду: у пациентов с низкими знаниями она правильно поняла лишь около половины сведений, у хорошо информированных — примерно четыре из пяти. Программа может в среднем работать хорошо и всё же хуже всего обслуживать тех, кому помощь нужнее всего.",
+  "why": "Если вы пользуетесь ИИ-помощником по здоровью, стоит описывать симптомы как можно точнее и перепроверять важные детали. Исследование — прежде всего напоминание разработчикам проверять свои программы на разных манерах речи.",
+  "caveat": "Это были не настоящие пациенты, а сыгранные компьютером. Проверили одну программу по одной теме. Надёжного решения проблемы пока нет."
+ },
+ "image": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Middle-aged_female_doctor_talking_to_a_patient_during_a_video_consultation_at_home_in_a_cozy_setting.jpg/960px-Middle-aged_female_doctor_talking_to_a_patient_during_a_video_consultation_at_home_in_a_cozy_setting.jpg",
+  "kind": "photo",
+  "credit": "Foto: Shixart1985, CC BY 2.0, Wikimedia Commons",
+  "link": "https://commons.wikimedia.org/wiki/File:Middle-aged_female_doctor_talking_to_a_patient_during_a_video_consultation_at_home_in_a_cozy_setting.jpg"
+ }
+}
