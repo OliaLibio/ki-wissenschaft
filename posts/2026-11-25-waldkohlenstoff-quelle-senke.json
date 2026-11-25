@@ -1,0 +1,39 @@
+{
+ "published": "2026-07-30",
+ "countries": [
+  "DE"
+ ],
+ "institution": "Technische Universität München / Potsdam-Institut für Klimafolgenforschung",
+ "maturity": "study",
+ "source": {
+  "name": "Nature Communications",
+  "url": "https://www.nature.com/articles/s41467-026-76093-3"
+ },
+ "de": {
+  "title": "KI und Satelliten zeigen: Tropen- und Nordwälder speichern seit etwa 2000 immer weniger Kohlenstoff",
+  "summary": "Wälder nehmen Kohlenstoff aus der Luft auf und bremsen so die Erwärmung. Aber wie sich dieser Speicher über die Jahrzehnte entwickelt hat, war bisher unsicher, weil keine einzelne Satellitenmessung so weit zurückreicht. Ein Team aus Deutschland hat deshalb Daten vieler verschiedener Satelliten mit einem lernenden Computerprogramm verbunden, das auch angibt, wie sicher seine Schätzung ist. So entstand eine einheitliche Weltkarte des in Bäumen gespeicherten Kohlenstoffs für die Jahre 1988 bis 2021. Das Ergebnis: Die feuchten Tropenwälder und die nördlichen Nadelwälder haben sich seit Anfang der 2000er Jahre Schritt für Schritt von Kohlenstoffspeichern zu Kohlenstoffquellen entwickelt. Im brasilianischen Amazonasgebiet stammten die jährlichen Schwankungen der Verluste in den 1990ern zu einem Drittel aus unberührtem Wald, in den 2010ern schon zu gut drei Vierteln.",
+  "why": "Wir rechnen oft damit, dass Wälder uns einen Teil der Abgase abnehmen. Die Studie zeigt, dass dieser Puffer in wichtigen Regionen schwächer wird, und liefert einen Maßstab, an dem man künftige Veränderungen messen kann.",
+  "caveat": "Die Karte ist grob, ein Feld misst etwa 25 mal 25 Kilometer, und sie beruht auf Schätzungen aus Satellitendaten, nicht auf Messungen jedes einzelnen Baumes. Sie endet im Jahr 2021."
+ },
+ "en": {
+  "title": "AI and satellites show tropical and northern forests have stored less and less carbon since about 2000",
+  "summary": "Forests take carbon out of the air and so slow warming. But how this store has changed over the decades was uncertain, because no single satellite measurement goes back that far. A team from Germany therefore combined data from many different satellites with a learning computer program that also states how certain its estimate is. The result is one consistent world map of the carbon stored in trees for the years 1988 to 2021. The finding: since the early 2000s, the moist tropical forests and the northern conifer forests have step by step turned from carbon stores into carbon sources. In the Brazilian Amazon, year-to-year swings in losses came about one third from untouched forest in the 1990s, but by the 2010s more than three quarters.",
+  "why": "We often count on forests to take up part of our emissions. The study shows this buffer is weakening in important regions, and gives a yardstick against which future changes can be measured.",
+  "caveat": "The map is coarse, with each cell about 25 by 25 kilometres, and it rests on estimates from satellite data, not on measuring each tree. It ends in 2021."
+ },
+ "ru": {
+  "title": "ИИ и спутники показывают: тропические и северные леса примерно с 2000 года хранят всё меньше углерода",
+  "summary": "Леса забирают углерод из воздуха и тем замедляют потепление. Но как это хранилище менялось за десятилетия, было неясно, потому что ни одно спутниковое измерение не уходит так далеко в прошлое. Поэтому команда из Германии объединила данные многих спутников с обучающейся компьютерной программой, которая ещё и указывает, насколько надёжна её оценка. Так получилась единая карта мира с углеродом, запасённым в деревьях, за 1988–2021 годы. Результат: с начала 2000-х влажные тропические леса и северные хвойные леса шаг за шагом превратились из хранилищ углерода в его источники. В бразильской Амазонии годовые колебания потерь в 1990-е примерно на треть шли за счёт нетронутого леса, а в 2010-е уже больше чем на три четверти.",
+  "why": "Мы часто рассчитываем, что леса поглотят часть наших выбросов. Исследование показывает, что этот буфер в важных регионах слабеет, и даёт мерку, по которой можно измерять будущие изменения.",
+  "caveat": "Карта грубая: одна ячейка — примерно 25 на 25 километров, и она основана на оценках по спутниковым данным, а не на измерении каждого дерева. Данные заканчиваются 2021 годом."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-76093-3/MediaObjects/41467_2026_76093_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Nature Communications",
+  "link": "https://www.nature.com/articles/s41467-026-76093-3"
+ },
+ "id": "2026-11-25-waldkohlenstoff-quelle-senke",
+ "date": "2026-11-25",
+ "category": "klima"
+}

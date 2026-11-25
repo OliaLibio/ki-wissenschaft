@@ -1,0 +1,39 @@
+{
+ "published": "2026-09-17",
+ "countries": [
+  "INT"
+ ],
+ "institution": "Tsinghua-Universität, Universität Lüttich, INRAE und weitere",
+ "maturity": "study",
+ "source": {
+  "name": "Nature Communications",
+  "url": "https://www.nature.com/articles/s41467-026-77531-y"
+ },
+ "de": {
+  "title": "KI-Karten zeigen: Zentralafrikas Wälder verlieren mehr Kohlenstoff, als sie gewinnen, vor allem im Kongo",
+  "summary": "Im Regenwald Zentralafrikas steckt sehr viel Kohlenstoff. Weil dort oft nur kleine Flecken Wald verloren gehen, etwa durch Holzeinschlag oder Felder, sind sie auf Satellitenbildern schwer zu erkennen. Ein internationales Team hat deshalb ein lernendes Programm mit Laserhöhenmessungen aus dem All und Bildern zweier Satelliten trainiert. Es zeichnet Karten der Baumhöhe, die jedes Stück von zehn mal zehn Metern zeigen, und daraus, wie sich der Kohlenstoff in den Bäumen zwischen 2019 und 2022 verändert hat. Fast neun von zehn Störungen waren kleiner als ein Hektar, also kleiner als etwa eineinhalb Fußballfelder. Unterm Strich verlor der Wald Kohlenstoff: Der Verlust war fast doppelt so groß wie der Zuwachs in nachwachsendem Wald. Besonders betroffen war die Demokratische Republik Kongo, auf die rund vier Fünftel des Nettoverlusts entfielen, vor allem durch geschädigte, aber nicht komplett gerodete Wälder.",
+  "why": "Wer Wälder schützen oder Klimabilanzen von Ländern prüfen will, muss wissen, wo und wie viel Wald verloren geht. Solche genauen Karten machen das auch für schwer zugängliche Regionen möglich.",
+  "caveat": "Die Karten decken nur vier Jahre ab, und die Kohlenstoffmengen sind Schätzungen mit Unsicherheit. Sie stimmen aber im Großen und Ganzen mit den Angaben der Länder überein."
+ },
+ "en": {
+  "title": "AI maps show Central Africa's forests lose more carbon than they gain, mostly in Congo",
+  "summary": "The rainforest of Central Africa holds a great deal of carbon. Because often only small patches of forest are lost there, for example to logging or fields, they are hard to spot on satellite images. An international team therefore trained a learning program with laser height measurements from space and images from two satellites. It draws maps of tree height showing every ten-by-ten-metre square, and from them how the carbon in the trees changed between 2019 and 2022. Almost nine out of ten disturbances were smaller than one hectare, about one and a half football pitches. On balance the forest lost carbon: the losses were almost twice the gains in regrowing forest. The Democratic Republic of the Congo was hit hardest, with about four fifths of the net loss, mainly from damaged but not completely cleared forest.",
+  "why": "Anyone who wants to protect forests or check countries' climate accounts needs to know where and how much forest is lost. Such precise maps make that possible even in hard-to-reach regions.",
+  "caveat": "The maps cover only four years, and the carbon amounts are estimates with uncertainty. They do roughly agree with the figures reported by the countries."
+ },
+ "ru": {
+  "title": "Карты на основе ИИ: леса Центральной Африки теряют больше углерода, чем накапливают, в основном в Конго",
+  "summary": "В тропических лесах Центральной Африки хранится очень много углерода. Поскольку там часто пропадают лишь небольшие участки леса, например из-за вырубки или полей, их трудно заметить на спутниковых снимках. Поэтому международная команда обучила программу лазерными измерениями высоты из космоса и снимками двух спутников. Она рисует карты высоты деревьев с участками десять на десять метров и по ним определяет, как менялся углерод в деревьях в 2019–2022 годах. Почти девять из десяти нарушений оказались меньше одного гектара, то есть меньше полутора футбольных полей. В итоге лес терял углерод: потери были почти вдвое больше прироста в восстанавливающемся лесу. Сильнее всего пострадала Демократическая Республика Конго, на неё пришлось около четырёх пятых чистых потерь, главным образом из-за повреждённых, но не полностью вырубленных лесов.",
+  "why": "Тому, кто хочет защищать леса или проверять климатическую отчётность стран, нужно знать, где и сколько леса теряется. Такие точные карты делают это возможным и в труднодоступных регионах.",
+  "caveat": "Карты охватывают только четыре года, а количества углерода — это оценки с погрешностью. В целом они согласуются с данными самих стран."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-77531-y/MediaObjects/41467_2026_77531_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Nature Communications",
+  "link": "https://www.nature.com/articles/s41467-026-77531-y"
+ },
+ "id": "2026-11-25-kongo-waldkohlenstoff-karten",
+ "date": "2026-11-25",
+ "category": "klima"
+}

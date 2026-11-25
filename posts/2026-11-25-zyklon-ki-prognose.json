@@ -1,0 +1,40 @@
+{
+ "published": "2026-08-06",
+ "countries": [
+  "US",
+  "GB"
+ ],
+ "institution": "Google DeepMind / Google Research mit US-Hurrikanzentrum, Colorado State University, UK Met Office",
+ "maturity": "deployed",
+ "source": {
+  "name": "Nature",
+  "url": "https://www.nature.com/articles/s41586-026-10953-2"
+ },
+ "de": {
+  "title": "KI sagt Wirbelstürme etwa einen Tag früher so genau voraus wie die besten bisherigen Wettermodelle",
+  "summary": "Tropische Wirbelstürme sind schwer vorherzusagen: Wohin sie ziehen, wie stark sie werden und wie weit ihre Sturmwinde reichen, hängt von sehr vielen Faktoren ab. Ein Team von Google mit Fachleuten des US-Hurrikanzentrums, einer US-Universität und des britischen Wetterdienstes hat dafür eine KI trainiert. Sie lernte aus Wetterdaten der ganzen Welt und aus Aufzeichnungen früherer Wirbelstürme. Statt einer einzigen Vorhersage rechnet sie sehr viele mögliche Verläufe durch, bis zu 15 Tage voraus. Als die Forschenden sie an Stürmen der Jahre 2023 bis 2025 prüften, lag ihre Vorhersage von Zugbahn, Stärke und Größe im Schnitt einen Tag oder mehr vor den führenden Wettermodellen, das heißt: Was die anderen erst zwei Tage vorher gut trafen, traf sie schon drei Tage vorher. Überraschend: Die KI bekam nur recht grobe Wetterdaten und kam trotzdem auf gute Stärkevorhersagen.",
+  "why": "Ein Tag mehr Vorwarnzeit kann bei einem Sturm entscheiden, ob eine Küstenregion rechtzeitig geräumt wird. Die Studie zeigt auch, dass für gute Sturmvorhersagen nicht immer die feinsten Daten nötig sind.",
+  "caveat": "Geprüft wurde an Stürmen der Vergangenheit; die Forschenden selbst sagen, dass sie noch nicht genau verstehen, warum grobe Daten ausreichen. Es handelt sich um eine Studie von Google selbst. Offizielle Warnungen kommen weiterhin von den staatlichen Wetterdiensten."
+ },
+ "en": {
+  "title": "AI predicts hurricanes about a day earlier than the best previous weather models can at the same accuracy",
+  "summary": "Tropical cyclones are hard to forecast: where they go, how strong they get and how far their winds reach depends on a great many factors. A Google team, together with experts from the US National Hurricane Center, a US university and the UK Met Office, trained an AI for this. It learned from weather data of the whole world and from records of past storms. Instead of one forecast, it calculates a very large number of possible developments, up to 15 days ahead. When the researchers tested it on storms from 2023 to 2025, its forecasts of track, strength and size were on average a day or more ahead of the leading weather models. In other words, what the others got right only two days before, it got right three days before. Surprisingly, the AI was given only fairly coarse weather data and still forecast storm strength well.",
+  "why": "One more day of warning can decide whether a coastal region is evacuated in time. The study also shows that good storm forecasts do not always need the finest data.",
+  "caveat": "It was tested on past storms, and the researchers themselves say they do not yet fully understand why coarse data are enough. The study comes from Google itself. Official warnings still come from national weather services."
+ },
+ "ru": {
+  "title": "ИИ предсказывает ураганы примерно на день раньше, чем лучшие прежние модели погоды при той же точности",
+  "summary": "Тропические циклоны трудно прогнозировать: куда они двинутся, насколько усилятся и как далеко достанет ветер, зависит от множества факторов. Команда Google вместе со специалистами Национального центра ураганов США, одного американского университета и британской метеослужбы обучила для этого ИИ. Он учился на данных о погоде со всего мира и на записях прошлых бурь. Вместо одного прогноза он просчитывает очень много возможных вариантов развития на срок до 15 дней. Когда исследователи проверили его на бурях 2023–2025 годов, его прогнозы траектории, силы и размера в среднем опережали ведущие модели погоды на день и больше: то, что другие хорошо угадывали за два дня, он угадывал уже за три. Неожиданно, что ИИ получал лишь довольно грубые данные о погоде и всё равно хорошо предсказывал силу бури.",
+  "why": "Лишний день на предупреждение может решить, успеют ли эвакуировать прибрежный регион. Исследование также показывает, что для хороших прогнозов бурь не всегда нужны самые подробные данные.",
+  "caveat": "Проверка шла на прошлых бурях, и сами исследователи говорят, что пока не до конца понимают, почему хватает грубых данных. Исследование сделано самой компанией Google. Официальные предупреждения по-прежнему выдают государственные метеослужбы."
+ },
+ "image": {
+  "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10953-2/MediaObjects/41586_2026_10953_Fig1_HTML.png",
+  "kind": "figure",
+  "credit": "Abbildung 1 der Studie, Nature",
+  "link": "https://www.nature.com/articles/s41586-026-10953-2"
+ },
+ "id": "2026-11-25-zyklon-ki-prognose",
+ "date": "2026-11-25",
+ "category": "klima"
+}
