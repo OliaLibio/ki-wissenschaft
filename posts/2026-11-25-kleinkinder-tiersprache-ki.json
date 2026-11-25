@@ -1,0 +1,47 @@
+{
+ "published": "2026-08-17",
+ "countries": [
+  "IL",
+  "GB",
+  "DE"
+ ],
+ "institution": "Tel Aviv University",
+ "maturity": "study",
+ "source": {
+  "name": "Tel Aviv University via EurekAlert",
+  "url": "https://www.eurekalert.org/news-releases/1144253"
+ },
+ "more": [
+  {
+   "name": "Current Biology (Hebräische Universität)",
+   "url": "https://cris.huji.ac.il/en/publications/the-challenge-of-decoding-animal-communication-using-ai/"
+  }
+ ],
+ "de": {
+  "title": "Warum KI Tiersprache nicht einfach „übersetzen“ kann: Test mit Kleinkindlauten",
+  "summary": "Immer wieder heißt es, KI werde bald verstehen, was Tiere einander sagen. Meist sortiert sie dafür Tierlaute danach, wie ähnlich sie klingen. Aber stimmt es, dass ähnlich klingende Laute auch dasselbe bedeuten? Forschende aus Israel, Großbritannien und Deutschland prüften das an Lauten von Kleinkindern, deren Bedeutung wir Menschen teilweise verstehen. Die Laute stammten aus drei Lagen: Unwohlsein, Rufen nach Mutter oder Vater und Betteln um Essen. Drei Verfahren sollten die Laute ordnen, eine klassische Klanganalyse und zwei lernende KI-Modelle, eines mit Tierlauten und eines mit Erwachsenensprache trainiert. Die KI-Modelle waren besser als die klassische Methode, trotzdem warfen sie Laute mit verschiedener Bedeutung zusammen und trennten Laute mit gleicher Absicht. Auch dass ein Rufen immer dringlicher wurde, was Zuhörende sofort merken, erkannten sie nicht.",
+  "why": "Wenn Schlagzeilen versprechen, KI könne bald Wal- oder Vogelsprache übersetzen, lohnt Vorsicht. Klang allein verrät noch nicht, was ein Tier meint. Man muss auch beobachten, wie Artgenossen darauf reagieren.",
+  "caveat": "Es ist ein kurzer Fachbeitrag mit einem kleinen Datensatz, die Pressemitteilung nennt keine Zahl der Kinder oder Aufnahmen. Kleinkinder sind keine Tiere, die Übertragung auf Tierarten ist also ein Gedankenexperiment. Der Beitrag zeigt Grenzen, ersetzt aber keine Studien an Tieren."
+ },
+ "en": {
+  "title": "Why AI cannot simply \"translate\" animal language: a test with toddler sounds",
+  "summary": "Again and again we hear that AI will soon understand what animals tell each other. Usually it sorts animal sounds by how alike they sound. But do similar-sounding calls really mean the same thing? Researchers from Israel, the United Kingdom and Germany tested this with sounds made by toddlers, whose meaning we humans partly understand. The sounds came from three situations: discomfort, calling for mum or dad, and begging for food. Three methods were asked to sort them: a classical sound analysis and two learning AI models, one trained on animal calls and one on adult speech. The AI models beat the classical method, but still lumped together sounds with different meanings and separated sounds with the same purpose. They also failed to notice a call growing more urgent, which human listeners spot at once.",
+  "why": "When headlines promise that AI will soon translate whale or bird language, caution is wise. Sound alone does not reveal what an animal means. You also have to watch how other animals react to it.",
+  "caveat": "This is a short expert article with a small dataset, and the press release gives no number of children or recordings. Toddlers are not animals, so applying it to animal species is a thought experiment. The work shows limits but does not replace studies on animals."
+ },
+ "ru": {
+  "title": "Почему ИИ не может просто «перевести» язык животных: опыт со звуками малышей",
+  "summary": "Нам снова и снова говорят, что ИИ скоро поймёт, о чём животные говорят друг с другом. Обычно он сортирует звуки животных по тому, насколько они похожи. Но означают ли похожие по звучанию сигналы одно и то же? Исследователи из Израиля, Великобритании и Германии проверили это на звуках малышей, смысл которых мы, люди, отчасти понимаем. Звуки были из трёх ситуаций: дискомфорт, зов мамы или папы и выпрашивание еды. Упорядочить их должны были три метода: классический анализ звука и две обучаемые модели ИИ, одна на звуках животных, другая на речи взрослых. Модели ИИ оказались лучше классического метода, но всё равно объединяли звуки с разным смыслом и разделяли звуки с одной целью. Они также не заметили, что зов становится всё настойчивее, а слушатели-люди это замечают сразу.",
+  "why": "Когда заголовки обещают, что ИИ скоро переведёт язык китов или птиц, стоит быть осторожным. Одного звука недостаточно, чтобы понять, что имеет в виду животное. Нужно ещё наблюдать, как на него реагируют сородичи.",
+  "caveat": "Это короткая научная статья с небольшим набором данных, в пресс-релизе не указано число детей и записей. Малыши — не животные, поэтому перенос на виды животных остаётся мысленным экспериментом. Работа показывает пределы, но не заменяет исследования на животных."
+ },
+ "image": {
+  "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/cd2ef8ca-54b2-4306-9ea3-10cdb5b91771/Rendition/low-res/Content/Public",
+  "kind": "press",
+  "credit": "Bild: Tel Aviv University (EurekAlert)",
+  "link": "https://www.eurekalert.org/news-releases/1144253"
+ },
+ "id": "2026-11-25-kleinkinder-tiersprache-ki",
+ "date": "2026-11-25",
+ "category": "tiere"
+}

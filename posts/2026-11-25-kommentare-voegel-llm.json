@@ -1,0 +1,45 @@
+{
+ "published": "2026-10-08",
+ "countries": [
+  "US"
+ ],
+ "institution": "University of Michigan",
+ "maturity": "study",
+ "source": {
+  "name": "PNAS (DOI 10.1073/pnas.2602244123)",
+  "url": "https://doi.org/10.1073/pnas.2602244123"
+ },
+ "more": [
+  {
+   "name": "Bericht bei Earth.com",
+   "url": "https://www.earth.com/science/ai-reveals-hidden-wildlife-relationships-in-millions-of-birdwatching-records/"
+  }
+ ],
+ "de": {
+  "title": "Sprach-KI liest Kommentare von Vogelbeobachtern und findet Tierbeziehungen, die in keiner Datenbank stehen",
+  "summary": "Hobby-Vogelbeobachter tragen ihre Sichtungen in Online-Portale ein und schreiben oft einen kurzen Kommentar dazu, etwa „Meise jagt Spatz vom Futterhaus“. In diesen Kommentaren steckt Wissen darüber, wer mit wem zu tun hat, aber niemand kann Millionen Texte von Hand lesen. Forschende aus den USA ließen deshalb eine Sprach-KI, also ein Programm, das Texte versteht und sortiert, die Kommentare aus Vogelmeldungen durchsehen und die heraussuchen, in denen zwei Arten aufeinandertreffen. Die KI erledigte das in Minuten statt in Stunden und bildete dabei Beziehungen ab, die in bekannten Datenbanken fehlten. In einem zweiten Versuch wertete das Team Kommentare zu einem Schmetterling aus und fand Pflanzen, die in einer bekannten Datenbank für diesen Falter noch nicht standen.",
+  "why": "Sichtungen von Hobby-Beobachtern sind ein riesiger Schatz, der bisher kaum genutzt wurde. Mit Hilfe der KI können Forschende daraus lernen, welche Tiere und Pflanzen aufeinander angewiesen sind, und das ist wichtig, um Artenschutz besser zu planen.",
+  "caveat": "Die KI übersah einen Teil der Kommentare mit Tierbegegnungen und machte Fehler, die Menschen korrigieren mussten. Getestet wurde nur an Vögeln und an einem Schmetterling. Wenn ein Falter eine Blume besucht, heißt das noch nicht, dass er sie auch bestäubt. Die genauen Zahlen der Studie konnten hier nicht aus dem Originaltext geprüft werden, deshalb stehen sie nicht im Beitrag."
+ },
+ "en": {
+  "title": "Language AI reads birdwatchers' comments and finds animal relationships missing from every database",
+  "summary": "Hobby birdwatchers log their sightings on online portals and often add a short comment, such as \"chickadee chases sparrow off the feeder\". Those comments hold knowledge about who interacts with whom, but nobody can read millions of texts by hand. So researchers in the US had a language AI, a program that understands and sorts text, go through the comments in bird reports and pick out those in which two species meet. The AI did this in minutes instead of hours and mapped relationships that were missing from well-known databases. In a second test the team analysed comments about a butterfly and found plants that a well-known database did not yet list for it.",
+  "why": "Sightings from hobby observers are a huge treasure that has hardly been used. With the help of AI, researchers can learn which animals and plants depend on each other, which matters for planning nature conservation better.",
+  "caveat": "The AI missed some comments describing animal encounters and made mistakes that people had to correct. It was tested only on birds and one butterfly. A butterfly visiting a flower does not mean it pollinates it. The exact numbers could not be checked against the original paper here, so they are not given."
+ },
+ "ru": {
+  "title": "Языковой ИИ читает комментарии наблюдателей за птицами и находит связи между видами, которых нет ни в одной базе",
+  "summary": "Любители наблюдать за птицами вносят свои наблюдения в онлайн-порталы и часто добавляют короткий комментарий, например «синица прогоняет воробья от кормушки». В таких комментариях есть знания о том, кто с кем взаимодействует, но миллионы текстов вручную никто не прочитает. Поэтому исследователи из США поручили языковой ИИ, то есть программе, которая понимает и сортирует тексты, просмотреть комментарии к сообщениям о птицах и отобрать те, где встречаются два вида. ИИ справился за минуты вместо часов и показал связи, которых не было в известных базах данных. Во втором опыте команда разобрала комментарии о бабочке и нашла растения, которых в известной базе для неё ещё не было.",
+  "why": "Наблюдения любителей — огромное богатство, которое почти не использовалось. С помощью ИИ учёные могут узнавать, какие животные и растения зависят друг от друга, а это важно для лучшего планирования охраны природы.",
+  "caveat": "ИИ пропустил часть комментариев со встречами животных и делал ошибки, которые приходилось исправлять людям. Проверяли только на птицах и одной бабочке. Если бабочка садится на цветок, это ещё не значит, что она его опыляет. Точные цифры исследования здесь нельзя было сверить с оригинальным текстом, поэтому в тексте их нет."
+ },
+ "image": {
+  "src": "https://www.earth.com/assets/_next/image/?url=%2Fimg%2F16x9%2F1920%2Fmedia-2026%2F2026%2F10%2F12102215%2Fbohemian-waxwing-bird_1m.jpg&w=1920&q=75",
+  "kind": "press",
+  "credit": "Bild: Earth.com (Shutterstock)",
+  "link": "https://www.earth.com/science/ai-reveals-hidden-wildlife-relationships-in-millions-of-birdwatching-records/"
+ },
+ "id": "2026-11-25-kommentare-voegel-llm",
+ "date": "2026-11-25",
+ "category": "tiere"
+}

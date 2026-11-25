@@ -1,0 +1,45 @@
+{
+ "published": "2026-09-28",
+ "countries": [
+  "GB"
+ ],
+ "institution": "University of Kent",
+ "maturity": "study",
+ "source": {
+  "name": "University of Kent, Pressemitteilung",
+  "url": "https://www.kent.ac.uk/news/cyber-security-digital-technology-and-communication/38489/ai-platforms-offer-promise-in-limiting-the-illegal-wildlife-trade"
+ },
+ "more": [
+  {
+   "name": "Conservation Biology (DOI)",
+   "url": "https://doi.org/10.1111/cobi.70400"
+  }
+ ],
+ "de": {
+  "title": "KI-Chatbots helfen seltener beim illegalen Tierhandel als eine Google-Suche, schützen aber nicht alle Arten gleich gut",
+  "summary": "Der Handel mit geschützten Tieren und Pflanzen läuft zunehmend im Internet. Forschende aus Großbritannien wollten wissen, ob KI-Chatbots dabei zum Helfer werden. Sie stellten verschiedenen Chatbots Fragen, mit denen man Anbieter bedrohter Arten finden könnte, und verglichen die Antworten mit einer normalen Google-Suche. Sie probierten auch aus, ob sich die eingebauten Sperren mit geschickten Formulierungen umgehen lassen. Insgesamt schnitten die Chatbots besser ab als Google: Sie halfen seltener beim möglicherweise illegalen Kauf, und manche erklärten dazu, was rechtlich erlaubt ist. Am besten war Gemini, dicht gefolgt von DeepSeek, Grok und ChatGPT. Der Schutz war aber ungleich verteilt: Bei Menschenaffen, Tigern und Plumploris war er stark, bei Korallen, Vogelspinnen und Orchideen deutlich schwächer.",
+  "why": "Wer im Netz nach Tieren oder Pflanzen sucht, trifft immer häufiger auf KI-Antworten. Die Studie zeigt, dass diese schon etwas bremsen können, dass aber weniger bekannte Arten leicht durchs Raster fallen.",
+  "caveat": "Die Pressemitteilung nennt keine genauen Zahlen, deshalb lässt sich die Rangfolge der Chatbots nicht genau beurteilen. Keine Plattform war unfehlbar: Eine Umgehungsfrage führte zu Links auf Seiten, die möglicherweise mit illegalen Tieren handeln. Chatbots ändern sich zudem ständig, die Ergebnisse können schnell veraltet sein."
+ },
+ "en": {
+  "title": "AI chatbots help less with illegal wildlife trade than a Google search, but protect some species better than others",
+  "summary": "Trade in protected animals and plants increasingly happens online. Researchers in the United Kingdom wanted to know whether AI chatbots end up helping the traders. They asked several chatbots questions that could be used to find sellers of threatened species and compared the answers with an ordinary Google search. They also tried whether the built-in safeguards can be bypassed with cleverly worded requests. Overall the chatbots did better than Google: they were less likely to help with a possibly illegal purchase, and some added information on what is legal. Gemini did best, closely followed by DeepSeek, Grok and ChatGPT. Protection was uneven, though: strong for great apes, tigers and slow lorises, clearly weaker for corals, tarantulas and orchids.",
+  "why": "Anyone searching online for animals or plants increasingly meets AI answers. The study shows they can already slow things down a little, but lesser-known species slip through easily.",
+  "caveat": "The press release gives no exact figures, so the ranking of the chatbots cannot be judged precisely. No platform was foolproof: one workaround request led to links to sites that may trade illegal wildlife. Chatbots also change constantly, so the results can quickly become outdated."
+ },
+ "ru": {
+  "title": "ИИ-чатботы реже помогают нелегальной торговле дикими животными, чем поиск Google, но защищают не все виды одинаково",
+  "summary": "Торговля охраняемыми животными и растениями всё чаще идёт через интернет. Исследователи из Великобритании хотели узнать, не становятся ли ИИ-чатботы помощниками торговцев. Они задавали нескольким чатботам вопросы, с помощью которых можно найти продавцов исчезающих видов, и сравнивали ответы с обычным поиском Google. Они также проверяли, можно ли обойти встроенные ограничения хитро сформулированными запросами. В целом чатботы справились лучше Google: реже помогали с возможно незаконной покупкой, а некоторые добавляли сведения о том, что разрешено законом. Лучше всех был Gemini, за ним почти вплотную DeepSeek, Grok и ChatGPT. Но защита была неравномерной: сильная для человекообразных обезьян, тигров и лори, заметно слабее для кораллов, птицеедов и орхидей.",
+  "why": "Тот, кто ищет в интернете животных или растения, всё чаще сталкивается с ответами ИИ. Исследование показывает, что они уже немного сдерживают торговлю, но менее известные виды легко проскальзывают.",
+  "caveat": "В пресс-релизе нет точных цифр, поэтому рейтинг чатботов нельзя оценить точно. Ни одна платформа не была надёжной: один обходной запрос привёл к ссылкам на сайты, которые, возможно, торгуют незаконно. Чатботы к тому же постоянно меняются, поэтому результаты быстро устаревают."
+ },
+ "image": {
+  "src": "https://static.kent.ac.uk/media/news/2026/10/tim-witzdam-yWyBU5v3FLI-unsplash-1920x1280.jpg",
+  "kind": "press",
+  "credit": "Bild: University of Kent (Unsplash)",
+  "link": "https://www.kent.ac.uk/news/cyber-security-digital-technology-and-communication/38489/ai-platforms-offer-promise-in-limiting-the-illegal-wildlife-trade"
+ },
+ "id": "2026-11-25-ki-chatbots-wildtierhandel",
+ "date": "2026-11-25",
+ "category": "tiere"
+}
