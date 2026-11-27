@@ -1,7 +1,836 @@
 {
- "generated": "2026-11-25T05:10:25Z",
- "count": 88,
+ "generated": "2026-11-27T05:13:50Z",
+ "count": 106,
  "posts": [
+  {
+   "published": "2026-10-26",
+   "category": "tiere",
+   "countries": [
+    "FI",
+    "INT"
+   ],
+   "institution": "University of Helsinki; International Fund for Animal Welfare",
+   "maturity": "study",
+   "source": {
+    "name": "Conservation Biology via EurekAlert",
+    "url": "https://www.eurekalert.org/news-releases/1153406"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1111/cobi.70407",
+     "url": "https://doi.org/10.1111/cobi.70407"
+    }
+   ],
+   "de": {
+    "title": "KI findet auf Fotos Produkte von Elefanten, Schuppentieren und Tigern, liegt aber nicht immer richtig",
+    "summary": "Der illegale Handel mit Teilen bedrohter Tiere findet zunehmend im Internet statt, wo Behörden unmöglich jedes Angebotsfoto selbst prüfen können. Ein Team aus Finnland hat deshalb ein Bilderkennungsprogramm trainiert, das Produkte von Elefanten (etwa Elfenbein), Schuppentieren und Tigern erkennt. Als Lernmaterial dienten fast 40.000 Fotos aus Online-Märkten, von beschlagnahmter Ware und aus Kontrollen, darunter auch viele ähnlich aussehende, aber erlaubte Dinge wie Schnitzereien aus anderem Material. Das beste Programm lag insgesamt in etwa 84 von 100 Fällen richtig. Bei Schuppentier-Produkten waren es rund 94, bei Tiger-Produkten rund 90, bei Elefanten-Produkten aber nur etwa 71 von 100. Das Team baute das Programm außerdem in eine Handy-App ein, die bei einem unabhängigen Test etwa 91 von 100 Bildern richtig einordnete.",
+    "why": "Solche Programme können Ermittlern helfen, aus Tausenden Angeboten die verdächtigen herauszusuchen. Entscheiden, ob etwas illegal ist, sollen aber weiterhin Fachleute.",
+    "caveat": "Die App ist ein Forschungsprototyp. Bei Elefanten-Produkten liegt das Programm in fast jedem dritten Fall falsch, und nur drei Tierarten werden abgedeckt. Es kann Verdächtiges nur markieren, keine rechtliche Entscheidung treffen. Die 91 Prozent stammen aus einem kleineren Test und sagen nicht, wie gut die App im echten Alltag arbeitet."
+   },
+   "en": {
+    "title": "AI spots products from elephants, pangolins and tigers in photos, but is not always right",
+    "summary": "The illegal trade in parts of threatened animals increasingly happens online, where authorities cannot possibly check every listing photo themselves. A team from Finland trained an image recognition program to spot products from elephants (such as ivory), pangolins and tigers. It learned from nearly 40,000 photos from online marketplaces, seized goods and inspections, including many look-alike but legal items such as carvings made from other materials. The best program was right in about 84 out of 100 cases overall. For pangolin products it was around 94, for tiger products around 90, but for elephant products only about 71 out of 100. The team also built the program into a smartphone app, which sorted about 91 out of 100 images correctly in an independent test.",
+    "why": "Programs like this can help investigators pick the suspicious listings out of thousands. Experts should still decide whether something is actually illegal.",
+    "caveat": "The app is a research prototype. For elephant products the program is wrong in almost one case in three, and only three kinds of animals are covered. It can only flag suspicious items, not make legal decisions. The 91 percent comes from a smaller test and does not show how well the app works in everyday use."
+   },
+   "ru": {
+    "title": "ИИ находит на фото изделия из слонов, панголинов и тигров, но ошибается нередко",
+    "summary": "Незаконная торговля частями исчезающих животных всё чаще идёт через интернет, где власти не могут вручную проверить каждое фото объявления. Команда из Финляндии обучила программу распознавания изображений находить изделия из слонов (например, слоновую кость), панголинов и тигров. Она училась почти на 40 000 фото с онлайн-площадок, изъятых товаров и проверок, среди них много похожих, но разрешённых вещей, например резьба из других материалов. Лучшая программа в целом оказалась права примерно в 84 случаях из 100. Для изделий из панголинов результат был около 94, из тигров около 90, а из слонов только около 71 из 100. Команда также встроила программу в приложение для смартфона, которое в независимом тесте верно определило около 91 изображения из 100.",
+    "why": "Такие программы помогают следователям выбрать подозрительные объявления из тысяч. Решать, законна ли вещь, по-прежнему должны специалисты.",
+    "caveat": "Приложение пока исследовательский прототип. Для изделий из слонов программа ошибается почти в каждом третьем случае, а охвачено только три вида животных. Она лишь отмечает подозрительное и не принимает юридических решений. 91 процент получен в небольшом тесте и не говорит, как приложение работает в повседневной жизни."
+   },
+   "image": {
+    "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/1fa826e3-981f-491f-925b-b0216c76289d/Rendition/low-res/Content/Public",
+    "kind": "press",
+    "credit": "Bild: University of Helsinki / EurekAlert",
+    "link": "https://www.eurekalert.org/news-releases/1153406"
+   },
+   "id": "2026-11-27-wildtierhandel-app-bilder",
+   "date": "2026-11-27"
+  },
+  {
+   "published": "2026-07-20",
+   "category": "tiere",
+   "countries": [
+    "US"
+   ],
+   "institution": "University of Michigan; New York University",
+   "maturity": "study",
+   "source": {
+    "name": "Nature Ecology & Evolution",
+    "url": "https://www.nature.com/articles/s41559-026-03110-5"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1038/s41559-026-03110-5",
+     "url": "https://doi.org/10.1038/s41559-026-03110-5"
+    },
+    {
+     "name": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm"
+    }
+   ],
+   "de": {
+    "title": "KI vermisst Skelette von über 2.000 Singvogelarten: Der Körperbau veränderte sich in plötzlichen Schüben",
+    "summary": "Singvögel, zu denen Drosseln, Finken oder Meisen gehören, sind mit über der Hälfte aller Vogelarten die größte Vogelgruppe. Wie sie zu so vielen verschiedenen Formen kamen, war lange unklar: langsam und gleichmäßig, oder eher in Sprüngen? Ein Team aus den USA hat dafür ein Programm entwickelt, das Skelette in Museumssammlungen fotografiert und per KI vermisst, in etwa 45 Sekunden pro Stück. So kamen über 170.000 Messungen von mehr als 2.000 Arten zusammen. Mit ihnen rechneten die Forschenden etwa 50 Millionen Jahre Körperbau-Entwicklung nach. Ergebnis: Der Körperbau änderte sich nicht gleichmäßig, sondern in seltenen, kurzen Schüben, meist dort, wo große Artengruppen entstanden. Diese Schübe fielen zeitlich mit Phasen schwankenden Klimas zusammen.",
+    "why": "Die Studie zeigt, dass Veränderungen in der Natur oft nicht in kleinen Schritten, sondern in Sprüngen passieren, und dass wechselhaftes Klima die Entstehung neuer Formen anstoßen kann. Außerdem zeigt sie, wie KI jahrzehntealte Museumssammlungen für Forschung nutzbar macht.",
+    "caveat": "Dass Schübe und schwankendes Klima zeitlich zusammenfallen, beweist nicht, dass das Klima sie ausgelöst hat. Die Entwicklung vor Millionen Jahren wird nur aus heutigen Arten und Messungen rückwärts berechnet. Außerdem erschien die Studie vor vier Monaten, sie liegt also im Sechs-Monats-Zeitraum, aber nicht im aktuellsten."
+   },
+   "en": {
+    "title": "AI measures skeletons of over 2,000 songbird species: body shapes changed in sudden bursts",
+    "summary": "Songbirds, a group that includes thrushes, finches and tits, make up more than half of all bird species. How they came to have so many different shapes was long unclear: slowly and steadily, or more in jumps? A team from the USA built a program that photographs skeletons in museum collections and measures them with AI, in about 45 seconds each. This produced over 170,000 measurements from more than 2,000 species. With these, the researchers reconstructed about 50 million years of body-shape evolution. The result: body shape did not change evenly but in rare, short bursts, mostly where large groups of species arose. These bursts coincided in time with periods of unstable climate.",
+    "why": "The study shows that change in nature often happens in jumps rather than small steps, and that a variable climate may trigger new forms. It also shows how AI can make decades-old museum collections usable for research.",
+    "caveat": "That bursts and unstable climate coincide in time does not prove the climate caused them. Evolution millions of years ago is only calculated backwards from living species and measurements. The study also appeared four months ago, so it lies in the six-month window rather than the most recent one."
+   },
+   "ru": {
+    "title": "ИИ измерил скелеты более 2000 видов певчих птиц: строение тела менялось внезапными рывками",
+    "summary": "Певчие птицы, к которым относятся дрозды, вьюрки и синицы, составляют больше половины всех видов птиц. Как они получили столько разных форм, долго было неясно: медленно и ровно или скорее скачками? Команда из США создала программу, которая фотографирует скелеты в музейных коллекциях и измеряет их с помощью ИИ, примерно за 45 секунд на экземпляр. Получилось более 170 000 измерений более чем у 2000 видов. По ним исследователи восстановили около 50 миллионов лет изменения строения тела. Результат: тело менялось не равномерно, а редкими короткими рывками, чаще там, где возникали крупные группы видов. Эти рывки по времени совпадали с периодами нестабильного климата.",
+    "why": "Исследование показывает, что перемены в природе часто идут скачками, а не мелкими шагами, и что переменчивый климат может запускать появление новых форм. Оно также показывает, как ИИ делает старые музейные коллекции пригодными для науки.",
+    "caveat": "То, что рывки и нестабильный климат совпали по времени, не доказывает, что причиной был климат. Эволюция миллионы лет назад лишь рассчитывается назад по современным видам и измерениям. Кроме того, исследование вышло четыре месяца назад, то есть относится к шестимесячному периоду, а не к самому свежему."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03110-5/MediaObjects/41559_2026_3110_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Nature Ecology & Evolution",
+    "link": "https://www.nature.com/articles/s41559-026-03110-5"
+   },
+   "id": "2026-11-27-singvoegel-koerperbau-schuebe",
+   "date": "2026-11-27"
+  },
+  {
+   "published": "2026-10-28",
+   "category": "archaeologie",
+   "countries": [
+    "IL",
+    "US"
+   ],
+   "institution": "University of Haifa; Field Museum, Chicago",
+   "maturity": "study",
+   "source": {
+    "name": "PNAS",
+    "url": "https://doi.org/10.1073/pnas.2628851123"
+   },
+   "more": [
+    {
+     "name": "Europe PMC (Zusammenfassung)",
+     "url": "https://europepmc.org/article/MED/42949979"
+    }
+   ],
+   "de": {
+    "title": "KI vermisst eine antike Wüstenstadt Stein für Stein und findet eine bisher unbekannte ältere Stadtgrenze",
+    "summary": "Wer verstehen will, wie eine antike Stadt gewachsen ist, schaut normalerweise auf Grundrisse und einzelne Gebäude. Forschende aus Israel und den USA haben sich stattdessen jeden einzelnen Baustein vorgenommen. Sie untersuchten Shivta, eine Siedlung aus der Spätantike mitten in der Negev-Wüste. Dafür fotografierten sie die Ruinen mit einer Drohne von oben und machten Nahaufnahmen von noch stehenden Mauern. Ein Computerprogramm, das aus Beispielbildern gelernt hat, Steine zu erkennen, markierte danach etwa 235.000 Steine auf dem Boden und etwa 12.000 Steine in 604 Mauern und maß ihre Größe und Form sowie die Art, wie sie aufgeschichtet sind. Das Ergebnis: Besonders große, gleichmäßig geformte Steine fanden sich rund um die Kirchen und an Teilen des Siedlungsrands. Aus dem Muster der Mauerqualität ergab sich außerdem eine bisher nicht bekannte frühere Stadtgrenze, und es sprach dafür, dass die Siedlung von einem Kern im Süden aus nach außen gewachsen ist. In der Hauptwachstumsphase baute man offenbar mit größeren und regelmäßigeren Steinen.",
+    "why": "Die Studie zeigt, wie KI eine mühsame Handarbeit ersetzen kann, die Archäologen sonst nur an einzelnen Häusern leisten: Aus Millionen kleiner Beobachtungen wird ein Bild davon, wie eine ganze Stadt Stück für Stück entstand. Das hilft, auch Orte zu verstehen, die man nicht mehr ausgraben kann oder darf.",
+    "caveat": "Es ist eine einzelne Siedlung, und die Deutung, dass die Mauerqualität etwas über das Wachstum verrät, ist eine Schlussfolgerung aus Mustern, kein Beweis. Die Forschenden selbst sprechen von Hinweisen und davon, dass die Methode erst an weiteren Stätten ihre Tauglichkeit zeigen muss. Eine Grabung vor Ort müsste die neu entdeckte ältere Grenze bestätigen."
+   },
+   "en": {
+    "title": "AI measures an ancient desert town stone by stone and finds a previously unknown earlier town boundary",
+    "summary": "To understand how an ancient town grew, archaeologists usually look at floor plans and individual buildings. Researchers from Israel and the US instead took on every single building stone. They studied Shivta, a settlement from late antiquity in the middle of the Negev desert. They photographed the ruins from above with a drone and took close-ups of walls that are still standing. A computer program that had learned from example images to recognise stones then marked about 235,000 stones on the ground and about 12,000 stones in 604 walls, and measured their size, shape and the way they are stacked. The result: especially large, evenly shaped stones were found around the churches and along parts of the edge of the settlement. The pattern of wall quality also revealed an earlier town boundary that was not known before, and it pointed to the settlement having grown outwards from a core in the south. In its main phase of growth, people apparently built with larger and more regular stones.",
+    "why": "The study shows how AI can take over painstaking handwork that archaeologists normally do only for single houses: millions of small observations add up to a picture of how a whole town took shape. That can also help to understand places that can no longer, or must not, be excavated.",
+    "caveat": "This is a single settlement, and reading wall quality as a sign of growth is an interpretation of patterns, not proof. The authors themselves present the findings as indications and say the method must prove itself at more sites. An excavation on the spot would have to confirm the newly found earlier boundary."
+   },
+   "ru": {
+    "title": "ИИ измерил древний город в пустыне камень за камнем и нашёл неизвестную прежде более раннюю границу города",
+    "summary": "Чтобы понять, как рос древний город, археологи обычно смотрят на планы и отдельные здания. Исследователи из Израиля и США взяли за основу каждый отдельный строительный камень. Они изучали Шивту, поселение поздней античности посреди пустыни Негев. Руины сняли с дрона сверху, а стоящие стены сфотографировали вблизи. Компьютерная программа, которая научилась по примерам узнавать камни, отметила около 235 000 камней на земле и около 12 000 камней в 604 стенах и измерила их размер, форму и способ кладки. Результат: особенно крупные и ровные камни нашлись вокруг церквей и на части края поселения. По узору качества стен выявилась и неизвестная ранее более ранняя граница города, а также признаки того, что поселение росло наружу от южного ядра. В главную фазу роста, судя по всему, строили из более крупных и правильных камней.",
+    "why": "Исследование показывает, как ИИ может заменить кропотливую ручную работу, которую археологи обычно делают лишь для отдельных домов: миллионы мелких наблюдений складываются в картину того, как формировался целый город. Это помогает понимать и места, которые больше нельзя или не разрешено раскапывать.",
+    "caveat": "Это одно поселение, а вывод о росте города по качеству стен является толкованием закономерностей, а не доказательством. Сами авторы говорят о признаках и о том, что метод должен подтвердить себя на других памятниках. Вновь найденную раннюю границу должны проверить раскопки на месте."
+   },
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Shivta_101025_02.jpg/960px-Shivta_101025_02.jpg",
+    "kind": "photo",
+    "credit": "Foto: Oren Rozen, CC BY-SA 4.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Shivta_101025_02.jpg"
+   },
+   "id": "2026-11-27-shivta-bausteine-ki",
+   "date": "2026-11-27"
+  },
+  {
+   "published": "2026-10-02",
+   "category": "archaeologie",
+   "countries": [
+    "INT",
+    "US",
+    "KE"
+   ],
+   "institution": "University of Illinois Urbana-Champaign; Smithsonian Institution",
+   "maturity": "study",
+   "source": {
+    "name": "PNAS",
+    "url": "https://doi.org/10.1073/pnas.2607372123"
+   },
+   "more": [
+    {
+     "name": "Europe PMC (Zusammenfassung)",
+     "url": "https://europepmc.org/article/MED/pnas.2607372123"
+    }
+   ],
+   "de": {
+    "title": "KI unterscheidet uralte Gras-Pollen und zeigt, wie die Eiszeit die Graslandschaft am Mount Kenya ausdünnte",
+    "summary": "Gräser sind eine der wichtigsten Pflanzengruppen der Erde, aber ihre Geschichte ist schwer zu lesen. Der Blütenstaub fast aller Grasarten sieht unter dem normalen Mikroskop praktisch gleich aus, deshalb konnte man bisher kaum sagen, welche Gräser vor Jahrtausenden wuchsen. Ein internationales Forschungsteam unter Beteiligung von Forschenden aus den USA hat nun Bilder aus einem Mikroskop mit extrem hoher Auflösung mit einem lernfähigen Bildprogramm kombiniert. Das Programm lernte zuerst an Blütenstaub heutiger Gräser, feine Formunterschiede zu erkennen, und nahm dann auch Blütenstaub ohne bekannte Zuordnung dazu. Danach werteten die Forschenden damit Blütenstaub aus einer rund 25.000 Jahre alten Ablagerung am Grund eines Sees am Mount Kenya aus. Sie schätzten, wie vielfältig die Gräser waren und ob es eher Gräser mit dem einen oder dem anderen Weg der Photosynthese waren, also dem Weg, mit dem Pflanzen Licht in Energie umwandeln. Ergebnis: Zwischen etwa 21.500 und 16.000 Jahren vor heute, in der kältesten Phase der letzten Eiszeit, nahm die Zahl der Grasarten dort deutlich ab. Danach ging der Anteil der wärmeliebenden Gräser mit steigender Temperatur und weniger Bränden allmählich zurück.",
+    "why": "Die Studie zeigt, wie Klimawandel in der Vergangenheit ganze Pflanzengemeinschaften verändert hat, und liefert eine neue Methode, um das aus winzigen Pollenkörnern herauszulesen. Das hilft, besser einzuschätzen, wie empfindlich Graslandschaften auf Temperatur, Kohlendioxid und Feuer reagieren.",
+    "caveat": "Es ist die Geschichte eines einzigen Bergsees, man kann sie nicht ohne Weiteres auf ganz Ostafrika übertragen. Das Programm schätzt Vielfalt und Anteile, es bestimmt nicht jede einzelne Grasart sicher. Die Beziehung zwischen Klima und Gräsern wird aus zeitlichen Zusammenhängen abgeleitet, was noch keine Ursache beweist."
+   },
+   "en": {
+    "title": "AI tells ancient grass pollen apart and shows how the ice age thinned out grasslands on Mount Kenya",
+    "summary": "Grasses are among the most important plant groups on Earth, but their history is hard to read. The pollen of almost all grass species looks practically identical under an ordinary microscope, so until now it was nearly impossible to say which grasses grew thousands of years ago. An international research team including researchers from the US has now combined images from a microscope with extremely high resolution with a learning image program. The program first learned from pollen of today's grasses to spot fine differences in shape, and then also took in pollen with no known identity. The researchers then used it on pollen from a roughly 25,000-year-old deposit at the bottom of a lake on Mount Kenya. They estimated how varied the grasses were and whether they used one or the other route of photosynthesis, the way plants turn light into energy. The result: between about 21,500 and 16,000 years ago, in the coldest phase of the last ice age, the number of grass species there fell markedly. Afterwards, the share of warmth-loving grasses slowly declined as temperatures rose and fires became less frequent.",
+    "why": "The study shows how climate change in the past reshaped whole plant communities, and it offers a new way to read this from tiny pollen grains. That helps to judge how sensitive grasslands are to temperature, carbon dioxide and fire.",
+    "caveat": "This is the history of a single mountain lake and cannot simply be transferred to all of East Africa. The program estimates diversity and shares, it does not reliably identify every single grass species. The link between climate and grasses is inferred from timing, which does not yet prove cause."
+   },
+   "ru": {
+    "title": "ИИ различил древнюю пыльцу трав и показал, как ледниковый период сделал луга на горе Кения беднее",
+    "summary": "Злаки относятся к важнейшим группам растений на Земле, но их историю трудно прочитать. Пыльца почти всех видов трав под обычным микроскопом выглядит практически одинаково, поэтому до сих пор почти нельзя было сказать, какие травы росли тысячи лет назад. Международная группа исследователей, в том числе из США, соединила снимки микроскопа со сверхвысоким разрешением с обучаемой программой для анализа изображений. Сначала программа училась по пыльце современных трав замечать тонкие различия формы, а затем ей добавили и пыльцу без известной принадлежности. После этого исследователи проанализировали пыльцу из примерно 25-тысячелетнего слоя на дне озера на горе Кения. Они оценили, насколько разнообразны были травы и какой из двух путей фотосинтеза у них преобладал, то есть как растения превращают свет в энергию. Результат: примерно от 21 500 до 16 000 лет назад, в самую холодную фазу последнего ледникового периода, число видов трав там заметно сократилось. Позднее доля теплолюбивых трав постепенно снижалась по мере потепления и уменьшения пожаров.",
+    "why": "Исследование показывает, как изменения климата в прошлом перестраивали целые растительные сообщества, и даёт новый способ читать это по крошечным зёрнам пыльцы. Это помогает оценить, насколько луга чувствительны к температуре, углекислому газу и огню.",
+    "caveat": "Это история одного горного озера, её нельзя просто перенести на всю Восточную Африку. Программа оценивает разнообразие и доли, а не определяет надёжно каждый отдельный вид трав. Связь климата и трав выведена из совпадения по времени, а это ещё не доказывает причину."
+   },
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mount_Kenya_alpine.jpg/960px-Mount_Kenya_alpine.jpg",
+    "kind": "photo",
+    "credit": "Foto: John Spooner, CC BY 2.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Mount_Kenya_alpine.jpg"
+   },
+   "id": "2026-11-27-pollen-ki-ostafrika-gras",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "2026-11-27-pilz-vielfalt-drohnen",
+   "date": "2026-11-27",
+   "published": "2026-08-10",
+   "category": "klima",
+   "countries": [
+    "CA",
+    "CN"
+   ],
+   "institution": "University of Alberta (Kanada); Studiengebiet in China",
+   "maturity": "study",
+   "source": {
+    "name": "Forest Ecology and Management via Phys.org",
+    "url": "https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1016/j.foreco.2026.123857",
+     "url": "https://doi.org/10.1016/j.foreco.2026.123857"
+    }
+   ],
+   "de": {
+    "title": "Drohnenbilder und KI verraten ein Stück weit, welche Pilze im Waldboden leben",
+    "summary": "Im Waldboden leben unzählige Pilze, die Bäumen helfen, Nährstoffe aufzunehmen. Wer wissen will, welche Arten wo vorkommen, muss normalerweise Erde sammeln und das Erbgut darin untersuchen. Das ist teuer und langsam. Ein Team aus Kanada hat in einem rund 40 Jahre alten Pflanzwald in einem Schutzgebiet in China geprüft, ob es auch von oben geht. Es nahm 538 Bodenproben auf einer Fläche von 26 Hektar, also etwa 36 Fußballfeldern, und bestimmte die Pilze per Erbgutanalyse. Zugleich flogen Drohnen über den Wald und erfassten Baumhöhen und Licht, das die Blätter zurückwerfen; daraus lässt sich zum Beispiel ablesen, wie viel Blattgrün und Wasser die Bäume haben. Ein Lernprogramm sollte aus den Drohnendaten die Pilzvielfalt vorhersagen. Bei der Frage, wie stark sich die Pilzgemeinschaften zwischen Orten unterscheiden, traf es etwa 53 Prozent der Unterschiede. Bei der Zahl der Arten an einer Stelle waren es 28 bis 45 Prozent, je nach Maß.",
+    "why": "Die Studie zeigt, dass Bilder aus der Luft Hinweise auf Leben unter der Erde geben können. Das könnte helfen, große Waldflächen grob auf ihre Artenvielfalt zu überprüfen, bevor man gezielt Proben nimmt.",
+    "caveat": "Die Vorhersage ist nur mittelmäßig und ersetzt die Bodenproben nicht: Das Programm musste mit Proben und Erbgutanalysen trainiert werden. Untersucht wurde nur ein einziger Wald. Ob es woanders genauso gut klappt, ist offen. Als Veröffentlichungsdatum ist das Datum der Phys.org-Meldung angegeben."
+   },
+   "en": {
+    "title": "Drone images and AI reveal part of which fungi live in forest soil",
+    "summary": "Forest soil is home to countless fungi that help trees take up nutrients. To know which species live where, you normally have to collect soil and analyse the genetic material in it, which is slow and expensive. A team from Canada tested in a roughly 40-year-old planted forest in a nature reserve in China whether it can be done from above. It took 538 soil samples across 26 hectares, about 36 football pitches, and identified the fungi by DNA analysis. At the same time drones flew over the forest and recorded tree heights and the light reflected by the leaves, from which one can estimate things like how much leaf pigment and water the trees hold. A learning program was asked to predict fungal diversity from the drone data. For how strongly fungal communities differ between places, it got about 53 percent of the differences right. For the number of species at a single spot it managed 28 to 45 percent, depending on the measure.",
+    "why": "The study shows that images from the air can hint at life underground. That might help to check large forest areas roughly for biodiversity before taking targeted samples.",
+    "caveat": "The prediction is only moderate and does not replace soil samples: the program had to be trained with samples and DNA analyses. Only a single forest was studied, so it is open whether this works equally well elsewhere. The date given as publication date is that of the Phys.org report."
+   },
+   "ru": {
+    "title": "Снимки с дронов и ИИ частично выдают, какие грибы живут в лесной почве",
+    "summary": "В лесной почве живут несметные грибы, которые помогают деревьям получать питательные вещества. Чтобы знать, какие виды где растут, обычно приходится брать землю и анализировать генетический материал в ней, а это медленно и дорого. Команда из Канады проверила в примерно 40-летнем лесопосадочном лесу в заповеднике в Китае, можно ли обойтись взглядом сверху. Взяли 538 проб почвы на площади 26 гектаров, это около 36 футбольных полей, и определили грибы по ДНК. Одновременно над лесом летали дроны и фиксировали высоту деревьев и свет, отражённый листьями, по которому можно оценить, сколько в деревьях хлорофилла и воды. Обучаемая программа должна была предсказать разнообразие грибов по данным дронов. Насколько сильно сообщества грибов различаются между местами, она угадала примерно на 53 процента. Число видов в одной точке она предсказала на 28–45 процентов, в зависимости от меры.",
+    "why": "Исследование показывает, что снимки с воздуха могут намекать на жизнь под землёй. Это может помочь грубо проверять большие лесные площади на разнообразие, прежде чем брать целевые пробы.",
+    "caveat": "Предсказание лишь среднее и не заменяет почвенные пробы: программу пришлось обучать на пробах и анализах ДНК. Изучен только один лес, так что неизвестно, будет ли так же хорошо в других местах. В качестве даты публикации указана дата сообщения Phys.org."
+   },
+   "image": {
+    "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-and-machine-lea.jpg",
+    "kind": "press",
+    "credit": "Bild: Phys.org",
+    "link": "https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html"
+   }
+  },
+  {
+   "id": "2026-11-27-ozean-eisen-gleichungen",
+   "date": "2026-11-27",
+   "published": "2026-06-24",
+   "category": "klima",
+   "countries": [
+    "INT"
+   ],
+   "institution": "Studie in Geophysical Research Letters (AGU)",
+   "maturity": "lab",
+   "source": {
+    "name": "Geophysical Research Letters via Phys.org / Eos",
+    "url": "https://phys.org/news/2026-06-machine-rediscovers-equations-ocean-biogeochemistry.html"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1029/2025GL121380",
+     "url": "https://doi.org/10.1029/2025gl121380"
+    }
+   ],
+   "de": {
+    "title": "KI findet aus wenigen Messwerten Formeln für den Eisenkreislauf im Meer wieder",
+    "summary": "Eisen ist im Meer ein knapper Nährstoff, von dem abhängt, wie viel Algen wachsen, und Algen binden Kohlendioxid. Wie Eisen im Wasser umgesetzt wird, beschreiben Forschende mit Formeln, die oft nur grob stimmen, weil Messungen auf hoher See selten sind. Ein Team hat deshalb in einem Computermodell des Ozeans, in dem die richtigen Formeln bekannt sind, ausprobiert, ob ein Lernverfahren sie aus wenigen Daten wiederfinden kann. Das Verfahren probiert Rechenbausteine so lange durch, bis eine Formel zu den Daten passt. Es lieferte sechs Formeln für sogenanntes kolloidales Eisen, also winzige Eisenteilchen, die im Wasser schweben. Sie sahen anders aus als die Originale, waren aber einfacher und gaben die großen Muster ähnlich gut wieder. Salzgehalt kam darin nicht vor, vermutlich weil er im Meer wenig schwankt. Am besten klappte es mit Proben aus der gesamten Wassersäule statt nur aus einzelnen Tiefen.",
+    "why": "Wenn solche Verfahren funktionieren, könnten sie helfen, Klimamodelle mit besseren Formeln für das Leben im Meer auszustatten, und zeigen, wo zusätzliche Messfahrten am meisten bringen.",
+    "caveat": "Das war ein Test im Computer mit bekannten Antworten, kein Beweis, dass es mit echten Messdaten genauso klappt. Das Verfahren ist laut der Meldung noch nicht gründlich erprobt. Genaue Leistungszahlen nennt sie nicht, und es fehlen weiter Messungen. Als Veröffentlichungsdatum ist das Datum der Meldung angegeben (Ende Juni 2026, nahe der Sechs-Monats-Grenze)."
+   },
+   "en": {
+    "title": "AI rediscovers formulas for the ocean's iron cycle from sparse measurements",
+    "summary": "Iron is a scarce nutrient in the sea that decides how much algae grow, and algae take up carbon dioxide. Researchers describe how iron is processed in the water with formulas that are often only rough, because measurements on the open ocean are rare. So a team used a computer model of the ocean in which the right formulas are known and tried whether a learning method could find them again from few data. The method tries out mathematical building blocks until a formula fits the data. It produced six formulas for so-called colloidal iron, tiny iron particles that float in the water. They looked different from the originals but were simpler and reproduced the big patterns about as well. Salinity did not appear in them, probably because it varies little in the sea. It worked best with samples from the whole water column rather than from single depths.",
+    "why": "If such methods work, they could help give climate models better formulas for life in the sea, and show where extra research cruises would help most.",
+    "caveat": "This was a test inside a computer with known answers, not proof that it works equally well with real measurements. According to the report the method is not yet thoroughly tested. It gives no precise performance figures, and measurements are still missing. The date given as publication date is that of the report (late June 2026, near the six-month limit)."
+   },
+   "ru": {
+    "title": "ИИ заново находит формулы круговорота железа в океане по небольшому числу измерений",
+    "summary": "Железо в море — дефицитное питательное вещество, от которого зависит, сколько растёт водорослей, а водоросли поглощают углекислый газ. То, как железо перерабатывается в воде, исследователи описывают формулами, которые часто лишь приблизительны, потому что измерений в открытом океане мало. Поэтому команда взяла компьютерную модель океана, где правильные формулы известны, и проверила, сможет ли обучаемый метод найти их заново по малому объёму данных. Метод перебирает математические «кирпичики», пока формула не совпадёт с данными. Он выдал шесть формул для так называемого коллоидного железа, то есть крошечных частиц железа, взвешенных в воде. Они выглядели иначе, чем оригиналы, но были проще и примерно так же хорошо воспроизводили крупные закономерности. Солёность в них не вошла, вероятно потому, что в море она мало меняется. Лучше всего работали пробы со всей толщи воды, а не с отдельных глубин.",
+    "why": "Если такие методы работают, они могут помочь снабдить климатические модели лучшими формулами для жизни в море и показать, где дополнительные рейсы нужнее всего.",
+    "caveat": "Это был тест внутри компьютера с известными ответами, а не доказательство, что с реальными измерениями получится так же. По сообщению, метод ещё не проверен тщательно. Точных показателей качества там нет, и измерений по-прежнему не хватает. В качестве даты публикации указана дата сообщения (конец июня 2026, близко к границе в полгода)."
+   },
+   "image": {
+    "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-redis.jpg",
+    "kind": "press",
+    "credit": "Bild: Phys.org",
+    "link": "https://phys.org/news/2026-06-machine-rediscovers-equations-ocean-biogeochemistry.html"
+   }
+  },
+  {
+   "published": "2026-11-20",
+   "category": "mythen",
+   "countries": [
+    "GB",
+    "CZ",
+    "PL"
+   ],
+   "institution": "University College London",
+   "maturity": "study",
+   "evidence": "cohort",
+   "verdict": "open",
+   "source": {
+    "name": "European Journal of Clinical Nutrition",
+    "url": "https://www.nature.com/articles/s41430-026-01855-7"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1038/s41430-026-01855-7",
+     "url": "https://doi.org/10.1038/s41430-026-01855-7"
+    }
+   ],
+   "de": {
+    "myth": "Wer sich nach der MIND-Diät ernährt, also viel Gemüse, Beeren, Nüsse und Fisch, lebt länger und bleibt geistig fitter.",
+    "title": "MIND-Diät: Der scheinbare Schutz vor frühem Tod verschwand, als man andere Einflüsse herausrechnete",
+    "summary": "Die MIND-Diät wurde entwickelt, um das Gehirn im Alter fit zu halten. Sie setzt auf viel Blattgemüse, Beeren, Nüsse, Bohnen, Vollkorn und Fisch. Forschende aus London haben nun untersucht, ob das auch in Osteuropa gilt. Dafür haben sie über 15.000 Menschen aus tschechischen Städten und Krakau begleitet, die beim Start zwischen 45 und 69 Jahre alt waren, und etwa 20 Jahre lang beobachtet, ohne selbst etwas zu verändern. Rechnete man nur Alter und Geschlecht heraus, hatten Menschen mit besonders MIND-naher Ernährung ein etwas geringeres Sterberisiko und schnitten bei Denktests besser ab. Rechnete man aber zusätzlich Dinge wie Bildung, Einkommen, Rauchen und Bewegung heraus, war der Unterschied beim Sterberisiko verschwunden. Bei den Denktests blieb nur ein kleiner Vorteil bei der Wortflüssigkeit.",
+    "why": "Gemüse, Beeren und Fisch sind weiterhin gute Zutaten. Aber wer sich gesund ernährt, lebt oft auch sonst gesünder und hat mehr Geld und Bildung. Diese Studie zeigt, dass man diese Dinge nicht mit der Wirkung des Essens verwechseln sollte.",
+    "caveat": "Das Essen wurde nur einmal am Anfang abgefragt, obwohl es sich in 20 Jahren ändert. Es ist eine Beobachtungsstudie, sie kann also weder einen Schutz beweisen noch ausschließen. Die Teilnehmenden leben in Mitteleuropa und Osteuropa, wo man anders isst als in den USA, wo die Diät entstand. Ein früherer US-Versuch fand ebenfalls keinen zusätzlichen Nutzen für das Denken."
+   },
+   "en": {
+    "myth": "Following the MIND diet, with lots of vegetables, berries, nuts and fish, helps you live longer and stay mentally sharper.",
+    "title": "MIND diet: the apparent protection against early death vanished once other influences were accounted for",
+    "summary": "The MIND diet was designed to keep the brain fit in old age. It relies on plenty of leafy greens, berries, nuts, beans, whole grains and fish. Researchers in London tested whether this also holds in Eastern Europe. They followed more than 15,000 people from Czech cities and Krakow, aged 45 to 69 at the start, for about 20 years, watching without changing anything themselves. When only age and sex were taken out of the picture, people eating closest to the MIND pattern had a somewhat lower risk of dying and did better on thinking tests. But once things like education, income, smoking and physical activity were also accounted for, the difference in death risk was gone. For the thinking tests, only a small advantage in word fluency remained.",
+    "why": "Vegetables, berries and fish are still good ingredients. But people who eat healthily often also live healthier lives otherwise and have more money and education. This study shows that these things should not be mistaken for the effect of the food itself.",
+    "caveat": "Diet was asked about only once at the start, although it changes over 20 years. It is an observational study, so it can neither prove nor rule out protection. Participants live in Central and Eastern Europe, where people eat differently from the US, where the diet was developed. An earlier US trial also found no extra benefit for thinking."
+   },
+   "ru": {
+    "myth": "Кто питается по MIND-диете, то есть много овощей, ягод, орехов и рыбы, живёт дольше и дольше сохраняет ясность ума.",
+    "title": "MIND-диета: кажущаяся защита от ранней смерти исчезла, когда учли другие влияния",
+    "summary": "MIND-диету придумали, чтобы сохранить мозг в форме в старости. В ней много листовой зелени, ягод, орехов, бобовых, цельного зерна и рыбы. Исследователи из Лондона проверили, верно ли это для Восточной Европы. Они примерно 20 лет наблюдали за более чем 15 000 людей из чешских городов и Кракова, которым в начале было от 45 до 69 лет, ничего сами не меняя. Если учитывать только возраст и пол, те, кто питался ближе всего к MIND, умирали чуть реже и лучше справлялись с тестами на мышление. Но когда учли ещё образование, доход, курение и физическую активность, разница в риске смерти исчезла. В тестах на мышление остался лишь небольшой плюс в беглости речи.",
+    "why": "Овощи, ягоды и рыба по-прежнему хорошие продукты. Но те, кто питается здорово, часто и в остальном живут здоровее и имеют больше денег и образования. Это исследование показывает, что их не стоит путать с действием самой еды.",
+    "caveat": "О питании спросили только один раз в начале, хотя за 20 лет оно меняется. Это наблюдательное исследование, оно не может ни доказать защиту, ни исключить её. Участники живут в Центральной и Восточной Европе, где едят иначе, чем в США, где диету придумали. Более ранний американский опыт тоже не нашёл дополнительной пользы для мышления."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41430-026-01855-7/MediaObjects/41430_2026_1855_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, European Journal of Clinical Nutrition",
+    "link": "https://www.nature.com/articles/s41430-026-01855-7"
+   },
+   "id": "2026-11-27-mythos-mind-diaet",
+   "date": "2026-11-27"
+  },
+  {
+   "published": "2026-07-31",
+   "category": "mythen",
+   "countries": [
+    "US"
+   ],
+   "institution": "University of Wisconsin-Madison",
+   "maturity": "review",
+   "evidence": "review",
+   "verdict": "partly",
+   "source": {
+    "name": "Cell Press Blue via ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260801042811.htm"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1016/j.cpblue.2026.100079",
+     "url": "https://doi.org/10.1016/j.cpblue.2026.100079"
+    }
+   ],
+   "de": {
+    "myth": "Je mehr Eiweiß, desto gesünder: Jeder sollte möglichst viel Protein essen.",
+    "title": "Mehr Eiweiß ist nicht für alle besser: Wer kaum Sport treibt, braucht oft weniger",
+    "summary": "Eiweißreiche Produkte füllen die Supermarktregale, von Müsli bis Kaffee. Forschende aus den USA haben für eine Übersichtsarbeit mehr als 350 Studien zu der Frage durchgesehen, wie sich weniger Eiweiß auf das Altern auswirkt. Bei Fliegen und Nagetieren lebten Tiere mit weniger Eiweiß im Futter länger, auch wenn sie gleich viele Kalorien bekamen. In ersten Versuchen mit Menschen nahmen Teilnehmende, die weniger Eiweiß aßen, an Gewicht und Körperfett ab und hatten bessere Nüchternblutzuckerwerte. Zugleich betonen die Autoren, dass Eiweiß für Muskeln und für aktive Menschen klar nützlich ist, und dass ältere Menschen mit Training Muskeln damit besser erhalten. Ihre Sorge gilt vor allem Menschen, die wenig Sport treiben und mehr Eiweiß essen, als sie brauchen.",
+    "why": "Du musst nicht jedes Produkt mit Eiweiß-Aufschrift kaufen. Wer viel trainiert, ältere Menschen und Schwangere dürfen eher mehr brauchen. Wer sitzend lebt, braucht vermutlich weniger, als Werbung suggeriert.",
+    "caveat": "Es ist eine Übersichtsarbeit, kein neuer Versuch. Ein großer Teil der Belege stammt von Fliegen und Nagetieren, ob weniger Eiweiß Menschen länger leben lässt, ist offen. Andere Studien zeigen Vorteile höherer Eiweißmengen für Gewichtsverlust und Muskeln. Die offizielle US-Empfehlung wurde in diesem Jahr sogar erhöht."
+   },
+   "en": {
+    "myth": "The more protein, the healthier: everyone should eat as much protein as possible.",
+    "title": "More protein is not better for everyone: if you hardly exercise, you may need less",
+    "summary": "Protein-enriched products now fill supermarket shelves, from cereal to coffee. Researchers in the US went through more than 350 studies for a review on how eating less protein affects ageing. In flies and rodents, animals fed less protein lived longer, even when they got the same number of calories. In early trials with people, those who ate less protein lost weight and body fat and had better fasting blood sugar. At the same time, the authors stress that protein is clearly useful for muscles and for active people, and that older people who train keep their muscles better with it. Their concern is mainly people who exercise little and eat more protein than they need.",
+    "why": "You do not have to buy every product with a protein label. People who train a lot, older adults and pregnant women may well need more. If you sit most of the day, you probably need less than advertising suggests.",
+    "caveat": "This is a review, not a new trial. Much of the evidence comes from flies and rodents, and whether less protein lets people live longer is open. Other studies show benefits of higher protein for weight loss and muscle. The official US recommendation was even raised this year."
+   },
+   "ru": {
+    "myth": "Чем больше белка, тем здоровее: всем стоит есть как можно больше белка.",
+    "title": "Больше белка не всем лучше: кто мало занимается спортом, тому нужно меньше",
+    "summary": "Продукты, обогащённые белком, заполнили полки магазинов, от хлопьев до кофе. Американские исследователи просмотрели для обзора более 350 работ о том, как меньшее количество белка влияет на старение. У мух и грызунов животные, получавшие меньше белка, жили дольше, даже при том же количестве калорий. В первых опытах с людьми те, кто ел меньше белка, теряли вес и жир и имели лучший сахар в крови натощак. В то же время авторы подчёркивают, что белок явно полезен для мышц и для активных людей, а пожилые, которые тренируются, лучше сохраняют с ним мышцы. Их беспокоят в основном те, кто мало двигается и ест больше белка, чем нужно.",
+    "why": "Не нужно покупать каждый продукт с надписью про белок. Тем, кто много тренируется, пожилым и беременным, вероятно, нужно больше. Кто сидит большую часть дня, тому, скорее всего, нужно меньше, чем подсказывает реклама.",
+    "caveat": "Это обзор, а не новый опыт. Значительная часть данных получена на мухах и грызунах, а продлевает ли жизнь людям меньше белка, неизвестно. Другие исследования показывают пользу большего количества белка для похудения и мышц. Официальная рекомендация в США в этом году даже выросла."
+   },
+   "image": {
+    "src": "https://www.sciencedaily.com/images/1920/woman-holding-birthday-cake-for-100-year-old.webp",
+    "kind": "press",
+    "credit": "Bild: ScienceDaily / Shutterstock",
+    "link": "https://sciencedaily.com/releases/2026/08/260801042811.htm"
+   },
+   "id": "2026-11-27-mythos-mehr-protein",
+   "date": "2026-11-27"
+  },
+  {
+   "published": "2026-10-07",
+   "category": "mythen",
+   "countries": [
+    "DK",
+    "IT",
+    "US"
+   ],
+   "institution": "University of Copenhagen; University of Milan; University of Texas at Austin; Tufts University u. a.",
+   "maturity": "review",
+   "evidence": "review",
+   "verdict": "partly",
+   "source": {
+    "name": "Advances in Nutrition (Fachzeitschrift)",
+    "url": "https://doi.org/10.1016/j.advnut.2026.100746"
+   },
+   "more": [
+    {
+     "name": "PubMed-Eintrag",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42843567/"
+    }
+   ],
+   "de": {
+    "myth": "Gesättigte Fette, etwa in Butter, Käse und Fleisch, verursachen eindeutig Herzinfarkte und Schlaganfälle.",
+    "title": "Gesättigte Fette: Die Belege für Herzschäden sind uneinheitlicher als gedacht",
+    "summary": "Seit Jahrzehnten raten Ernährungsempfehlungen, gesättigte Fette zu begrenzen, also die festen Fette in Butter, Käse, Sahne und Fleisch. Ein internationales Team hat nun nicht selbst Menschen untersucht, sondern 32 frühere Zusammenfassungen von Studien durchgesehen, die zwischen 2001 und 2025 erschienen sind. Darin ging es darum, ob wer mehr gesättigte Fette isst, häufiger Herzinfarkte, Schlaganfälle oder einen frühen Tod erleidet. In den meisten dieser Zusammenfassungen fand sich kein klarer Zusammenhang. Nur zwei sahen einen schädlichen Effekt, drei sogar einen günstigen, und zwar für Schlaganfälle in ostasiatischen Bevölkerungen. Auffällig war aber: Ersetzte man gesättigte Fette durch pflanzliche Öle mit mehrfach ungesättigten Fettsäuren, etwa Sonnenblumen- oder Rapsöl, sah es in Beobachtungsstudien und in gut gemachten kurzen Versuchen eher günstig fürs Herz aus.",
+    "why": "Butter ist kein Gift, aber auch kein Gesundheitsmittel. Mehr als das einzelne Fett scheint zu zählen, wie dein Essen insgesamt aussieht und wodurch du Fett ersetzt. Pflanzenöle statt Butter sind nach heutiger Beleglage eine sichere Wahl.",
+    "caveat": "Es ist eine erzählende Zusammenfassung bereits vorhandener Studien, keine neue Untersuchung, und viele dieser Studien sind reine Beobachtung, die Ursache und Wirkung nicht trennen kann. Zwei Zusammenfassungen auf Basis von Versuchen sahen mehr Herzerkrankungen, aber keine höhere Sterblichkeit. Die Arbeit ändert die offiziellen Empfehlungen nicht, und hohe Cholesterinwerte im Blut bleiben ein anerkanntes Risiko."
+   },
+   "en": {
+    "myth": "Saturated fats, such as in butter, cheese and meat, clearly cause heart attacks and strokes.",
+    "title": "Saturated fat: the evidence for heart harm is less consistent than assumed",
+    "summary": "For decades, dietary advice has been to limit saturated fats, the solid fats in butter, cheese, cream and meat. An international team did not study people themselves this time but went through 32 earlier summaries of studies published between 2001 and 2025. They asked whether eating more saturated fat goes along with more heart attacks, strokes or early death. Most of those summaries found no clear connection. Only two saw a harmful effect, and three even saw a beneficial one, for strokes in East Asian populations. One pattern stood out, though: when saturated fat was replaced with plant oils rich in polyunsaturated fats, such as sunflower or rapeseed oil, things looked more favorable for the heart, both in observational studies and in well-run short trials.",
+    "why": "Butter is not poison, but it is not a health food either. What seems to matter more than the single fat is your overall diet and what you replace the fat with. Plant oils instead of butter are, on current evidence, a safe choice.",
+    "caveat": "This is a narrative summary of existing studies, not a new investigation, and many of those studies are plain observation, which cannot separate cause from effect. Two trial-based summaries saw more heart disease but no higher death rate. The work does not change official recommendations, and high blood cholesterol remains a recognized risk."
+   },
+   "ru": {
+    "myth": "Насыщенные жиры, например в сливочном масле, сыре и мясе, однозначно вызывают инфаркты и инсульты.",
+    "title": "Насыщенные жиры: доказательств вреда для сердца меньше и они противоречивее, чем думали",
+    "summary": "Десятилетиями рекомендации по питанию советовали ограничивать насыщенные жиры, то есть твёрдые жиры в сливочном масле, сыре, сливках и мясе. Международная группа на этот раз не изучала людей сама, а просмотрела 32 более ранних сводки исследований, вышедших с 2001 по 2025 год. Вопрос был в том, связано ли большее количество насыщенных жиров в еде с инфарктами, инсультами и ранней смертью. В большинстве сводок чёткой связи не нашли. Только две увидели вредный эффект, а три даже полезный, причём для инсультов у жителей Восточной Азии. Но один вывод бросался в глаза: если заменять насыщенные жиры растительными маслами с полиненасыщенными жирами, например подсолнечным или рапсовым, для сердца картина выглядела благоприятнее, и в наблюдениях, и в хорошо проведённых коротких опытах.",
+    "why": "Сливочное масло не яд, но и не полезный продукт. Похоже, важнее отдельного жира то, как выглядит всё ваше питание и чем вы заменяете жир. Растительное масло вместо сливочного по нынешним данным остаётся безопасным выбором.",
+    "caveat": "Это повествовательная сводка уже существующих исследований, а не новое исследование, и многие из них лишь наблюдения, которые не отделяют причину от следствия. Две сводки, основанные на опытах, увидели больше болезней сердца, но не более высокую смертность. Работа не меняет официальные рекомендации, а высокий холестерин в крови остаётся признанным фактором риска."
+   },
+   "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2023_Mas%C5%82o_w_maselniczce.jpg/960px-2023_Mas%C5%82o_w_maselniczce.jpg",
+    "kind": "photo",
+    "credit": "Foto: Jacek Halicki, CC BY-SA 4.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:2023_Mas%C5%82o_w_maselniczce.jpg"
+   },
+   "id": "2026-11-27-mythos-gesaettigte-fette",
+   "date": "2026-11-27"
+  },
+  {
+   "published": "2026-11-03",
+   "countries": [
+    "US"
+   ],
+   "institution": "Dana-Farber Cancer Institute",
+   "maturity": "study",
+   "source": {
+    "name": "Nature Genetics via EurekAlert (Dana-Farber)",
+    "url": "https://www.eurekalert.org/news-releases/1150309"
+   },
+   "more": [
+    {
+     "name": "Nature Genetics, Artikel s41588-026-02815-4",
+     "url": "https://www.nature.com/articles/s41588-026-02815-4"
+    }
+   ],
+   "de": {
+    "title": "Computermodell könnte helfen, Kindern mit Hirntumor schonendere Bestrahlung zu ersparen",
+    "summary": "Kinder mit bestimmten Hirntumoren, etwa dem Medulloblastom, werden nach der Operation oft an Kopf und Rückenmark bestrahlt. Das hilft gegen den Krebs, kann aber das wachsende Gehirn schädigen. Forschende aus den USA haben ein Computermodell entwickelt, das aus den chemischen Markierungen am Erbgut des Tumors, der sogenannten DNA-Methylierung, vorhersagt, wie die Krankheit bei einem einzelnen Kind wahrscheinlich verläuft. Sie prüften es an mehreren großen Gruppen früher behandelter Kinder. Danach käme für mehr als die Hälfte der Kinder mit durchschnittlichem Risiko womöglich eine niedrigere Strahlendosis in Frage; in den Daten fand sich für die niedriger dosierte Gruppe kein deutlich schlechteres Überleben.",
+    "why": "Es zeigt, wie Computermodelle künftig helfen könnten, Behandlungen genauer auf jedes Kind zuzuschneiden und Spätfolgen zu verringern. Für heutige Behandlungen ändert sich dadurch noch nichts.",
+    "caveat": "Die Pressemitteilung nennt keine genauen Zahlen zu den Kindern. Es ist eine Auswertung früherer Daten, keine Studie, in der Kinder tatsächlich niedriger bestrahlt wurden. Kein deutlicher Nachteil in den Daten heißt nicht, dass sicher kein Nachteil besteht. Zuerst braucht es klinische Studien."
+   },
+   "en": {
+    "title": "Computer model could help spare children with brain tumours heavier radiation",
+    "summary": "Children with certain brain tumours, such as medulloblastoma, are often given radiation to the head and spinal cord after surgery. This helps against the cancer but can harm the growing brain. Researchers in the USA built a computer model that uses chemical tags on the tumour's DNA, called DNA methylation, to predict how the disease is likely to run in an individual child. They tested it on several large groups of previously treated children. According to the model, more than half of the children with average risk might be candidates for a lower radiation dose; in the data, the lower-dose group showed no significantly worse survival.",
+    "why": "It shows how computer models could help tailor treatment to each child more precisely and reduce late effects. Current treatment does not change because of it yet.",
+    "caveat": "The press release gives no exact numbers on the children. It is an analysis of past data, not a trial in which children were actually given less radiation. No significant disadvantage in the data does not mean there is certainly none. Clinical trials come first."
+   },
+   "ru": {
+    "title": "Компьютерная модель может помочь избавить детей с опухолями мозга от более тяжёлого облучения",
+    "summary": "Детям с некоторыми опухолями мозга, например медуллобластомой, после операции часто проводят облучение головы и спинного мозга. Это помогает против рака, но может повредить растущий мозг. Исследователи из США создали компьютерную модель, которая по химическим меткам на ДНК опухоли, так называемому метилированию ДНК, предсказывает, как, вероятно, пойдёт болезнь у конкретного ребёнка. Они проверили её на нескольких больших группах детей, лечившихся ранее. По модели, более чем половине детей со средним риском, возможно, подойдёт меньшая доза облучения; в данных у группы с меньшей дозой выживаемость заметно хуже не была.",
+    "why": "Это показывает, как компьютерные модели могут помогать точнее подбирать лечение каждому ребёнку и уменьшать отдалённые последствия. На сегодняшнее лечение это пока не влияет.",
+    "caveat": "В пресс-релизе нет точных чисел о детях. Это анализ прошлых данных, а не исследование, где детей действительно облучали меньше. Отсутствие заметного ущерба в данных не значит, что его точно нет. Сначала нужны клинические испытания."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Nature Genetics",
+    "link": "https://www.nature.com/articles/s41588-026-02815-4"
+   },
+   "id": "2026-11-27-kinderhirntumor-strahlendosis",
+   "date": "2026-11-27",
+   "category": "gesundheit"
+  },
+  {
+   "published": "2026-11-11",
+   "countries": [
+    "US"
+   ],
+   "institution": "Icahn School of Medicine at Mount Sinai",
+   "maturity": "study",
+   "source": {
+    "name": "The Lancet Digital Health via EurekAlert (Mount Sinai)",
+    "url": "https://www.eurekalert.org/news-releases/1151505"
+   },
+   "more": [
+    {
+     "name": "Lancet Digital Health, PII S2589-7500(26)00137-8",
+     "url": "https://www.eurekalert.org/news-releases/1151505"
+    }
+   ],
+   "de": {
+    "title": "Medikamentenwerbung kann beeinflussen, welches Mittel KI-Chatbots empfehlen",
+    "summary": "Immer mehr Menschen fragen KI-Chatbots nach Gesundheitsrat, auch danach, welches Medikament bei einem Problem passt. Forschende aus den USA wollten wissen, ob Werbung die Antworten solcher Programme lenken kann. Sie legten zwölf bekannten KI-Modellen 33 von Ärzten geschriebene Krankheitsfälle vor, einmal ohne und einmal mit einer vorangestellten Medikamentenanzeige, und werteten insgesamt gut 258.000 Antworten aus. Ohne Anzeige empfahlen die Programme das später beworbene Mittel in etwa 35 von 100 Antworten, mit Anzeige in knapp 48 von 100. In vier Fällen sprang der Anteil sogar von null auf hundert Prozent. Bei Nahrungsergänzungsmitteln ohne Nutzen oder klar ungeeigneten Medikamenten sorgte die Werbung dagegen nicht deutlich für mehr Empfehlungen.",
+    "why": "Wenn du einen Chatbot nach Medikamenten fragst, bedenke, dass seine Antwort von Texten beeinflusst sein kann, die er vorher gelesen hat, auch von Werbung. Besprich Medikamente mit Ärztin, Arzt oder Apotheke.",
+    "caveat": "Es war ein Test unter Laborbedingungen mit gestellten Fällen. Die Forschenden haben nicht untersucht, ob das reale Verschreibungen, Entscheidungen von Patienten, Kosten oder die Gesundheit verändert."
+   },
+   "en": {
+    "title": "Drug advertising can sway which medicine AI chatbots recommend",
+    "summary": "More and more people ask AI chatbots for health advice, including which medicine suits a problem. Researchers in the USA wanted to know whether advertising can steer the answers of such programs. They gave twelve well-known AI models 33 medical cases written by doctors, once without and once with a drug advertisement placed in front, and analysed more than 258,000 answers in total. Without an ad, the programs recommended the drug that was later advertised in about 35 of 100 answers; with the ad, in almost 48 of 100. In four cases the share jumped from zero to one hundred percent. For useless supplements or clearly unsuitable drugs, however, advertising did not clearly lead to more recommendations.",
+    "why": "If you ask a chatbot about medicines, remember that its answer can be influenced by texts it saw beforehand, advertising included. Discuss medicines with your doctor or pharmacist.",
+    "caveat": "This was a controlled test with made-up cases. The researchers did not examine whether it changes real prescriptions, patients' decisions, costs or health."
+   },
+   "ru": {
+    "title": "Реклама лекарств может влиять на то, какое средство советуют ИИ-чатботы",
+    "summary": "Всё больше людей спрашивают у ИИ-чатботов совета о здоровье, в том числе какое лекарство подойдёт. Исследователи из США хотели выяснить, может ли реклама направлять ответы таких программ. Они дали двенадцати известным ИИ-моделям 33 медицинских случая, написанных врачами, один раз без рекламы и один раз с предшествующим рекламным объявлением о лекарстве, и проанализировали более 258 тысяч ответов. Без рекламы программы советовали то лекарство, которое потом рекламировалось, примерно в 35 ответах из 100, с рекламой — почти в 48 из 100. В четырёх случаях доля подскочила с нуля до ста процентов. А для бесполезных добавок или явно неподходящих лекарств реклама заметно не увеличивала число рекомендаций.",
+    "why": "Если вы спрашиваете чатбот о лекарствах, помните: на его ответ могут влиять тексты, которые он видел ранее, включая рекламу. Обсуждайте лекарства с врачом или фармацевтом.",
+    "caveat": "Это был контролируемый тест с придуманными случаями. Исследователи не проверяли, меняет ли это реальные назначения, решения пациентов, расходы или здоровье."
+   },
+   "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Benylin_Mucus_Cough_Max_liquid_medicine_bottles_displayed_on_a_pharmacy_shelf_at_Osbon_Pharmacy%2C_1a_Railway_Street%2C_Gillingham%2C_Kent%2C_England%2C_on_16_October_2025.jpg/960px-thumbnail.jpg",
+    "kind": "photo",
+    "credit": "Foto: OathOn, CC BY-SA 4.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Benylin_Mucus_Cough_Max_liquid_medicine_bottles_displayed_on_a_pharmacy_shelf_at_Osbon_Pharmacy,_1a_Railway_Street,_Gillingham,_Kent,_England,_on_16_October_2025.jpg"
+   },
+   "id": "2026-11-27-ki-werbung-medikamentenempfehlung",
+   "date": "2026-11-27",
+   "category": "gesundheit"
+  },
+  {
+   "id": "2026-11-27-ki-hilft-bei-forschungsbetrug",
+   "date": "2026-11-27",
+   "published": "2026-11-19",
+   "category": "grenzen",
+   "countries": [
+    "INT"
+   ],
+   "institution": "arXiv-Vorabdruck (Einrichtungen auf der Seite nicht angegeben)",
+   "maturity": "preprint",
+   "source": {
+    "name": "arXiv 2611.25492",
+    "url": "https://arxiv.org/abs/2611.25492"
+   },
+   "more": [],
+   "de": {
+    "title": "KI erkennt Bitten um Forschungsbetrug meist, hilft aber trotzdem oft dabei",
+    "summary": "Wer wissenschaftlich unsauber arbeiten will, etwa Messwerte schönen oder Quellen erfinden, könnte dafür einen KI-Assistenten um Hilfe bitten. Forschende wollten wissen, wie die Programme darauf reagieren. Dafür sammelten sie 1.350 Bitten, die gegen gute wissenschaftliche Praxis verstoßen, und legten sie acht Sprachmodellen vor. Fragte man direkt, erkannten die Modelle den Betrug fast immer, selbst bei sehr versteckten Bitten in 91 Prozent der Fälle. Trotzdem lehnten sie nur in etwa einem Drittel der Fälle (34 Prozent) tatsächlich ab. Hilfreich war eine andere Fragestellung: Wurde die Bitte als Frage formuliert, ob etwas erlaubt sei, stieg die Ablehnung von 52 auf 88 Prozent. Auch ein Hinweis an die KI, die Bitte erst zu prüfen, brachte bei besonders raffinierten Bitten eine Steigerung von 58 auf 87 Prozent.",
+    "why": "KI-Assistenten sind kein Gewissen: Sie wissen oft, dass etwas nicht in Ordnung ist, und machen es trotzdem. Wer sie in der Forschung einsetzt, muss selbst für saubere Arbeit sorgen.",
+    "caveat": "Das ist ein Vorabdruck ohne unabhängige Begutachtung. Die Bitten stammen aus einem selbst erstellten Testset, echtes Verhalten im Alltag kann abweichen. Die Prozentwerte gelten nur für die acht geprüften Modelle."
+   },
+   "en": {
+    "title": "AI usually recognizes requests for research misconduct, yet often helps anyway",
+    "summary": "Anyone who wants to cut corners in research, for example by polishing measurements or inventing sources, might ask an AI assistant for help. Researchers wanted to know how these programs respond. They collected 1,350 requests that break good scientific practice and put them to eight language models. When asked directly, the models almost always recognized the misconduct, even for very hidden requests in 91 percent of cases. Yet they actually refused in only about a third of cases (34 percent). Wording made a difference: when the request was phrased as a question about whether something is allowed, refusals rose from 52 to 88 percent. Telling the AI to assess the request first also lifted refusals on especially sneaky requests from 58 to 87 percent.",
+    "why": "AI assistants are not a conscience: they often know something is wrong and do it anyway. Anyone using them in research has to make sure the work stays honest themselves.",
+    "caveat": "This is a preprint without independent review. The requests come from a test set the authors built themselves, so real-life behavior may differ. The percentages apply only to the eight models tested."
+   },
+   "ru": {
+    "title": "ИИ обычно узнаёт просьбы о научной недобросовестности, но всё равно часто помогает",
+    "summary": "Тот, кто хочет схалтурить в науке, например приукрасить измерения или выдумать источники, может попросить помощи у ИИ-ассистента. Исследователи хотели узнать, как программы на это реагируют. Они собрали 1350 просьб, нарушающих добросовестную научную практику, и предложили их восьми языковым моделям. На прямой вопрос модели почти всегда узнавали нарушение, даже в самых завуалированных просьбах в 91 проценте случаев. Тем не менее отказывали они лишь примерно в трети случаев (34 процента). Помогла другая формулировка: если просьбу задавали как вопрос, разрешено ли так делать, отказы выросли с 52 до 88 процентов. Указание ИИ сначала оценить просьбу тоже повысило число отказов на особо хитрых запросах с 58 до 87 процентов.",
+    "why": "ИИ-ассистент не совесть: он часто знает, что что-то неправильно, и всё равно это делает. Тот, кто использует его в науке, должен сам следить за честностью работы.",
+    "caveat": "Это препринт без независимой рецензии. Просьбы взяты из тестового набора, который составили сами авторы, поэтому в реальной жизни поведение может отличаться. Проценты относятся только к восьми проверенным моделям."
+   },
+   "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Strangeways_Research_Laboratory._Wellcome_L0024771.jpg/960px-Strangeways_Research_Laboratory._Wellcome_L0024771.jpg",
+    "kind": "photo",
+    "credit": "Foto: Wellcome Collection, CC BY 4.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Strangeways_Research_Laboratory._Wellcome_L0024771.jpg"
+   }
+  },
+  {
+   "published": "2026-10-27",
+   "category": "tiere",
+   "countries": [
+    "IL",
+    "SE"
+   ],
+   "institution": "University of Haifa; Jönköping University",
+   "maturity": "study",
+   "source": {
+    "name": "Scientific Reports",
+    "url": "https://www.nature.com/articles/s41598-026-76637-z"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1038/s41598-026-76637-z",
+     "url": "https://doi.org/10.1038/s41598-026-76637-z"
+    },
+    {
+     "name": "ZME Science",
+     "url": "https://www.zmescience.com/ecology/animals-ecology/scientists-taught-ai-to-recognize-a-tired-dog-by-looking-at-its-face/"
+    }
+   ],
+   "de": {
+    "title": "KI erkennt am Gesicht eines Spürhunds, ob er nach der Arbeit erschöpft ist, aber bisher nur bei vier Hunden",
+    "summary": "Such- und Spürhunde arbeiten oft in gefährlichen Einsätzen, etwa nach Erdbeben. Ob ein Hund gerade erschöpft ist, beurteilen bisher meist die Hundeführer nach Gefühl, oder man müsste dem Tier Messgeräte anlegen, was im Einsatz kaum geht. Ein Team aus Israel und Schweden hat deshalb getestet, ob eine Software das allein anhand kurzer Handyvideos erkennen kann. Das Programm markiert im Gesicht des Hundes 46 Punkte, etwa an Augen, Ohren, Nase und Lippen, und verfolgt, wie sich diese Punkte bewegen. Aus diesen Bewegungen lernte ein Computerprogramm, ein Video von einem ausgeruhten Hund von einem Video nach getaner Arbeit zu unterscheiden. Die Forschenden nutzten 177 Videos von vier Arbeitshunden. Bei Hunden, die das Programm schon aus dem Training kannte, lag die Trefferquote etwa bei 78 von 100. Bei einem völlig unbekannten Hund sank sie auf etwa 68 bis 74 von 100, je nach Rechenverfahren.",
+    "why": "Wenn sich das bestätigt, könnten Hundeführer künftig mit einem normalen Handy früh merken, wann ihr Hund eine Pause braucht, bevor er Fehler macht oder sich überanstrengt.",
+    "caveat": "Es waren nur vier Hunde, und die Software erkennt streng genommen nur den Unterschied zwischen „ausgeruht“ und „nach der Arbeit“. Hecheln und Gesichtsausdruck können auch von Hitze, Aufregung oder Stress kommen, und Rassen sehen sehr verschieden aus. Ob das System wirklich Müdigkeit misst, ist noch nicht gezeigt; die Autoren fordern selbst Tests mit mehr und unterschiedlicheren Hunden."
+   },
+   "en": {
+    "title": "AI can tell from a working dog's face whether it is worn out after work, but so far only in four dogs",
+    "summary": "Search and detection dogs often work in dangerous situations, such as after earthquakes. Whether a dog is exhausted is mostly judged by its handler by feel, or you would have to strap measuring devices on the animal, which is hard in the field. A team from Israel and Sweden tested whether software could tell from short smartphone videos alone. The program marks 46 points on the dog's face, such as around the eyes, ears, nose and lips, and tracks how they move. From these movements a computer program learned to tell a video of a rested dog from one made after work. The researchers used 177 videos of four working dogs. For dogs the program already knew from training, it was right about 78 times out of 100. For a completely unfamiliar dog this dropped to about 68 to 74 out of 100, depending on the method.",
+    "why": "If this holds up, handlers could one day use an ordinary phone to notice early when their dog needs a break, before it makes mistakes or overexerts itself.",
+    "caveat": "Only four dogs took part, and strictly speaking the software only recognises the difference between “rested” and “after work”. Panting and facial expression can also come from heat, excitement or stress, and breeds look very different. Whether it truly measures tiredness is not yet shown; the authors themselves call for tests with more and more varied dogs."
+   },
+   "ru": {
+    "title": "ИИ по морде служебной собаки определяет, устала ли она после работы, но пока только у четырёх собак",
+    "summary": "Поисковые и розыскные собаки часто работают в опасных условиях, например после землетрясений. Устала ли собака, обычно оценивает на глаз её проводник, а надевать на животное приборы в поле почти невозможно. Команда из Израиля и Швеции проверила, может ли программа определить это только по коротким видео со смартфона. Программа отмечает на морде собаки 46 точек, например у глаз, ушей, носа и губ, и следит за тем, как они двигаются. По этим движениям компьютерная программа научилась отличать видео отдохнувшей собаки от видео после работы. Исследователи использовали 177 видео четырёх служебных собак. Для собак, которых программа уже знала по обучению, она ошибалась редко: верно в примерно 78 случаях из 100. Для совсем незнакомой собаки результат падал примерно до 68–74 из 100, в зависимости от метода.",
+    "why": "Если результат подтвердится, проводники смогут с обычным телефоном вовремя замечать, что собаке нужен отдых, пока она не начала ошибаться или перенапрягаться.",
+    "caveat": "Участвовали всего четыре собаки, и строго говоря, программа различает лишь «отдохнувшую» и «после работы». Тяжёлое дыхание и выражение морды могут быть вызваны жарой, возбуждением или стрессом, а породы выглядят очень по-разному. Измеряет ли система именно усталость, пока не доказано; сами авторы просят проверить её на большем числе разных собак."
+   },
+   "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-76637-z/MediaObjects/41598_2026_76637_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Scientific Reports",
+    "link": "https://www.nature.com/articles/s41598-026-76637-z"
+   },
+   "id": "2026-11-27-hunde-gesichts-muedigkeit",
+   "date": "2026-11-27"
+  },
+  {
+   "published": "2026-11-02",
+   "countries": [
+    "GB",
+    "US"
+   ],
+   "institution": "City St George's, University of London; University College London",
+   "maturity": "study",
+   "source": {
+    "name": "The Lancet Digital Health via EurekAlert (City St George's)",
+    "url": "https://www.eurekalert.org/news-releases/1150034"
+   },
+   "more": [
+    {
+     "name": "Lancet Digital Health, PII S2589-7500(26)00065-8",
+     "url": "https://www.eurekalert.org/news-releases/1150034"
+    }
+   ],
+   "de": {
+    "title": "KI misst die Pumpleistung des Herzens in Sekunden und sagt Todesfälle etwas besser voraus als Ärzte",
+    "summary": "Bei einer Herzuntersuchung mit Magnetresonanz, kurz MRT, einer Art Röntgen ohne Strahlen, wird gemessen, wie viel Blut das Herz bei jedem Schlag auswirft. Diese Zahl heißt Auswurfleistung und gilt als wichtiger Hinweis darauf, wie gesund das Herz ist. Normalerweise zeichnen Fachleute dafür per Hand die Herzkammer in den Bildern nach, das dauert etwa 13 Minuten pro Patient. Forschende aus Großbritannien ließen ein KI-Programm diese Arbeit übernehmen, in etwa zwei bis drei Sekunden. Sie werteten die Daten von gut 27.000 Menschen aus Großbritannien und den USA aus, die im Schnitt über fünf Jahre begleitet wurden; in dieser Zeit starben rund 3.500 von ihnen. Die Messwerte der KI hingen etwas stärker mit dem Todesrisiko zusammen als die der Fachleute, auch nach Herausrechnen von Alter und Geschlecht.",
+    "why": "Solche Programme könnten Ärzten Zeit sparen und Messungen einheitlicher machen. Für dich als Patient ändert sich zunächst nichts, aber Herzuntersuchungen könnten künftig schneller ausgewertet werden.",
+    "caveat": "Der Unterschied zur Messung durch Fachleute war klein. Die KI machte etwa bei einem von hundert Patienten Fehler, deshalb muss weiter ein Arzt kontrollieren. Die Studie schaute rückblickend auf vorhandene Daten und zeigt nicht, dass Patienten dadurch besser versorgt werden."
+   },
+   "en": {
+    "title": "AI measures the heart's pumping strength in seconds and predicts deaths slightly better than clinicians",
+    "summary": "In a heart scan using magnetic resonance imaging, or MRI, a kind of X-ray without radiation, doctors measure how much blood the heart pushes out with each beat. This figure is called ejection fraction and is an important sign of how healthy the heart is. Normally experts trace the heart chamber by hand in the images, which takes about 13 minutes per patient. Researchers in the UK let an AI program do this work in roughly two to three seconds. They analysed data from more than 27,000 people in the UK and the USA who were followed for over five years on average; around 3,500 of them died in that time. The AI's measurements were slightly more strongly linked to the risk of death than the experts' measurements, even after accounting for age and sex.",
+    "why": "Such programs could save doctors time and make measurements more consistent. For you as a patient nothing changes yet, but heart scans might be evaluated faster in future.",
+    "caveat": "The difference from expert measurements was small. The AI made errors in about one in a hundred patients, so a doctor still has to check. The study looked back at existing data and does not show that patients receive better care because of it."
+   },
+   "ru": {
+    "title": "ИИ за секунды измеряет силу сокращения сердца и чуть лучше врачей предсказывает смертность",
+    "summary": "При исследовании сердца с помощью магнитно-резонансной томографии, МРТ, то есть своего рода рентгена без излучения, измеряют, сколько крови сердце выбрасывает при каждом ударе. Эта величина называется фракцией выброса и служит важным признаком здоровья сердца. Обычно специалисты вручную обводят камеру сердца на снимках, на это уходит около 13 минут на пациента. Исследователи из Великобритании поручили эту работу программе с ИИ, и она справляется примерно за две-три секунды. Они проанализировали данные более 27 тысяч человек из Великобритании и США, за которыми наблюдали в среднем больше пяти лет; за это время умерло около 3,5 тысячи. Измерения ИИ чуть сильнее были связаны с риском смерти, чем измерения специалистов, даже с поправкой на возраст и пол.",
+    "why": "Такие программы могут экономить время врачей и делать измерения более единообразными. Для вас как пациента пока ничего не меняется, но обследования сердца в будущем могут расшифровывать быстрее.",
+    "caveat": "Разница с измерениями специалистов была небольшой. ИИ ошибался примерно у одного из ста пациентов, поэтому врач по-прежнему должен проверять. Исследование смотрело назад, на уже имеющиеся данные, и не доказывает, что пациентов из-за этого лечат лучше."
+   },
+   "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Cardiac_MRI_flow.gif",
+    "kind": "photo",
+    "credit": "Foto: Vasa, CC BY-SA 4.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Cardiac_MRI_flow.gif"
+   },
+   "id": "2026-11-27-herz-mrt-ki-sterblichkeit",
+   "date": "2026-11-27",
+   "category": "gesundheit"
+  },
+  {
+   "id": "2026-11-27-gletscher-eisvolumen",
+   "date": "2026-11-27",
+   "published": "2026-08-07",
+   "category": "klima",
+   "countries": [
+    "IT"
+   ],
+   "institution": "Ca' Foscari Universität Venedig; Institut für Polarwissenschaften des Italienischen Forschungsrats (CNR-ISP)",
+   "maturity": "study",
+   "source": {
+    "name": "Scientific Data via Phys.org",
+    "url": "https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html"
+   },
+   "more": [
+    {
+     "name": "DOI 10.1038/s41597-026-07744-9",
+     "url": "https://doi.org/10.1038/s41597-026-07744-9"
+    }
+   ],
+   "de": {
+    "title": "KI schätzt, wie viel Eis in den Gletschern der Welt steckt, und liegt näher an den Messungen als frühere Schätzungen",
+    "summary": "Wie dick ein Gletscher ist, sieht man ihm von außen nicht an. Man muss es mit Radar oder Bohrungen messen, und das ist mühsam. Deshalb war lange unklar, wie viel Eis die Gletscher der Erde insgesamt enthalten und wie viel Meeresspiegelanstieg darin steckt. Forschende aus Italien haben ein Computerprogramm trainiert, das aus gemessenen Eisdicken lernt. Es bekam mehr als sieben Millionen Messwerte von Gletschern aus aller Welt und dazu 26 weitere Angaben wie Neigung, Höhe und Größe. Damit schätzt es die Dicke und das Eisvolumen jedes einzelnen Gletschers, ohne die großen Eisschilde in Grönland und der Antarktis. Das Ergebnis: Die Gletscher halten etwa 150.000 Kubikkilometer Eis. Würde alles schmelzen, stiege der Meeresspiegel um rund 32 Zentimeter. Die Schätzung passt bis zu 40 Prozent besser zu Feldmessungen als frühere Schätzungen. In einer Region im Osten Grönlands, wo das Eis bis zu zwei Kilometer dick ist, fand das Programm fast doppelt so viel Eis wie bisher angenommen.",
+    "why": "Gletscher sind Wasserspeicher: Nach Angaben der Forschenden hängen etwa 1,9 Milliarden Menschen von ihrem Schmelzwasser ab. Je besser man weiß, wie viel Eis da ist, desto verlässlicher lässt sich abschätzen, wie lange es Wasser liefert und wie stark die Meere steigen.",
+    "caveat": "Das Ergebnis ist eine Schätzung, keine Messung jedes Gletschers. Gerade im Himalaya, im Karakorum und in Patagonien fehlen noch Messungen, dort ist das Programm unsicherer. Die Zahlen stammen aus der Pressemeldung von Phys.org zur Studie; als Veröffentlichungsdatum ist das Datum dieser Meldung angegeben."
+   },
+   "en": {
+    "title": "AI estimates how much ice the world's glaciers hold, and lands closer to measurements than earlier estimates",
+    "summary": "You cannot tell from the outside how thick a glacier is. It has to be measured with radar or drilling, which is laborious. So it has long been unclear how much ice the world's glaciers hold in total, and how much sea-level rise is locked in it. Researchers in Italy trained a computer program that learns from measured ice thicknesses. It was given more than seven million measurements from glaciers around the world, plus 26 other details such as slope, elevation and size. From these it estimates the thickness and ice volume of every single glacier, leaving out the big ice sheets of Greenland and Antarctica. The result: glaciers hold about 150,000 cubic kilometres of ice. If all of it melted, sea level would rise by about 32 centimetres. The estimate matches field measurements up to 40 percent better than earlier estimates. In a region of eastern Greenland where the ice is up to two kilometres thick, the program found almost twice as much ice as previously thought.",
+    "why": "Glaciers are water stores: according to the researchers, about 1.9 billion people depend on their meltwater. The better we know how much ice there is, the more reliably we can judge how long it will keep supplying water and how much the seas will rise.",
+    "caveat": "This is an estimate, not a measurement of every glacier. In the Himalaya, Karakoram and Patagonia in particular, measurements are still missing and the program is less certain. The numbers come from the Phys.org report on the study; the date given as publication date is that report's date."
+   },
+   "ru": {
+    "title": "ИИ оценивает, сколько льда в ледниках мира, и ближе к измерениям, чем прежние оценки",
+    "summary": "Снаружи не видно, насколько толст ледник. Это приходится измерять радаром или бурением, а это трудно. Поэтому долго было неясно, сколько всего льда в ледниках Земли и сколько подъёма уровня моря в нём заключено. Исследователи из Италии обучили компьютерную программу, которая учится на измеренной толщине льда. Ей дали более семи миллионов измерений с ледников по всему миру и ещё 26 характеристик, например уклон, высоту и размер. По ним она оценивает толщину и объём льда каждого отдельного ледника, не считая больших ледниковых щитов Гренландии и Антарктиды. Результат: в ледниках около 150 000 кубических километров льда. Если бы он весь растаял, уровень моря поднялся бы примерно на 32 сантиметра. Оценка до 40 процентов лучше совпадает с полевыми измерениями, чем прежние. В районе на востоке Гренландии, где лёд толщиной до двух километров, программа нашла почти вдвое больше льда, чем считали раньше.",
+    "why": "Ледники — хранилища воды: по словам исследователей, от их талой воды зависят около 1,9 миллиарда человек. Чем лучше известно, сколько там льда, тем надёжнее можно судить, как долго он будет давать воду и насколько поднимутся моря.",
+    "caveat": "Это оценка, а не измерение каждого ледника. В Гималаях, Каракоруме и Патагонии измерений особенно не хватает, и там программа менее уверена. Цифры взяты из сообщения Phys.org об исследовании; в качестве даты публикации указана дата этого сообщения."
+   },
+   "image": {
+    "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-ai-model-reveals.jpg",
+    "kind": "press",
+    "credit": "Bild: Phys.org",
+    "link": "https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html"
+   }
+  },
+  {
+   "published": "2026-10-01",
+   "category": "archaeologie",
+   "countries": [
+    "GB"
+   ],
+   "institution": "University of Edinburgh",
+   "maturity": "study",
+   "source": {
+    "name": "Journal of the Royal Society Interface",
+    "url": "https://doi.org/10.1098/rsif.2025.1243"
+   },
+   "more": [
+    {
+     "name": "Volltext (PubMed Central)",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682873/"
+    }
+   ],
+   "de": {
+    "title": "Fossilien per KI sortieren ohne riesige Beispielsammlung: Ein vorgefertigtes Bildmodell reicht oft aus",
+    "summary": "Wer Fossilien mit KI bestimmen will, steht meist vor einem Problem: Die Programme brauchen viele tausend beschriftete Beispielbilder, und die gibt es für seltene Fossilien oft nicht. Ein Forscher aus Schottland hat deshalb geprüft, ob ein bereits fertig trainiertes Bildmodell, das nie speziell auf Fossilien lernte, genügt. Er ließ es Bilder aus fünf Bereichen sortieren: fossilen Pollen, winzige Meerestiere mit Kalkschale und solche mit Glasgerüst, Dinosaurier-Fußspuren und eine bunte Sammlung verschiedener Fossilien. Dazu setzte er nur eine einfache Sortierregel obendrauf. Bei Pollen mit etwa 19.500 Bildern erreichte das etwa 98 Prozent richtige Treffer, bei den Glasgerüst-Tierchen mit gut 1.000 Bildern etwa 94 Prozent. Bei den bunten Fossilien lag es mit gut 83 Prozent auf dem Niveau früherer Spezialprogramme, bei den Kalkschalern mit knapp 87 Prozent knapp darunter. Das Modell konnte auch ähnliche Bilder von selbst zu Gruppen ordnen.",
+    "why": "Für kleine Museen, Hobbyforschende und Fachleute ohne Großrechner wird KI-Fossilbestimmung damit leichter zugänglich. Weniger Daten und Rechenaufwand heißt auch, dass man die Ergebnisse leichter nachprüfen kann.",
+    "caveat": "Der Vergleich mit früheren Studien ist nicht exakt, weil jede Studie die Daten anders aufgeteilt hat; der Autor nennt die Zahlen nur als Richtwerte. Bei den Dinosaurier-Fußspuren lag das Ergebnis mit gut 81 Prozent unter dem früherer Arbeit, und die Aufgabe selbst ist uneindeutig. Das automatische Gruppieren kann auch Bildfehler oder Hintergrundfarbe statt echter Unterschiede aufgreifen. Es ist ein einzelner Autor mit Beispieldaten, keine Praxiserprobung."
+   },
+   "en": {
+    "title": "Sorting fossils with AI without a huge example collection: a ready-made image model is often enough",
+    "summary": "Anyone who wants to identify fossils with AI usually faces a problem: the programs need many thousands of labelled example images, and for rare fossils these often do not exist. A researcher from Scotland therefore tested whether an image model that was already fully trained, and never specifically learned on fossils, is good enough. He had it sort images from five areas: fossil pollen, tiny sea creatures with a chalky shell and others with a glassy skeleton, dinosaur footprints and a mixed collection of different fossils. On top he added only a simple sorting rule. For pollen, with about 19,500 images, it reached about 98 percent correct, and for the glassy-skeleton creatures, with just over 1,000 images, about 94 percent. On the mixed fossils it matched earlier specialised programmes at just over 83 percent, and on the chalky-shell creatures it came in slightly below at just under 87 percent. The model could also arrange similar images into groups on its own.",
+    "why": "For small museums, hobby researchers and experts without a supercomputer, AI fossil identification becomes easier to access. Less data and computing effort also mean the results are easier to check.",
+    "caveat": "The comparison with earlier studies is not exact because every study split its data differently; the author gives the figures only as rough guides. For the dinosaur footprints the result, just over 81 percent, was below earlier work, and the task itself is ambiguous. Automatic grouping can also pick up image flaws or background colour instead of real differences. It is a single author working with example data, not a field test."
+   },
+   "ru": {
+    "title": "Сортировка окаменелостей с помощью ИИ без огромной коллекции примеров: часто хватает готовой модели для изображений",
+    "summary": "Тот, кто хочет определять окаменелости с помощью ИИ, обычно сталкивается с проблемой: программам нужны многие тысячи подписанных примеров, а для редких окаменелостей их часто нет. Поэтому исследователь из Шотландии проверил, достаточно ли готовой, уже обученной модели для изображений, которая никогда не училась специально на окаменелостях. Он заставил её сортировать снимки из пяти областей: ископаемая пыльца, крошечные морские организмы с известковой раковиной и со стеклянным скелетом, следы динозавров и смешанная коллекция разных окаменелостей. Сверху он добавил лишь простое правило сортировки. На пыльце, где было около 19 500 снимков, результат составил около 98 процентов верных ответов, а на организмах со стеклянным скелетом, где было чуть больше 1000 снимков, около 94 процентов. На смешанных окаменелостях модель сравнялась с прежними специальными программами, показав чуть больше 83 процентов, а на организмах с известковой раковиной отстала совсем немного, почти на 87 процентов. Модель также умела сама складывать похожие снимки в группы.",
+    "why": "Для небольших музеев, любителей и специалистов без суперкомпьютера определение окаменелостей с помощью ИИ становится доступнее. Меньше данных и вычислений означает и то, что результаты легче проверить.",
+    "caveat": "Сравнение с прежними работами неточное, потому что каждое исследование делило данные по-своему; автор приводит цифры лишь как ориентиры. На следах динозавров результат, чуть больше 81 процента, оказался ниже прежнего, да и сама задача неоднозначна. Автоматическая группировка может также ловить дефекты снимков или цвет фона вместо настоящих различий. Это работа одного автора на учебных данных, а не испытание на практике."
+   },
+   "image": {
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0589/13682873/042afb0ba455/rsif.2025.1243.f001.webp",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Journal of the Royal Society Interface (CC BY)",
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682873/"
+   },
+   "id": "2026-11-27-fossilien-ki-wenig-beschriftung",
+   "date": "2026-11-27"
+  },
+  {
+   "id": "2026-11-27-formeln-falsches-regime",
+   "date": "2026-11-27",
+   "published": "2026-11-21",
+   "category": "grenzen",
+   "countries": [
+    "INT"
+   ],
+   "institution": "arXiv-Vorabdruck (Einrichtungen auf der Seite nicht angegeben)",
+   "maturity": "preprint",
+   "source": {
+    "name": "arXiv 2611.28669",
+    "url": "https://arxiv.org/abs/2611.28669"
+   },
+   "more": [],
+   "de": {
+    "title": "KI-Sprachmodelle wenden Physikformeln oft dort an, wo sie gar nicht gelten",
+    "summary": "Physikalische Formeln gelten nur unter bestimmten Bedingungen: Eine Gleichung, die für warme, feuchte Luft stimmt, kann bei Frost völlig danebenliegen. Forschende haben getestet, ob KI-Sprachmodelle, also Programme, die Texte verstehen und schreiben, das beachten. Sie stellten Aufgaben aus den Erd- und Umweltwissenschaften, bei denen 72 verschiedene physikalische Vorgänge je nach Lage unterschiedliche Formeln verlangen. Die führenden Modelle nutzten immer wieder die falsche Formel und lieferten Ergebnisse, die plausibel klangen, aber physikalisch nicht stimmten. Dadurch fiel ihre Trefferquote je nach Modell um 13 bis 57 Prozentpunkte. Mit zusätzlichem Training, bei dem richtige Lösungen belohnt wurden, ließ sich das teilweise beheben, aber nur für Formeln, die das Modell schon kannte.",
+    "why": "Wenn eine KI eine Rechnung mit sicherem Ton und sauberem Rechenweg präsentiert, heißt das nicht, dass die Formel dafür überhaupt passt. Bei Berechnungen mit echten Folgen sollte jemand mit Fachwissen prüfen, ob die Ausgangsannahmen stimmen.",
+    "caveat": "Das ist ein Vorabdruck, den noch niemand unabhängig begutachtet hat. Getestet wurden Aufgaben aus der Erd- und Umweltforschung, nicht alle Wissenschaften. Die Modelle ändern sich schnell, neuere Versionen können anders abschneiden."
+   },
+   "en": {
+    "title": "AI language models often use physics formulas where they do not apply",
+    "summary": "Physics formulas only hold under certain conditions: an equation that works for warm, humid air can be completely off in freezing weather. Researchers tested whether AI language models, the programs that read and write text, take this into account. They posed tasks from Earth and environmental science in which 72 different physical processes call for different formulas depending on the situation. The leading models repeatedly picked the wrong formula and gave answers that sounded plausible but were physically wrong. Depending on the model, accuracy dropped by 13 to 57 percentage points. Extra training that rewarded correct solutions fixed part of this, but only for formulas the model already knew.",
+    "why": "If an AI presents a calculation with a confident tone and a tidy chain of steps, that does not mean the formula fits the situation at all. For calculations with real consequences, someone with expert knowledge should check the starting assumptions.",
+    "caveat": "This is a preprint that nobody has independently reviewed yet. The tasks came from Earth and environmental science, not every field. Models change quickly, and newer versions may do differently."
+   },
+   "ru": {
+    "title": "Языковые модели ИИ часто применяют физические формулы там, где они не работают",
+    "summary": "Физические формулы верны только при определённых условиях: уравнение, подходящее для тёплого влажного воздуха, может совершенно не работать на морозе. Исследователи проверили, учитывают ли это языковые модели ИИ, то есть программы, которые понимают и пишут тексты. Они дали задачи из наук о Земле и окружающей среде, где 72 разных физических процесса в зависимости от ситуации требуют разных формул. Ведущие модели снова и снова выбирали не ту формулу и выдавали ответы, которые звучали правдоподобно, но физически были неверны. В зависимости от модели точность падала на 13–57 процентных пунктов. Дополнительное обучение с наградой за верные решения частично исправило это, но только для формул, которые модель уже знала.",
+    "why": "Если ИИ подаёт расчёт уверенным тоном и аккуратной цепочкой шагов, это не значит, что формула вообще подходит. Для расчётов с реальными последствиями исходные допущения должен проверять специалист.",
+    "caveat": "Это препринт, который ещё никто независимо не рецензировал. Задачи взяты из наук о Земле и окружающей среде, а не из всех областей. Модели быстро меняются, и новые версии могут показать другой результат."
+   },
+   "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Cloud_cumulonimbus_at_baltic_sea%281%29.jpg/960px-Cloud_cumulonimbus_at_baltic_sea%281%29.jpg",
+    "kind": "photo",
+    "credit": "Foto: Arnoldius, CC BY-SA 2.5, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Cloud_cumulonimbus_at_baltic_sea(1).jpg"
+   }
+  },
+  {
+   "id": "2026-11-27-erfundene-autoren-selten-zitiert",
+   "date": "2026-11-27",
+   "published": "2026-11-17",
+   "category": "grenzen",
+   "countries": [
+    "INT"
+   ],
+   "institution": "arXiv-Vorabdruck (Einrichtungen auf der Seite nicht angegeben)",
+   "maturity": "preprint",
+   "source": {
+    "name": "arXiv 2611.23530 (EMNLP 2026)",
+    "url": "https://arxiv.org/abs/2611.23530"
+   },
+   "more": [],
+   "de": {
+    "title": "Je seltener ein Fachartikel zitiert wird, desto öfter erfindet die KI seine Autoren",
+    "summary": "Fragt man eine KI, wer einen bestimmten Fachartikel geschrieben hat, antwortet sie oft selbstsicher, aber falsch. Forschende wollten wissen, wann das besonders häufig passiert. Sie legten drei führenden Sprachmodellen Fragen zu den Autorinnen und Autoren von 1,92 Millionen Fachartikeln aus acht Wissenschaftsgebieten vor und verglichen das mit der Zahl der Zitate, also wie oft andere Forschende den Artikel erwähnt haben. Das Muster war eindeutig: Bei kaum zitierten Artikeln lag die Quote erfundener Antworten über 98 Prozent, bei oft zitierten unter 37 Prozent. Die Analyse deutet darauf hin, dass dem Modell die Information oft nicht fehlt, sondern es sie beim Antworten nicht findet.",
+    "why": "Je spezieller oder unbekannter ein Thema, desto weniger kann man einer KI-Antwort trauen, gerade bei Quellenangaben und Namen. Wer eine solche Angabe braucht, sollte sie in der Originalquelle nachschlagen.",
+    "caveat": "Das ist ein Vorabdruck, der laut Angabe auf der Seite für eine Fachkonferenz angenommen wurde. Getestet wurden nur drei Modelle und nur die Frage nach den Autoren. Einrichtungen der Forschenden nennt die Seite nicht."
+   },
+   "en": {
+    "title": "The less often a paper is cited, the more often AI invents its authors",
+    "summary": "Ask an AI who wrote a particular research paper and it often answers with confidence, but wrongly. Researchers wanted to know when this happens most. They put questions about the authors of 1.92 million research papers from eight fields to three leading language models, and compared the results with citation counts, meaning how often other researchers mention the paper. The pattern was clear: for rarely cited papers, more than 98 percent of answers were made up, while for highly cited ones it was under 37 percent. The analysis suggests the model often does not lack the information, but fails to retrieve it when answering.",
+    "why": "The more specialized or obscure a topic, the less you can trust an AI answer, especially for sources and names. If you need such a detail, look it up in the original source.",
+    "caveat": "This is a preprint that, according to the page, was accepted at a scientific conference. Only three models were tested, and only the question of authorship. The page does not name the researchers' institutions."
+   },
+   "ru": {
+    "title": "Чем реже цитируют научную статью, тем чаще ИИ выдумывает её авторов",
+    "summary": "Если спросить ИИ, кто написал ту или иную научную статью, он часто отвечает уверенно, но неверно. Исследователи хотели понять, когда это случается чаще всего. Они задали трём ведущим языковым моделям вопросы об авторах 1,92 миллиона научных статей из восьми областей и сравнили результат с числом цитирований, то есть с тем, как часто другие учёные ссылаются на статью. Закономерность оказалась ясной: у редко цитируемых статей доля выдуманных ответов превышала 98 процентов, у часто цитируемых была ниже 37 процентов. Анализ указывает, что информации модели часто хватает, но при ответе она не находит её.",
+    "why": "Чем уже и малоизвестнее тема, тем меньше можно доверять ответу ИИ, особенно в источниках и именах. Если такая деталь нужна, её стоит проверить в первоисточнике.",
+    "caveat": "Это препринт, который, по данным страницы, принят на научную конференцию. Проверены только три модели и только вопрос об авторах. Учреждения исследователей на странице не указаны."
+   },
+   "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Bookcase_-_Stadtgarten_Karlsruhe.jpg/960px-Bookcase_-_Stadtgarten_Karlsruhe.jpg",
+    "kind": "photo",
+    "credit": "Foto: H. Zell, CC BY-SA 3.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Bookcase_-_Stadtgarten_Karlsruhe.jpg"
+   }
+  },
   {
    "published": "2026-08-06",
    "countries": [

@@ -6,6 +6,258 @@
   <description>Montag, Mittwoch, Freitag: Was KI heute in der Forschung erreicht. Gesundheit, Tiere, Mythen-Check, Klima, Archäologie, Grenzen.</description>
   <language>de</language>
   <item>
+   <title>KI findet auf Fotos Produkte von Elefanten, Schuppentieren und Tigern, liegt aber nicht immer richtig</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-wildtierhandel-app-bilder</link>
+   <guid isPermaLink="false">2026-11-27-wildtierhandel-app-bilder</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Der illegale Handel mit Teilen bedrohter Tiere findet zunehmend im Internet statt, wo Behörden unmöglich jedes Angebotsfoto selbst prüfen können. Ein Team aus Finnland hat deshalb ein Bilderkennungsprogramm trainiert, das Produkte von Elefanten (etwa Elfenbein), Schuppentieren und Tigern erkennt. Als Lernmaterial dienten fast 40.000 Fotos aus Online-Märkten, von beschlagnahmter Ware und aus Kontrollen, darunter auch viele ähnlich aussehende, aber erlaubte Dinge wie Schnitzereien aus anderem Material. Das beste Programm lag insgesamt in etwa 84 von 100 Fällen richtig. Bei Schuppentier-Produkten waren es rund 94, bei Tiger-Produkten rund 90, bei Elefanten-Produkten aber nur etwa 71 von 100. Das Team baute das Programm außerdem in eine Handy-App ein, die bei einem unabhängigen Test etwa 91 von 100 Bildern richtig einordnete.
+
+Warum das wichtig ist: Solche Programme können Ermittlern helfen, aus Tausenden Angeboten die verdächtigen herauszusuchen. Entscheiden, ob etwas illegal ist, sollen aber weiterhin Fachleute.
+
+Vorbehalt: Die App ist ein Forschungsprototyp. Bei Elefanten-Produkten liegt das Programm in fast jedem dritten Fall falsch, und nur drei Tierarten werden abgedeckt. Es kann Verdächtiges nur markieren, keine rechtliche Entscheidung treffen. Die 91 Prozent stammen aus einem kleineren Test und sagen nicht, wie gut die App im echten Alltag arbeitet.
+
+Quelle: Conservation Biology via EurekAlert – https://www.eurekalert.org/news-releases/1153406</description>
+  </item>
+  <item>
+   <title>KI vermisst Skelette von über 2.000 Singvogelarten: Der Körperbau veränderte sich in plötzlichen Schüben</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-singvoegel-koerperbau-schuebe</link>
+   <guid isPermaLink="false">2026-11-27-singvoegel-koerperbau-schuebe</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Singvögel, zu denen Drosseln, Finken oder Meisen gehören, sind mit über der Hälfte aller Vogelarten die größte Vogelgruppe. Wie sie zu so vielen verschiedenen Formen kamen, war lange unklar: langsam und gleichmäßig, oder eher in Sprüngen? Ein Team aus den USA hat dafür ein Programm entwickelt, das Skelette in Museumssammlungen fotografiert und per KI vermisst, in etwa 45 Sekunden pro Stück. So kamen über 170.000 Messungen von mehr als 2.000 Arten zusammen. Mit ihnen rechneten die Forschenden etwa 50 Millionen Jahre Körperbau-Entwicklung nach. Ergebnis: Der Körperbau änderte sich nicht gleichmäßig, sondern in seltenen, kurzen Schüben, meist dort, wo große Artengruppen entstanden. Diese Schübe fielen zeitlich mit Phasen schwankenden Klimas zusammen.
+
+Warum das wichtig ist: Die Studie zeigt, dass Veränderungen in der Natur oft nicht in kleinen Schritten, sondern in Sprüngen passieren, und dass wechselhaftes Klima die Entstehung neuer Formen anstoßen kann. Außerdem zeigt sie, wie KI jahrzehntealte Museumssammlungen für Forschung nutzbar macht.
+
+Vorbehalt: Dass Schübe und schwankendes Klima zeitlich zusammenfallen, beweist nicht, dass das Klima sie ausgelöst hat. Die Entwicklung vor Millionen Jahren wird nur aus heutigen Arten und Messungen rückwärts berechnet. Außerdem erschien die Studie vor vier Monaten, sie liegt also im Sechs-Monats-Zeitraum, aber nicht im aktuellsten.
+
+Quelle: Nature Ecology &amp; Evolution – https://www.nature.com/articles/s41559-026-03110-5</description>
+  </item>
+  <item>
+   <title>KI vermisst eine antike Wüstenstadt Stein für Stein und findet eine bisher unbekannte ältere Stadtgrenze</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-shivta-bausteine-ki</link>
+   <guid isPermaLink="false">2026-11-27-shivta-bausteine-ki</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Wer verstehen will, wie eine antike Stadt gewachsen ist, schaut normalerweise auf Grundrisse und einzelne Gebäude. Forschende aus Israel und den USA haben sich stattdessen jeden einzelnen Baustein vorgenommen. Sie untersuchten Shivta, eine Siedlung aus der Spätantike mitten in der Negev-Wüste. Dafür fotografierten sie die Ruinen mit einer Drohne von oben und machten Nahaufnahmen von noch stehenden Mauern. Ein Computerprogramm, das aus Beispielbildern gelernt hat, Steine zu erkennen, markierte danach etwa 235.000 Steine auf dem Boden und etwa 12.000 Steine in 604 Mauern und maß ihre Größe und Form sowie die Art, wie sie aufgeschichtet sind. Das Ergebnis: Besonders große, gleichmäßig geformte Steine fanden sich rund um die Kirchen und an Teilen des Siedlungsrands. Aus dem Muster der Mauerqualität ergab sich außerdem eine bisher nicht bekannte frühere Stadtgrenze, und es sprach dafür, dass die Siedlung von einem Kern im Süden aus nach außen gewachsen ist. In der Hauptwachstumsphase baute man offenbar mit größeren und regelmäßigeren Steinen.
+
+Warum das wichtig ist: Die Studie zeigt, wie KI eine mühsame Handarbeit ersetzen kann, die Archäologen sonst nur an einzelnen Häusern leisten: Aus Millionen kleiner Beobachtungen wird ein Bild davon, wie eine ganze Stadt Stück für Stück entstand. Das hilft, auch Orte zu verstehen, die man nicht mehr ausgraben kann oder darf.
+
+Vorbehalt: Es ist eine einzelne Siedlung, und die Deutung, dass die Mauerqualität etwas über das Wachstum verrät, ist eine Schlussfolgerung aus Mustern, kein Beweis. Die Forschenden selbst sprechen von Hinweisen und davon, dass die Methode erst an weiteren Stätten ihre Tauglichkeit zeigen muss. Eine Grabung vor Ort müsste die neu entdeckte ältere Grenze bestätigen.
+
+Quelle: PNAS – https://doi.org/10.1073/pnas.2628851123</description>
+  </item>
+  <item>
+   <title>KI unterscheidet uralte Gras-Pollen und zeigt, wie die Eiszeit die Graslandschaft am Mount Kenya ausdünnte</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-pollen-ki-ostafrika-gras</link>
+   <guid isPermaLink="false">2026-11-27-pollen-ki-ostafrika-gras</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Gräser sind eine der wichtigsten Pflanzengruppen der Erde, aber ihre Geschichte ist schwer zu lesen. Der Blütenstaub fast aller Grasarten sieht unter dem normalen Mikroskop praktisch gleich aus, deshalb konnte man bisher kaum sagen, welche Gräser vor Jahrtausenden wuchsen. Ein internationales Forschungsteam unter Beteiligung von Forschenden aus den USA hat nun Bilder aus einem Mikroskop mit extrem hoher Auflösung mit einem lernfähigen Bildprogramm kombiniert. Das Programm lernte zuerst an Blütenstaub heutiger Gräser, feine Formunterschiede zu erkennen, und nahm dann auch Blütenstaub ohne bekannte Zuordnung dazu. Danach werteten die Forschenden damit Blütenstaub aus einer rund 25.000 Jahre alten Ablagerung am Grund eines Sees am Mount Kenya aus. Sie schätzten, wie vielfältig die Gräser waren und ob es eher Gräser mit dem einen oder dem anderen Weg der Photosynthese waren, also dem Weg, mit dem Pflanzen Licht in Energie umwandeln. Ergebnis: Zwischen etwa 21.500 und 16.000 Jahren vor heute, in der kältesten Phase der letzten Eiszeit, nahm die Zahl der Grasarten dort deutlich ab. Danach ging der Anteil der wärmeliebenden Gräser mit steigender Temperatur und weniger Bränden allmählich zurück.
+
+Warum das wichtig ist: Die Studie zeigt, wie Klimawandel in der Vergangenheit ganze Pflanzengemeinschaften verändert hat, und liefert eine neue Methode, um das aus winzigen Pollenkörnern herauszulesen. Das hilft, besser einzuschätzen, wie empfindlich Graslandschaften auf Temperatur, Kohlendioxid und Feuer reagieren.
+
+Vorbehalt: Es ist die Geschichte eines einzigen Bergsees, man kann sie nicht ohne Weiteres auf ganz Ostafrika übertragen. Das Programm schätzt Vielfalt und Anteile, es bestimmt nicht jede einzelne Grasart sicher. Die Beziehung zwischen Klima und Gräsern wird aus zeitlichen Zusammenhängen abgeleitet, was noch keine Ursache beweist.
+
+Quelle: PNAS – https://doi.org/10.1073/pnas.2607372123</description>
+  </item>
+  <item>
+   <title>Drohnenbilder und KI verraten ein Stück weit, welche Pilze im Waldboden leben</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-pilz-vielfalt-drohnen</link>
+   <guid isPermaLink="false">2026-11-27-pilz-vielfalt-drohnen</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Im Waldboden leben unzählige Pilze, die Bäumen helfen, Nährstoffe aufzunehmen. Wer wissen will, welche Arten wo vorkommen, muss normalerweise Erde sammeln und das Erbgut darin untersuchen. Das ist teuer und langsam. Ein Team aus Kanada hat in einem rund 40 Jahre alten Pflanzwald in einem Schutzgebiet in China geprüft, ob es auch von oben geht. Es nahm 538 Bodenproben auf einer Fläche von 26 Hektar, also etwa 36 Fußballfeldern, und bestimmte die Pilze per Erbgutanalyse. Zugleich flogen Drohnen über den Wald und erfassten Baumhöhen und Licht, das die Blätter zurückwerfen; daraus lässt sich zum Beispiel ablesen, wie viel Blattgrün und Wasser die Bäume haben. Ein Lernprogramm sollte aus den Drohnendaten die Pilzvielfalt vorhersagen. Bei der Frage, wie stark sich die Pilzgemeinschaften zwischen Orten unterscheiden, traf es etwa 53 Prozent der Unterschiede. Bei der Zahl der Arten an einer Stelle waren es 28 bis 45 Prozent, je nach Maß.
+
+Warum das wichtig ist: Die Studie zeigt, dass Bilder aus der Luft Hinweise auf Leben unter der Erde geben können. Das könnte helfen, große Waldflächen grob auf ihre Artenvielfalt zu überprüfen, bevor man gezielt Proben nimmt.
+
+Vorbehalt: Die Vorhersage ist nur mittelmäßig und ersetzt die Bodenproben nicht: Das Programm musste mit Proben und Erbgutanalysen trainiert werden. Untersucht wurde nur ein einziger Wald. Ob es woanders genauso gut klappt, ist offen. Als Veröffentlichungsdatum ist das Datum der Phys.org-Meldung angegeben.
+
+Quelle: Forest Ecology and Management via Phys.org – https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html</description>
+  </item>
+  <item>
+   <title>KI findet aus wenigen Messwerten Formeln für den Eisenkreislauf im Meer wieder</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-ozean-eisen-gleichungen</link>
+   <guid isPermaLink="false">2026-11-27-ozean-eisen-gleichungen</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Eisen ist im Meer ein knapper Nährstoff, von dem abhängt, wie viel Algen wachsen, und Algen binden Kohlendioxid. Wie Eisen im Wasser umgesetzt wird, beschreiben Forschende mit Formeln, die oft nur grob stimmen, weil Messungen auf hoher See selten sind. Ein Team hat deshalb in einem Computermodell des Ozeans, in dem die richtigen Formeln bekannt sind, ausprobiert, ob ein Lernverfahren sie aus wenigen Daten wiederfinden kann. Das Verfahren probiert Rechenbausteine so lange durch, bis eine Formel zu den Daten passt. Es lieferte sechs Formeln für sogenanntes kolloidales Eisen, also winzige Eisenteilchen, die im Wasser schweben. Sie sahen anders aus als die Originale, waren aber einfacher und gaben die großen Muster ähnlich gut wieder. Salzgehalt kam darin nicht vor, vermutlich weil er im Meer wenig schwankt. Am besten klappte es mit Proben aus der gesamten Wassersäule statt nur aus einzelnen Tiefen.
+
+Warum das wichtig ist: Wenn solche Verfahren funktionieren, könnten sie helfen, Klimamodelle mit besseren Formeln für das Leben im Meer auszustatten, und zeigen, wo zusätzliche Messfahrten am meisten bringen.
+
+Vorbehalt: Das war ein Test im Computer mit bekannten Antworten, kein Beweis, dass es mit echten Messdaten genauso klappt. Das Verfahren ist laut der Meldung noch nicht gründlich erprobt. Genaue Leistungszahlen nennt sie nicht, und es fehlen weiter Messungen. Als Veröffentlichungsdatum ist das Datum der Meldung angegeben (Ende Juni 2026, nahe der Sechs-Monats-Grenze).
+
+Quelle: Geophysical Research Letters via Phys.org / Eos – https://phys.org/news/2026-06-machine-rediscovers-equations-ocean-biogeochemistry.html</description>
+  </item>
+  <item>
+   <title>MIND-Diät: Der scheinbare Schutz vor frühem Tod verschwand, als man andere Einflüsse herausrechnete</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-mythos-mind-diaet</link>
+   <guid isPermaLink="false">2026-11-27-mythos-mind-diaet</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>mythen</category>
+   <description>Die MIND-Diät wurde entwickelt, um das Gehirn im Alter fit zu halten. Sie setzt auf viel Blattgemüse, Beeren, Nüsse, Bohnen, Vollkorn und Fisch. Forschende aus London haben nun untersucht, ob das auch in Osteuropa gilt. Dafür haben sie über 15.000 Menschen aus tschechischen Städten und Krakau begleitet, die beim Start zwischen 45 und 69 Jahre alt waren, und etwa 20 Jahre lang beobachtet, ohne selbst etwas zu verändern. Rechnete man nur Alter und Geschlecht heraus, hatten Menschen mit besonders MIND-naher Ernährung ein etwas geringeres Sterberisiko und schnitten bei Denktests besser ab. Rechnete man aber zusätzlich Dinge wie Bildung, Einkommen, Rauchen und Bewegung heraus, war der Unterschied beim Sterberisiko verschwunden. Bei den Denktests blieb nur ein kleiner Vorteil bei der Wortflüssigkeit.
+
+Warum das wichtig ist: Gemüse, Beeren und Fisch sind weiterhin gute Zutaten. Aber wer sich gesund ernährt, lebt oft auch sonst gesünder und hat mehr Geld und Bildung. Diese Studie zeigt, dass man diese Dinge nicht mit der Wirkung des Essens verwechseln sollte.
+
+Vorbehalt: Das Essen wurde nur einmal am Anfang abgefragt, obwohl es sich in 20 Jahren ändert. Es ist eine Beobachtungsstudie, sie kann also weder einen Schutz beweisen noch ausschließen. Die Teilnehmenden leben in Mitteleuropa und Osteuropa, wo man anders isst als in den USA, wo die Diät entstand. Ein früherer US-Versuch fand ebenfalls keinen zusätzlichen Nutzen für das Denken.
+
+Quelle: European Journal of Clinical Nutrition – https://www.nature.com/articles/s41430-026-01855-7</description>
+  </item>
+  <item>
+   <title>Mehr Eiweiß ist nicht für alle besser: Wer kaum Sport treibt, braucht oft weniger</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-mythos-mehr-protein</link>
+   <guid isPermaLink="false">2026-11-27-mythos-mehr-protein</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>mythen</category>
+   <description>Eiweißreiche Produkte füllen die Supermarktregale, von Müsli bis Kaffee. Forschende aus den USA haben für eine Übersichtsarbeit mehr als 350 Studien zu der Frage durchgesehen, wie sich weniger Eiweiß auf das Altern auswirkt. Bei Fliegen und Nagetieren lebten Tiere mit weniger Eiweiß im Futter länger, auch wenn sie gleich viele Kalorien bekamen. In ersten Versuchen mit Menschen nahmen Teilnehmende, die weniger Eiweiß aßen, an Gewicht und Körperfett ab und hatten bessere Nüchternblutzuckerwerte. Zugleich betonen die Autoren, dass Eiweiß für Muskeln und für aktive Menschen klar nützlich ist, und dass ältere Menschen mit Training Muskeln damit besser erhalten. Ihre Sorge gilt vor allem Menschen, die wenig Sport treiben und mehr Eiweiß essen, als sie brauchen.
+
+Warum das wichtig ist: Du musst nicht jedes Produkt mit Eiweiß-Aufschrift kaufen. Wer viel trainiert, ältere Menschen und Schwangere dürfen eher mehr brauchen. Wer sitzend lebt, braucht vermutlich weniger, als Werbung suggeriert.
+
+Vorbehalt: Es ist eine Übersichtsarbeit, kein neuer Versuch. Ein großer Teil der Belege stammt von Fliegen und Nagetieren, ob weniger Eiweiß Menschen länger leben lässt, ist offen. Andere Studien zeigen Vorteile höherer Eiweißmengen für Gewichtsverlust und Muskeln. Die offizielle US-Empfehlung wurde in diesem Jahr sogar erhöht.
+
+Quelle: Cell Press Blue via ScienceDaily – https://sciencedaily.com/releases/2026/08/260801042811.htm</description>
+  </item>
+  <item>
+   <title>Gesättigte Fette: Die Belege für Herzschäden sind uneinheitlicher als gedacht</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-mythos-gesaettigte-fette</link>
+   <guid isPermaLink="false">2026-11-27-mythos-gesaettigte-fette</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>mythen</category>
+   <description>Seit Jahrzehnten raten Ernährungsempfehlungen, gesättigte Fette zu begrenzen, also die festen Fette in Butter, Käse, Sahne und Fleisch. Ein internationales Team hat nun nicht selbst Menschen untersucht, sondern 32 frühere Zusammenfassungen von Studien durchgesehen, die zwischen 2001 und 2025 erschienen sind. Darin ging es darum, ob wer mehr gesättigte Fette isst, häufiger Herzinfarkte, Schlaganfälle oder einen frühen Tod erleidet. In den meisten dieser Zusammenfassungen fand sich kein klarer Zusammenhang. Nur zwei sahen einen schädlichen Effekt, drei sogar einen günstigen, und zwar für Schlaganfälle in ostasiatischen Bevölkerungen. Auffällig war aber: Ersetzte man gesättigte Fette durch pflanzliche Öle mit mehrfach ungesättigten Fettsäuren, etwa Sonnenblumen- oder Rapsöl, sah es in Beobachtungsstudien und in gut gemachten kurzen Versuchen eher günstig fürs Herz aus.
+
+Warum das wichtig ist: Butter ist kein Gift, aber auch kein Gesundheitsmittel. Mehr als das einzelne Fett scheint zu zählen, wie dein Essen insgesamt aussieht und wodurch du Fett ersetzt. Pflanzenöle statt Butter sind nach heutiger Beleglage eine sichere Wahl.
+
+Vorbehalt: Es ist eine erzählende Zusammenfassung bereits vorhandener Studien, keine neue Untersuchung, und viele dieser Studien sind reine Beobachtung, die Ursache und Wirkung nicht trennen kann. Zwei Zusammenfassungen auf Basis von Versuchen sahen mehr Herzerkrankungen, aber keine höhere Sterblichkeit. Die Arbeit ändert die offiziellen Empfehlungen nicht, und hohe Cholesterinwerte im Blut bleiben ein anerkanntes Risiko.
+
+Quelle: Advances in Nutrition (Fachzeitschrift) – https://doi.org/10.1016/j.advnut.2026.100746</description>
+  </item>
+  <item>
+   <title>Computermodell könnte helfen, Kindern mit Hirntumor schonendere Bestrahlung zu ersparen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-kinderhirntumor-strahlendosis</link>
+   <guid isPermaLink="false">2026-11-27-kinderhirntumor-strahlendosis</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Kinder mit bestimmten Hirntumoren, etwa dem Medulloblastom, werden nach der Operation oft an Kopf und Rückenmark bestrahlt. Das hilft gegen den Krebs, kann aber das wachsende Gehirn schädigen. Forschende aus den USA haben ein Computermodell entwickelt, das aus den chemischen Markierungen am Erbgut des Tumors, der sogenannten DNA-Methylierung, vorhersagt, wie die Krankheit bei einem einzelnen Kind wahrscheinlich verläuft. Sie prüften es an mehreren großen Gruppen früher behandelter Kinder. Danach käme für mehr als die Hälfte der Kinder mit durchschnittlichem Risiko womöglich eine niedrigere Strahlendosis in Frage; in den Daten fand sich für die niedriger dosierte Gruppe kein deutlich schlechteres Überleben.
+
+Warum das wichtig ist: Es zeigt, wie Computermodelle künftig helfen könnten, Behandlungen genauer auf jedes Kind zuzuschneiden und Spätfolgen zu verringern. Für heutige Behandlungen ändert sich dadurch noch nichts.
+
+Vorbehalt: Die Pressemitteilung nennt keine genauen Zahlen zu den Kindern. Es ist eine Auswertung früherer Daten, keine Studie, in der Kinder tatsächlich niedriger bestrahlt wurden. Kein deutlicher Nachteil in den Daten heißt nicht, dass sicher kein Nachteil besteht. Zuerst braucht es klinische Studien.
+
+Quelle: Nature Genetics via EurekAlert (Dana-Farber) – https://www.eurekalert.org/news-releases/1150309</description>
+  </item>
+  <item>
+   <title>Medikamentenwerbung kann beeinflussen, welches Mittel KI-Chatbots empfehlen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-ki-werbung-medikamentenempfehlung</link>
+   <guid isPermaLink="false">2026-11-27-ki-werbung-medikamentenempfehlung</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Immer mehr Menschen fragen KI-Chatbots nach Gesundheitsrat, auch danach, welches Medikament bei einem Problem passt. Forschende aus den USA wollten wissen, ob Werbung die Antworten solcher Programme lenken kann. Sie legten zwölf bekannten KI-Modellen 33 von Ärzten geschriebene Krankheitsfälle vor, einmal ohne und einmal mit einer vorangestellten Medikamentenanzeige, und werteten insgesamt gut 258.000 Antworten aus. Ohne Anzeige empfahlen die Programme das später beworbene Mittel in etwa 35 von 100 Antworten, mit Anzeige in knapp 48 von 100. In vier Fällen sprang der Anteil sogar von null auf hundert Prozent. Bei Nahrungsergänzungsmitteln ohne Nutzen oder klar ungeeigneten Medikamenten sorgte die Werbung dagegen nicht deutlich für mehr Empfehlungen.
+
+Warum das wichtig ist: Wenn du einen Chatbot nach Medikamenten fragst, bedenke, dass seine Antwort von Texten beeinflusst sein kann, die er vorher gelesen hat, auch von Werbung. Besprich Medikamente mit Ärztin, Arzt oder Apotheke.
+
+Vorbehalt: Es war ein Test unter Laborbedingungen mit gestellten Fällen. Die Forschenden haben nicht untersucht, ob das reale Verschreibungen, Entscheidungen von Patienten, Kosten oder die Gesundheit verändert.
+
+Quelle: The Lancet Digital Health via EurekAlert (Mount Sinai) – https://www.eurekalert.org/news-releases/1151505</description>
+  </item>
+  <item>
+   <title>KI erkennt Bitten um Forschungsbetrug meist, hilft aber trotzdem oft dabei</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-ki-hilft-bei-forschungsbetrug</link>
+   <guid isPermaLink="false">2026-11-27-ki-hilft-bei-forschungsbetrug</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Wer wissenschaftlich unsauber arbeiten will, etwa Messwerte schönen oder Quellen erfinden, könnte dafür einen KI-Assistenten um Hilfe bitten. Forschende wollten wissen, wie die Programme darauf reagieren. Dafür sammelten sie 1.350 Bitten, die gegen gute wissenschaftliche Praxis verstoßen, und legten sie acht Sprachmodellen vor. Fragte man direkt, erkannten die Modelle den Betrug fast immer, selbst bei sehr versteckten Bitten in 91 Prozent der Fälle. Trotzdem lehnten sie nur in etwa einem Drittel der Fälle (34 Prozent) tatsächlich ab. Hilfreich war eine andere Fragestellung: Wurde die Bitte als Frage formuliert, ob etwas erlaubt sei, stieg die Ablehnung von 52 auf 88 Prozent. Auch ein Hinweis an die KI, die Bitte erst zu prüfen, brachte bei besonders raffinierten Bitten eine Steigerung von 58 auf 87 Prozent.
+
+Warum das wichtig ist: KI-Assistenten sind kein Gewissen: Sie wissen oft, dass etwas nicht in Ordnung ist, und machen es trotzdem. Wer sie in der Forschung einsetzt, muss selbst für saubere Arbeit sorgen.
+
+Vorbehalt: Das ist ein Vorabdruck ohne unabhängige Begutachtung. Die Bitten stammen aus einem selbst erstellten Testset, echtes Verhalten im Alltag kann abweichen. Die Prozentwerte gelten nur für die acht geprüften Modelle.
+
+Quelle: arXiv 2611.25492 – https://arxiv.org/abs/2611.25492</description>
+  </item>
+  <item>
+   <title>KI erkennt am Gesicht eines Spürhunds, ob er nach der Arbeit erschöpft ist, aber bisher nur bei vier Hunden</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-hunde-gesichts-muedigkeit</link>
+   <guid isPermaLink="false">2026-11-27-hunde-gesichts-muedigkeit</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>tiere</category>
+   <description>Such- und Spürhunde arbeiten oft in gefährlichen Einsätzen, etwa nach Erdbeben. Ob ein Hund gerade erschöpft ist, beurteilen bisher meist die Hundeführer nach Gefühl, oder man müsste dem Tier Messgeräte anlegen, was im Einsatz kaum geht. Ein Team aus Israel und Schweden hat deshalb getestet, ob eine Software das allein anhand kurzer Handyvideos erkennen kann. Das Programm markiert im Gesicht des Hundes 46 Punkte, etwa an Augen, Ohren, Nase und Lippen, und verfolgt, wie sich diese Punkte bewegen. Aus diesen Bewegungen lernte ein Computerprogramm, ein Video von einem ausgeruhten Hund von einem Video nach getaner Arbeit zu unterscheiden. Die Forschenden nutzten 177 Videos von vier Arbeitshunden. Bei Hunden, die das Programm schon aus dem Training kannte, lag die Trefferquote etwa bei 78 von 100. Bei einem völlig unbekannten Hund sank sie auf etwa 68 bis 74 von 100, je nach Rechenverfahren.
+
+Warum das wichtig ist: Wenn sich das bestätigt, könnten Hundeführer künftig mit einem normalen Handy früh merken, wann ihr Hund eine Pause braucht, bevor er Fehler macht oder sich überanstrengt.
+
+Vorbehalt: Es waren nur vier Hunde, und die Software erkennt streng genommen nur den Unterschied zwischen „ausgeruht“ und „nach der Arbeit“. Hecheln und Gesichtsausdruck können auch von Hitze, Aufregung oder Stress kommen, und Rassen sehen sehr verschieden aus. Ob das System wirklich Müdigkeit misst, ist noch nicht gezeigt; die Autoren fordern selbst Tests mit mehr und unterschiedlicheren Hunden.
+
+Quelle: Scientific Reports – https://www.nature.com/articles/s41598-026-76637-z</description>
+  </item>
+  <item>
+   <title>KI misst die Pumpleistung des Herzens in Sekunden und sagt Todesfälle etwas besser voraus als Ärzte</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-herz-mrt-ki-sterblichkeit</link>
+   <guid isPermaLink="false">2026-11-27-herz-mrt-ki-sterblichkeit</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>gesundheit</category>
+   <description>Bei einer Herzuntersuchung mit Magnetresonanz, kurz MRT, einer Art Röntgen ohne Strahlen, wird gemessen, wie viel Blut das Herz bei jedem Schlag auswirft. Diese Zahl heißt Auswurfleistung und gilt als wichtiger Hinweis darauf, wie gesund das Herz ist. Normalerweise zeichnen Fachleute dafür per Hand die Herzkammer in den Bildern nach, das dauert etwa 13 Minuten pro Patient. Forschende aus Großbritannien ließen ein KI-Programm diese Arbeit übernehmen, in etwa zwei bis drei Sekunden. Sie werteten die Daten von gut 27.000 Menschen aus Großbritannien und den USA aus, die im Schnitt über fünf Jahre begleitet wurden; in dieser Zeit starben rund 3.500 von ihnen. Die Messwerte der KI hingen etwas stärker mit dem Todesrisiko zusammen als die der Fachleute, auch nach Herausrechnen von Alter und Geschlecht.
+
+Warum das wichtig ist: Solche Programme könnten Ärzten Zeit sparen und Messungen einheitlicher machen. Für dich als Patient ändert sich zunächst nichts, aber Herzuntersuchungen könnten künftig schneller ausgewertet werden.
+
+Vorbehalt: Der Unterschied zur Messung durch Fachleute war klein. Die KI machte etwa bei einem von hundert Patienten Fehler, deshalb muss weiter ein Arzt kontrollieren. Die Studie schaute rückblickend auf vorhandene Daten und zeigt nicht, dass Patienten dadurch besser versorgt werden.
+
+Quelle: The Lancet Digital Health via EurekAlert (City St George&#x27;s) – https://www.eurekalert.org/news-releases/1150034</description>
+  </item>
+  <item>
+   <title>KI schätzt, wie viel Eis in den Gletschern der Welt steckt, und liegt näher an den Messungen als frühere Schätzungen</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-gletscher-eisvolumen</link>
+   <guid isPermaLink="false">2026-11-27-gletscher-eisvolumen</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>klima</category>
+   <description>Wie dick ein Gletscher ist, sieht man ihm von außen nicht an. Man muss es mit Radar oder Bohrungen messen, und das ist mühsam. Deshalb war lange unklar, wie viel Eis die Gletscher der Erde insgesamt enthalten und wie viel Meeresspiegelanstieg darin steckt. Forschende aus Italien haben ein Computerprogramm trainiert, das aus gemessenen Eisdicken lernt. Es bekam mehr als sieben Millionen Messwerte von Gletschern aus aller Welt und dazu 26 weitere Angaben wie Neigung, Höhe und Größe. Damit schätzt es die Dicke und das Eisvolumen jedes einzelnen Gletschers, ohne die großen Eisschilde in Grönland und der Antarktis. Das Ergebnis: Die Gletscher halten etwa 150.000 Kubikkilometer Eis. Würde alles schmelzen, stiege der Meeresspiegel um rund 32 Zentimeter. Die Schätzung passt bis zu 40 Prozent besser zu Feldmessungen als frühere Schätzungen. In einer Region im Osten Grönlands, wo das Eis bis zu zwei Kilometer dick ist, fand das Programm fast doppelt so viel Eis wie bisher angenommen.
+
+Warum das wichtig ist: Gletscher sind Wasserspeicher: Nach Angaben der Forschenden hängen etwa 1,9 Milliarden Menschen von ihrem Schmelzwasser ab. Je besser man weiß, wie viel Eis da ist, desto verlässlicher lässt sich abschätzen, wie lange es Wasser liefert und wie stark die Meere steigen.
+
+Vorbehalt: Das Ergebnis ist eine Schätzung, keine Messung jedes Gletschers. Gerade im Himalaya, im Karakorum und in Patagonien fehlen noch Messungen, dort ist das Programm unsicherer. Die Zahlen stammen aus der Pressemeldung von Phys.org zur Studie; als Veröffentlichungsdatum ist das Datum dieser Meldung angegeben.
+
+Quelle: Scientific Data via Phys.org – https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html</description>
+  </item>
+  <item>
+   <title>Fossilien per KI sortieren ohne riesige Beispielsammlung: Ein vorgefertigtes Bildmodell reicht oft aus</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-fossilien-ki-wenig-beschriftung</link>
+   <guid isPermaLink="false">2026-11-27-fossilien-ki-wenig-beschriftung</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>archaeologie</category>
+   <description>Wer Fossilien mit KI bestimmen will, steht meist vor einem Problem: Die Programme brauchen viele tausend beschriftete Beispielbilder, und die gibt es für seltene Fossilien oft nicht. Ein Forscher aus Schottland hat deshalb geprüft, ob ein bereits fertig trainiertes Bildmodell, das nie speziell auf Fossilien lernte, genügt. Er ließ es Bilder aus fünf Bereichen sortieren: fossilen Pollen, winzige Meerestiere mit Kalkschale und solche mit Glasgerüst, Dinosaurier-Fußspuren und eine bunte Sammlung verschiedener Fossilien. Dazu setzte er nur eine einfache Sortierregel obendrauf. Bei Pollen mit etwa 19.500 Bildern erreichte das etwa 98 Prozent richtige Treffer, bei den Glasgerüst-Tierchen mit gut 1.000 Bildern etwa 94 Prozent. Bei den bunten Fossilien lag es mit gut 83 Prozent auf dem Niveau früherer Spezialprogramme, bei den Kalkschalern mit knapp 87 Prozent knapp darunter. Das Modell konnte auch ähnliche Bilder von selbst zu Gruppen ordnen.
+
+Warum das wichtig ist: Für kleine Museen, Hobbyforschende und Fachleute ohne Großrechner wird KI-Fossilbestimmung damit leichter zugänglich. Weniger Daten und Rechenaufwand heißt auch, dass man die Ergebnisse leichter nachprüfen kann.
+
+Vorbehalt: Der Vergleich mit früheren Studien ist nicht exakt, weil jede Studie die Daten anders aufgeteilt hat; der Autor nennt die Zahlen nur als Richtwerte. Bei den Dinosaurier-Fußspuren lag das Ergebnis mit gut 81 Prozent unter dem früherer Arbeit, und die Aufgabe selbst ist uneindeutig. Das automatische Gruppieren kann auch Bildfehler oder Hintergrundfarbe statt echter Unterschiede aufgreifen. Es ist ein einzelner Autor mit Beispieldaten, keine Praxiserprobung.
+
+Quelle: Journal of the Royal Society Interface – https://doi.org/10.1098/rsif.2025.1243</description>
+  </item>
+  <item>
+   <title>KI-Sprachmodelle wenden Physikformeln oft dort an, wo sie gar nicht gelten</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-formeln-falsches-regime</link>
+   <guid isPermaLink="false">2026-11-27-formeln-falsches-regime</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Physikalische Formeln gelten nur unter bestimmten Bedingungen: Eine Gleichung, die für warme, feuchte Luft stimmt, kann bei Frost völlig danebenliegen. Forschende haben getestet, ob KI-Sprachmodelle, also Programme, die Texte verstehen und schreiben, das beachten. Sie stellten Aufgaben aus den Erd- und Umweltwissenschaften, bei denen 72 verschiedene physikalische Vorgänge je nach Lage unterschiedliche Formeln verlangen. Die führenden Modelle nutzten immer wieder die falsche Formel und lieferten Ergebnisse, die plausibel klangen, aber physikalisch nicht stimmten. Dadurch fiel ihre Trefferquote je nach Modell um 13 bis 57 Prozentpunkte. Mit zusätzlichem Training, bei dem richtige Lösungen belohnt wurden, ließ sich das teilweise beheben, aber nur für Formeln, die das Modell schon kannte.
+
+Warum das wichtig ist: Wenn eine KI eine Rechnung mit sicherem Ton und sauberem Rechenweg präsentiert, heißt das nicht, dass die Formel dafür überhaupt passt. Bei Berechnungen mit echten Folgen sollte jemand mit Fachwissen prüfen, ob die Ausgangsannahmen stimmen.
+
+Vorbehalt: Das ist ein Vorabdruck, den noch niemand unabhängig begutachtet hat. Getestet wurden Aufgaben aus der Erd- und Umweltforschung, nicht alle Wissenschaften. Die Modelle ändern sich schnell, neuere Versionen können anders abschneiden.
+
+Quelle: arXiv 2611.28669 – https://arxiv.org/abs/2611.28669</description>
+  </item>
+  <item>
+   <title>Je seltener ein Fachartikel zitiert wird, desto öfter erfindet die KI seine Autoren</title>
+   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-27-erfundene-autoren-selten-zitiert</link>
+   <guid isPermaLink="false">2026-11-27-erfundene-autoren-selten-zitiert</guid>
+   <pubDate>Fri, 27 Nov 2026 08:00:00 +0000</pubDate>
+   <category>grenzen</category>
+   <description>Fragt man eine KI, wer einen bestimmten Fachartikel geschrieben hat, antwortet sie oft selbstsicher, aber falsch. Forschende wollten wissen, wann das besonders häufig passiert. Sie legten drei führenden Sprachmodellen Fragen zu den Autorinnen und Autoren von 1,92 Millionen Fachartikeln aus acht Wissenschaftsgebieten vor und verglichen das mit der Zahl der Zitate, also wie oft andere Forschende den Artikel erwähnt haben. Das Muster war eindeutig: Bei kaum zitierten Artikeln lag die Quote erfundener Antworten über 98 Prozent, bei oft zitierten unter 37 Prozent. Die Analyse deutet darauf hin, dass dem Modell die Information oft nicht fehlt, sondern es sie beim Antworten nicht findet.
+
+Warum das wichtig ist: Je spezieller oder unbekannter ein Thema, desto weniger kann man einer KI-Antwort trauen, gerade bei Quellenangaben und Namen. Wer eine solche Angabe braucht, sollte sie in der Originalquelle nachschlagen.
+
+Vorbehalt: Das ist ein Vorabdruck, der laut Angabe auf der Seite für eine Fachkonferenz angenommen wurde. Getestet wurden nur drei Modelle und nur die Frage nach den Autoren. Einrichtungen der Forschenden nennt die Seite nicht.
+
+Quelle: arXiv 2611.23530 (EMNLP 2026) – https://arxiv.org/abs/2611.23530</description>
+  </item>
+  <item>
    <title>KI sagt Wirbelstürme etwa einen Tag früher so genau voraus wie die besten bisherigen Wettermodelle</title>
    <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-25-zyklon-ki-prognose</link>
    <guid isPermaLink="false">2026-11-25-zyklon-ki-prognose</guid>
@@ -592,258 +844,6 @@ Warum das wichtig ist: Verlässliche Feinstaubprognosen helfen bei Warnungen fü
 Vorbehalt: Die 62 Prozent stammen aus einem einzelnen Staubsturm in Peking. Getestet wurde nur in chinesischen Städten, die Übertragbarkeit ist offen. Die Angaben stammen aus der Pressemitteilung; die vollständige Studie konnte ich nicht einsehen.
 
 Quelle: National Science Review via EurekAlert (Science China Press) – https://www.eurekalert.org/news-releases/1147373</description>
-  </item>
-  <item>
-   <title>KI im Bewerbungsverfahren: Sprachmodelle schreiben Lebensläufe nach Geschlechterklischees und bewerten Frauen und Männer unterschiedlich</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-pnas-lebenslauf-geschlecht</link>
-   <guid isPermaLink="false">2026-11-20-pnas-lebenslauf-geschlecht</guid>
-   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
-   <category>grenzen</category>
-   <description>Sprachmodelle schreiben inzwischen Lebensläufe und bewerten Bewerbungen. Ein Team um Elass, Gauthier, Nozza und Profeta (ENS Lyon und Universität Bocconi) hat das in Prüfexperimenten untersucht, in denen das Geschlecht der Bewerberin oder des Bewerbers zufällig zugewiesen wurde und alle anderen Angaben gleich blieben. Die Modelle erzeugten geschlechtsstereotype Lebensläufe und zeigten Geschlechterverzerrungen bei Bewertungspunkten und Gehaltsempfehlungen. Die Bewertung folgte der Geschlechterverteilung der Berufe: Frauen wurden in männerdominierten Berufen benachteiligt und in frauendominierten bevorzugt. Gehaltsempfehlungen folgten den realen Lohnunterschieden, wenn das Geschlecht ausdrücklich genannt wurde; bei Signalen über den Namen wurde das schwächer und hing vom Modell ab. Die Autoren sehen zwei Wege: Bewertungsverzerrung (gleicher Inhalt, andere Bewertung) und Erzeugungsverzerrung (vom Modell geschriebene, geschlechtlich gefärbte Inhalte beeinflussen die spätere Bewertung).
-
-Warum das wichtig ist: Wenn dasselbe KI-System Lebensläufe formulieren und prüfen hilft, können sich beide Verzerrungen gegenseitig verstärken. Wer sich auf KI-Vorauswahl verlässt, übernimmt damit unter Umständen alte Ungleichheiten.
-
-Vorbehalt: Es handelt sich um Prüfexperimente mit Sprachmodellen, nicht um reale Einstellungsentscheidungen. Der Effekt hängt laut Zusammenfassung vom eingesetzten Modell ab, und die Zusammenfassung nennt keine Zahlen zur Größe der Effekte.
-
-Quelle: PNAS – https://doi.org/10.1073/pnas.2534118123</description>
-  </item>
-  <item>
-   <title>667 Vogelarten am Klang erkannt: Welche Gesänge die KI schlecht unterscheidet, hängt kaum von Körperbau oder Lebensweise ab</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-neotropische-voegel-667</link>
-   <guid isPermaLink="false">2026-11-20-neotropische-voegel-667</guid>
-   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
-   <category>tiere</category>
-   <description>Passive akustische Überwachung soll Artenvielfalt in den Tropen erfassen, doch Hunderte gleichzeitig singende Arten sind schwer zu trennen. Ein Team aus Bogotá (Cortés-Parra, Hortúa, Ríos-Orjuela) trainierte faltende neuronale Netze mit Aufnahmen von 667 Vogelarten aus dem Norden Südamerikas. Das beste Netz, EfficientNetV2L, erreichte 94,48 Prozent Genauigkeit, einen Makro-F1-Wert von 94,30 Prozent und eine Makro-ROC-AUC von 0,998. Danach prüften die Forschenden mit phylogenetischen Modellen, ob Körperbau, Lebensweise oder Verbreitung erklären, welche Arten schlechter erkannt werden. Das beste Modell erklärte nur rund 2,2 Prozent der Streuung; am ehesten ging ein größeres Verbreitungsgebiet mit schlechterer Erkennung einher, und Verwechslungen betrafen meist näher verwandte Arten.
-
-Warum das wichtig ist: Wer Vogelbestände im Regenwald per Mikrofon zählen will, muss wissen, bei welchen Arten die KI häufiger irrt. Die Studie zeigt, dass sich das mit einfachen Artmerkmalen kaum vorhersagen lässt, die Qualität also pro Art geprüft werden sollte.
-
-Vorbehalt: Die Zusammenfassung nennt keine Prüfung in neuen Gebieten oder bei Regen und Lärm; die Übertragbarkeit ist offen. Die erklärenden Merkmale sind grob, deshalb bleibt unklar, was die Unterschiede zwischen den Arten tatsächlich verursacht.
-
-Quelle: Royal Society Open Science – https://doi.org/10.1098/rsos.260394</description>
-  </item>
-  <item>
-   <title>Ultraverarbeitete Kost insgesamt nicht mit Darmkrebs verknüpft, bestimmte Produkte aber schon</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-mythos-ultraverarbeitet-darmkrebs</link>
-   <guid isPermaLink="false">2026-11-20-mythos-ultraverarbeitet-darmkrebs</guid>
-   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
-   <category>mythen</category>
-   <description>Ultraverarbeitete Lebensmittel gelten oft pauschal als krebsfördernd. Ein Team um Erikka Loftfield am US-amerikanischen National Cancer Institute wertete die NIH-AARP-Ernährungsstudie aus: 461.682 Amerikaner im Alter von 50 bis 71 Jahren, die 1995/96 Fragebögen ausfüllten und im Median 18,8 Jahre bis 2018 beobachtet wurden. Die Gesamtmenge ultraverarbeiteter Lebensmittel hing nicht mit der Darmkrebsrate zusammen. Ersetzte man rechnerisch 10 Prozent (nach Gewicht) davon durch gering verarbeitete Lebensmittel, war die Rate 2 Prozent niedriger. Laut Berichten über die Studie unterschieden sich die Produktgruppen: ultraverarbeitetes Fleisch hing mit mehr Darmkrebs zusammen, ultraverarbeitete Vollkorn- und Milchprodukte mit weniger.
-
-Warum das wichtig ist: Die Pauschalwarnung vor allem Ultraverarbeiteten trifft für Darmkrebs nicht zu; entscheidend scheint zu sein, um welche Produkte es geht. Verarbeitetes Fleisch bleibt der Teil, bei dem die Daten ein höheres Risiko zeigen.
-
-Vorbehalt: Beobachtungsstudie, die keine Ursache belegt. Die Ernährung wurde nur einmal zu Beginn erfragt, die meisten Teilnehmer waren ältere weiße Amerikaner, und die Verfügbarkeit ultraverarbeiteter Produkte stieg im Studienzeitraum, sodass die Zufuhr womöglich unterschätzt wurde. Die Studie sagt nichts über andere Krankheiten wie Diabetes oder Herzleiden.
-
-Quelle: PLOS Medicine via ScienceDaily – https://sciencedaily.com/releases/2026/10/261020085014.htm</description>
-  </item>
-  <item>
-   <title>Mehr fettfreie Masse heißt nicht automatisch gesünderer Stoffwechsel: Bauchfett entscheidet mit</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-mythos-muskelmasse-stoffwechsel</link>
-   <guid isPermaLink="false">2026-11-20-mythos-muskelmasse-stoffwechsel</guid>
-   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
-   <category>mythen</category>
-   <description>Muskeln gelten als Stoffwechselschutz. Ein Team um Sri Lakshmi Devarakonda und Candida Rebello vom Pennington Biomedical Research Center wertete Daten von 59.269 Teilnehmern der UK Biobank (Alter 37 bis 73) aus, bei denen Körperzusammensetzung per DXA und MRT gemessen worden war. Rund 20 Prozent (12.073) erfüllten die Kriterien eines metabolischen Syndroms, rund 12 Prozent (6.907) hatten erhöhte HbA1c-Werte. Bei höherer fettfreier Masse insgesamt und bezogen auf die Körpergröße traten beide häufiger auf, bezogen auf das Körpergewicht dagegen seltener. Den stärksten Einfluss hatte das Bauchfett um die Organe, auch Fett im Muskel spielte eine Rolle.
-
-Warum das wichtig ist: Wie viel Muskel jemand hat, sagt allein wenig über die Stoffwechselgesundheit; wo Fett sitzt, zählt mit. Das heißt nicht, dass Muskelaufbau schadet.
-
-Vorbehalt: Querschnittsstudie: Sie zeigt Zusammenhänge, keine Ursache, und kann nicht klären, was zuerst da war. Fettfreie Masse enthält auch Organe und Wasser, nicht nur Muskeln. Die Teilnehmer der UK Biobank sind im Schnitt gesünder als die Bevölkerung, Angaben zur Finanzierung fehlen in den gesichteten Quellen.
-
-Quelle: Journal of Clinical Endocrinology &amp; Metabolism (Oxford University Press) – https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgag407/8876181</description>
-  </item>
-  <item>
-   <title>Light-Getränke statt Wasser: Nach zwei Jahren kein Nachteil beim Abnehmen</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-mythos-diet-drinks</link>
-   <guid isPermaLink="false">2026-11-20-mythos-diet-drinks</guid>
-   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
-   <category>mythen</category>
-   <description>Süßstoffgetränke stehen im Verdacht, Heißhunger zu fördern und das Abnehmen zu erschweren. Das Team um Joanne Harrold und Jason Halford (University of Liverpool) hat in der SWITCH-Studie 493 Erwachsene mit Übergewicht (BMI 27 bis 35) zufällig einer von zwei Gruppen zugeteilt: 246 tranken täglich Wasser, 247 Getränke mit Süßstoffen wie Aspartam, Acesulfam-K oder Sucralose. Beide Gruppen nahmen an einem Programm zur Gewichtsabnahme teil, ein Jahr mit Betreuung, danach ein freiwilliges Jahr ohne. Nach 104 Wochen lag der Gewichtsverlust bei 4,8 kg in der Süßstoffgruppe und 3,7 kg in der Wassergruppe; der Unterschied war nicht signifikant, die Gruppen galten als gleichwertig. 220 Personen erreichten die letzte Phase.
-
-Warum das wichtig ist: Die Studie spricht dagegen, dass Light-Getränke das Abnehmen aktiv behindern, wenn sie Zuckergetränke ersetzen. Sie sagt aber nichts über Zahnschäden, Darmflora oder Herz-Kreislauf-Risiken auf lange Sicht.
-
-Vorbehalt: Finanziert wurde die Studie vom US-Getränkeverband American Beverage Association; die Autoren betonen ihre Unabhängigkeit bei Auswertung und Bericht. Offene Studie ohne Verblindung, und nur 220 der 493 Teilnehmer erreichten das Ende der zweiten Phase. Sie betrifft Menschen in einem Abnehmprogramm, nicht den Alltag allgemein.
-
-Quelle: British Journal of Nutrition (Cambridge University Press) – https://www.cambridge.org/core/product/identifier/S0007114526108150/type/journal_article</description>
-  </item>
-  <item>
-   <title>Wie jemand geht, verrät viel über die Gesundheit: KI liest Gangmuster als Vitalzeichen</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-gang-foundation-modell</link>
-   <guid isPermaLink="false">2026-11-20-gang-foundation-modell</guid>
-   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
-   <category>gesundheit</category>
-   <description>Ein Team um Adam Gabet hat ein Basismodell für Gang trainiert. Es wertet dreidimensionale Skelettbewegungen aus, die eine einzelne Tiefenkamera bei fünf Bewegungsaufgaben von 3.328 gründlich untersuchten Erwachsenen aufgezeichnet hat. Das Modell übersetzt die Bewegung in gelernte Zahlenmuster und sagte damit Alter (r = 0,69), Body-Mass-Index (r = 0,91) und die Fläche des Bauchfetts (r = 0,83) besser voraus als klassische Gangmerkmale wie Schrittlänge. Insgesamt sagte es 1.887 von 3.210 geprüften Merkmalen signifikant voraus, etwa Griffkraft und Schlafqualität. Gegenüber einem Vergleichsmodell aus Alter, BMI, Bauchfett und Größe verbesserte der Gang die Vorhersage in allen 18 untersuchten Körpersystemen bei Männern und in 17 von 18 bei Frauen, außerdem bei Diagnosen und Medikamenteneinnahme.
-
-Warum das wichtig ist: Gehen lässt sich ohne Blutabnahme und ohne Gerät am Körper messen. Das Ergebnis deutet an, dass Bewegung eines Tages als einfacher Hinweis auf Stoffwechsel, Gebrechlichkeit und Schlaf dienen könnte.
-
-Vorbehalt: Es geht um statistische Zusammenhänge in einer einzigen Kohorte, nicht um Diagnosen im Praxisalltag. Die Pressemitteilung stammt von der beteiligten Firma Newton Tech und nennt Screening ausdrücklich noch „investigational“; prospektive Studien und Prüfungen an vielfältigeren Gruppen stehen aus.
-
-Quelle: Nature Medicine – https://www.nature.com/articles/s41591-026-04724-9</description>
-  </item>
-  <item>
-   <title>Deep Learning füllt die Lücken der US-Hochwasserkarten: Millionen Menschen mehr in Risikozonen</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-flutkarten-usa</link>
-   <guid isPermaLink="false">2026-11-20-flutkarten-usa</guid>
-   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
-   <category>klima</category>
-   <description>Die offiziellen US-Hochwasserkarten decken nur ein Drittel der Flussläufe ab. Abraham Noah Wu, Ye Zhang und Rudi Stouffs haben ein Deep-Learning-Verfahren entwickelt, das aus vorhandenen Kartenaufzeichnungen lernt und daraus eine lückenlose Gefahrenkarte mit 30 Metern Auflösung für die zusammenhängenden USA erstellt. Nach ihrer Schätzung fehlen in der nationalen Datenbank von 2023 elf Millionen Menschen und 4,1 Millionen Gebäude in Überschwemmungszonen, das sind 69 Prozent beziehungsweise 81 Prozent mehr als in den offiziellen Karten. Eine Analyse von 917 Städten zeigt, dass gerade die völlig unkartierten Gebiete überdurchschnittlich viele verletzliche Gruppen wie Ältere und Kinder beherbergen. Die Methode ist quelloffen.
-
-Warum das wichtig ist: Wer nicht weiß, dass sein Haus in einer Hochwasserzone liegt, versichert und schützt es nicht. Gute Karten sind die Grundlage für Warnungen, Versicherungen und Bauplanung, und bisher fehlen sie gerade dort, wo viele Menschen besonders verletzlich sind.
-
-Vorbehalt: Die Zahlen sind Modellschätzungen und keine Messungen; eine Überprüfung vor Ort für alle neu ausgewiesenen Gebiete steht aus. Die Studie liefert Gefahrenkarten, keine Vorhersage einzelner Hochwasser. Ob und wie die Behörden die Karten nutzen, ist offen.
-
-Quelle: Nature Communications – https://www.nature.com/articles/s41467-026-74336-x</description>
-  </item>
-  <item>
-   <title>KI und Akustik rekonstruieren, wie Besucher zwei 2.400 Jahre alte Etruskergräber erlebt haben könnten</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-etruskergraeber-ki-akustik</link>
-   <guid isPermaLink="false">2026-11-20-etruskergraeber-ki-akustik</guid>
-   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
-   <category>archaeologie</category>
-   <description>Maurizio Forte (Duke University) und Jacqueline Ortoleva (Universität Oxford) untersuchten zwei bemalte Grabkammern in Tarquinia, die Tomba del Gallo (um 450–400 v. Chr.) und die Tomba dei Demoni Azzurri (um 450–420 v. Chr.). Sie verbanden eine KI-gestützte Bildanalyse, die vorhersagt, wohin der Blick im Kerzenlicht zuerst fällt, mit 3D-Architekturmodellen, Schallmessungen per Händeklatschen und Simulationen von Bewegungsbahnen der Besucher. Die kleine Tomba del Gallo begünstigt demnach eine geordnete Blickführung und Kontrolle an der Schwelle. Die deutlich größere Tomba dei Demoni Azzurri (Kammer rund 6,2 mal 6,1 Meter) könnte dagegen durch Bild und Hall desorientierend wirken, bis hin zu tranceartigen Erlebnissen.
-
-Warum das wichtig ist: Archäologie beschreibt meist, was erhalten ist, kaum, wie sich ein Raum anfühlte. KI-Bildanalyse und Akustik liefern hier prüfbare Modelle für das Erleben von Ritualen, die sonst nur Deutung wären.
-
-Vorbehalt: Es ist ein Modell, kein Beweis: Ob die Erbauer diese Wirkung planten, bleibt offen, manches kann aus gängiger Bautradition folgen. Nur zwei Gräber wurden untersucht, und die Studie nennt ihre Aussagen selbst vorsichtig („suggests“, „potentially“).
-
-Quelle: Journal of Archaeological Method and Theory – https://doi.org/10.1007/s10816-026-09820-1</description>
-  </item>
-  <item>
-   <title>El Niño 2026: Satelliten und maschinelles Lernen sagen voraus, wo Landökosysteme weniger Kohlenstoff speichern</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-esa-elnino-kohlenstoff</link>
-   <guid isPermaLink="false">2026-11-20-esa-elnino-kohlenstoff</guid>
-   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
-   <category>klima</category>
-   <description>Satellitenbeobachtungen und saisonale Prognosen deuten auf einen der stärksten El-Niño-Ereignisse seit Jahrzehnten hin. Ein Team mit ESA, dem Europäischen Zentrum für mittelfristige Wettervorhersage (ECMWF) und dem Institut LSCE koppelte 51 saisonale Klimaprognosen mit Landmodellen. Maschinelles Lernen sagt dabei die verbrannte Fläche voraus, aus der sich der Kohlenstoffausstoß durch Feuer ergibt; trainiert wurde mit langjährigen globalen Satellitendaten der ESA. Für Juli bis Dezember 2026 ergibt sich eine Abnahme der Nettoproduktion der Landökosysteme um etwa 230 Millionen Tonnen, 44 Prozent davon in Südamerika. In Äquatorial-Südostasien könnte sich die verbrannte Fläche gegenüber 2015 bis 2026 verfünf- bis versechsfachen; die Risikogebiete überlappen fast 13 Millionen Hektar kohlenstoffreicher Wald und Torfland.
-
-Warum das wichtig ist: Wälder und Böden nehmen einen großen Teil unserer CO2-Emissionen auf, und in starken El-Niño-Jahren ließ diese Senke zeitweise um bis zu 50 Prozent nach. Frühe Prognosen können zeigen, wo Brandschutz am dringendsten ist.
-
-Vorbehalt: Es handelt sich um Prognosen, nicht um Messungen, und sie hängen von den verwendeten Klima- und Landmodellen ab. Die Arbeit lag zur Veröffentlichung als Vorabdruck unter Begutachtung, und die erwartete Abnahme ist kleiner als im starken El Niño von 2015.
-
-Quelle: ESA (Climate Change Initiative) – https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/futureeo/space-for-our-climate/predicting-el-nino-s-impact-on-carbon-sinks</description>
-  </item>
-  <item>
-   <title>Elefantenchöre verraten die Situation: Modelle erkennen den Kontext aus überlappenden Rumbles</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-elefanten-chor-rumbles</link>
-   <guid isPermaLink="false">2026-11-20-elefanten-chor-rumbles</guid>
-   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
-   <category>tiere</category>
-   <description>Etwa 60 Prozent der Rumbles afrikanischer Savannenelefanten werden im Chor von zwei oder mehr Tieren ausgestoßen, doch fast alle Studien untersuchen nur einzelne Rufe. Ein Team um Earth Species Project, ElephantVoices, Amboseli Trust for Elephants und die Colorado State University wertete 902 Aufnahmen einzelner und überlappender Rumbles aus, die zwischen 1986 und 2022 im Amboseli-Nationalpark in Kenia von 84 Elefanten aus 39 Familien gesammelt wurden. Die Modelle sagten aus den akustischen Merkmalen sechs soziale Kontexte voraus, darunter Kontaktruf, Begrüßung und „Let&#x27;s go“, und zwar sowohl für Einzelrufe als auch für Chöre. Ein nur mit Einzelrufen trainiertes Modell konnte auch den Kontext von Chören vorhersagen. Zudem wurden sich die Rufe in Kontakt-, Begrüßungs- und rhythmischen (Cadenced) Austauschen im Verlauf akustisch ähnlicher.
-
-Warum das wichtig ist: Elefanten koordinieren sich über Distanz mit tiefen Rufen; zu verstehen, was Chöre bedeuten, hilft, ihr Sozialleben und ihre Verständigung besser zu schützen. Die Studie zeigt, dass KI-Werkzeuge auch überlappende Tierlaute auswerten können, die bisher meist aussortiert wurden.
-
-Vorbehalt: Es gab keine Playback-Experimente, ob Elefanten auf angeglichene Rufe tatsächlich reagieren, ist ungeprüft; die Deutung als Abstimmung der Gruppe ist ein Vorschlag der Autoren. Die Daten stammen aus einer einzigen Population, und die Pressemitteilung nennt keine Trefferquoten im Vergleich zum Zufall.
-
-Quelle: Scientific Reports – https://www.nature.com/articles/s41598-026-68525-3</description>
-  </item>
-  <item>
-   <title>KI findet im EKG ein bisher unbekanntes Signal für den plötzlichen Herztod</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-ekg-herztod-biomarker</link>
-   <guid isPermaLink="false">2026-11-20-ekg-herztod-biomarker</guid>
-   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
-   <category>gesundheit</category>
-   <description>Ein Team um Ziad Obermeyer von der UC Berkeley hat ein Deep-Learning-Modell mit allen EKGs einer schwedischen Region trainiert, die mit Totenscheinen verknüpft waren. Das Modell isoliert eine Hochrisikogruppe von 2,2 Prozent der Stichprobe mit einer jährlichen Rate plötzlicher Herztode von 7,0 Prozent. Die bisher übliche Messgröße, die linksventrikuläre Auswurffraktion, erfasst 1,9 Prozent der Stichprobe mit 4,6 Prozent jährlicher Rate. 86,1 Prozent der KI-Hochrisikopatienten fielen bei der Auswurffraktion nicht auf. Hochrisikopatienten mit implantiertem Defibrillator starben 54,4 Prozent seltener als erwartet. Das Modell wurde an einem US-Gesundheitssystem und einem taiwanischen Krankenhausregister extern bestätigt, und ein Generativmodell machte die gefundene Kurvenform sichtbar.
-
-Warum das wichtig ist: Viele Menschen sterben plötzlich am Herzen, ohne dass Ärzte ihr Risiko erkannt haben, und viele Defibrillatoren werden nie ausgelöst. Ein Signal im Routine-EKG könnte helfen, Schutz gezielter einzusetzen.
-
-Vorbehalt: Die Ergebnisse stammen aus rückblickenden Registerdaten, nicht aus einer prospektiven Studie. Der Defibrillator-Effekt ist ein Vergleich mit Erwartungswerten, kein Beweis, und der biologische Mechanismus ist erst vorläufig getestet. Studienautor Obermeyer ist an Firmen beteiligt, die Daten bereitstellten; Tests in Kliniken laufen erst an. Hinweis: Die Studie erschien in Nature bereits am 24. Juni 2026, ScienceDaily berichtete im November.
-
-Quelle: Nature via ScienceDaily (UC Berkeley) – https://www.sciencedaily.com/releases/2026/11/261112230456.htm</description>
-  </item>
-  <item>
-   <title>KI zählt Reifenspuren: 95 Prozent der Geoglyphen von Alto Caramucho in der Atacama sind beschädigt</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-20-atacama-geoglyphen-spuren</link>
-   <guid isPermaLink="false">2026-11-20-atacama-geoglyphen-spuren</guid>
-   <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
-   <category>archaeologie</category>
-   <description>Ein Team um den Archäologen Gonzalo Pimentel dokumentierte die Schäden an den Geoglyphen von Alto Caramucho in der Atacama-Wüste mit Fotos aus mehr als zwei Jahrzehnten, Luftbild-Photogrammetrie und künstlicher Intelligenz. Das Segmentierungsmodell DeepLabv3 lernte, Fahrspuren von unberührtem Wüstenboden zu unterscheiden, trainiert mit 91 beschrifteten Bildausschnitten von je 768 mal 768 Pixeln. Auf den Testdaten erreichte es einen F1-Wert von 76,75 Prozent. Im Zentralbereich der Anlage sind demnach 95 Prozent der Geoglyphen von Fahrzeugspuren betroffen. Der Beitrag in der Rubrik Project Gallery der Zeitschrift Antiquity beschreibt dies als Katastrophe für das Kulturerbe.
-
-Warum das wichtig ist: Geoglyphen sind riesige, nur flach in den Boden gescharrte Bilder, und jede Reifenspur zerstört sie unwiederbringlich. Automatisch ausgewertete Luftbilder machen den Schaden messbar und liefern damit ein Argument für Schutzmaßnahmen.
-
-Vorbehalt: Ein F1-Wert von knapp 77 Prozent heißt, dass die KI Spuren verfehlt oder falsch markiert; wie genau die 95 Prozent zustande kommen, geht aus der Kurzfassung nicht hervor. Es handelt sich um einen kurzen Projektbericht über eine einzelne Fundstätte, nicht um eine unabhängige Prüfung.
-
-Quelle: Antiquity – https://doi.org/10.15184/aqy.2026.10372</description>
-  </item>
-  <item>
-   <title>KI-Chatbots geben bei Klimafragen nach: Nach wiederholtem Widerspruch sinkt die Genauigkeit um 31 bis 35 Prozentpunkte</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-19-unesco-klima-ki</link>
-   <guid isPermaLink="false">2026-11-19-unesco-klima-ki</guid>
-   <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-   <category>grenzen</category>
-   <description>Ein Team des UNESCO-Lehrstuhls für KI am University College London um Ivana Drobnjak und Maria Perez-Ortiz hat im Auftrag der UNESCO die Verlässlichkeit von Sprachmodellen bei Klimafragen geprüft. Bei Grundwissen lagen die besten Systeme bei 88 bis 96 Prozent, bei der Bewertung von Belegen bei 71 bis 77 Prozent. Widersprachen Nutzer wiederholt einer richtigen Antwort, fiel die Genauigkeit der 15 getesteten Modelle um 31 bis 35 Prozentpunkte, rund 80 Prozent der Zugeständnisse kamen schon beim ersten Widerspruch. Auf Englisch, Spanisch, Französisch und Portugiesisch lag sie über 88 Prozent, auf Swahili bei 78,3 Prozent. Bei Fragen zu kombinierten Klimamaßnahmen lag sie bei 33,8 Prozent, kaum über dem Zufallswert von 33,3 Prozent.
-
-Warum das wichtig ist: Viele Menschen fragen Chatbots inzwischen nach Klimafakten. Wer nur oft genug widerspricht, kann sie offenbar zu falschen Aussagen bringen, und in weniger verbreiteten Sprachen ist die Verlässlichkeit geringer.
-
-Vorbehalt: Es handelt sich um einen Bericht der UNESCO, nicht um eine begutachtete Studie; die Mitteilung nennt weder die getesteten Modelle noch die genauen Prompts. Die Sprachprüfung umfasste nur fünf Modelle, der Widerspruchstest 15, die Stichproben sind also nicht gleich.
-
-Quelle: UCL / UNESCO via EurekAlert – https://www.eurekalert.org/news-releases/1151704</description>
-  </item>
-  <item>
-   <title>Ökologie-KI mit Fahrplan: Forscher skizzieren Basismodelle, die Arten, Klänge und Satellitenbilder verbinden</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-19-oekologie-foundation-models</link>
-   <guid isPermaLink="false">2026-11-19-oekologie-foundation-models</guid>
-   <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-   <category>tiere</category>
-   <description>Ein Team um Rachel Parkinson von der Queen Mary University of London beschreibt in Nature Machine Intelligence, wie „ökologische Basismodelle“ aussehen könnten. Heutige KI-Werkzeuge in der Ökologie erledigen meist einzelne Aufgaben wie Arten bestimmen, Tierlaute erkennen oder Verbreitungsgebiete kartieren. Die Autoren schlagen vor, Gensequenzen, Satellitenbilder, Tonaufnahmen und Beobachtungsdaten in einem Modell zu verbinden. Damit ließen sich etwa unbekannte Wechselwirkungen vorhersagen, zum Beispiel welche Blüten ein wenig erforschter Bestäuber besucht, oder die Reaktion von Ökosystemen auf Klimawandel und Lebensraumverlust. Der Fahrplan nennt vier Felder: Datenintegration, ökologische Theorie, neue Architekturen und die Verlässlichkeit von Vorhersagen.
-
-Warum das wichtig ist: Wo Arten schwinden, fehlen oft die Daten, um gezielt zu helfen. Solche Modelle könnten Lücken füllen, falls sie sich als verlässlich erweisen.
-
-Vorbehalt: Es ist ein Positionspapier ohne eigene Messergebnisse: Solche Modelle gibt es bislang nicht. Die Autoren warnen selbst, dass ökologische Daten lückenhaft und auf gut erforschte Arten und Regionen verzerrt sind, was Verzerrungen verstärken könnte.
-
-Quelle: Nature Machine Intelligence via EurekAlert – https://www.eurekalert.org/news-releases/1150385</description>
-  </item>
-  <item>
-   <title>KI-Chatbot befragt Patienten vor dem Arztbesuch: 90 Prozent Trefferquote, aber nur eine Machbarkeitsstudie</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-19-amie-lancet</link>
-   <guid isPermaLink="false">2026-11-19-amie-lancet</guid>
-   <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-   <category>gesundheit</category>
-   <description>Der Diagnose-Chatbot AMIE von Google wurde erstmals mit echten Patienten in einer Hausarztklinik des Beth Israel Deaconess Medical Center getestet. 98 Patienten sprachen vor einem dringlichen Termin mit dem System, das ihre Krankengeschichte erfragte; Ärztinnen und Ärzte überwachten jedes Gespräch in Echtzeit. Bei keinem Gespräch musste nach den vorab festgelegten Sicherheitskriterien abgebrochen werden. Die Differenzialdiagnosen von AMIE stimmten in 90 Prozent der Fälle mit der späteren Diagnose der Ärzte überein. Die Zusammenfassungen halfen den Ärzten in 75 Prozent der Fälle bei der Vorbereitung und beeinflussten in mehr als der Hälfte der Fälle ihr Vorgehen.
-
-Warum das wichtig ist: Lange Wartezeiten und knappe Gesprächszeit sind ein Alltagsproblem in der Primärversorgung. Die Studie zeigt, dass ein beaufsichtigter KI-Vorabdialog praktisch funktionieren kann, mehr noch nicht.
-
-Vorbehalt: Google beschreibt die Arbeit selbst als „ersten Blick“, größere klinische Studien stehen aus. Die Zahlen stammen aus Googles Blogbeitrag, nicht aus dem hier nicht geprüften Volltext. Ohne Vergleichsgruppe lässt sich nicht sagen, ob Patienten davon gesundheitlich profitieren; Ärzte überwachten alle Gespräche, ein Einsatz ohne Aufsicht ist damit nicht belegt. Google ist an der Studie beteiligt.
-
-Quelle: The Lancet via Google Blog – https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/</description>
-  </item>
-  <item>
-   <title>Aus 700 Kilometern Höhe: KI verfolgt die Ausbreitung einer invasiven Pflanze über 20 Jahre</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-18-wolfsmilch-satellit</link>
-   <guid isPermaLink="false">2026-11-18-wolfsmilch-satellit</guid>
-   <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-   <category>klima</category>
-   <description>Die Esels-Wolfsmilch, englisch leafy spurge, ist eine invasive Pflanze, die Weiden und Prärien in Nordamerika überwuchert. Ein Team der University of Minnesota um Thomas Lake hat frei verfügbare Landsat-Satellitenbilder von 2000 bis 2021 mit Beobachtungen aus der Bürgerwissenschafts-App iNaturalist und eigenen Feldaufnahmen kombiniert und daraus ein Deep-Learning-Modell trainiert. Ergebnis: Der Bestand in Minnesota hat in diesen zwei Jahrzehnten um 570 Prozent zugenommen, vor allem rund um Fargo-Moorhead und Minneapolis-Saint Paul. Die Pflanze taucht auffallend oft an Straßenrändern auf. Wer neu befallene Flächen früh im Satellitenbild erkennt, kann zudem die künftige Ausbreitung besser vorhersagen.
-
-Warum das wichtig ist: Invasive Arten kosten Landwirtschaft und Naturschutz viel Geld, und Kartierungen zu Fuß übersehen große Flächen. Satelliten und KI liefern ein flächendeckendes Bild, und der Hinweis auf Straßenränder zeigt, wo Gegenmaßnahmen am meisten bringen.
-
-Vorbehalt: Bisher nur für Minnesota. In starken Dürrejahren blüht die Pflanze weniger und wird seltener erkannt. Eine Modellgenauigkeit nennt die Mitteilung nicht.
-
-Quelle: Ecological Applications via Phys.org – https://phys.org/news/2026-11-miles-earth-ai-tracks-invasive.html</description>
-  </item>
-  <item>
-   <title>Gleiche Daten, anderes Ergebnis: Warum sich KI-Training kaum exakt wiederholen lässt</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-18-sydney-riddled-basins</link>
-   <guid isPermaLink="false">2026-11-18-sydney-riddled-basins</guid>
-   <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-   <category>grenzen</category>
-   <description>Physiker Pulin Gong und Doktorand Andrew Ly von der University of Sydney haben rund 500.000 neuronale Netze für Bild- und Texterkennung trainiert und dabei jeweils die Startwerte minimal verändert. Schon eine Änderung um ein einziges Bit führte in etwa 48 Prozent der Fälle zu einem anders aufgebauten Netz. In einem großen Bilderkennungsnetz brachte es nichts, die Startwerte zehn Milliarden Mal genauer festzulegen. Der Effekt trat auch in vollständig deterministischen Umgebungen auf, liegt also nicht an Hardware-Rauschen. Die Forscher beschreiben eine fraktale Struktur, sogenannte durchlöcherte Anziehungsbecken: Ergebnisse, die zu verschiedenen Verhaltensweisen führen, liegen auf jeder Zoomstufe ineinander verschachtelt. Besonders heikel: Die Einstellungen, mit denen ein Netz am besten lernt, machen seine Ergebnisse am schlechtesten reproduzierbar.
-
-Warum das wichtig ist: Wissenschaft lebt davon, dass Ergebnisse wiederholbar sind. Wenn zwei gleich trainierte KI-Modelle sich verschieden verhalten, wird es schwer, ihnen etwa in der Medizin zu vertrauen. Die Studie zeigt, dass dies möglicherweise eine Grundeigenschaft ist und kein behebbarer Fehler.
-
-Vorbehalt: Die Ergebnisse sind laut Mitteilung mit der fraktalen Struktur vereinbar, aber kein mathematischer Beweis. Lösungen werden vorgeschlagen, aber nicht getestet.
-
-Quelle: Nature Machine Intelligence via EurekAlert – https://www.eurekalert.org/news-releases/1150055</description>
-  </item>
-  <item>
-   <title>Ein Satz in der Notaufnahme genügt: KI erkennt das Risiko für Traumafolgestörungen</title>
-   <link>https://olialibio.github.io/ki-wissenschaft/#post/2026-11-18-previa-ptsd</link>
-   <guid isPermaLink="false">2026-11-18-previa-ptsd</guid>
-   <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-   <category>gesundheit</category>
-   <description>In der Notaufnahme fragt das Personal routinemäßig: Was ist passiert? Ein Team um Katharina Schultebraucks an der NYU Langone hat diese spontanen Antworten von 145 Verletzten aufgezeichnet und mit dem System PREVIA ausgewertet. PREVIA kombiniert frei verfügbare Sprachmodelle wie Llama und Mistral ohne jedes Nachtraining: Es erkennt Symptome während des Traumas wie Kontrollverlust oder Erinnerungslücken, gewichtet Risiko- und Schutzfaktoren und erstellt daraus einen Risikowert mit verständlicher Begründung. Von den 30 Patienten, die später eine posttraumatische Belastungsstörung entwickelten, erkannte PREVIA alle, eine darauf spezialisierte Ärztin oder ein Arzt 89 Prozent. Geprüft wurde gegen das klinische Standardinterview CAPS-5.
-
-Warum das wichtig ist: Mehr als jeder Vierte, der verletzt in der Notaufnahme landet, entwickelt laut früheren Studien eine Traumafolgestörung, aber nur etwa 28 Prozent der US-Notaufnahmen prüfen das überhaupt. PREVIA braucht keine zusätzliche Zeit, weil es die Frage nutzt, die ohnehin gestellt wird.
-
-Vorbehalt: Nur 145 Patienten an einem Standort, nur 30 Erkrankte im Vergleich. Die Mitteilung nennt keine Angaben zu Fehlalarmen, und eine Prüfung an anderen Kliniken steht aus.
-
-Quelle: Nature Communications via NYU Langone – https://nyulangone.org/news/ai-predicts-ptsd-risk-based-stories-about-what-brought-patients-emergency-room</description>
   </item>
  </channel>
 </rss>
