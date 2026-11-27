@@ -1,0 +1,40 @@
+{
+  "id": "2026-11-27-formeln-falsches-regime",
+  "date": "2026-11-27",
+  "published": "2026-11-21",
+  "category": "grenzen",
+  "countries": [
+    "INT"
+  ],
+  "institution": "arXiv-Vorabdruck (Einrichtungen auf der Seite nicht angegeben)",
+  "maturity": "preprint",
+  "source": {
+    "name": "arXiv 2611.28669",
+    "url": "https://arxiv.org/abs/2611.28669"
+  },
+  "more": [],
+  "de": {
+    "title": "KI-Sprachmodelle wenden Physikformeln oft dort an, wo sie gar nicht gelten",
+    "summary": "Physikalische Formeln gelten nur unter bestimmten Bedingungen: Eine Gleichung, die für warme, feuchte Luft stimmt, kann bei Frost völlig danebenliegen. Forschende haben getestet, ob KI-Sprachmodelle, also Programme, die Texte verstehen und schreiben, das beachten. Sie stellten Aufgaben aus den Erd- und Umweltwissenschaften, bei denen 72 verschiedene physikalische Vorgänge je nach Lage unterschiedliche Formeln verlangen. Die führenden Modelle nutzten immer wieder die falsche Formel und lieferten Ergebnisse, die plausibel klangen, aber physikalisch nicht stimmten. Dadurch fiel ihre Trefferquote je nach Modell um 13 bis 57 Prozentpunkte. Mit zusätzlichem Training, bei dem richtige Lösungen belohnt wurden, ließ sich das teilweise beheben, aber nur für Formeln, die das Modell schon kannte.",
+    "why": "Wenn eine KI eine Rechnung mit sicherem Ton und sauberem Rechenweg präsentiert, heißt das nicht, dass die Formel dafür überhaupt passt. Bei Berechnungen mit echten Folgen sollte jemand mit Fachwissen prüfen, ob die Ausgangsannahmen stimmen.",
+    "caveat": "Das ist ein Vorabdruck, den noch niemand unabhängig begutachtet hat. Getestet wurden Aufgaben aus der Erd- und Umweltforschung, nicht alle Wissenschaften. Die Modelle ändern sich schnell, neuere Versionen können anders abschneiden."
+  },
+  "en": {
+    "title": "AI language models often use physics formulas where they do not apply",
+    "summary": "Physics formulas only hold under certain conditions: an equation that works for warm, humid air can be completely off in freezing weather. Researchers tested whether AI language models, the programs that read and write text, take this into account. They posed tasks from Earth and environmental science in which 72 different physical processes call for different formulas depending on the situation. The leading models repeatedly picked the wrong formula and gave answers that sounded plausible but were physically wrong. Depending on the model, accuracy dropped by 13 to 57 percentage points. Extra training that rewarded correct solutions fixed part of this, but only for formulas the model already knew.",
+    "why": "If an AI presents a calculation with a confident tone and a tidy chain of steps, that does not mean the formula fits the situation at all. For calculations with real consequences, someone with expert knowledge should check the starting assumptions.",
+    "caveat": "This is a preprint that nobody has independently reviewed yet. The tasks came from Earth and environmental science, not every field. Models change quickly, and newer versions may do differently."
+  },
+  "ru": {
+    "title": "Языковые модели ИИ часто применяют физические формулы там, где они не работают",
+    "summary": "Физические формулы верны только при определённых условиях: уравнение, подходящее для тёплого влажного воздуха, может совершенно не работать на морозе. Исследователи проверили, учитывают ли это языковые модели ИИ, то есть программы, которые понимают и пишут тексты. Они дали задачи из наук о Земле и окружающей среде, где 72 разных физических процесса в зависимости от ситуации требуют разных формул. Ведущие модели снова и снова выбирали не ту формулу и выдавали ответы, которые звучали правдоподобно, но физически были неверны. В зависимости от модели точность падала на 13–57 процентных пунктов. Дополнительное обучение с наградой за верные решения частично исправило это, но только для формул, которые модель уже знала.",
+    "why": "Если ИИ подаёт расчёт уверенным тоном и аккуратной цепочкой шагов, это не значит, что формула вообще подходит. Для расчётов с реальными последствиями исходные допущения должен проверять специалист.",
+    "caveat": "Это препринт, который ещё никто независимо не рецензировал. Задачи взяты из наук о Земле и окружающей среде, а не из всех областей. Модели быстро меняются, и новые версии могут показать другой результат."
+  },
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Cloud_cumulonimbus_at_baltic_sea%281%29.jpg/960px-Cloud_cumulonimbus_at_baltic_sea%281%29.jpg",
+    "kind": "photo",
+    "credit": "Foto: Arnoldius, CC BY-SA 2.5, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Cloud_cumulonimbus_at_baltic_sea(1).jpg"
+  }
+}

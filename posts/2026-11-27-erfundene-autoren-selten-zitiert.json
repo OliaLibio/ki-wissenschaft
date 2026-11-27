@@ -1,0 +1,40 @@
+{
+  "id": "2026-11-27-erfundene-autoren-selten-zitiert",
+  "date": "2026-11-27",
+  "published": "2026-11-17",
+  "category": "grenzen",
+  "countries": [
+    "INT"
+  ],
+  "institution": "arXiv-Vorabdruck (Einrichtungen auf der Seite nicht angegeben)",
+  "maturity": "preprint",
+  "source": {
+    "name": "arXiv 2611.23530 (EMNLP 2026)",
+    "url": "https://arxiv.org/abs/2611.23530"
+  },
+  "more": [],
+  "de": {
+    "title": "Je seltener ein Fachartikel zitiert wird, desto öfter erfindet die KI seine Autoren",
+    "summary": "Fragt man eine KI, wer einen bestimmten Fachartikel geschrieben hat, antwortet sie oft selbstsicher, aber falsch. Forschende wollten wissen, wann das besonders häufig passiert. Sie legten drei führenden Sprachmodellen Fragen zu den Autorinnen und Autoren von 1,92 Millionen Fachartikeln aus acht Wissenschaftsgebieten vor und verglichen das mit der Zahl der Zitate, also wie oft andere Forschende den Artikel erwähnt haben. Das Muster war eindeutig: Bei kaum zitierten Artikeln lag die Quote erfundener Antworten über 98 Prozent, bei oft zitierten unter 37 Prozent. Die Analyse deutet darauf hin, dass dem Modell die Information oft nicht fehlt, sondern es sie beim Antworten nicht findet.",
+    "why": "Je spezieller oder unbekannter ein Thema, desto weniger kann man einer KI-Antwort trauen, gerade bei Quellenangaben und Namen. Wer eine solche Angabe braucht, sollte sie in der Originalquelle nachschlagen.",
+    "caveat": "Das ist ein Vorabdruck, der laut Angabe auf der Seite für eine Fachkonferenz angenommen wurde. Getestet wurden nur drei Modelle und nur die Frage nach den Autoren. Einrichtungen der Forschenden nennt die Seite nicht."
+  },
+  "en": {
+    "title": "The less often a paper is cited, the more often AI invents its authors",
+    "summary": "Ask an AI who wrote a particular research paper and it often answers with confidence, but wrongly. Researchers wanted to know when this happens most. They put questions about the authors of 1.92 million research papers from eight fields to three leading language models, and compared the results with citation counts, meaning how often other researchers mention the paper. The pattern was clear: for rarely cited papers, more than 98 percent of answers were made up, while for highly cited ones it was under 37 percent. The analysis suggests the model often does not lack the information, but fails to retrieve it when answering.",
+    "why": "The more specialized or obscure a topic, the less you can trust an AI answer, especially for sources and names. If you need such a detail, look it up in the original source.",
+    "caveat": "This is a preprint that, according to the page, was accepted at a scientific conference. Only three models were tested, and only the question of authorship. The page does not name the researchers' institutions."
+  },
+  "ru": {
+    "title": "Чем реже цитируют научную статью, тем чаще ИИ выдумывает её авторов",
+    "summary": "Если спросить ИИ, кто написал ту или иную научную статью, он часто отвечает уверенно, но неверно. Исследователи хотели понять, когда это случается чаще всего. Они задали трём ведущим языковым моделям вопросы об авторах 1,92 миллиона научных статей из восьми областей и сравнили результат с числом цитирований, то есть с тем, как часто другие учёные ссылаются на статью. Закономерность оказалась ясной: у редко цитируемых статей доля выдуманных ответов превышала 98 процентов, у часто цитируемых была ниже 37 процентов. Анализ указывает, что информации модели часто хватает, но при ответе она не находит её.",
+    "why": "Чем уже и малоизвестнее тема, тем меньше можно доверять ответу ИИ, особенно в источниках и именах. Если такая деталь нужна, её стоит проверить в первоисточнике.",
+    "caveat": "Это препринт, который, по данным страницы, принят на научную конференцию. Проверены только три модели и только вопрос об авторах. Учреждения исследователей на странице не указаны."
+  },
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Bookcase_-_Stadtgarten_Karlsruhe.jpg/960px-Bookcase_-_Stadtgarten_Karlsruhe.jpg",
+    "kind": "photo",
+    "credit": "Foto: H. Zell, CC BY-SA 3.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Bookcase_-_Stadtgarten_Karlsruhe.jpg"
+  }
+}
