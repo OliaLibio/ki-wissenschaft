@@ -1,0 +1,45 @@
+{
+  "published": "2026-10-01",
+  "category": "archaeologie",
+  "countries": [
+    "GB"
+  ],
+  "institution": "University of Edinburgh",
+  "maturity": "study",
+  "source": {
+    "name": "Journal of the Royal Society Interface",
+    "url": "https://doi.org/10.1098/rsif.2025.1243"
+  },
+  "more": [
+    {
+      "name": "Volltext (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682873/"
+    }
+  ],
+  "de": {
+    "title": "Fossilien per KI sortieren ohne riesige Beispielsammlung: Ein vorgefertigtes Bildmodell reicht oft aus",
+    "summary": "Wer Fossilien mit KI bestimmen will, steht meist vor einem Problem: Die Programme brauchen viele tausend beschriftete Beispielbilder, und die gibt es für seltene Fossilien oft nicht. Ein Forscher aus Schottland hat deshalb geprüft, ob ein bereits fertig trainiertes Bildmodell, das nie speziell auf Fossilien lernte, genügt. Er ließ es Bilder aus fünf Bereichen sortieren: fossilen Pollen, winzige Meerestiere mit Kalkschale und solche mit Glasgerüst, Dinosaurier-Fußspuren und eine bunte Sammlung verschiedener Fossilien. Dazu setzte er nur eine einfache Sortierregel obendrauf. Bei Pollen mit etwa 19.500 Bildern erreichte das etwa 98 Prozent richtige Treffer, bei den Glasgerüst-Tierchen mit gut 1.000 Bildern etwa 94 Prozent. Bei den bunten Fossilien lag es mit gut 83 Prozent auf dem Niveau früherer Spezialprogramme, bei den Kalkschalern mit knapp 87 Prozent knapp darunter. Das Modell konnte auch ähnliche Bilder von selbst zu Gruppen ordnen.",
+    "why": "Für kleine Museen, Hobbyforschende und Fachleute ohne Großrechner wird KI-Fossilbestimmung damit leichter zugänglich. Weniger Daten und Rechenaufwand heißt auch, dass man die Ergebnisse leichter nachprüfen kann.",
+    "caveat": "Der Vergleich mit früheren Studien ist nicht exakt, weil jede Studie die Daten anders aufgeteilt hat; der Autor nennt die Zahlen nur als Richtwerte. Bei den Dinosaurier-Fußspuren lag das Ergebnis mit gut 81 Prozent unter dem früherer Arbeit, und die Aufgabe selbst ist uneindeutig. Das automatische Gruppieren kann auch Bildfehler oder Hintergrundfarbe statt echter Unterschiede aufgreifen. Es ist ein einzelner Autor mit Beispieldaten, keine Praxiserprobung."
+  },
+  "en": {
+    "title": "Sorting fossils with AI without a huge example collection: a ready-made image model is often enough",
+    "summary": "Anyone who wants to identify fossils with AI usually faces a problem: the programs need many thousands of labelled example images, and for rare fossils these often do not exist. A researcher from Scotland therefore tested whether an image model that was already fully trained, and never specifically learned on fossils, is good enough. He had it sort images from five areas: fossil pollen, tiny sea creatures with a chalky shell and others with a glassy skeleton, dinosaur footprints and a mixed collection of different fossils. On top he added only a simple sorting rule. For pollen, with about 19,500 images, it reached about 98 percent correct, and for the glassy-skeleton creatures, with just over 1,000 images, about 94 percent. On the mixed fossils it matched earlier specialised programmes at just over 83 percent, and on the chalky-shell creatures it came in slightly below at just under 87 percent. The model could also arrange similar images into groups on its own.",
+    "why": "For small museums, hobby researchers and experts without a supercomputer, AI fossil identification becomes easier to access. Less data and computing effort also mean the results are easier to check.",
+    "caveat": "The comparison with earlier studies is not exact because every study split its data differently; the author gives the figures only as rough guides. For the dinosaur footprints the result, just over 81 percent, was below earlier work, and the task itself is ambiguous. Automatic grouping can also pick up image flaws or background colour instead of real differences. It is a single author working with example data, not a field test."
+  },
+  "ru": {
+    "title": "Сортировка окаменелостей с помощью ИИ без огромной коллекции примеров: часто хватает готовой модели для изображений",
+    "summary": "Тот, кто хочет определять окаменелости с помощью ИИ, обычно сталкивается с проблемой: программам нужны многие тысячи подписанных примеров, а для редких окаменелостей их часто нет. Поэтому исследователь из Шотландии проверил, достаточно ли готовой, уже обученной модели для изображений, которая никогда не училась специально на окаменелостях. Он заставил её сортировать снимки из пяти областей: ископаемая пыльца, крошечные морские организмы с известковой раковиной и со стеклянным скелетом, следы динозавров и смешанная коллекция разных окаменелостей. Сверху он добавил лишь простое правило сортировки. На пыльце, где было около 19 500 снимков, результат составил около 98 процентов верных ответов, а на организмах со стеклянным скелетом, где было чуть больше 1000 снимков, около 94 процентов. На смешанных окаменелостях модель сравнялась с прежними специальными программами, показав чуть больше 83 процентов, а на организмах с известковой раковиной отстала совсем немного, почти на 87 процентов. Модель также умела сама складывать похожие снимки в группы.",
+    "why": "Для небольших музеев, любителей и специалистов без суперкомпьютера определение окаменелостей с помощью ИИ становится доступнее. Меньше данных и вычислений означает и то, что результаты легче проверить.",
+    "caveat": "Сравнение с прежними работами неточное, потому что каждое исследование делило данные по-своему; автор приводит цифры лишь как ориентиры. На следах динозавров результат, чуть больше 81 процента, оказался ниже прежнего, да и сама задача неоднозначна. Автоматическая группировка может также ловить дефекты снимков или цвет фона вместо настоящих различий. Это работа одного автора на учебных данных, а не испытание на практике."
+  },
+  "image": {
+    "src": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0589/13682873/042afb0ba455/rsif.2025.1243.f001.webp",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Journal of the Royal Society Interface (CC BY)",
+    "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682873/"
+  },
+  "id": "2026-11-27-fossilien-ki-wenig-beschriftung",
+  "date": "2026-11-27"
+}

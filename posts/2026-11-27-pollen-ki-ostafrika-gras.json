@@ -1,0 +1,47 @@
+{
+  "published": "2026-10-02",
+  "category": "archaeologie",
+  "countries": [
+    "INT",
+    "US",
+    "KE"
+  ],
+  "institution": "University of Illinois Urbana-Champaign; Smithsonian Institution",
+  "maturity": "study",
+  "source": {
+    "name": "PNAS",
+    "url": "https://doi.org/10.1073/pnas.2607372123"
+  },
+  "more": [
+    {
+      "name": "Europe PMC (Zusammenfassung)",
+      "url": "https://europepmc.org/article/MED/pnas.2607372123"
+    }
+  ],
+  "de": {
+    "title": "KI unterscheidet uralte Gras-Pollen und zeigt, wie die Eiszeit die Graslandschaft am Mount Kenya ausdünnte",
+    "summary": "Gräser sind eine der wichtigsten Pflanzengruppen der Erde, aber ihre Geschichte ist schwer zu lesen. Der Blütenstaub fast aller Grasarten sieht unter dem normalen Mikroskop praktisch gleich aus, deshalb konnte man bisher kaum sagen, welche Gräser vor Jahrtausenden wuchsen. Ein internationales Forschungsteam unter Beteiligung von Forschenden aus den USA hat nun Bilder aus einem Mikroskop mit extrem hoher Auflösung mit einem lernfähigen Bildprogramm kombiniert. Das Programm lernte zuerst an Blütenstaub heutiger Gräser, feine Formunterschiede zu erkennen, und nahm dann auch Blütenstaub ohne bekannte Zuordnung dazu. Danach werteten die Forschenden damit Blütenstaub aus einer rund 25.000 Jahre alten Ablagerung am Grund eines Sees am Mount Kenya aus. Sie schätzten, wie vielfältig die Gräser waren und ob es eher Gräser mit dem einen oder dem anderen Weg der Photosynthese waren, also dem Weg, mit dem Pflanzen Licht in Energie umwandeln. Ergebnis: Zwischen etwa 21.500 und 16.000 Jahren vor heute, in der kältesten Phase der letzten Eiszeit, nahm die Zahl der Grasarten dort deutlich ab. Danach ging der Anteil der wärmeliebenden Gräser mit steigender Temperatur und weniger Bränden allmählich zurück.",
+    "why": "Die Studie zeigt, wie Klimawandel in der Vergangenheit ganze Pflanzengemeinschaften verändert hat, und liefert eine neue Methode, um das aus winzigen Pollenkörnern herauszulesen. Das hilft, besser einzuschätzen, wie empfindlich Graslandschaften auf Temperatur, Kohlendioxid und Feuer reagieren.",
+    "caveat": "Es ist die Geschichte eines einzigen Bergsees, man kann sie nicht ohne Weiteres auf ganz Ostafrika übertragen. Das Programm schätzt Vielfalt und Anteile, es bestimmt nicht jede einzelne Grasart sicher. Die Beziehung zwischen Klima und Gräsern wird aus zeitlichen Zusammenhängen abgeleitet, was noch keine Ursache beweist."
+  },
+  "en": {
+    "title": "AI tells ancient grass pollen apart and shows how the ice age thinned out grasslands on Mount Kenya",
+    "summary": "Grasses are among the most important plant groups on Earth, but their history is hard to read. The pollen of almost all grass species looks practically identical under an ordinary microscope, so until now it was nearly impossible to say which grasses grew thousands of years ago. An international research team including researchers from the US has now combined images from a microscope with extremely high resolution with a learning image program. The program first learned from pollen of today's grasses to spot fine differences in shape, and then also took in pollen with no known identity. The researchers then used it on pollen from a roughly 25,000-year-old deposit at the bottom of a lake on Mount Kenya. They estimated how varied the grasses were and whether they used one or the other route of photosynthesis, the way plants turn light into energy. The result: between about 21,500 and 16,000 years ago, in the coldest phase of the last ice age, the number of grass species there fell markedly. Afterwards, the share of warmth-loving grasses slowly declined as temperatures rose and fires became less frequent.",
+    "why": "The study shows how climate change in the past reshaped whole plant communities, and it offers a new way to read this from tiny pollen grains. That helps to judge how sensitive grasslands are to temperature, carbon dioxide and fire.",
+    "caveat": "This is the history of a single mountain lake and cannot simply be transferred to all of East Africa. The program estimates diversity and shares, it does not reliably identify every single grass species. The link between climate and grasses is inferred from timing, which does not yet prove cause."
+  },
+  "ru": {
+    "title": "ИИ различил древнюю пыльцу трав и показал, как ледниковый период сделал луга на горе Кения беднее",
+    "summary": "Злаки относятся к важнейшим группам растений на Земле, но их историю трудно прочитать. Пыльца почти всех видов трав под обычным микроскопом выглядит практически одинаково, поэтому до сих пор почти нельзя было сказать, какие травы росли тысячи лет назад. Международная группа исследователей, в том числе из США, соединила снимки микроскопа со сверхвысоким разрешением с обучаемой программой для анализа изображений. Сначала программа училась по пыльце современных трав замечать тонкие различия формы, а затем ей добавили и пыльцу без известной принадлежности. После этого исследователи проанализировали пыльцу из примерно 25-тысячелетнего слоя на дне озера на горе Кения. Они оценили, насколько разнообразны были травы и какой из двух путей фотосинтеза у них преобладал, то есть как растения превращают свет в энергию. Результат: примерно от 21 500 до 16 000 лет назад, в самую холодную фазу последнего ледникового периода, число видов трав там заметно сократилось. Позднее доля теплолюбивых трав постепенно снижалась по мере потепления и уменьшения пожаров.",
+    "why": "Исследование показывает, как изменения климата в прошлом перестраивали целые растительные сообщества, и даёт новый способ читать это по крошечным зёрнам пыльцы. Это помогает оценить, насколько луга чувствительны к температуре, углекислому газу и огню.",
+    "caveat": "Это история одного горного озера, её нельзя просто перенести на всю Восточную Африку. Программа оценивает разнообразие и доли, а не определяет надёжно каждый отдельный вид трав. Связь климата и трав выведена из совпадения по времени, а это ещё не доказывает причину."
+  },
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Mount_Kenya_alpine.jpg/960px-Mount_Kenya_alpine.jpg",
+    "kind": "photo",
+    "credit": "Foto: John Spooner, CC BY 2.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Mount_Kenya_alpine.jpg"
+  },
+  "id": "2026-11-27-pollen-ki-ostafrika-gras",
+  "date": "2026-11-27"
+}

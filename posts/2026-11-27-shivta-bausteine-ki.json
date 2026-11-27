@@ -1,0 +1,46 @@
+{
+  "published": "2026-10-28",
+  "category": "archaeologie",
+  "countries": [
+    "IL",
+    "US"
+  ],
+  "institution": "University of Haifa; Field Museum, Chicago",
+  "maturity": "study",
+  "source": {
+    "name": "PNAS",
+    "url": "https://doi.org/10.1073/pnas.2628851123"
+  },
+  "more": [
+    {
+      "name": "Europe PMC (Zusammenfassung)",
+      "url": "https://europepmc.org/article/MED/42949979"
+    }
+  ],
+  "de": {
+    "title": "KI vermisst eine antike Wüstenstadt Stein für Stein und findet eine bisher unbekannte ältere Stadtgrenze",
+    "summary": "Wer verstehen will, wie eine antike Stadt gewachsen ist, schaut normalerweise auf Grundrisse und einzelne Gebäude. Forschende aus Israel und den USA haben sich stattdessen jeden einzelnen Baustein vorgenommen. Sie untersuchten Shivta, eine Siedlung aus der Spätantike mitten in der Negev-Wüste. Dafür fotografierten sie die Ruinen mit einer Drohne von oben und machten Nahaufnahmen von noch stehenden Mauern. Ein Computerprogramm, das aus Beispielbildern gelernt hat, Steine zu erkennen, markierte danach etwa 235.000 Steine auf dem Boden und etwa 12.000 Steine in 604 Mauern und maß ihre Größe und Form sowie die Art, wie sie aufgeschichtet sind. Das Ergebnis: Besonders große, gleichmäßig geformte Steine fanden sich rund um die Kirchen und an Teilen des Siedlungsrands. Aus dem Muster der Mauerqualität ergab sich außerdem eine bisher nicht bekannte frühere Stadtgrenze, und es sprach dafür, dass die Siedlung von einem Kern im Süden aus nach außen gewachsen ist. In der Hauptwachstumsphase baute man offenbar mit größeren und regelmäßigeren Steinen.",
+    "why": "Die Studie zeigt, wie KI eine mühsame Handarbeit ersetzen kann, die Archäologen sonst nur an einzelnen Häusern leisten: Aus Millionen kleiner Beobachtungen wird ein Bild davon, wie eine ganze Stadt Stück für Stück entstand. Das hilft, auch Orte zu verstehen, die man nicht mehr ausgraben kann oder darf.",
+    "caveat": "Es ist eine einzelne Siedlung, und die Deutung, dass die Mauerqualität etwas über das Wachstum verrät, ist eine Schlussfolgerung aus Mustern, kein Beweis. Die Forschenden selbst sprechen von Hinweisen und davon, dass die Methode erst an weiteren Stätten ihre Tauglichkeit zeigen muss. Eine Grabung vor Ort müsste die neu entdeckte ältere Grenze bestätigen."
+  },
+  "en": {
+    "title": "AI measures an ancient desert town stone by stone and finds a previously unknown earlier town boundary",
+    "summary": "To understand how an ancient town grew, archaeologists usually look at floor plans and individual buildings. Researchers from Israel and the US instead took on every single building stone. They studied Shivta, a settlement from late antiquity in the middle of the Negev desert. They photographed the ruins from above with a drone and took close-ups of walls that are still standing. A computer program that had learned from example images to recognise stones then marked about 235,000 stones on the ground and about 12,000 stones in 604 walls, and measured their size, shape and the way they are stacked. The result: especially large, evenly shaped stones were found around the churches and along parts of the edge of the settlement. The pattern of wall quality also revealed an earlier town boundary that was not known before, and it pointed to the settlement having grown outwards from a core in the south. In its main phase of growth, people apparently built with larger and more regular stones.",
+    "why": "The study shows how AI can take over painstaking handwork that archaeologists normally do only for single houses: millions of small observations add up to a picture of how a whole town took shape. That can also help to understand places that can no longer, or must not, be excavated.",
+    "caveat": "This is a single settlement, and reading wall quality as a sign of growth is an interpretation of patterns, not proof. The authors themselves present the findings as indications and say the method must prove itself at more sites. An excavation on the spot would have to confirm the newly found earlier boundary."
+  },
+  "ru": {
+    "title": "ИИ измерил древний город в пустыне камень за камнем и нашёл неизвестную прежде более раннюю границу города",
+    "summary": "Чтобы понять, как рос древний город, археологи обычно смотрят на планы и отдельные здания. Исследователи из Израиля и США взяли за основу каждый отдельный строительный камень. Они изучали Шивту, поселение поздней античности посреди пустыни Негев. Руины сняли с дрона сверху, а стоящие стены сфотографировали вблизи. Компьютерная программа, которая научилась по примерам узнавать камни, отметила около 235 000 камней на земле и около 12 000 камней в 604 стенах и измерила их размер, форму и способ кладки. Результат: особенно крупные и ровные камни нашлись вокруг церквей и на части края поселения. По узору качества стен выявилась и неизвестная ранее более ранняя граница города, а также признаки того, что поселение росло наружу от южного ядра. В главную фазу роста, судя по всему, строили из более крупных и правильных камней.",
+    "why": "Исследование показывает, как ИИ может заменить кропотливую ручную работу, которую археологи обычно делают лишь для отдельных домов: миллионы мелких наблюдений складываются в картину того, как формировался целый город. Это помогает понимать и места, которые больше нельзя или не разрешено раскапывать.",
+    "caveat": "Это одно поселение, а вывод о росте города по качеству стен является толкованием закономерностей, а не доказательством. Сами авторы говорят о признаках и о том, что метод должен подтвердить себя на других памятниках. Вновь найденную раннюю границу должны проверить раскопки на месте."
+  },
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Shivta_101025_02.jpg/960px-Shivta_101025_02.jpg",
+    "kind": "photo",
+    "credit": "Foto: Oren Rozen, CC BY-SA 4.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Shivta_101025_02.jpg"
+  },
+  "id": "2026-11-27-shivta-bausteine-ki",
+  "date": "2026-11-27"
+}
