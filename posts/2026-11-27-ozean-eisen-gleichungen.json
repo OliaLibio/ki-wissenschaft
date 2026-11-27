@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-27-ozean-eisen-gleichungen",
+  "date": "2026-11-27",
+  "published": "2026-06-24",
+  "category": "klima",
+  "countries": [
+    "INT"
+  ],
+  "institution": "Studie in Geophysical Research Letters (AGU)",
+  "maturity": "lab",
+  "source": {
+    "name": "Geophysical Research Letters via Phys.org / Eos",
+    "url": "https://phys.org/news/2026-06-machine-rediscovers-equations-ocean-biogeochemistry.html"
+  },
+  "more": [
+    {
+      "name": "DOI 10.1029/2025GL121380",
+      "url": "https://doi.org/10.1029/2025gl121380"
+    }
+  ],
+  "de": {
+    "title": "KI findet aus wenigen Messwerten Formeln für den Eisenkreislauf im Meer wieder",
+    "summary": "Eisen ist im Meer ein knapper Nährstoff, von dem abhängt, wie viel Algen wachsen, und Algen binden Kohlendioxid. Wie Eisen im Wasser umgesetzt wird, beschreiben Forschende mit Formeln, die oft nur grob stimmen, weil Messungen auf hoher See selten sind. Ein Team hat deshalb in einem Computermodell des Ozeans, in dem die richtigen Formeln bekannt sind, ausprobiert, ob ein Lernverfahren sie aus wenigen Daten wiederfinden kann. Das Verfahren probiert Rechenbausteine so lange durch, bis eine Formel zu den Daten passt. Es lieferte sechs Formeln für sogenanntes kolloidales Eisen, also winzige Eisenteilchen, die im Wasser schweben. Sie sahen anders aus als die Originale, waren aber einfacher und gaben die großen Muster ähnlich gut wieder. Salzgehalt kam darin nicht vor, vermutlich weil er im Meer wenig schwankt. Am besten klappte es mit Proben aus der gesamten Wassersäule statt nur aus einzelnen Tiefen.",
+    "why": "Wenn solche Verfahren funktionieren, könnten sie helfen, Klimamodelle mit besseren Formeln für das Leben im Meer auszustatten, und zeigen, wo zusätzliche Messfahrten am meisten bringen.",
+    "caveat": "Das war ein Test im Computer mit bekannten Antworten, kein Beweis, dass es mit echten Messdaten genauso klappt. Das Verfahren ist laut der Meldung noch nicht gründlich erprobt. Genaue Leistungszahlen nennt sie nicht, und es fehlen weiter Messungen. Als Veröffentlichungsdatum ist das Datum der Meldung angegeben (Ende Juni 2026, nahe der Sechs-Monats-Grenze)."
+  },
+  "en": {
+    "title": "AI rediscovers formulas for the ocean's iron cycle from sparse measurements",
+    "summary": "Iron is a scarce nutrient in the sea that decides how much algae grow, and algae take up carbon dioxide. Researchers describe how iron is processed in the water with formulas that are often only rough, because measurements on the open ocean are rare. So a team used a computer model of the ocean in which the right formulas are known and tried whether a learning method could find them again from few data. The method tries out mathematical building blocks until a formula fits the data. It produced six formulas for so-called colloidal iron, tiny iron particles that float in the water. They looked different from the originals but were simpler and reproduced the big patterns about as well. Salinity did not appear in them, probably because it varies little in the sea. It worked best with samples from the whole water column rather than from single depths.",
+    "why": "If such methods work, they could help give climate models better formulas for life in the sea, and show where extra research cruises would help most.",
+    "caveat": "This was a test inside a computer with known answers, not proof that it works equally well with real measurements. According to the report the method is not yet thoroughly tested. It gives no precise performance figures, and measurements are still missing. The date given as publication date is that of the report (late June 2026, near the six-month limit)."
+  },
+  "ru": {
+    "title": "ИИ заново находит формулы круговорота железа в океане по небольшому числу измерений",
+    "summary": "Железо в море — дефицитное питательное вещество, от которого зависит, сколько растёт водорослей, а водоросли поглощают углекислый газ. То, как железо перерабатывается в воде, исследователи описывают формулами, которые часто лишь приблизительны, потому что измерений в открытом океане мало. Поэтому команда взяла компьютерную модель океана, где правильные формулы известны, и проверила, сможет ли обучаемый метод найти их заново по малому объёму данных. Метод перебирает математические «кирпичики», пока формула не совпадёт с данными. Он выдал шесть формул для так называемого коллоидного железа, то есть крошечных частиц железа, взвешенных в воде. Они выглядели иначе, чем оригиналы, но были проще и примерно так же хорошо воспроизводили крупные закономерности. Солёность в них не вошла, вероятно потому, что в море она мало меняется. Лучше всего работали пробы со всей толщи воды, а не с отдельных глубин.",
+    "why": "Если такие методы работают, они могут помочь снабдить климатические модели лучшими формулами для жизни в море и показать, где дополнительные рейсы нужнее всего.",
+    "caveat": "Это был тест внутри компьютера с известными ответами, а не доказательство, что с реальными измерениями получится так же. По сообщению, метод ещё не проверен тщательно. Точных показателей качества там нет, и измерений по-прежнему не хватает. В качестве даты публикации указана дата сообщения (конец июня 2026, близко к границе в полгода)."
+  },
+  "image": {
+    "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-redis.jpg",
+    "kind": "press",
+    "credit": "Bild: Phys.org",
+    "link": "https://phys.org/news/2026-06-machine-rediscovers-equations-ocean-biogeochemistry.html"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-27-gletscher-eisvolumen",
+  "date": "2026-11-27",
+  "published": "2026-08-07",
+  "category": "klima",
+  "countries": [
+    "IT"
+  ],
+  "institution": "Ca' Foscari Universität Venedig; Institut für Polarwissenschaften des Italienischen Forschungsrats (CNR-ISP)",
+  "maturity": "study",
+  "source": {
+    "name": "Scientific Data via Phys.org",
+    "url": "https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html"
+  },
+  "more": [
+    {
+      "name": "DOI 10.1038/s41597-026-07744-9",
+      "url": "https://doi.org/10.1038/s41597-026-07744-9"
+    }
+  ],
+  "de": {
+    "title": "KI schätzt, wie viel Eis in den Gletschern der Welt steckt, und liegt näher an den Messungen als frühere Schätzungen",
+    "summary": "Wie dick ein Gletscher ist, sieht man ihm von außen nicht an. Man muss es mit Radar oder Bohrungen messen, und das ist mühsam. Deshalb war lange unklar, wie viel Eis die Gletscher der Erde insgesamt enthalten und wie viel Meeresspiegelanstieg darin steckt. Forschende aus Italien haben ein Computerprogramm trainiert, das aus gemessenen Eisdicken lernt. Es bekam mehr als sieben Millionen Messwerte von Gletschern aus aller Welt und dazu 26 weitere Angaben wie Neigung, Höhe und Größe. Damit schätzt es die Dicke und das Eisvolumen jedes einzelnen Gletschers, ohne die großen Eisschilde in Grönland und der Antarktis. Das Ergebnis: Die Gletscher halten etwa 150.000 Kubikkilometer Eis. Würde alles schmelzen, stiege der Meeresspiegel um rund 32 Zentimeter. Die Schätzung passt bis zu 40 Prozent besser zu Feldmessungen als frühere Schätzungen. In einer Region im Osten Grönlands, wo das Eis bis zu zwei Kilometer dick ist, fand das Programm fast doppelt so viel Eis wie bisher angenommen.",
+    "why": "Gletscher sind Wasserspeicher: Nach Angaben der Forschenden hängen etwa 1,9 Milliarden Menschen von ihrem Schmelzwasser ab. Je besser man weiß, wie viel Eis da ist, desto verlässlicher lässt sich abschätzen, wie lange es Wasser liefert und wie stark die Meere steigen.",
+    "caveat": "Das Ergebnis ist eine Schätzung, keine Messung jedes Gletschers. Gerade im Himalaya, im Karakorum und in Patagonien fehlen noch Messungen, dort ist das Programm unsicherer. Die Zahlen stammen aus der Pressemeldung von Phys.org zur Studie; als Veröffentlichungsdatum ist das Datum dieser Meldung angegeben."
+  },
+  "en": {
+    "title": "AI estimates how much ice the world's glaciers hold, and lands closer to measurements than earlier estimates",
+    "summary": "You cannot tell from the outside how thick a glacier is. It has to be measured with radar or drilling, which is laborious. So it has long been unclear how much ice the world's glaciers hold in total, and how much sea-level rise is locked in it. Researchers in Italy trained a computer program that learns from measured ice thicknesses. It was given more than seven million measurements from glaciers around the world, plus 26 other details such as slope, elevation and size. From these it estimates the thickness and ice volume of every single glacier, leaving out the big ice sheets of Greenland and Antarctica. The result: glaciers hold about 150,000 cubic kilometres of ice. If all of it melted, sea level would rise by about 32 centimetres. The estimate matches field measurements up to 40 percent better than earlier estimates. In a region of eastern Greenland where the ice is up to two kilometres thick, the program found almost twice as much ice as previously thought.",
+    "why": "Glaciers are water stores: according to the researchers, about 1.9 billion people depend on their meltwater. The better we know how much ice there is, the more reliably we can judge how long it will keep supplying water and how much the seas will rise.",
+    "caveat": "This is an estimate, not a measurement of every glacier. In the Himalaya, Karakoram and Patagonia in particular, measurements are still missing and the program is less certain. The numbers come from the Phys.org report on the study; the date given as publication date is that report's date."
+  },
+  "ru": {
+    "title": "ИИ оценивает, сколько льда в ледниках мира, и ближе к измерениям, чем прежние оценки",
+    "summary": "Снаружи не видно, насколько толст ледник. Это приходится измерять радаром или бурением, а это трудно. Поэтому долго было неясно, сколько всего льда в ледниках Земли и сколько подъёма уровня моря в нём заключено. Исследователи из Италии обучили компьютерную программу, которая учится на измеренной толщине льда. Ей дали более семи миллионов измерений с ледников по всему миру и ещё 26 характеристик, например уклон, высоту и размер. По ним она оценивает толщину и объём льда каждого отдельного ледника, не считая больших ледниковых щитов Гренландии и Антарктиды. Результат: в ледниках около 150 000 кубических километров льда. Если бы он весь растаял, уровень моря поднялся бы примерно на 32 сантиметра. Оценка до 40 процентов лучше совпадает с полевыми измерениями, чем прежние. В районе на востоке Гренландии, где лёд толщиной до двух километров, программа нашла почти вдвое больше льда, чем считали раньше.",
+    "why": "Ледники — хранилища воды: по словам исследователей, от их талой воды зависят около 1,9 миллиарда человек. Чем лучше известно, сколько там льда, тем надёжнее можно судить, как долго он будет давать воду и насколько поднимутся моря.",
+    "caveat": "Это оценка, а не измерение каждого ледника. В Гималаях, Каракоруме и Патагонии измерений особенно не хватает, и там программа менее уверена. Цифры взяты из сообщения Phys.org об исследовании; в качестве даты публикации указана дата этого сообщения."
+  },
+  "image": {
+    "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-ai-model-reveals.jpg",
+    "kind": "press",
+    "credit": "Bild: Phys.org",
+    "link": "https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2026-11-27-pilz-vielfalt-drohnen",
+  "date": "2026-11-27",
+  "published": "2026-08-10",
+  "category": "klima",
+  "countries": [
+    "CA",
+    "CN"
+  ],
+  "institution": "University of Alberta (Kanada); Studiengebiet in China",
+  "maturity": "study",
+  "source": {
+    "name": "Forest Ecology and Management via Phys.org",
+    "url": "https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html"
+  },
+  "more": [
+    {
+      "name": "DOI 10.1016/j.foreco.2026.123857",
+      "url": "https://doi.org/10.1016/j.foreco.2026.123857"
+    }
+  ],
+  "de": {
+    "title": "Drohnenbilder und KI verraten ein Stück weit, welche Pilze im Waldboden leben",
+    "summary": "Im Waldboden leben unzählige Pilze, die Bäumen helfen, Nährstoffe aufzunehmen. Wer wissen will, welche Arten wo vorkommen, muss normalerweise Erde sammeln und das Erbgut darin untersuchen. Das ist teuer und langsam. Ein Team aus Kanada hat in einem rund 40 Jahre alten Pflanzwald in einem Schutzgebiet in China geprüft, ob es auch von oben geht. Es nahm 538 Bodenproben auf einer Fläche von 26 Hektar, also etwa 36 Fußballfeldern, und bestimmte die Pilze per Erbgutanalyse. Zugleich flogen Drohnen über den Wald und erfassten Baumhöhen und Licht, das die Blätter zurückwerfen; daraus lässt sich zum Beispiel ablesen, wie viel Blattgrün und Wasser die Bäume haben. Ein Lernprogramm sollte aus den Drohnendaten die Pilzvielfalt vorhersagen. Bei der Frage, wie stark sich die Pilzgemeinschaften zwischen Orten unterscheiden, traf es etwa 53 Prozent der Unterschiede. Bei der Zahl der Arten an einer Stelle waren es 28 bis 45 Prozent, je nach Maß.",
+    "why": "Die Studie zeigt, dass Bilder aus der Luft Hinweise auf Leben unter der Erde geben können. Das könnte helfen, große Waldflächen grob auf ihre Artenvielfalt zu überprüfen, bevor man gezielt Proben nimmt.",
+    "caveat": "Die Vorhersage ist nur mittelmäßig und ersetzt die Bodenproben nicht: Das Programm musste mit Proben und Erbgutanalysen trainiert werden. Untersucht wurde nur ein einziger Wald. Ob es woanders genauso gut klappt, ist offen. Als Veröffentlichungsdatum ist das Datum der Phys.org-Meldung angegeben."
+  },
+  "en": {
+    "title": "Drone images and AI reveal part of which fungi live in forest soil",
+    "summary": "Forest soil is home to countless fungi that help trees take up nutrients. To know which species live where, you normally have to collect soil and analyse the genetic material in it, which is slow and expensive. A team from Canada tested in a roughly 40-year-old planted forest in a nature reserve in China whether it can be done from above. It took 538 soil samples across 26 hectares, about 36 football pitches, and identified the fungi by DNA analysis. At the same time drones flew over the forest and recorded tree heights and the light reflected by the leaves, from which one can estimate things like how much leaf pigment and water the trees hold. A learning program was asked to predict fungal diversity from the drone data. For how strongly fungal communities differ between places, it got about 53 percent of the differences right. For the number of species at a single spot it managed 28 to 45 percent, depending on the measure.",
+    "why": "The study shows that images from the air can hint at life underground. That might help to check large forest areas roughly for biodiversity before taking targeted samples.",
+    "caveat": "The prediction is only moderate and does not replace soil samples: the program had to be trained with samples and DNA analyses. Only a single forest was studied, so it is open whether this works equally well elsewhere. The date given as publication date is that of the Phys.org report."
+  },
+  "ru": {
+    "title": "Снимки с дронов и ИИ частично выдают, какие грибы живут в лесной почве",
+    "summary": "В лесной почве живут несметные грибы, которые помогают деревьям получать питательные вещества. Чтобы знать, какие виды где растут, обычно приходится брать землю и анализировать генетический материал в ней, а это медленно и дорого. Команда из Канады проверила в примерно 40-летнем лесопосадочном лесу в заповеднике в Китае, можно ли обойтись взглядом сверху. Взяли 538 проб почвы на площади 26 гектаров, это около 36 футбольных полей, и определили грибы по ДНК. Одновременно над лесом летали дроны и фиксировали высоту деревьев и свет, отражённый листьями, по которому можно оценить, сколько в деревьях хлорофилла и воды. Обучаемая программа должна была предсказать разнообразие грибов по данным дронов. Насколько сильно сообщества грибов различаются между местами, она угадала примерно на 53 процента. Число видов в одной точке она предсказала на 28–45 процентов, в зависимости от меры.",
+    "why": "Исследование показывает, что снимки с воздуха могут намекать на жизнь под землёй. Это может помочь грубо проверять большие лесные площади на разнообразие, прежде чем брать целевые пробы.",
+    "caveat": "Предсказание лишь среднее и не заменяет почвенные пробы: программу пришлось обучать на пробах и анализах ДНК. Изучен только один лес, так что неизвестно, будет ли так же хорошо в других местах. В качестве даты публикации указана дата сообщения Phys.org."
+  },
+  "image": {
+    "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-and-machine-lea.jpg",
+    "kind": "press",
+    "credit": "Bild: Phys.org",
+    "link": "https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html"
+  }
+}
