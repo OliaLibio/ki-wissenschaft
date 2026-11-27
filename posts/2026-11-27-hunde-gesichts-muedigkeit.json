@@ -1,0 +1,50 @@
+{
+  "published": "2026-10-27",
+  "category": "tiere",
+  "countries": [
+    "IL",
+    "SE"
+  ],
+  "institution": "University of Haifa; Jönköping University",
+  "maturity": "study",
+  "source": {
+    "name": "Scientific Reports",
+    "url": "https://www.nature.com/articles/s41598-026-76637-z"
+  },
+  "more": [
+    {
+      "name": "DOI 10.1038/s41598-026-76637-z",
+      "url": "https://doi.org/10.1038/s41598-026-76637-z"
+    },
+    {
+      "name": "ZME Science",
+      "url": "https://www.zmescience.com/ecology/animals-ecology/scientists-taught-ai-to-recognize-a-tired-dog-by-looking-at-its-face/"
+    }
+  ],
+  "de": {
+    "title": "KI erkennt am Gesicht eines Spürhunds, ob er nach der Arbeit erschöpft ist, aber bisher nur bei vier Hunden",
+    "summary": "Such- und Spürhunde arbeiten oft in gefährlichen Einsätzen, etwa nach Erdbeben. Ob ein Hund gerade erschöpft ist, beurteilen bisher meist die Hundeführer nach Gefühl, oder man müsste dem Tier Messgeräte anlegen, was im Einsatz kaum geht. Ein Team aus Israel und Schweden hat deshalb getestet, ob eine Software das allein anhand kurzer Handyvideos erkennen kann. Das Programm markiert im Gesicht des Hundes 46 Punkte, etwa an Augen, Ohren, Nase und Lippen, und verfolgt, wie sich diese Punkte bewegen. Aus diesen Bewegungen lernte ein Computerprogramm, ein Video von einem ausgeruhten Hund von einem Video nach getaner Arbeit zu unterscheiden. Die Forschenden nutzten 177 Videos von vier Arbeitshunden. Bei Hunden, die das Programm schon aus dem Training kannte, lag die Trefferquote etwa bei 78 von 100. Bei einem völlig unbekannten Hund sank sie auf etwa 68 bis 74 von 100, je nach Rechenverfahren.",
+    "why": "Wenn sich das bestätigt, könnten Hundeführer künftig mit einem normalen Handy früh merken, wann ihr Hund eine Pause braucht, bevor er Fehler macht oder sich überanstrengt.",
+    "caveat": "Es waren nur vier Hunde, und die Software erkennt streng genommen nur den Unterschied zwischen „ausgeruht“ und „nach der Arbeit“. Hecheln und Gesichtsausdruck können auch von Hitze, Aufregung oder Stress kommen, und Rassen sehen sehr verschieden aus. Ob das System wirklich Müdigkeit misst, ist noch nicht gezeigt; die Autoren fordern selbst Tests mit mehr und unterschiedlicheren Hunden."
+  },
+  "en": {
+    "title": "AI can tell from a working dog's face whether it is worn out after work, but so far only in four dogs",
+    "summary": "Search and detection dogs often work in dangerous situations, such as after earthquakes. Whether a dog is exhausted is mostly judged by its handler by feel, or you would have to strap measuring devices on the animal, which is hard in the field. A team from Israel and Sweden tested whether software could tell from short smartphone videos alone. The program marks 46 points on the dog's face, such as around the eyes, ears, nose and lips, and tracks how they move. From these movements a computer program learned to tell a video of a rested dog from one made after work. The researchers used 177 videos of four working dogs. For dogs the program already knew from training, it was right about 78 times out of 100. For a completely unfamiliar dog this dropped to about 68 to 74 out of 100, depending on the method.",
+    "why": "If this holds up, handlers could one day use an ordinary phone to notice early when their dog needs a break, before it makes mistakes or overexerts itself.",
+    "caveat": "Only four dogs took part, and strictly speaking the software only recognises the difference between “rested” and “after work”. Panting and facial expression can also come from heat, excitement or stress, and breeds look very different. Whether it truly measures tiredness is not yet shown; the authors themselves call for tests with more and more varied dogs."
+  },
+  "ru": {
+    "title": "ИИ по морде служебной собаки определяет, устала ли она после работы, но пока только у четырёх собак",
+    "summary": "Поисковые и розыскные собаки часто работают в опасных условиях, например после землетрясений. Устала ли собака, обычно оценивает на глаз её проводник, а надевать на животное приборы в поле почти невозможно. Команда из Израиля и Швеции проверила, может ли программа определить это только по коротким видео со смартфона. Программа отмечает на морде собаки 46 точек, например у глаз, ушей, носа и губ, и следит за тем, как они двигаются. По этим движениям компьютерная программа научилась отличать видео отдохнувшей собаки от видео после работы. Исследователи использовали 177 видео четырёх служебных собак. Для собак, которых программа уже знала по обучению, она ошибалась редко: верно в примерно 78 случаях из 100. Для совсем незнакомой собаки результат падал примерно до 68–74 из 100, в зависимости от метода.",
+    "why": "Если результат подтвердится, проводники смогут с обычным телефоном вовремя замечать, что собаке нужен отдых, пока она не начала ошибаться или перенапрягаться.",
+    "caveat": "Участвовали всего четыре собаки, и строго говоря, программа различает лишь «отдохнувшую» и «после работы». Тяжёлое дыхание и выражение морды могут быть вызваны жарой, возбуждением или стрессом, а породы выглядят очень по-разному. Измеряет ли система именно усталость, пока не доказано; сами авторы просят проверить её на большем числе разных собак."
+  },
+  "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-76637-z/MediaObjects/41598_2026_76637_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Scientific Reports",
+    "link": "https://www.nature.com/articles/s41598-026-76637-z"
+  },
+  "id": "2026-11-27-hunde-gesichts-muedigkeit",
+  "date": "2026-11-27"
+}

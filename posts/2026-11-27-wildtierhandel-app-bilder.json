@@ -1,0 +1,46 @@
+{
+  "published": "2026-10-26",
+  "category": "tiere",
+  "countries": [
+    "FI",
+    "INT"
+  ],
+  "institution": "University of Helsinki; International Fund for Animal Welfare",
+  "maturity": "study",
+  "source": {
+    "name": "Conservation Biology via EurekAlert",
+    "url": "https://www.eurekalert.org/news-releases/1153406"
+  },
+  "more": [
+    {
+      "name": "DOI 10.1111/cobi.70407",
+      "url": "https://doi.org/10.1111/cobi.70407"
+    }
+  ],
+  "de": {
+    "title": "KI findet auf Fotos Produkte von Elefanten, Schuppentieren und Tigern, liegt aber nicht immer richtig",
+    "summary": "Der illegale Handel mit Teilen bedrohter Tiere findet zunehmend im Internet statt, wo Behörden unmöglich jedes Angebotsfoto selbst prüfen können. Ein Team aus Finnland hat deshalb ein Bilderkennungsprogramm trainiert, das Produkte von Elefanten (etwa Elfenbein), Schuppentieren und Tigern erkennt. Als Lernmaterial dienten fast 40.000 Fotos aus Online-Märkten, von beschlagnahmter Ware und aus Kontrollen, darunter auch viele ähnlich aussehende, aber erlaubte Dinge wie Schnitzereien aus anderem Material. Das beste Programm lag insgesamt in etwa 84 von 100 Fällen richtig. Bei Schuppentier-Produkten waren es rund 94, bei Tiger-Produkten rund 90, bei Elefanten-Produkten aber nur etwa 71 von 100. Das Team baute das Programm außerdem in eine Handy-App ein, die bei einem unabhängigen Test etwa 91 von 100 Bildern richtig einordnete.",
+    "why": "Solche Programme können Ermittlern helfen, aus Tausenden Angeboten die verdächtigen herauszusuchen. Entscheiden, ob etwas illegal ist, sollen aber weiterhin Fachleute.",
+    "caveat": "Die App ist ein Forschungsprototyp. Bei Elefanten-Produkten liegt das Programm in fast jedem dritten Fall falsch, und nur drei Tierarten werden abgedeckt. Es kann Verdächtiges nur markieren, keine rechtliche Entscheidung treffen. Die 91 Prozent stammen aus einem kleineren Test und sagen nicht, wie gut die App im echten Alltag arbeitet."
+  },
+  "en": {
+    "title": "AI spots products from elephants, pangolins and tigers in photos, but is not always right",
+    "summary": "The illegal trade in parts of threatened animals increasingly happens online, where authorities cannot possibly check every listing photo themselves. A team from Finland trained an image recognition program to spot products from elephants (such as ivory), pangolins and tigers. It learned from nearly 40,000 photos from online marketplaces, seized goods and inspections, including many look-alike but legal items such as carvings made from other materials. The best program was right in about 84 out of 100 cases overall. For pangolin products it was around 94, for tiger products around 90, but for elephant products only about 71 out of 100. The team also built the program into a smartphone app, which sorted about 91 out of 100 images correctly in an independent test.",
+    "why": "Programs like this can help investigators pick the suspicious listings out of thousands. Experts should still decide whether something is actually illegal.",
+    "caveat": "The app is a research prototype. For elephant products the program is wrong in almost one case in three, and only three kinds of animals are covered. It can only flag suspicious items, not make legal decisions. The 91 percent comes from a smaller test and does not show how well the app works in everyday use."
+  },
+  "ru": {
+    "title": "ИИ находит на фото изделия из слонов, панголинов и тигров, но ошибается нередко",
+    "summary": "Незаконная торговля частями исчезающих животных всё чаще идёт через интернет, где власти не могут вручную проверить каждое фото объявления. Команда из Финляндии обучила программу распознавания изображений находить изделия из слонов (например, слоновую кость), панголинов и тигров. Она училась почти на 40 000 фото с онлайн-площадок, изъятых товаров и проверок, среди них много похожих, но разрешённых вещей, например резьба из других материалов. Лучшая программа в целом оказалась права примерно в 84 случаях из 100. Для изделий из панголинов результат был около 94, из тигров около 90, а из слонов только около 71 из 100. Команда также встроила программу в приложение для смартфона, которое в независимом тесте верно определило около 91 изображения из 100.",
+    "why": "Такие программы помогают следователям выбрать подозрительные объявления из тысяч. Решать, законна ли вещь, по-прежнему должны специалисты.",
+    "caveat": "Приложение пока исследовательский прототип. Для изделий из слонов программа ошибается почти в каждом третьем случае, а охвачено только три вида животных. Она лишь отмечает подозрительное и не принимает юридических решений. 91 процент получен в небольшом тесте и не говорит, как приложение работает в повседневной жизни."
+  },
+  "image": {
+    "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/1fa826e3-981f-491f-925b-b0216c76289d/Rendition/low-res/Content/Public",
+    "kind": "press",
+    "credit": "Bild: University of Helsinki / EurekAlert",
+    "link": "https://www.eurekalert.org/news-releases/1153406"
+  },
+  "id": "2026-11-27-wildtierhandel-app-bilder",
+  "date": "2026-11-27"
+}

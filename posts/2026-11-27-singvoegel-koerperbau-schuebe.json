@@ -1,0 +1,49 @@
+{
+  "published": "2026-07-20",
+  "category": "tiere",
+  "countries": [
+    "US"
+  ],
+  "institution": "University of Michigan; New York University",
+  "maturity": "study",
+  "source": {
+    "name": "Nature Ecology & Evolution",
+    "url": "https://www.nature.com/articles/s41559-026-03110-5"
+  },
+  "more": [
+    {
+      "name": "DOI 10.1038/s41559-026-03110-5",
+      "url": "https://doi.org/10.1038/s41559-026-03110-5"
+    },
+    {
+      "name": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm"
+    }
+  ],
+  "de": {
+    "title": "KI vermisst Skelette von über 2.000 Singvogelarten: Der Körperbau veränderte sich in plötzlichen Schüben",
+    "summary": "Singvögel, zu denen Drosseln, Finken oder Meisen gehören, sind mit über der Hälfte aller Vogelarten die größte Vogelgruppe. Wie sie zu so vielen verschiedenen Formen kamen, war lange unklar: langsam und gleichmäßig, oder eher in Sprüngen? Ein Team aus den USA hat dafür ein Programm entwickelt, das Skelette in Museumssammlungen fotografiert und per KI vermisst, in etwa 45 Sekunden pro Stück. So kamen über 170.000 Messungen von mehr als 2.000 Arten zusammen. Mit ihnen rechneten die Forschenden etwa 50 Millionen Jahre Körperbau-Entwicklung nach. Ergebnis: Der Körperbau änderte sich nicht gleichmäßig, sondern in seltenen, kurzen Schüben, meist dort, wo große Artengruppen entstanden. Diese Schübe fielen zeitlich mit Phasen schwankenden Klimas zusammen.",
+    "why": "Die Studie zeigt, dass Veränderungen in der Natur oft nicht in kleinen Schritten, sondern in Sprüngen passieren, und dass wechselhaftes Klima die Entstehung neuer Formen anstoßen kann. Außerdem zeigt sie, wie KI jahrzehntealte Museumssammlungen für Forschung nutzbar macht.",
+    "caveat": "Dass Schübe und schwankendes Klima zeitlich zusammenfallen, beweist nicht, dass das Klima sie ausgelöst hat. Die Entwicklung vor Millionen Jahren wird nur aus heutigen Arten und Messungen rückwärts berechnet. Außerdem erschien die Studie vor vier Monaten, sie liegt also im Sechs-Monats-Zeitraum, aber nicht im aktuellsten."
+  },
+  "en": {
+    "title": "AI measures skeletons of over 2,000 songbird species: body shapes changed in sudden bursts",
+    "summary": "Songbirds, a group that includes thrushes, finches and tits, make up more than half of all bird species. How they came to have so many different shapes was long unclear: slowly and steadily, or more in jumps? A team from the USA built a program that photographs skeletons in museum collections and measures them with AI, in about 45 seconds each. This produced over 170,000 measurements from more than 2,000 species. With these, the researchers reconstructed about 50 million years of body-shape evolution. The result: body shape did not change evenly but in rare, short bursts, mostly where large groups of species arose. These bursts coincided in time with periods of unstable climate.",
+    "why": "The study shows that change in nature often happens in jumps rather than small steps, and that a variable climate may trigger new forms. It also shows how AI can make decades-old museum collections usable for research.",
+    "caveat": "That bursts and unstable climate coincide in time does not prove the climate caused them. Evolution millions of years ago is only calculated backwards from living species and measurements. The study also appeared four months ago, so it lies in the six-month window rather than the most recent one."
+  },
+  "ru": {
+    "title": "ИИ измерил скелеты более 2000 видов певчих птиц: строение тела менялось внезапными рывками",
+    "summary": "Певчие птицы, к которым относятся дрозды, вьюрки и синицы, составляют больше половины всех видов птиц. Как они получили столько разных форм, долго было неясно: медленно и ровно или скорее скачками? Команда из США создала программу, которая фотографирует скелеты в музейных коллекциях и измеряет их с помощью ИИ, примерно за 45 секунд на экземпляр. Получилось более 170 000 измерений более чем у 2000 видов. По ним исследователи восстановили около 50 миллионов лет изменения строения тела. Результат: тело менялось не равномерно, а редкими короткими рывками, чаще там, где возникали крупные группы видов. Эти рывки по времени совпадали с периодами нестабильного климата.",
+    "why": "Исследование показывает, что перемены в природе часто идут скачками, а не мелкими шагами, и что переменчивый климат может запускать появление новых форм. Оно также показывает, как ИИ делает старые музейные коллекции пригодными для науки.",
+    "caveat": "То, что рывки и нестабильный климат совпали по времени, не доказывает, что причиной был климат. Эволюция миллионы лет назад лишь рассчитывается назад по современным видам и измерениям. Кроме того, исследование вышло четыре месяца назад, то есть относится к шестимесячному периоду, а не к самому свежему."
+  },
+  "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03110-5/MediaObjects/41559_2026_3110_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Nature Ecology & Evolution",
+    "link": "https://www.nature.com/articles/s41559-026-03110-5"
+  },
+  "id": "2026-11-27-singvoegel-koerperbau-schuebe",
+  "date": "2026-11-27"
+}
