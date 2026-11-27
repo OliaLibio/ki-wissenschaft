@@ -1,0 +1,52 @@
+{
+  "published": "2026-11-20",
+  "category": "mythen",
+  "countries": [
+    "GB",
+    "CZ",
+    "PL"
+  ],
+  "institution": "University College London",
+  "maturity": "study",
+  "evidence": "cohort",
+  "verdict": "open",
+  "source": {
+    "name": "European Journal of Clinical Nutrition",
+    "url": "https://www.nature.com/articles/s41430-026-01855-7"
+  },
+  "more": [
+    {
+      "name": "DOI 10.1038/s41430-026-01855-7",
+      "url": "https://doi.org/10.1038/s41430-026-01855-7"
+    }
+  ],
+  "de": {
+    "myth": "Wer sich nach der MIND-Diät ernährt, also viel Gemüse, Beeren, Nüsse und Fisch, lebt länger und bleibt geistig fitter.",
+    "title": "MIND-Diät: Der scheinbare Schutz vor frühem Tod verschwand, als man andere Einflüsse herausrechnete",
+    "summary": "Die MIND-Diät wurde entwickelt, um das Gehirn im Alter fit zu halten. Sie setzt auf viel Blattgemüse, Beeren, Nüsse, Bohnen, Vollkorn und Fisch. Forschende aus London haben nun untersucht, ob das auch in Osteuropa gilt. Dafür haben sie über 15.000 Menschen aus tschechischen Städten und Krakau begleitet, die beim Start zwischen 45 und 69 Jahre alt waren, und etwa 20 Jahre lang beobachtet, ohne selbst etwas zu verändern. Rechnete man nur Alter und Geschlecht heraus, hatten Menschen mit besonders MIND-naher Ernährung ein etwas geringeres Sterberisiko und schnitten bei Denktests besser ab. Rechnete man aber zusätzlich Dinge wie Bildung, Einkommen, Rauchen und Bewegung heraus, war der Unterschied beim Sterberisiko verschwunden. Bei den Denktests blieb nur ein kleiner Vorteil bei der Wortflüssigkeit.",
+    "why": "Gemüse, Beeren und Fisch sind weiterhin gute Zutaten. Aber wer sich gesund ernährt, lebt oft auch sonst gesünder und hat mehr Geld und Bildung. Diese Studie zeigt, dass man diese Dinge nicht mit der Wirkung des Essens verwechseln sollte.",
+    "caveat": "Das Essen wurde nur einmal am Anfang abgefragt, obwohl es sich in 20 Jahren ändert. Es ist eine Beobachtungsstudie, sie kann also weder einen Schutz beweisen noch ausschließen. Die Teilnehmenden leben in Mitteleuropa und Osteuropa, wo man anders isst als in den USA, wo die Diät entstand. Ein früherer US-Versuch fand ebenfalls keinen zusätzlichen Nutzen für das Denken."
+  },
+  "en": {
+    "myth": "Following the MIND diet, with lots of vegetables, berries, nuts and fish, helps you live longer and stay mentally sharper.",
+    "title": "MIND diet: the apparent protection against early death vanished once other influences were accounted for",
+    "summary": "The MIND diet was designed to keep the brain fit in old age. It relies on plenty of leafy greens, berries, nuts, beans, whole grains and fish. Researchers in London tested whether this also holds in Eastern Europe. They followed more than 15,000 people from Czech cities and Krakow, aged 45 to 69 at the start, for about 20 years, watching without changing anything themselves. When only age and sex were taken out of the picture, people eating closest to the MIND pattern had a somewhat lower risk of dying and did better on thinking tests. But once things like education, income, smoking and physical activity were also accounted for, the difference in death risk was gone. For the thinking tests, only a small advantage in word fluency remained.",
+    "why": "Vegetables, berries and fish are still good ingredients. But people who eat healthily often also live healthier lives otherwise and have more money and education. This study shows that these things should not be mistaken for the effect of the food itself.",
+    "caveat": "Diet was asked about only once at the start, although it changes over 20 years. It is an observational study, so it can neither prove nor rule out protection. Participants live in Central and Eastern Europe, where people eat differently from the US, where the diet was developed. An earlier US trial also found no extra benefit for thinking."
+  },
+  "ru": {
+    "myth": "Кто питается по MIND-диете, то есть много овощей, ягод, орехов и рыбы, живёт дольше и дольше сохраняет ясность ума.",
+    "title": "MIND-диета: кажущаяся защита от ранней смерти исчезла, когда учли другие влияния",
+    "summary": "MIND-диету придумали, чтобы сохранить мозг в форме в старости. В ней много листовой зелени, ягод, орехов, бобовых, цельного зерна и рыбы. Исследователи из Лондона проверили, верно ли это для Восточной Европы. Они примерно 20 лет наблюдали за более чем 15 000 людей из чешских городов и Кракова, которым в начале было от 45 до 69 лет, ничего сами не меняя. Если учитывать только возраст и пол, те, кто питался ближе всего к MIND, умирали чуть реже и лучше справлялись с тестами на мышление. Но когда учли ещё образование, доход, курение и физическую активность, разница в риске смерти исчезла. В тестах на мышление остался лишь небольшой плюс в беглости речи.",
+    "why": "Овощи, ягоды и рыба по-прежнему хорошие продукты. Но те, кто питается здорово, часто и в остальном живут здоровее и имеют больше денег и образования. Это исследование показывает, что их не стоит путать с действием самой еды.",
+    "caveat": "О питании спросили только один раз в начале, хотя за 20 лет оно меняется. Это наблюдательное исследование, оно не может ни доказать защиту, ни исключить её. Участники живут в Центральной и Восточной Европе, где едят иначе, чем в США, где диету придумали. Более ранний американский опыт тоже не нашёл дополнительной пользы для мышления."
+  },
+  "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41430-026-01855-7/MediaObjects/41430_2026_1855_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, European Journal of Clinical Nutrition",
+    "link": "https://www.nature.com/articles/s41430-026-01855-7"
+  },
+  "id": "2026-11-27-mythos-mind-diaet",
+  "date": "2026-11-27"
+}

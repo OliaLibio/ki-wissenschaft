@@ -1,0 +1,50 @@
+{
+  "published": "2026-07-31",
+  "category": "mythen",
+  "countries": [
+    "US"
+  ],
+  "institution": "University of Wisconsin-Madison",
+  "maturity": "review",
+  "evidence": "review",
+  "verdict": "partly",
+  "source": {
+    "name": "Cell Press Blue via ScienceDaily",
+    "url": "https://sciencedaily.com/releases/2026/08/260801042811.htm"
+  },
+  "more": [
+    {
+      "name": "DOI 10.1016/j.cpblue.2026.100079",
+      "url": "https://doi.org/10.1016/j.cpblue.2026.100079"
+    }
+  ],
+  "de": {
+    "myth": "Je mehr Eiweiß, desto gesünder: Jeder sollte möglichst viel Protein essen.",
+    "title": "Mehr Eiweiß ist nicht für alle besser: Wer kaum Sport treibt, braucht oft weniger",
+    "summary": "Eiweißreiche Produkte füllen die Supermarktregale, von Müsli bis Kaffee. Forschende aus den USA haben für eine Übersichtsarbeit mehr als 350 Studien zu der Frage durchgesehen, wie sich weniger Eiweiß auf das Altern auswirkt. Bei Fliegen und Nagetieren lebten Tiere mit weniger Eiweiß im Futter länger, auch wenn sie gleich viele Kalorien bekamen. In ersten Versuchen mit Menschen nahmen Teilnehmende, die weniger Eiweiß aßen, an Gewicht und Körperfett ab und hatten bessere Nüchternblutzuckerwerte. Zugleich betonen die Autoren, dass Eiweiß für Muskeln und für aktive Menschen klar nützlich ist, und dass ältere Menschen mit Training Muskeln damit besser erhalten. Ihre Sorge gilt vor allem Menschen, die wenig Sport treiben und mehr Eiweiß essen, als sie brauchen.",
+    "why": "Du musst nicht jedes Produkt mit Eiweiß-Aufschrift kaufen. Wer viel trainiert, ältere Menschen und Schwangere dürfen eher mehr brauchen. Wer sitzend lebt, braucht vermutlich weniger, als Werbung suggeriert.",
+    "caveat": "Es ist eine Übersichtsarbeit, kein neuer Versuch. Ein großer Teil der Belege stammt von Fliegen und Nagetieren, ob weniger Eiweiß Menschen länger leben lässt, ist offen. Andere Studien zeigen Vorteile höherer Eiweißmengen für Gewichtsverlust und Muskeln. Die offizielle US-Empfehlung wurde in diesem Jahr sogar erhöht."
+  },
+  "en": {
+    "myth": "The more protein, the healthier: everyone should eat as much protein as possible.",
+    "title": "More protein is not better for everyone: if you hardly exercise, you may need less",
+    "summary": "Protein-enriched products now fill supermarket shelves, from cereal to coffee. Researchers in the US went through more than 350 studies for a review on how eating less protein affects ageing. In flies and rodents, animals fed less protein lived longer, even when they got the same number of calories. In early trials with people, those who ate less protein lost weight and body fat and had better fasting blood sugar. At the same time, the authors stress that protein is clearly useful for muscles and for active people, and that older people who train keep their muscles better with it. Their concern is mainly people who exercise little and eat more protein than they need.",
+    "why": "You do not have to buy every product with a protein label. People who train a lot, older adults and pregnant women may well need more. If you sit most of the day, you probably need less than advertising suggests.",
+    "caveat": "This is a review, not a new trial. Much of the evidence comes from flies and rodents, and whether less protein lets people live longer is open. Other studies show benefits of higher protein for weight loss and muscle. The official US recommendation was even raised this year."
+  },
+  "ru": {
+    "myth": "Чем больше белка, тем здоровее: всем стоит есть как можно больше белка.",
+    "title": "Больше белка не всем лучше: кто мало занимается спортом, тому нужно меньше",
+    "summary": "Продукты, обогащённые белком, заполнили полки магазинов, от хлопьев до кофе. Американские исследователи просмотрели для обзора более 350 работ о том, как меньшее количество белка влияет на старение. У мух и грызунов животные, получавшие меньше белка, жили дольше, даже при том же количестве калорий. В первых опытах с людьми те, кто ел меньше белка, теряли вес и жир и имели лучший сахар в крови натощак. В то же время авторы подчёркивают, что белок явно полезен для мышц и для активных людей, а пожилые, которые тренируются, лучше сохраняют с ним мышцы. Их беспокоят в основном те, кто мало двигается и ест больше белка, чем нужно.",
+    "why": "Не нужно покупать каждый продукт с надписью про белок. Тем, кто много тренируется, пожилым и беременным, вероятно, нужно больше. Кто сидит большую часть дня, тому, скорее всего, нужно меньше, чем подсказывает реклама.",
+    "caveat": "Это обзор, а не новый опыт. Значительная часть данных получена на мухах и грызунах, а продлевает ли жизнь людям меньше белка, неизвестно. Другие исследования показывают пользу большего количества белка для похудения и мышц. Официальная рекомендация в США в этом году даже выросла."
+  },
+  "image": {
+    "src": "https://www.sciencedaily.com/images/1920/woman-holding-birthday-cake-for-100-year-old.webp",
+    "kind": "press",
+    "credit": "Bild: ScienceDaily / Shutterstock",
+    "link": "https://sciencedaily.com/releases/2026/08/260801042811.htm"
+  },
+  "id": "2026-11-27-mythos-mehr-protein",
+  "date": "2026-11-27"
+}

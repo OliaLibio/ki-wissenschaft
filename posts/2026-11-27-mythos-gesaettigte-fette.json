@@ -1,0 +1,52 @@
+{
+  "published": "2026-10-07",
+  "category": "mythen",
+  "countries": [
+    "DK",
+    "IT",
+    "US"
+  ],
+  "institution": "University of Copenhagen; University of Milan; University of Texas at Austin; Tufts University u. a.",
+  "maturity": "review",
+  "evidence": "review",
+  "verdict": "partly",
+  "source": {
+    "name": "Advances in Nutrition (Fachzeitschrift)",
+    "url": "https://doi.org/10.1016/j.advnut.2026.100746"
+  },
+  "more": [
+    {
+      "name": "PubMed-Eintrag",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843567/"
+    }
+  ],
+  "de": {
+    "myth": "Gesättigte Fette, etwa in Butter, Käse und Fleisch, verursachen eindeutig Herzinfarkte und Schlaganfälle.",
+    "title": "Gesättigte Fette: Die Belege für Herzschäden sind uneinheitlicher als gedacht",
+    "summary": "Seit Jahrzehnten raten Ernährungsempfehlungen, gesättigte Fette zu begrenzen, also die festen Fette in Butter, Käse, Sahne und Fleisch. Ein internationales Team hat nun nicht selbst Menschen untersucht, sondern 32 frühere Zusammenfassungen von Studien durchgesehen, die zwischen 2001 und 2025 erschienen sind. Darin ging es darum, ob wer mehr gesättigte Fette isst, häufiger Herzinfarkte, Schlaganfälle oder einen frühen Tod erleidet. In den meisten dieser Zusammenfassungen fand sich kein klarer Zusammenhang. Nur zwei sahen einen schädlichen Effekt, drei sogar einen günstigen, und zwar für Schlaganfälle in ostasiatischen Bevölkerungen. Auffällig war aber: Ersetzte man gesättigte Fette durch pflanzliche Öle mit mehrfach ungesättigten Fettsäuren, etwa Sonnenblumen- oder Rapsöl, sah es in Beobachtungsstudien und in gut gemachten kurzen Versuchen eher günstig fürs Herz aus.",
+    "why": "Butter ist kein Gift, aber auch kein Gesundheitsmittel. Mehr als das einzelne Fett scheint zu zählen, wie dein Essen insgesamt aussieht und wodurch du Fett ersetzt. Pflanzenöle statt Butter sind nach heutiger Beleglage eine sichere Wahl.",
+    "caveat": "Es ist eine erzählende Zusammenfassung bereits vorhandener Studien, keine neue Untersuchung, und viele dieser Studien sind reine Beobachtung, die Ursache und Wirkung nicht trennen kann. Zwei Zusammenfassungen auf Basis von Versuchen sahen mehr Herzerkrankungen, aber keine höhere Sterblichkeit. Die Arbeit ändert die offiziellen Empfehlungen nicht, und hohe Cholesterinwerte im Blut bleiben ein anerkanntes Risiko."
+  },
+  "en": {
+    "myth": "Saturated fats, such as in butter, cheese and meat, clearly cause heart attacks and strokes.",
+    "title": "Saturated fat: the evidence for heart harm is less consistent than assumed",
+    "summary": "For decades, dietary advice has been to limit saturated fats, the solid fats in butter, cheese, cream and meat. An international team did not study people themselves this time but went through 32 earlier summaries of studies published between 2001 and 2025. They asked whether eating more saturated fat goes along with more heart attacks, strokes or early death. Most of those summaries found no clear connection. Only two saw a harmful effect, and three even saw a beneficial one, for strokes in East Asian populations. One pattern stood out, though: when saturated fat was replaced with plant oils rich in polyunsaturated fats, such as sunflower or rapeseed oil, things looked more favorable for the heart, both in observational studies and in well-run short trials.",
+    "why": "Butter is not poison, but it is not a health food either. What seems to matter more than the single fat is your overall diet and what you replace the fat with. Plant oils instead of butter are, on current evidence, a safe choice.",
+    "caveat": "This is a narrative summary of existing studies, not a new investigation, and many of those studies are plain observation, which cannot separate cause from effect. Two trial-based summaries saw more heart disease but no higher death rate. The work does not change official recommendations, and high blood cholesterol remains a recognized risk."
+  },
+  "ru": {
+    "myth": "Насыщенные жиры, например в сливочном масле, сыре и мясе, однозначно вызывают инфаркты и инсульты.",
+    "title": "Насыщенные жиры: доказательств вреда для сердца меньше и они противоречивее, чем думали",
+    "summary": "Десятилетиями рекомендации по питанию советовали ограничивать насыщенные жиры, то есть твёрдые жиры в сливочном масле, сыре, сливках и мясе. Международная группа на этот раз не изучала людей сама, а просмотрела 32 более ранних сводки исследований, вышедших с 2001 по 2025 год. Вопрос был в том, связано ли большее количество насыщенных жиров в еде с инфарктами, инсультами и ранней смертью. В большинстве сводок чёткой связи не нашли. Только две увидели вредный эффект, а три даже полезный, причём для инсультов у жителей Восточной Азии. Но один вывод бросался в глаза: если заменять насыщенные жиры растительными маслами с полиненасыщенными жирами, например подсолнечным или рапсовым, для сердца картина выглядела благоприятнее, и в наблюдениях, и в хорошо проведённых коротких опытах.",
+    "why": "Сливочное масло не яд, но и не полезный продукт. Похоже, важнее отдельного жира то, как выглядит всё ваше питание и чем вы заменяете жир. Растительное масло вместо сливочного по нынешним данным остаётся безопасным выбором.",
+    "caveat": "Это повествовательная сводка уже существующих исследований, а не новое исследование, и многие из них лишь наблюдения, которые не отделяют причину от следствия. Две сводки, основанные на опытах, увидели больше болезней сердца, но не более высокую смертность. Работа не меняет официальные рекомендации, а высокий холестерин в крови остаётся признанным фактором риска."
+  },
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2023_Mas%C5%82o_w_maselniczce.jpg/960px-2023_Mas%C5%82o_w_maselniczce.jpg",
+    "kind": "photo",
+    "credit": "Foto: Jacek Halicki, CC BY-SA 4.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:2023_Mas%C5%82o_w_maselniczce.jpg"
+  },
+  "id": "2026-11-27-mythos-gesaettigte-fette",
+  "date": "2026-11-27"
+}
