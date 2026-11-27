@@ -1,0 +1,45 @@
+{
+  "published": "2026-11-11",
+  "countries": [
+    "US"
+  ],
+  "institution": "Icahn School of Medicine at Mount Sinai",
+  "maturity": "study",
+  "source": {
+    "name": "The Lancet Digital Health via EurekAlert (Mount Sinai)",
+    "url": "https://www.eurekalert.org/news-releases/1151505"
+  },
+  "more": [
+    {
+      "name": "Lancet Digital Health, PII S2589-7500(26)00137-8",
+      "url": "https://www.eurekalert.org/news-releases/1151505"
+    }
+  ],
+  "de": {
+    "title": "Medikamentenwerbung kann beeinflussen, welches Mittel KI-Chatbots empfehlen",
+    "summary": "Immer mehr Menschen fragen KI-Chatbots nach Gesundheitsrat, auch danach, welches Medikament bei einem Problem passt. Forschende aus den USA wollten wissen, ob Werbung die Antworten solcher Programme lenken kann. Sie legten zwölf bekannten KI-Modellen 33 von Ärzten geschriebene Krankheitsfälle vor, einmal ohne und einmal mit einer vorangestellten Medikamentenanzeige, und werteten insgesamt gut 258.000 Antworten aus. Ohne Anzeige empfahlen die Programme das später beworbene Mittel in etwa 35 von 100 Antworten, mit Anzeige in knapp 48 von 100. In vier Fällen sprang der Anteil sogar von null auf hundert Prozent. Bei Nahrungsergänzungsmitteln ohne Nutzen oder klar ungeeigneten Medikamenten sorgte die Werbung dagegen nicht deutlich für mehr Empfehlungen.",
+    "why": "Wenn du einen Chatbot nach Medikamenten fragst, bedenke, dass seine Antwort von Texten beeinflusst sein kann, die er vorher gelesen hat, auch von Werbung. Besprich Medikamente mit Ärztin, Arzt oder Apotheke.",
+    "caveat": "Es war ein Test unter Laborbedingungen mit gestellten Fällen. Die Forschenden haben nicht untersucht, ob das reale Verschreibungen, Entscheidungen von Patienten, Kosten oder die Gesundheit verändert."
+  },
+  "en": {
+    "title": "Drug advertising can sway which medicine AI chatbots recommend",
+    "summary": "More and more people ask AI chatbots for health advice, including which medicine suits a problem. Researchers in the USA wanted to know whether advertising can steer the answers of such programs. They gave twelve well-known AI models 33 medical cases written by doctors, once without and once with a drug advertisement placed in front, and analysed more than 258,000 answers in total. Without an ad, the programs recommended the drug that was later advertised in about 35 of 100 answers; with the ad, in almost 48 of 100. In four cases the share jumped from zero to one hundred percent. For useless supplements or clearly unsuitable drugs, however, advertising did not clearly lead to more recommendations.",
+    "why": "If you ask a chatbot about medicines, remember that its answer can be influenced by texts it saw beforehand, advertising included. Discuss medicines with your doctor or pharmacist.",
+    "caveat": "This was a controlled test with made-up cases. The researchers did not examine whether it changes real prescriptions, patients' decisions, costs or health."
+  },
+  "ru": {
+    "title": "Реклама лекарств может влиять на то, какое средство советуют ИИ-чатботы",
+    "summary": "Всё больше людей спрашивают у ИИ-чатботов совета о здоровье, в том числе какое лекарство подойдёт. Исследователи из США хотели выяснить, может ли реклама направлять ответы таких программ. Они дали двенадцати известным ИИ-моделям 33 медицинских случая, написанных врачами, один раз без рекламы и один раз с предшествующим рекламным объявлением о лекарстве, и проанализировали более 258 тысяч ответов. Без рекламы программы советовали то лекарство, которое потом рекламировалось, примерно в 35 ответах из 100, с рекламой — почти в 48 из 100. В четырёх случаях доля подскочила с нуля до ста процентов. А для бесполезных добавок или явно неподходящих лекарств реклама заметно не увеличивала число рекомендаций.",
+    "why": "Если вы спрашиваете чатбот о лекарствах, помните: на его ответ могут влиять тексты, которые он видел ранее, включая рекламу. Обсуждайте лекарства с врачом или фармацевтом.",
+    "caveat": "Это был контролируемый тест с придуманными случаями. Исследователи не проверяли, меняет ли это реальные назначения, решения пациентов, расходы или здоровье."
+  },
+  "image": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Benylin_Mucus_Cough_Max_liquid_medicine_bottles_displayed_on_a_pharmacy_shelf_at_Osbon_Pharmacy%2C_1a_Railway_Street%2C_Gillingham%2C_Kent%2C_England%2C_on_16_October_2025.jpg/960px-thumbnail.jpg",
+    "kind": "photo",
+    "credit": "Foto: OathOn, CC BY-SA 4.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Benylin_Mucus_Cough_Max_liquid_medicine_bottles_displayed_on_a_pharmacy_shelf_at_Osbon_Pharmacy,_1a_Railway_Street,_Gillingham,_Kent,_England,_on_16_October_2025.jpg"
+  },
+  "id": "2026-11-27-ki-werbung-medikamentenempfehlung",
+  "date": "2026-11-27",
+  "category": "gesundheit"
+}

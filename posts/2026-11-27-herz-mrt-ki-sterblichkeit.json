@@ -1,0 +1,46 @@
+{
+  "published": "2026-11-02",
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "institution": "City St George's, University of London; University College London",
+  "maturity": "study",
+  "source": {
+    "name": "The Lancet Digital Health via EurekAlert (City St George's)",
+    "url": "https://www.eurekalert.org/news-releases/1150034"
+  },
+  "more": [
+    {
+      "name": "Lancet Digital Health, PII S2589-7500(26)00065-8",
+      "url": "https://www.eurekalert.org/news-releases/1150034"
+    }
+  ],
+  "de": {
+    "title": "KI misst die Pumpleistung des Herzens in Sekunden und sagt Todesfälle etwas besser voraus als Ärzte",
+    "summary": "Bei einer Herzuntersuchung mit Magnetresonanz, kurz MRT, einer Art Röntgen ohne Strahlen, wird gemessen, wie viel Blut das Herz bei jedem Schlag auswirft. Diese Zahl heißt Auswurfleistung und gilt als wichtiger Hinweis darauf, wie gesund das Herz ist. Normalerweise zeichnen Fachleute dafür per Hand die Herzkammer in den Bildern nach, das dauert etwa 13 Minuten pro Patient. Forschende aus Großbritannien ließen ein KI-Programm diese Arbeit übernehmen, in etwa zwei bis drei Sekunden. Sie werteten die Daten von gut 27.000 Menschen aus Großbritannien und den USA aus, die im Schnitt über fünf Jahre begleitet wurden; in dieser Zeit starben rund 3.500 von ihnen. Die Messwerte der KI hingen etwas stärker mit dem Todesrisiko zusammen als die der Fachleute, auch nach Herausrechnen von Alter und Geschlecht.",
+    "why": "Solche Programme könnten Ärzten Zeit sparen und Messungen einheitlicher machen. Für dich als Patient ändert sich zunächst nichts, aber Herzuntersuchungen könnten künftig schneller ausgewertet werden.",
+    "caveat": "Der Unterschied zur Messung durch Fachleute war klein. Die KI machte etwa bei einem von hundert Patienten Fehler, deshalb muss weiter ein Arzt kontrollieren. Die Studie schaute rückblickend auf vorhandene Daten und zeigt nicht, dass Patienten dadurch besser versorgt werden."
+  },
+  "en": {
+    "title": "AI measures the heart's pumping strength in seconds and predicts deaths slightly better than clinicians",
+    "summary": "In a heart scan using magnetic resonance imaging, or MRI, a kind of X-ray without radiation, doctors measure how much blood the heart pushes out with each beat. This figure is called ejection fraction and is an important sign of how healthy the heart is. Normally experts trace the heart chamber by hand in the images, which takes about 13 minutes per patient. Researchers in the UK let an AI program do this work in roughly two to three seconds. They analysed data from more than 27,000 people in the UK and the USA who were followed for over five years on average; around 3,500 of them died in that time. The AI's measurements were slightly more strongly linked to the risk of death than the experts' measurements, even after accounting for age and sex.",
+    "why": "Such programs could save doctors time and make measurements more consistent. For you as a patient nothing changes yet, but heart scans might be evaluated faster in future.",
+    "caveat": "The difference from expert measurements was small. The AI made errors in about one in a hundred patients, so a doctor still has to check. The study looked back at existing data and does not show that patients receive better care because of it."
+  },
+  "ru": {
+    "title": "ИИ за секунды измеряет силу сокращения сердца и чуть лучше врачей предсказывает смертность",
+    "summary": "При исследовании сердца с помощью магнитно-резонансной томографии, МРТ, то есть своего рода рентгена без излучения, измеряют, сколько крови сердце выбрасывает при каждом ударе. Эта величина называется фракцией выброса и служит важным признаком здоровья сердца. Обычно специалисты вручную обводят камеру сердца на снимках, на это уходит около 13 минут на пациента. Исследователи из Великобритании поручили эту работу программе с ИИ, и она справляется примерно за две-три секунды. Они проанализировали данные более 27 тысяч человек из Великобритании и США, за которыми наблюдали в среднем больше пяти лет; за это время умерло около 3,5 тысячи. Измерения ИИ чуть сильнее были связаны с риском смерти, чем измерения специалистов, даже с поправкой на возраст и пол.",
+    "why": "Такие программы могут экономить время врачей и делать измерения более единообразными. Для вас как пациента пока ничего не меняется, но обследования сердца в будущем могут расшифровывать быстрее.",
+    "caveat": "Разница с измерениями специалистов была небольшой. ИИ ошибался примерно у одного из ста пациентов, поэтому врач по-прежнему должен проверять. Исследование смотрело назад, на уже имеющиеся данные, и не доказывает, что пациентов из-за этого лечат лучше."
+  },
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Cardiac_MRI_flow.gif",
+    "kind": "photo",
+    "credit": "Foto: Vasa, CC BY-SA 4.0, Wikimedia Commons",
+    "link": "https://commons.wikimedia.org/wiki/File:Cardiac_MRI_flow.gif"
+  },
+  "id": "2026-11-27-herz-mrt-ki-sterblichkeit",
+  "date": "2026-11-27",
+  "category": "gesundheit"
+}

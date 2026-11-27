@@ -1,0 +1,45 @@
+{
+  "published": "2026-11-03",
+  "countries": [
+    "US"
+  ],
+  "institution": "Dana-Farber Cancer Institute",
+  "maturity": "study",
+  "source": {
+    "name": "Nature Genetics via EurekAlert (Dana-Farber)",
+    "url": "https://www.eurekalert.org/news-releases/1150309"
+  },
+  "more": [
+    {
+      "name": "Nature Genetics, Artikel s41588-026-02815-4",
+      "url": "https://www.nature.com/articles/s41588-026-02815-4"
+    }
+  ],
+  "de": {
+    "title": "Computermodell könnte helfen, Kindern mit Hirntumor schonendere Bestrahlung zu ersparen",
+    "summary": "Kinder mit bestimmten Hirntumoren, etwa dem Medulloblastom, werden nach der Operation oft an Kopf und Rückenmark bestrahlt. Das hilft gegen den Krebs, kann aber das wachsende Gehirn schädigen. Forschende aus den USA haben ein Computermodell entwickelt, das aus den chemischen Markierungen am Erbgut des Tumors, der sogenannten DNA-Methylierung, vorhersagt, wie die Krankheit bei einem einzelnen Kind wahrscheinlich verläuft. Sie prüften es an mehreren großen Gruppen früher behandelter Kinder. Danach käme für mehr als die Hälfte der Kinder mit durchschnittlichem Risiko womöglich eine niedrigere Strahlendosis in Frage; in den Daten fand sich für die niedriger dosierte Gruppe kein deutlich schlechteres Überleben.",
+    "why": "Es zeigt, wie Computermodelle künftig helfen könnten, Behandlungen genauer auf jedes Kind zuzuschneiden und Spätfolgen zu verringern. Für heutige Behandlungen ändert sich dadurch noch nichts.",
+    "caveat": "Die Pressemitteilung nennt keine genauen Zahlen zu den Kindern. Es ist eine Auswertung früherer Daten, keine Studie, in der Kinder tatsächlich niedriger bestrahlt wurden. Kein deutlicher Nachteil in den Daten heißt nicht, dass sicher kein Nachteil besteht. Zuerst braucht es klinische Studien."
+  },
+  "en": {
+    "title": "Computer model could help spare children with brain tumours heavier radiation",
+    "summary": "Children with certain brain tumours, such as medulloblastoma, are often given radiation to the head and spinal cord after surgery. This helps against the cancer but can harm the growing brain. Researchers in the USA built a computer model that uses chemical tags on the tumour's DNA, called DNA methylation, to predict how the disease is likely to run in an individual child. They tested it on several large groups of previously treated children. According to the model, more than half of the children with average risk might be candidates for a lower radiation dose; in the data, the lower-dose group showed no significantly worse survival.",
+    "why": "It shows how computer models could help tailor treatment to each child more precisely and reduce late effects. Current treatment does not change because of it yet.",
+    "caveat": "The press release gives no exact numbers on the children. It is an analysis of past data, not a trial in which children were actually given less radiation. No significant disadvantage in the data does not mean there is certainly none. Clinical trials come first."
+  },
+  "ru": {
+    "title": "Компьютерная модель может помочь избавить детей с опухолями мозга от более тяжёлого облучения",
+    "summary": "Детям с некоторыми опухолями мозга, например медуллобластомой, после операции часто проводят облучение головы и спинного мозга. Это помогает против рака, но может повредить растущий мозг. Исследователи из США создали компьютерную модель, которая по химическим меткам на ДНК опухоли, так называемому метилированию ДНК, предсказывает, как, вероятно, пойдёт болезнь у конкретного ребёнка. Они проверили её на нескольких больших группах детей, лечившихся ранее. По модели, более чем половине детей со средним риском, возможно, подойдёт меньшая доза облучения; в данных у группы с меньшей дозой выживаемость заметно хуже не была.",
+    "why": "Это показывает, как компьютерные модели могут помогать точнее подбирать лечение каждому ребёнку и уменьшать отдалённые последствия. На сегодняшнее лечение это пока не влияет.",
+    "caveat": "В пресс-релизе нет точных чисел о детях. Это анализ прошлых данных, а не исследование, где детей действительно облучали меньше. Отсутствие заметного ущерба в данных не значит, что его точно нет. Сначала нужны клинические испытания."
+  },
+  "image": {
+    "src": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-026-02815-4/MediaObjects/41588_2026_2815_Fig1_HTML.png",
+    "kind": "figure",
+    "credit": "Abbildung 1 der Studie, Nature Genetics",
+    "link": "https://www.nature.com/articles/s41588-026-02815-4"
+  },
+  "id": "2026-11-27-kinderhirntumor-strahlendosis",
+  "date": "2026-11-27",
+  "category": "gesundheit"
+}
